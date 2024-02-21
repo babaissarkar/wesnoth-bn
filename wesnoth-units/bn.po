@@ -2607,7 +2607,7 @@ msgstr ""
 #: data/core/units/elves/Druid.cfg:35 data/core/units/elves/Lady.cfg:27
 #: data/core/units/elves/Shyde.cfg:42
 msgid "ensnare"
-msgstr ""
+msgstr "ফাঁদে ফেলা"
 
 #. [unit_type]: id=Elvish Enchantress, race=elf
 #: data/core/units/elves/Enchantress.cfg:4
@@ -2783,12 +2783,12 @@ msgstr ""
 #: data/core/units/humans/Loyalist_Longbowman.cfg:34
 #: data/core/units/humans/Loyalist_Master_Bowman.cfg:34
 msgid "longbow"
-msgstr ""
+msgstr "দীর্ঘ ধনুক"
 
 #. [female]
 #: data/core/units/elves/Marksman.cfg:89
 msgid "female^Elvish Marksman"
-msgstr ""
+msgstr "এল্ফ লক্ষ্যবিদ"
 
 #. [unit_type]: id=Elvish Marshal, race=elf
 #: data/core/units/elves/Marshal.cfg:4
@@ -2852,7 +2852,7 @@ msgstr ""
 #. [unit_type]: id=Elvish Ranger, race=elf
 #: data/core/units/elves/Ranger.cfg:3
 msgid "Elvish Ranger"
-msgstr ""
+msgstr "এল্ফ অরণ্যরক্ষী"
 
 #. [unit_type]: id=Elvish Ranger, race=elf
 #: data/core/units/elves/Ranger.cfg:19
@@ -2878,7 +2878,7 @@ msgstr ""
 #. [female]
 #: data/core/units/elves/Ranger.cfg:95
 msgid "female^Elvish Ranger"
-msgstr ""
+msgstr "এল্ফ অরণ্যরক্ষী"
 
 #. [unit_type]: id=Elvish Rider, race=elf
 #: data/core/units/elves/Rider.cfg:4
@@ -2906,7 +2906,7 @@ msgstr ""
 #. [unit_type]: id=Elvish Scout, race=elf
 #: data/core/units/elves/Scout.cfg:4
 msgid "Elvish Scout"
-msgstr ""
+msgstr "এল্ফ সন্ধানী"
 
 #. [unit_type]: id=Elvish Scout, race=elf
 #: data/core/units/elves/Scout.cfg:21

@@ -3190,7 +3190,7 @@ msgstr ""
 #. [language]
 #: data/english.cfg:31
 msgid "arcane"
-msgstr ""
+msgstr "অলৌকিক"
 
 #. [naming]
 #. Generator for bridge labels in random maps; see <https://wiki.wesnoth.org/Context-free_grammar> for syntax and <https://wiki.wesnoth.org/MapGeneratorWML#The_Default_Generator> for variables summary

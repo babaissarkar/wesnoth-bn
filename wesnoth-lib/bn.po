@@ -2797,19 +2797,19 @@ msgstr "প্রতিলিপি"
 #. [button]: id=copy
 #: data/gui/window/chat_log.cfg:188 data/gui/window/lua_interpreter.cfg:106
 msgid "Copy this log to clipboard"
-msgstr ""
+msgstr "এই লগটি ক্লিপবোর্ডে প্রতিলিপি করুন"
 
 #. [label]
 #: data/gui/window/core_dialog.cfg:44
 msgid "Load Core"
-msgstr ""
+msgstr "কোর চালু করুন"
 
 #. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [button]: id=ok
 #: data/gui/window/core_dialog.cfg:228 src/gui/dialogs/editor/edit_unit.cpp:301
 #: src/preferences/display.cpp:119
 msgid "Select"
-msgstr ""
+msgstr "পছন্দ"
 
 #. [button]: id=copy_
 #. [button]: id=copy
@@ -2825,7 +2825,7 @@ msgstr "প্রতিলিপি"
 #: data/gui/window/game_version.cfg:48
 #: data/gui/window/screenshot_notification.cfg:34
 msgid "Copy this path to clipboard"
-msgstr ""
+msgstr "এই পাথটি ক্লিপবোর্ডে প্রতিলিপি করুন"
 
 #. [button]: id=browse_
 #. [button]: id=browse
@@ -2833,7 +2833,7 @@ msgstr ""
 #: data/gui/window/game_cache_options.cfg:126
 #: data/gui/window/game_version.cfg:63
 msgid "filesystem^Browse"
-msgstr ""
+msgstr "ব্রাউজ়"
 
 #. [button]: id=browse_
 #. [button]: id=browse
@@ -2841,7 +2841,7 @@ msgstr ""
 #: data/gui/window/game_cache_options.cfg:127
 #: data/gui/window/game_version.cfg:64
 msgid "Browse this location using a file manager"
-msgstr ""
+msgstr "এই স্থানটি ফাইল ম্যানেজার ব্যবহার করে খুলুন"
 
 #. [label]
 #: data/gui/window/custom_tod.cfg:147
@@ -4070,7 +4070,7 @@ msgstr "লগ:"
 #. [grid]
 #: data/gui/window/game_version.cfg:141
 msgid "Screenshots:"
-msgstr ""
+msgstr "স্ক্রিনশট:"
 
 #. [label]
 #: data/gui/window/game_version.cfg:171
@@ -4091,32 +4091,32 @@ msgstr "রানটাইম সংস্করণ"
 #: data/gui/window/game_version.cfg:275
 msgid ""
 "The following features were selected when building this version of Wesnoth:"
-msgstr ""
+msgstr "ওয়েসনথের এই সংস্করণটি বানানোর সময় এই ফিচারগুলি নির্বাচন করা হয়েছিল:"
 
 #. [label]
 #: data/gui/window/game_version.cfg:429
 msgid "The Battle for Wesnoth"
-msgstr ""
+msgstr "ব্যাটল ফর ওয়েসনথ"
 
 #. [widget]: id=tab_label
 #: data/gui/window/game_version.cfg:508
 msgid "Paths"
-msgstr ""
+msgstr "পাথ"
 
 #. [widget]: id=tab_label
 #: data/gui/window/game_version.cfg:521
 msgid "Libraries"
-msgstr ""
+msgstr "লাইব্রেরী"
 
 #. [widget]: id=tab_label
 #: data/gui/window/game_version.cfg:534
 msgid "Features"
-msgstr ""
+msgstr "ফিচার"
 
 #. [button]: id=copy_all
 #: data/gui/window/game_version.cfg:609
 msgid "page^Copy"
-msgstr ""
+msgstr "প্রতিলিপি"
 
 #. [button]: id=copy_all
 #: data/gui/window/game_version.cfg:610
@@ -4126,7 +4126,7 @@ msgstr ""
 #. [button]: id=open_stderr
 #: data/gui/window/game_version.cfg:622
 msgid "Log File"
-msgstr ""
+msgstr "লগ ফাইল"
 
 #. [button]: id=open_stderr
 #: data/gui/window/game_version.cfg:623
@@ -4143,7 +4143,7 @@ msgstr ""
 #. [label]
 #: data/gui/window/gamestate_inspector.cfg:94
 msgid "Gamestate Inspector"
-msgstr ""
+msgstr "খেলার অবস্থা পরিদর্শক"
 
 #. [button]: id=copy
 #: data/gui/window/gamestate_inspector.cfg:336
@@ -4156,7 +4156,7 @@ msgstr ""
 #: data/gui/window/gamestate_inspector.cfg:348
 #: data/gui/window/lua_interpreter.cfg:38
 msgid "Lua Console"
-msgstr ""
+msgstr "লুয়া কনসোল"
 
 #. [label]
 #: data/gui/window/generator_settings.cfg:89

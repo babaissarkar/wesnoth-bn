@@ -315,24 +315,24 @@ msgstr ""
 #: data/campaigns/World_Conquest/resources/strings/mainline.cfg:69
 #: data/core/macros/abilities.cfg:61
 msgid "cures"
-msgstr ""
+msgstr "সুস্থ করে"
 
 #. [section]: id=editor
 #: data/core/editor/help.cfg:5
 msgid "Map and Scenario Editor"
-msgstr ""
+msgstr "মানচিত্র এবং ঘটনাক্রমের পরিমার্জক"
 
 #. [section]: id=editor_mode_terrain
 #. [topic]: id=..editor_mode_terrain
 #: data/core/editor/help.cfg:13 data/core/editor/help.cfg:372
 msgid "Terrain Editor"
-msgstr ""
+msgstr "ভূমি পরিমার্জক"
 
 #. [section]: id=editor_mode_scenario
 #. [topic]: id=..editor_mode_scenario
 #: data/core/editor/help.cfg:20 data/core/editor/help.cfg:384
 msgid "Scenario Editor"
-msgstr ""
+msgstr "ঘটনাক্রম পরিমার্জক"
 
 #. [topic]: id=editor_tool_paint
 #: data/core/editor/help.cfg:28
@@ -1205,7 +1205,7 @@ msgstr ""
 #. [topic]: id=..encyclopedia
 #: data/core/encyclopedia/_main.cfg:5 data/core/encyclopedia/_main.cfg:12
 msgid "Encyclopedia"
-msgstr ""
+msgstr "বিশ্বকোষ"
 
 #. [topic]: id=..encyclopedia
 #: data/core/encyclopedia/_main.cfg:14
@@ -1218,7 +1218,7 @@ msgstr ""
 #. [topic]: id=..calendar
 #: data/core/encyclopedia/calendar.cfg:5 data/core/encyclopedia/calendar.cfg:13
 msgid "Calendar"
-msgstr ""
+msgstr "দিনপঞ্জিকা"
 
 #. [topic]: id=..calendar
 #: data/core/encyclopedia/calendar.cfg:14
@@ -1246,12 +1246,12 @@ msgstr ""
 #: data/core/encyclopedia/geography.cfg:12
 #: data/core/encyclopedia/geography.cfg:19
 msgid "Geography"
-msgstr ""
+msgstr "ভূগোল"
 
 #. [topic]: id=arkan_thoria
 #: data/core/encyclopedia/geography.cfg:26
 msgid "Arkan-thoria"
-msgstr ""
+msgstr "আর্কান-থোরিয়া"
 
 #. [topic]: id=arkan_thoria
 #: data/core/encyclopedia/geography.cfg:27
@@ -1263,7 +1263,7 @@ msgstr ""
 #. [topic]: id=great_river
 #: data/core/encyclopedia/geography.cfg:32
 msgid "Great River"
-msgstr ""
+msgstr "বিরাট নদী"
 
 #. [topic]: id=great_river
 #: data/core/encyclopedia/geography.cfg:33
@@ -1277,7 +1277,7 @@ msgstr ""
 #. [topic]: id=great_ocean
 #: data/core/encyclopedia/geography.cfg:38
 msgid "Great Ocean"
-msgstr ""
+msgstr "বিরাট সাগর"
 
 #. [topic]: id=great_ocean
 #: data/core/encyclopedia/geography.cfg:39
@@ -1290,7 +1290,7 @@ msgstr ""
 #. [topic]: id=morogor
 #: data/core/encyclopedia/geography.cfg:44
 msgid "Morogor"
-msgstr ""
+msgstr "মোরোগোর"
 
 #. [topic]: id=morogor
 #: data/core/encyclopedia/geography.cfg:45
@@ -1305,7 +1305,7 @@ msgstr ""
 #. [topic]: id=green_isle
 #: data/core/encyclopedia/geography.cfg:52
 msgid "Green Isle"
-msgstr ""
+msgstr "সবুজ দ্বীপ"
 
 #. [topic]: id=green_isle
 #: data/core/encyclopedia/geography.cfg:53
@@ -1316,7 +1316,7 @@ msgstr ""
 #. [topic]: id=old_continent
 #: data/core/encyclopedia/geography.cfg:58
 msgid "Old Continent"
-msgstr ""
+msgstr "পুরাতন মহাদেশ"
 
 #. [topic]: id=old_continent
 #: data/core/encyclopedia/geography.cfg:59
@@ -1328,7 +1328,7 @@ msgstr ""
 #. [topic]: id=great_continent
 #: data/core/encyclopedia/geography.cfg:64
 msgid "Great Continent"
-msgstr ""
+msgstr "বিরাট মহাদেশ"
 
 #. [topic]: id=great_continent
 #: data/core/encyclopedia/geography.cfg:65
@@ -1341,7 +1341,7 @@ msgstr ""
 #. [topic]: id=irdya
 #: data/core/encyclopedia/geography.cfg:70
 msgid "Irdya"
-msgstr ""
+msgstr "ইরডিয়া"
 
 #. [topic]: id=irdya
 #: data/core/encyclopedia/geography.cfg:71
@@ -1355,7 +1355,7 @@ msgstr ""
 #. [topic]: id=kingdom_wesnoth
 #: data/core/encyclopedia/geography.cfg:76
 msgid "Kingdom of Wesnoth"
-msgstr ""
+msgstr "ওয়েসনথ রাজ্য"
 
 #. [topic]: id=kingdom_wesnoth
 #: data/core/encyclopedia/geography.cfg:77
@@ -1415,7 +1415,7 @@ msgstr ""
 #. [topic]: id=elensefar
 #: data/core/encyclopedia/geography.cfg:106
 msgid "Elensefar"
-msgstr ""
+msgstr "এলেনসেফার"
 
 #. [topic]: id=elensefar
 #: data/core/encyclopedia/geography.cfg:107
@@ -1490,7 +1490,7 @@ msgstr ""
 #. [topic]: id=southwest_elven_lands
 #: data/core/encyclopedia/geography.cfg:141
 msgid "Southwest Elven Lands"
-msgstr ""
+msgstr "দক্ষিণপশ্চিম এল্ফ এলাকা"
 
 #. [topic]: id=southwest_elven_lands
 #: data/core/encyclopedia/geography.cfg:142
@@ -1516,7 +1516,7 @@ msgstr ""
 #. [topic]: id=heart_mountains
 #: data/core/encyclopedia/geography.cfg:154
 msgid "Heart Mountains"
-msgstr ""
+msgstr "হৃদয় পর্বত"
 
 #. [topic]: id=heart_mountains
 #: data/core/encyclopedia/geography.cfg:155
@@ -1529,7 +1529,7 @@ msgstr ""
 #. [topic]: id=far_north
 #: data/core/encyclopedia/geography.cfg:160
 msgid "Far North"
-msgstr ""
+msgstr "সূদূর উত্তর"
 
 #. [topic]: id=far_north
 #: data/core/encyclopedia/geography.cfg:161
@@ -1582,7 +1582,7 @@ msgstr "ভূমিকা"
 #. [topic]: id=..gameplay
 #: data/core/help.cfg:23 data/core/help.cfg:167
 msgid "Gameplay"
-msgstr ""
+msgstr "খেলা"
 
 #. #-#-#-#-#  wesnoth-help.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [section]: id=traits_section
