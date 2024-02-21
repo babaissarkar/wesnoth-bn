@@ -1,23 +1,15 @@
-# #-#-#-#-#  wesnoth-lib.cpp.pot (PACKAGE VERSION)  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) YEAR Wesnoth development team
-# This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  wesnoth-lib.py.pot (PACKAGE VERSION)  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) YEAR Wesnoth development team
-# This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# #-#-#-#-#  wesnoth-lib  #-#-#-#-#
+# Bengali translation of Wesnoth.
+# Copyright (C) 2024 Wesnoth development team
 # Subhraman Sarkar <suvrax@gmail.com>, 2024.
-#
+
 msgid ""
 msgstr ""
 "#-#-#-#-#  wesnoth-lib.cpp.pot (PACKAGE VERSION)  #-#-#-#-#\n"
 "Project-Id-Version: bn\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-01-28 19:45+0530\n"
-"PO-Revision-Date: 2024-02-21 07:10+0530\n"
+"PO-Revision-Date: 2024-02-21 09:49+0530\n"
 "Last-Translator: Subhraman Sarkar <suvrax@gmail.com>\n"
 "Language-Team: Bengali < >\n"
 "Language: bn\n"
@@ -25,27 +17,6 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"
-"#-#-#-#-#  wesnoth-lib.py.pot (PACKAGE VERSION)  #-#-#-#-#\n"
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2024-01-28 19:45+0530\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#\n"
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2024-01-28 14:15 UTC\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Gtranslator 42.0\n"
 
 #. [ai]: id=ai_default_rca
@@ -2307,7 +2278,6 @@ msgstr "স্থানীয়ভাবে পাসওয়ার্ড সঞ্�
 #: data/gui/window/editor_edit_pbl_translation.cfg:125
 #: data/gui/window/editor_edit_scenario.cfg:287
 #: data/gui/window/editor_edit_side.cfg:469
-#: data/gui/window/editor_edit_unit.cfg:1382
 #: data/gui/window/file_dialog.cfg:437 data/gui/window/folder_create.cfg:119
 #: data/gui/window/label_settings.cfg:137
 #: data/gui/window/language_selection.cfg:148 data/gui/window/logging.cfg:259
@@ -2344,7 +2314,6 @@ msgstr "ঠিক"
 #: data/gui/window/editor_edit_pbl_translation.cfg:137
 #: data/gui/window/editor_edit_scenario.cfg:301
 #: data/gui/window/editor_edit_side.cfg:481
-#: data/gui/window/editor_edit_unit.cfg:1395
 #: data/gui/window/editor_generate_map.cfg:214
 #: data/gui/window/editor_new_map.cfg:126
 #: data/gui/window/editor_resize_map.cfg:282
@@ -2430,7 +2399,6 @@ msgstr ""
 #. [grid]
 #: data/gui/window/addon_manager.cfg:162 data/gui/window/addon_manager.cfg:817
 #: data/gui/window/editor_edit_pbl.cfg:210
-#: data/gui/window/editor_edit_unit.cfg:750
 msgid "Type:"
 msgstr "প্রকৃতি:"
 
@@ -2806,7 +2774,7 @@ msgstr "কোর চালু করুন"
 
 #. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [button]: id=ok
-#: data/gui/window/core_dialog.cfg:228 src/gui/dialogs/editor/edit_unit.cpp:301
+#: data/gui/window/core_dialog.cfg:228
 #: src/preferences/display.cpp:119
 msgid "Select"
 msgstr "পছন্দ"
@@ -2829,7 +2797,7 @@ msgstr "এই পাথটি ক্লিপবোর্ডে প্রতি
 
 #. [button]: id=browse_
 #. [button]: id=browse
-#: data/gui/window/custom_tod.cfg:66 data/gui/window/editor_edit_unit.cfg:112
+#: data/gui/window/custom_tod.cfg:66
 #: data/gui/window/game_cache_options.cfg:126
 #: data/gui/window/game_version.cfg:63
 msgid "filesystem^Browse"
@@ -2837,7 +2805,7 @@ msgstr "ব্রাউজ়"
 
 #. [button]: id=browse_
 #. [button]: id=browse
-#: data/gui/window/custom_tod.cfg:67 data/gui/window/editor_edit_unit.cfg:113
+#: data/gui/window/custom_tod.cfg:67
 #: data/gui/window/game_cache_options.cfg:127
 #: data/gui/window/game_version.cfg:64
 msgid "Browse this location using a file manager"
@@ -2853,8 +2821,6 @@ msgstr "সময়সূচী পরিমার্জন করুন"
 #. [label]: id=id_label
 #: data/gui/window/custom_tod.cfg:177
 #: data/gui/window/editor_edit_scenario.cfg:106
-#: data/gui/window/editor_edit_unit.cfg:204
-#: data/gui/window/editor_edit_unit.cfg:694
 #: data/gui/window/folder_create.cfg:72 data/gui/window/game_save.cfg:72
 #: data/gui/window/game_save_message.cfg:92
 #: data/gui/window/game_save_oos.cfg:90
@@ -2875,8 +2841,7 @@ msgstr "বর্ণনা"
 
 #. [label]
 #. [label]: id=id_label
-#: data/gui/window/custom_tod.cfg:232 data/gui/window/editor_edit_unit.cfg:157
-#: data/gui/window/editor_edit_unit.cfg:668
+#: data/gui/window/custom_tod.cfg:232
 #: data/gui/window/tod_new_schedule.cfg:46
 msgid "ID:"
 msgstr "আইডি:"
@@ -3067,7 +3032,6 @@ msgstr ""
 #. [label]: id=icon_label
 #. [grid]: id=grid_atk
 #: data/gui/window/editor_edit_pbl.cfg:162
-#: data/gui/window/editor_edit_unit.cfg:710
 msgid "Icon:"
 msgstr "ছবি:"
 
@@ -3384,222 +3348,32 @@ msgstr ""
 msgid "vision^None"
 msgstr ""
 
-#. [button]: id=preview_
-#: data/gui/window/editor_edit_unit.cfg:98
-msgid "Preview image"
-msgstr ""
-
-#. [label]: id=title
-#: data/gui/window/editor_edit_unit.cfg:143
-msgid "Stats"
-msgstr ""
-
-#. [button]: id=load_unit_type
-#: data/gui/window/editor_edit_unit.cfg:187
-msgid "Load Unit Type"
-msgstr ""
-
-#. [grid]: id=grid_stats
-#: data/gui/window/editor_edit_unit.cfg:221
-msgid "Unit Image:"
-msgstr ""
-
-#. [grid]: id=grid_stats
-#: data/gui/window/editor_edit_unit.cfg:223
-msgid "Portrait:"
-msgstr ""
-
-#. [label]
-#: data/gui/window/editor_edit_unit.cfg:234
-msgid "Level:"
-msgstr ""
-
-#. [label]
-#: data/gui/window/editor_edit_unit.cfg:260
-msgid "Gender:"
-msgstr ""
-
-#. [row]
-#: data/gui/window/editor_edit_unit.cfg:268
-msgid "gender^Male"
-msgstr ""
-
-#. [row]
-#: data/gui/window/editor_edit_unit.cfg:269
-msgid "gender^Female"
-msgstr ""
-
-#. [label]
-#: data/gui/window/editor_edit_unit.cfg:284
-msgid "Advances to:"
-msgstr ""
-
-#. [label]
-#: data/gui/window/editor_edit_unit.cfg:310
-msgid "Race:"
-msgstr ""
-
-#. [label]
-#: data/gui/window/editor_edit_unit.cfg:381
-msgid "Alignment:"
-msgstr ""
-
-#. [label]
-#: data/gui/window/editor_edit_unit.cfg:422
-msgid "HP:"
-msgstr ""
-
-#. [label]
-#: data/gui/window/editor_edit_unit.cfg:452
-msgid "XP:"
-msgstr ""
-
-#. [label]
-#: data/gui/window/editor_edit_unit.cfg:482
-msgid "Cost:"
-msgstr ""
-
-#. [label]
-#: data/gui/window/editor_edit_unit.cfg:512
-msgid "Movement:"
-msgstr ""
-
 #. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]: id=title
 #. [widget]: id=tab_label
-#: data/gui/window/editor_edit_unit.cfg:573
-#: data/gui/window/editor_edit_unit.cfg:1323
 #: src/gui/widgets/unit_preview_pane.cpp:224
 msgid "Attacks"
 msgstr "আক্রমণ"
 
-#. [button]: id=atk_new
-#: data/gui/window/editor_edit_unit.cfg:638
-msgid "New Attack"
-msgstr ""
-
-#. [button]: id=atk_delete
-#: data/gui/window/editor_edit_unit.cfg:651
-msgid "Delete Attack"
-msgstr ""
-
-#. [label]
-#: data/gui/window/editor_edit_unit.cfg:721
-msgid "Range:"
-msgstr ""
-
-#. [row]
-#: data/gui/window/editor_edit_unit.cfg:733
-msgid "range^Melee"
-msgstr ""
-
-#. [row]
-#: data/gui/window/editor_edit_unit.cfg:734
-msgid "range^Ranged"
-msgstr ""
-
-#. [label]
-#: data/gui/window/editor_edit_unit.cfg:775
-msgid "Damage:"
-msgstr ""
-
-#. [label]
-#: data/gui/window/editor_edit_unit.cfg:802
-msgid "Hits:"
-msgstr ""
-
-#. [label]
-#: data/gui/window/editor_edit_unit.cfg:830
-msgid "Specials:"
-msgstr ""
-
 #. [label]: id=title
 #. [widget]: id=tab_label
 #. [widget]: id=label
-#: data/gui/window/editor_edit_unit.cfg:880
-#: data/gui/window/editor_edit_unit.cfg:1311
 #: data/gui/window/preferences.cfg:383
 msgid "Advanced"
-msgstr ""
-
-#. [grid]: id=grid_atk
-#: data/gui/window/editor_edit_unit.cfg:887
-msgid "Small Profile"
-msgstr ""
-
-#. [label]
-#: data/gui/window/editor_edit_unit.cfg:898
-msgid "Abilities:"
-msgstr ""
-
-#. [label]: id=movetype_label
-#: data/gui/window/editor_edit_unit.cfg:924
-msgid "Movetype:"
 msgstr ""
 
 #. [button]: id=load_movetype
 #. [button]: id=ok
 #. [grid]
-#: data/gui/window/editor_edit_unit.cfg:951 data/gui/window/game_load.cfg:638
+#: data/gui/window/game_load.cfg:638
 #: data/gui/window/title_screen.cfg:257
 msgid "Load"
 msgstr "খুলুন"
 
 #. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]: id=movement_costs_label
-#: data/gui/window/editor_edit_unit.cfg:967
 #: src/gui/widgets/unit_preview_pane.cpp:155
 msgid "Movement Costs:"
-msgstr ""
-
-#. [label]: id=defense_label
-#: data/gui/window/editor_edit_unit.cfg:1020
-msgid "Defense:"
-msgstr ""
-
-#. [label]: id=resistance_label
-#: data/gui/window/editor_edit_unit.cfg:1073
-msgid "Resistances:"
-msgstr ""
-
-#. [label]: id=usage_label
-#: data/gui/window/editor_edit_unit.cfg:1126
-msgid "AI Usage:"
-msgstr ""
-
-#. [label]: id=wml_update_lbl
-#: data/gui/window/editor_edit_unit.cfg:1176
-msgid "WML"
-msgstr ""
-
-#. [widget]: id=tab_image
-#: data/gui/window/editor_edit_unit.cfg:1295
-msgid "/data/core/images/units/human-loyalists/general.png"
-msgstr ""
-
-#. [widget]: id=tab_label
-#: data/gui/window/editor_edit_unit.cfg:1299
-msgid "Main Stats"
-msgstr ""
-
-#. [widget]: id=tab_image
-#: data/gui/window/editor_edit_unit.cfg:1307
-msgid "/data/core/images/attacks/rectangular-shield.png"
-msgstr ""
-
-#. [widget]: id=tab_image
-#: data/gui/window/editor_edit_unit.cfg:1319
-msgid "/data/core/images/attacks/sword-human.png"
-msgstr ""
-
-#. [widget]: id=tab_image
-#: data/gui/window/editor_edit_unit.cfg:1331
-msgid "/data/core/images/attacks/gaze.png"
-msgstr ""
-
-#. [widget]: id=tab_label
-#: data/gui/window/editor_edit_unit.cfg:1335
-msgid "WML View"
 msgstr ""
 
 #. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
