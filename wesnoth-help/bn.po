@@ -1615,7 +1615,7 @@ msgstr "অস্ত্রের বিশেষত্ব"
 #. [topic]: id=..eras_section
 #: data/core/help.cfg:62 data/core/help.cfg:127
 msgid "Eras"
-msgstr ""
+msgstr "যুগ"
 
 #. [section]: id=terrains_section
 #. [topic]: id=..terrains_section
@@ -1627,13 +1627,13 @@ msgstr "ভূমি"
 #. [topic]: id=..addons
 #: data/core/help.cfg:78 data/core/help.cfg:599
 msgid "Add-ons"
-msgstr ""
+msgstr "অ্যাড-অন"
 
 #. [section]: id=commands
 #. [topic]: id=..commands
 #: data/core/help.cfg:84 data/core/help.cfg:672
 msgid "Commands"
-msgstr ""
+msgstr "কমান্ড"
 
 #. [topic]: id=..introduction
 #: data/core/help.cfg:96
@@ -4795,7 +4795,7 @@ msgstr ""
 #. [damage_type]: id=arcane_damage
 #: data/core/macros/weapon_specials.cfg:208
 msgid "arcane"
-msgstr ""
+msgstr "অলৌকিক"
 
 #. [damage_type]: id=arcane_damage
 #: data/core/macros/weapon_specials.cfg:209
@@ -5330,17 +5330,17 @@ msgstr ""
 #. [race]: id=lizard
 #: data/core/units.cfg:244
 msgid "race^Saurian"
-msgstr ""
+msgstr "সরিয়ান"
 
 #. [race]: id=lizard
 #: data/core/units.cfg:245
 msgid "race+female^Saurian"
-msgstr ""
+msgstr "সরিয়ান"
 
 #. [race]: id=lizard
 #: data/core/units.cfg:246
 msgid "race^Saurians"
-msgstr ""
+msgstr "সরিয়ানেরা"
 
 #. [race]: id=lizard
 #: data/core/units.cfg:247
@@ -5943,23 +5943,23 @@ msgstr ""
 
 #: src/help/help_topic_generators.cpp:297
 msgid "Level"
-msgstr ""
+msgstr "পর্যায়"
 
 #: src/help/help_topic_generators.cpp:357
 msgid "Advances from: "
-msgstr ""
+msgstr "উন্নীত হয়েছে: "
 
 #: src/help/help_topic_generators.cpp:359
 msgid "Advances to: "
-msgstr ""
+msgstr "উন্নীত হবে: "
 
 #: src/help/help_topic_generators.cpp:388
 msgid "Base unit: "
-msgstr ""
+msgstr "মূল ইউনিট: "
 
 #: src/help/help_topic_generators.cpp:393
 msgid "Base units: "
-msgstr "মূল ইউনিট: "
+msgstr "মূল ইউনিটগুলি: "
 
 #: src/help/help_topic_generators.cpp:411
 msgid "Variations: "
@@ -6000,7 +6000,7 @@ msgstr "স্থানান্তর সংখ্যা:"
 #. unpleasant line breaks (issue #3256).
 #: src/help/help_topic_generators.cpp:572
 msgid "Vision:"
-msgstr ""
+msgstr "দৃষ্টি:"
 
 #. TRANSLATORS: This string is used in the help page of a single unit.  If the translation
 #. uses spaces, use non-breaking spaces as appropriate for the target language to prevent

@@ -25,23 +25,23 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "#-#-#-#-#  wesnoth-units.py.pot (PACKAGE VERSION)  #-#-#-#-#\n"
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: bn\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-01-28 19:46+0530\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"PO-Revision-Date: 2024-01-29 14:57+0530\n"
+"Last-Translator: Subhraman Sarkar <suvrax@gmail.com>\n"
+"Language-Team: Bengali < >\n"
+"Language: bn\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "#-#-#-#-#  wesnoth-units.wml.pot (PACKAGE VERSION)  #-#-#-#-#\n"
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2024-01-28 14:16 UTC\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2024-01-28 19:46+0530\n"
+"PO-Revision-Date: 2024-01-29 14:57+0530\n"
+"Last-Translator: Subhraman Sarkar <suvrax@gmail.com>\n"
+"Language-Team: Bengali\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -829,7 +829,7 @@ msgstr "জ্যাভেলিন"
 #: data/core/units/dwarves/Steelclad.cfg:48
 #: data/core/units/undead/Skele_Death_Knight.cfg:33
 msgid "battle axe"
-msgstr "যুদ্ধ-কুঠার"
+msgstr "যুদ্ধ কুঠার"
 
 #. [attack]: type=blade
 #: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Lord.cfg:46
@@ -3919,12 +3919,12 @@ msgstr ""
 #. [female]
 #: data/core/units/humans/Mage_Silver.cfg:163
 msgid "female^Silver Mage"
-msgstr ""
+msgstr "রুপালি জাদুবিদ"
 
 #. [unit_type]: id=White Mage, race=human
 #: data/core/units/humans/Mage_White.cfg:4
 msgid "White Mage"
-msgstr ""
+msgstr "শ্বেত জাদুবিদ"
 
 #. [unit_type]: id=White Mage, race=human
 #: data/core/units/humans/Mage_White.cfg:18
@@ -3950,7 +3950,7 @@ msgstr ""
 #. [female]
 #: data/core/units/humans/Mage_White.cfg:105
 msgid "female^White Mage"
-msgstr ""
+msgstr "শ্বেত জাদুবিদ"
 
 #. [unit_type]: id=Mage of Light, race=human
 #: data/core/units/humans/Mage_of_Light.cfg:4
@@ -3983,7 +3983,7 @@ msgstr "আলোর জাদুবিদ"
 #. [unit_type]: id=Outlaw, race=human
 #: data/core/units/humans/Outlaw.cfg:4
 msgid "Outlaw"
-msgstr ""
+msgstr "দস্যু"
 
 #. [unit_type]: id=Outlaw, race=human
 #: data/core/units/humans/Outlaw.cfg:18
@@ -4000,7 +4000,7 @@ msgstr ""
 #. [female]
 #: data/core/units/humans/Outlaw.cfg:74
 msgid "female^Outlaw"
-msgstr ""
+msgstr "দস্যু"
 
 #. [unit_type]: id=Assassin, race=human
 #: data/core/units/humans/Outlaw_Assassin.cfg:4
@@ -4023,7 +4023,7 @@ msgstr ""
 #: data/core/units/orcs/Assassin.cfg:35 data/core/units/orcs/Nightblade.cfg:43
 #: data/core/units/orcs/Slayer.cfg:43
 msgid "throwing knives"
-msgstr ""
+msgstr "ছুরি ছোঁড়া"
 
 #. [female]
 #: data/core/units/humans/Outlaw_Assassin.cfg:101
@@ -4087,7 +4087,7 @@ msgstr "পলাতক"
 #. [unit_type]: id=Highwayman, race=human
 #: data/core/units/humans/Outlaw_Highwayman.cfg:5
 msgid "Highwayman"
-msgstr ""
+msgstr "ডাকাত সর্দার"
 
 #. [unit_type]: id=Highwayman, race=human
 #: data/core/units/humans/Outlaw_Highwayman.cfg:19
@@ -4102,7 +4102,7 @@ msgstr ""
 #. [unit_type]: id=Rogue, race=human
 #: data/core/units/humans/Outlaw_Rogue.cfg:4
 msgid "Rogue"
-msgstr ""
+msgstr "দুর্বৃত্র"
 
 #. [unit_type]: id=Rogue, race=human
 #: data/core/units/humans/Outlaw_Rogue.cfg:18
@@ -4118,7 +4118,7 @@ msgstr ""
 #. [female]
 #: data/core/units/humans/Outlaw_Rogue.cfg:78
 msgid "female^Rogue"
-msgstr ""
+msgstr "দুর্বৃত্র"
 
 #. [unit_type]: id=Ruffian, race=human
 #: data/core/units/humans/Outlaw_Ruffian.cfg:4
@@ -4175,7 +4175,7 @@ msgstr ""
 #. [unit_type]: id=Peasant, race=human
 #: data/core/units/humans/Peasant.cfg:4
 msgid "Peasant"
-msgstr ""
+msgstr "চাষী"
 
 #. [unit_type]: id=Peasant, race=human
 #: data/core/units/humans/Peasant.cfg:18
@@ -4224,7 +4224,7 @@ msgstr ""
 #. [unit_type]: id=Huntsman, race=human
 #: data/core/units/humans/Woodsman_Huntsman.cfg:5
 msgid "Huntsman"
-msgstr ""
+msgstr "অভিজ্ঞ শিকারী"
 
 #. [unit_type]: id=Huntsman, race=human
 #: data/core/units/humans/Woodsman_Huntsman.cfg:19
@@ -4248,7 +4248,7 @@ msgstr ""
 #. [unit_type]: id=Poacher, race=human
 #: data/core/units/humans/Woodsman_Poacher.cfg:4
 msgid "Poacher"
-msgstr ""
+msgstr "শিকারী"
 
 #. [unit_type]: id=Poacher, race=human
 #: data/core/units/humans/Woodsman_Poacher.cfg:17
@@ -4265,7 +4265,7 @@ msgstr ""
 #. [unit_type]: id=Ranger, race=human
 #: data/core/units/humans/Woodsman_Ranger.cfg:5
 msgid "Ranger"
-msgstr ""
+msgstr "রেঞ্জার"
 
 #. [unit_type]: id=Ranger, race=human
 #: data/core/units/humans/Woodsman_Ranger.cfg:19
@@ -4286,7 +4286,7 @@ msgstr ""
 #. [unit_type]: id=Trapper, race=human
 #: data/core/units/humans/Woodsman_Trapper.cfg:4
 msgid "Trapper"
-msgstr ""
+msgstr "ফাঁদ বিশারদ"
 
 #. [unit_type]: id=Trapper, race=human
 #: data/core/units/humans/Woodsman_Trapper.cfg:17
@@ -4368,7 +4368,7 @@ msgstr ""
 #: data/core/units/merfolk/Initiate.cfg:34 data/core/units/merfolk/Siren.cfg:40
 #: data/core/units/monsters/Seahorse.cfg:43
 msgid "water spray"
-msgstr ""
+msgstr "জল ছেটানো"
 
 #. [unit_type]: id=Merman Entangler, race=merman
 #: data/core/units/merfolk/Entangler.cfg:4
@@ -4467,7 +4467,7 @@ msgstr ""
 #. [unit_type]: id=Merman Netcaster, race=merman
 #: data/core/units/merfolk/Netcaster.cfg:4
 msgid "Merman Netcaster"
-msgstr ""
+msgstr "জলমানব জাল প্রক্ষেপক"
 
 #. [unit_type]: id=Merman Netcaster, race=merman
 #: data/core/units/merfolk/Netcaster.cfg:18
@@ -4522,7 +4522,7 @@ msgstr ""
 #. [attack]: type=impact
 #: data/core/units/merfolk/Siren.cfg:28
 msgid "naia touch"
-msgstr ""
+msgstr "জলপরীর স্পর্শ"
 
 #. [unit_type]: id=Merman Spearman, race=merman
 #: data/core/units/merfolk/Spearman.cfg:4
@@ -4643,12 +4643,12 @@ msgstr ""
 #: data/core/units/monsters/Ant_Firebane.cfg:79
 #: data/core/units/monsters/Ant_Firebomb.cfg:83
 msgid "fire"
-msgstr ""
+msgstr "আগুন"
 
 #. [unit_type]: id=Fire Ant Queen, race=monster
 #: data/core/units/monsters/Ant_Fire_Queen.cfg:11
 msgid "Fire Ant Queen"
-msgstr ""
+msgstr "আগুন পিঁপড়ে রাণী"
 
 #. [unit_type]: id=Fire Ant Queen, race=monster
 #: data/core/units/monsters/Ant_Fire_Queen.cfg:54
@@ -4680,7 +4680,7 @@ msgstr ""
 #. [unit_type]: id=Giant Ant Queen, race=monster
 #: data/core/units/monsters/Ant_Queen.cfg:4
 msgid "Giant Ant Queen"
-msgstr ""
+msgstr "বিরাট পিঁপড়ে রাণী"
 
 #. [unit_type]: id=Giant Ant Queen, race=monster
 #: data/core/units/monsters/Ant_Queen.cfg:19
@@ -4698,7 +4698,7 @@ msgstr ""
 #. [unit_type]: id=Soldier Ant, race=monster
 #: data/core/units/monsters/Ant_Soldier.cfg:4
 msgid "Soldier Ant"
-msgstr ""
+msgstr "সৈন্য পিঁপড়ে"
 
 #. [unit_type]: id=Soldier Ant, race=monster
 #: data/core/units/monsters/Ant_Soldier.cfg:19
@@ -4712,7 +4712,7 @@ msgstr ""
 #. [unit_type]: id=Cave Bear, race=monster
 #: data/core/units/monsters/Bear.cfg:4
 msgid "Cave Bear"
-msgstr ""
+msgstr "গুহা ভালুক"
 
 #. [unit_type]: id=Cave Bear, race=monster
 #: data/core/units/monsters/Bear.cfg:19
@@ -4801,7 +4801,7 @@ msgstr ""
 #. [unit_type]: id=Swamp Lizard, race=monster
 #: data/core/units/monsters/Crocodile.cfg:13
 msgid "Swamp Lizard"
-msgstr ""
+msgstr "জলাভূমির সরীসৃপ"
 
 #. [unit_type]: id=Swamp Lizard, race=monster
 #: data/core/units/monsters/Crocodile.cfg:122
@@ -4870,7 +4870,7 @@ msgstr "কালি"
 #. [unit_type]: id=Dragonfly, race=monster
 #: data/core/units/monsters/Dragonfly.cfg:5
 msgid "Dragonfly"
-msgstr ""
+msgstr "ড্রাগনফ্লাই"
 
 #. [unit_type]: id=Dragonfly, race=monster
 #: data/core/units/monsters/Dragonfly.cfg:27
@@ -4916,7 +4916,7 @@ msgstr ""
 #. [unit_type]: id=Elder Falcon, race=falcon
 #: data/core/units/monsters/Elder_Falcon.cfg:4
 msgid "Elder Falcon"
-msgstr ""
+msgstr "বয়ষ্ক বাজপাখি"
 
 #. [unit_type]: id=Elder Falcon, race=falcon
 #: data/core/units/monsters/Elder_Falcon.cfg:19
@@ -4935,12 +4935,12 @@ msgstr ""
 #: data/core/units/monsters/Raven_Omen.cfg:86
 #: data/core/units/monsters/Roc.cfg:64
 msgid "beak"
-msgstr ""
+msgstr "চঞ্চু"
 
 #. [unit_type]: id=Falcon, race=falcon
 #: data/core/units/monsters/Falcon.cfg:4
 msgid "Falcon"
-msgstr ""
+msgstr "বাজপাখি"
 
 #. [unit_type]: id=Falcon, race=falcon
 #: data/core/units/monsters/Falcon.cfg:19
@@ -4974,7 +4974,7 @@ msgstr ""
 #. [unit_type]: id=Fire Guardian, race=monster
 #: data/core/units/monsters/Fire_Guardian.cfg:4
 msgid "Fire Guardian"
-msgstr ""
+msgstr "আগুনের রক্ষক"
 
 #. [unit_type]: id=Fire Guardian, race=monster
 #: data/core/units/monsters/Fire_Guardian.cfg:25
@@ -4989,7 +4989,7 @@ msgstr ""
 #: data/core/units/monsters/Fire_Guardian.cfg:28
 #: data/core/units/monsters/Fire_Wraith.cfg:50
 msgid "fire claws"
-msgstr ""
+msgstr "অগ্নি নখর"
 
 #. [unit_type]: id=Fire Wraith, race=monster
 #: data/core/units/monsters/Fire_Wraith.cfg:8
@@ -5024,7 +5024,7 @@ msgstr ""
 #. [attack]: type=cold
 #: data/core/units/monsters/Frost_Stoat.cfg:103
 msgid "ice claw"
-msgstr ""
+msgstr "বরফ নখর"
 
 #. [unit_type]: id=Giant Mudcrawler, race=monster
 #: data/core/units/monsters/Giant_Mudcrawler.cfg:4
@@ -5141,7 +5141,7 @@ msgstr ""
 #. [attack]: type=impact
 #: data/core/units/monsters/Giant_Spider.cfg:40
 msgid "web"
-msgstr ""
+msgstr "জাল"
 
 #. [unit_type]: id=Bay Horse, race=horse
 #: data/core/units/monsters/Horse.cfg:5
@@ -5164,12 +5164,12 @@ msgstr ""
 #: data/core/units/monsters/Horse_Great.cfg:34
 #: data/core/units/monsters/Horse_White.cfg:38
 msgid "hooves"
-msgstr ""
+msgstr "ক্ষুর"
 
 #. [unit_type]: id=Black Horse, race=horse
 #: data/core/units/monsters/Horse_Black.cfg:14
 msgid "Black Horse"
-msgstr ""
+msgstr "কালো ঘোড়া"
 
 #. [unit_type]: id=Black Horse, race=horse
 #: data/core/units/monsters/Horse_Black.cfg:34
@@ -5183,7 +5183,7 @@ msgstr ""
 #: data/core/units/monsters/Horse_Black.cfg:59
 #: data/core/units/monsters/Horse_Dark.cfg:53
 msgid "whinny"
-msgstr ""
+msgstr "ঘোড়ার ডাক"
 
 #. [male]
 #: data/core/units/monsters/Horse_Black.cfg:94
@@ -5199,7 +5199,7 @@ msgstr ""
 #. [unit_type]: id=Dark Horse
 #: data/core/units/monsters/Horse_Dark.cfg:14
 msgid "Dark Horse"
-msgstr ""
+msgstr "কালো ঘোড়া"
 
 #. [unit_type]: id=Dark Horse
 #: data/core/units/monsters/Horse_Dark.cfg:40
@@ -5212,17 +5212,17 @@ msgstr ""
 #. [male]
 #: data/core/units/monsters/Horse_Dark.cfg:88
 msgid "male^Dark Horse"
-msgstr ""
+msgstr "কালো ঘোড়া"
 
 #. [female]
 #: data/core/units/monsters/Horse_Dark.cfg:92
 msgid "female^Dark Horse"
-msgstr ""
+msgstr "কালো ঘোড়া"
 
 #. [unit_type]: id=Great Horse, race=horse
 #: data/core/units/monsters/Horse_Great.cfg:5
 msgid "Great Horse"
-msgstr ""
+msgstr "বিরাট ঘোড়া"
 
 #. [unit_type]: id=Great Horse, race=horse
 #: data/core/units/monsters/Horse_Great.cfg:20
@@ -5236,7 +5236,7 @@ msgstr ""
 #. [unit_type]: id=White Horse
 #: data/core/units/monsters/Horse_White.cfg:14
 msgid "White Horse"
-msgstr ""
+msgstr "সাদা ঘোড়া"
 
 #. [unit_type]: id=White Horse
 #: data/core/units/monsters/Horse_White.cfg:25
@@ -5279,7 +5279,7 @@ msgstr ""
 #. [unit_type]: id=Jinn, race=monster
 #: data/core/units/monsters/Jinn.cfg:8
 msgid "Jinn"
-msgstr ""
+msgstr "জিন"
 
 #. [unit_type]: id=Jinn, race=monster
 #: data/core/units/monsters/Jinn.cfg:23
@@ -5295,17 +5295,17 @@ msgstr ""
 #. [attack]: type=impact
 #: data/core/units/monsters/Jinn.cfg:100
 msgid "desert windblast"
-msgstr ""
+msgstr "মরু বায়ুবিস্ফোরণ"
 
 #. [attack]: type=fire
 #: data/core/units/monsters/Jinn.cfg:109
 msgid "desert lightning"
-msgstr ""
+msgstr "মরু বজ্রপাত"
 
 #. [unit_type]: id=Kraken, race=monster
 #: data/core/units/monsters/Kraken.cfg:5
 msgid "Kraken"
-msgstr ""
+msgstr "ক্রাকেন"
 
 #. [unit_type]: id=Kraken, race=monster
 #: data/core/units/monsters/Kraken.cfg:21
@@ -5333,7 +5333,7 @@ msgstr ""
 #. [unit_type]: id=Raven, race=raven
 #: data/core/units/monsters/Raven.cfg:4
 msgid "Raven"
-msgstr ""
+msgstr "দাঁড়কাক"
 
 #. [unit_type]: id=Raven, race=raven
 #: data/core/units/monsters/Raven.cfg:18
@@ -5348,7 +5348,7 @@ msgstr ""
 #. [unit_type]: id=War Harbinger, race=raven
 #: data/core/units/monsters/Raven_Harbinger.cfg:4
 msgid "War Harbinger"
-msgstr ""
+msgstr "যুদ্ধের বার্তাবাহক"
 
 #. [unit_type]: id=War Harbinger, race=raven
 #: data/core/units/monsters/Raven_Harbinger.cfg:19
@@ -5363,7 +5363,7 @@ msgstr ""
 #. [unit_type]: id=Dark Omen, race=raven
 #: data/core/units/monsters/Raven_Omen.cfg:4
 msgid "Dark Omen"
-msgstr ""
+msgstr "অশনী সংকেত"
 
 #. [unit_type]: id=Dark Omen, race=raven
 #: data/core/units/monsters/Raven_Omen.cfg:18
@@ -5377,7 +5377,7 @@ msgstr ""
 #. [unit_type]: id=Roc, race=monster
 #: data/core/units/monsters/Roc.cfg:4
 msgid "Roc"
-msgstr ""
+msgstr "রকপাখি"
 
 #. [unit_type]: id=Roc, race=monster
 #: data/core/units/monsters/Roc.cfg:20
@@ -5400,7 +5400,7 @@ msgstr ""
 #. [attack]: type=impact
 #: data/core/units/monsters/Roc.cfg:75
 msgid "rock"
-msgstr ""
+msgstr "পাথর"
 
 #. [unit_type]: id=Rock Scorpion, race=monster
 #: data/core/units/monsters/Rock_Scorpion.cfg:4
@@ -5461,7 +5461,7 @@ msgstr ""
 #. [attack]: type=pierce
 #: data/core/units/monsters/Scarab.cfg:53
 msgid "horn"
-msgstr ""
+msgstr "শিঙ"
 
 #. [unit_type]: id=Sea Serpent, race=monster
 #: data/core/units/monsters/Sea_Serpent.cfg:4
@@ -5483,7 +5483,7 @@ msgstr ""
 #. [unit_type]: id=Great Seahorse, race=monster
 #: data/core/units/monsters/Seahorse.cfg:5
 msgid "Great Seahorse"
-msgstr ""
+msgstr "বিরাট সমুদ্রঘোটক"
 
 #. [unit_type]: id=Great Seahorse, race=monster
 #: data/core/units/monsters/Seahorse.cfg:29
@@ -5540,7 +5540,7 @@ msgstr ""
 #. [unit_type]: id=Tentacle of the Deep, race=monster
 #: data/core/units/monsters/Tentacle.cfg:4
 msgid "Tentacle of the Deep"
-msgstr ""
+msgstr "গভীর থেকে আসা শুঁড়"
 
 #. [unit_type]: id=Tentacle of the Deep, race=monster
 #: data/core/units/monsters/Tentacle.cfg:26
@@ -5556,7 +5556,7 @@ msgstr ""
 #. [unit_type]: id=Water Serpent, race=monster
 #: data/core/units/monsters/Water_Serpent.cfg:5
 msgid "Water Serpent"
-msgstr ""
+msgstr "জলের সর্প"
 
 #. [unit_type]: id=Water Serpent, race=monster
 #: data/core/units/monsters/Water_Serpent.cfg:37
@@ -5570,7 +5570,7 @@ msgstr ""
 #. [unit_type]: id=Wild Wyvern, race=monster
 #: data/core/units/monsters/Wild_Wyvern.cfg:8
 msgid "Wild Wyvern"
-msgstr ""
+msgstr "বন্য ওয়াইভার্ন"
 
 #. [unit_type]: id=Wild Wyvern, race=monster
 #: data/core/units/monsters/Wild_Wyvern.cfg:45
@@ -5664,7 +5664,7 @@ msgstr ""
 #. [attack]: type=blade
 #: data/core/units/nagas/Dirkfang.cfg:38
 msgid "chakri"
-msgstr ""
+msgstr "চক্রি"
 
 #. [female]
 #: data/core/units/nagas/Dirkfang.cfg:93
@@ -5727,12 +5727,12 @@ msgstr ""
 #: data/core/units/nagas/Guard_High.cfg:45
 #: data/core/units/nagas/Guard_Shield.cfg:43
 msgid "shield"
-msgstr ""
+msgstr "ঢাল"
 
 #. [unit_type]: id=Naga Shield Guard, race=naga
 #: data/core/units/nagas/Guard_Shield.cfg:4
 msgid "Naga Shield Guard"
-msgstr ""
+msgstr "নাগ ঢাল প্রহরী"
 
 #. [unit_type]: id=Naga Shield Guard, race=naga
 #: data/core/units/nagas/Guard_Shield.cfg:22
@@ -5746,7 +5746,7 @@ msgstr ""
 #. [unit_type]: id=Naga Myrmidon, race=naga
 #: data/core/units/nagas/Myrmidon.cfg:4
 msgid "Naga Myrmidon"
-msgstr ""
+msgstr "নাগ দ্বি-অসিবিশারদ"
 
 #. [unit_type]: id=Naga Myrmidon, race=naga
 #: data/core/units/nagas/Myrmidon.cfg:20
@@ -5761,7 +5761,7 @@ msgstr ""
 #. [female]
 #: data/core/units/nagas/Myrmidon.cfg:48
 msgid "Nagini Myrmidon"
-msgstr ""
+msgstr "নাগিনী দ্বি-অসিবিশারদ"
 
 #. [female]
 #: data/core/units/nagas/Myrmidon.cfg:50
@@ -5798,12 +5798,12 @@ msgstr ""
 #. [attack]: type=blade
 #: data/core/units/nagas/Ophidian.cfg:27 data/core/units/nagas/Sicarius.cfg:28
 msgid "curved blade"
-msgstr ""
+msgstr "বক্র তরবারি"
 
 #. [attack]: type=pierce
 #: data/core/units/nagas/Ophidian.cfg:36 data/core/units/nagas/Sicarius.cfg:41
 msgid "jarid"
-msgstr ""
+msgstr "জ়ারিড"
 
 #. [female]
 #: data/core/units/nagas/Ophidian.cfg:91
@@ -5813,7 +5813,7 @@ msgstr ""
 #. [unit_type]: id=Naga Ringcaster, race=naga
 #: data/core/units/nagas/Ringcaster.cfg:4
 msgid "Naga Ringcaster"
-msgstr ""
+msgstr "নাগ চক্রপ্রক্ষেপক"
 
 #. [unit_type]: id=Naga Ringcaster, race=naga
 #: data/core/units/nagas/Ringcaster.cfg:18
@@ -5829,12 +5829,12 @@ msgstr ""
 #: data/core/units/nagas/Ringcaster.cfg:43 data/core/units/nagas/Zephyr.cfg:51
 #: data/core/units/nagas/Zephyr.cfg:60
 msgid "chakram"
-msgstr ""
+msgstr "চক্রম"
 
 #. [female]
 #: data/core/units/nagas/Ringcaster.cfg:104
 msgid "Nagini Ringcaster"
-msgstr ""
+msgstr "নাগিনী চক্রপ্রক্ষেপক"
 
 #. [unit_type]: id=Naga Sicarius, race=naga
 #: data/core/units/nagas/Sicarius.cfg:4
@@ -5951,7 +5951,7 @@ msgstr ""
 #. [unit_type]: id=Ogre, race=ogre
 #: data/core/units/ogres/Ogre.cfg:4
 msgid "Ogre"
-msgstr "দানব"
+msgstr "দৈত্য"
 
 #. [unit_type]: id=Ogre, race=ogre
 #: data/core/units/ogres/Ogre.cfg:24
@@ -5965,7 +5965,7 @@ msgstr ""
 #. [unit_type]: id=Young Ogre, race=ogre
 #: data/core/units/ogres/Young_Ogre.cfg:4
 msgid "Young Ogre"
-msgstr "অপরিণত দানব"
+msgstr "অপরিণত দৈত্য"
 
 #. [unit_type]: id=Young Ogre, race=ogre
 #: data/core/units/ogres/Young_Ogre.cfg:23
@@ -6012,7 +6012,7 @@ msgstr ""
 #. [unit_type]: id=Orcish Crossbowman, race=orc
 #: data/core/units/orcs/Crossbowman.cfg:4
 msgid "Orcish Crossbowman"
-msgstr ""
+msgstr "ওর্ক ক্রসবো বিশারদ"
 
 #. [unit_type]: id=Orcish Crossbowman, race=orc
 #: data/core/units/orcs/Crossbowman.cfg:17
@@ -6107,12 +6107,12 @@ msgstr ""
 #: data/core/units/orcs/Ruler.cfg:27 data/core/units/orcs/Sovereign.cfg:28
 #: data/core/units/orcs/Warlord.cfg:24 data/core/units/orcs/Warrior.cfg:38
 msgid "greatsword"
-msgstr ""
+msgstr "বিরাট তলোয়ার"
 
 #. [unit_type]: id=Orcish Slayer, race=orc
 #: data/core/units/orcs/Slayer.cfg:4
 msgid "Orcish Slayer"
-msgstr ""
+msgstr "ওর্ক হত্যাকারী"
 
 #. [unit_type]: id=Orcish Slayer, race=orc
 #: data/core/units/orcs/Slayer.cfg:20
@@ -6131,7 +6131,7 @@ msgstr ""
 #. [unit_type]: id=Orcish Slurbow, race=orc
 #: data/core/units/orcs/Slurbow.cfg:4
 msgid "Orcish Slurbow"
-msgstr ""
+msgstr "ওর্ক স্লারবো বিশারদ"
 
 #. [unit_type]: id=Orcish Slurbow, race=orc
 #: data/core/units/orcs/Slurbow.cfg:20
@@ -6150,7 +6150,7 @@ msgstr ""
 #. [unit_type]: id=Orcish Sovereign, race=orc
 #: data/core/units/orcs/Sovereign.cfg:4
 msgid "Orcish Sovereign"
-msgstr ""
+msgstr "মহান ওর্ক নেতা"
 
 #. [unit_type]: id=Orcish Sovereign, race=orc
 #: data/core/units/orcs/Sovereign.cfg:19
@@ -6211,7 +6211,7 @@ msgstr ""
 #. [unit_type]: id=Saurian Ambusher, race=lizard
 #: data/core/units/saurians/Ambusher.cfg:4
 msgid "female^Saurian Ambusher"
-msgstr ""
+msgstr "সরিয়ান অতর্কিত আক্রামক"
 
 #. [unit_type]: id=Saurian Ambusher, race=lizard
 #: data/core/units/saurians/Ambusher.cfg:18
@@ -6256,7 +6256,7 @@ msgstr ""
 #. [unit_type]: id=Saurian Javelineer, race=lizard
 #: data/core/units/saurians/Javelineer.cfg:4
 msgid "female^Saurian Javelineer"
-msgstr ""
+msgstr "সরিয়ান জ্যাভেলিন বিশারদ"
 
 #. [unit_type]: id=Saurian Javelineer, race=lizard
 #: data/core/units/saurians/Javelineer.cfg:19
@@ -6301,7 +6301,7 @@ msgstr ""
 #. [unit_type]: id=Saurian Seer, race=lizard
 #: data/core/units/saurians/Seer.cfg:4
 msgid "Saurian Seer"
-msgstr ""
+msgstr "সরিয়ান দ্রষ্টা"
 
 #. [unit_type]: id=Saurian Seer, race=lizard
 #. [unit_type]: id=Saurian Soothsayer, race=lizard
@@ -6317,7 +6317,7 @@ msgstr ""
 #. [unit_type]: id=Saurian Skirmisher, race=lizard
 #: data/core/units/saurians/Skirmisher.cfg:4
 msgid "female^Saurian Skirmisher"
-msgstr ""
+msgstr "সরিয়ান লড়াকু"
 
 #. [unit_type]: id=Saurian Skirmisher, race=lizard
 #: data/core/units/saurians/Skirmisher.cfg:18
@@ -6339,7 +6339,7 @@ msgstr ""
 #. [unit_type]: id=Saurian Spearthrower, race=lizard
 #: data/core/units/saurians/Spearthrower.cfg:4
 msgid "female^Saurian Spearthrower"
-msgstr ""
+msgstr "সরিয়ান বর্শা প্রক্ষেপক"
 
 #. [unit_type]: id=Saurian Spearthrower, race=lizard
 #: data/core/units/saurians/Spearthrower.cfg:18
@@ -6972,7 +6972,7 @@ msgstr ""
 #: data/core/units/undead/Spirit_Spectre.cfg:43
 #: data/core/units/undead/Spirit_Wraith.cfg:32
 msgid "wail"
-msgstr ""
+msgstr "বিলাপ"
 
 #. [unit_type]: id=Nightgaunt, race=undead
 #: data/core/units/undead/Spirit_Nightgaunt.cfg:4

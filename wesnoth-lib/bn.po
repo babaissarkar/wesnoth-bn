@@ -17,7 +17,7 @@ msgstr ""
 "Project-Id-Version: bn\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-01-28 19:45+0530\n"
-"PO-Revision-Date: 2024-02-20 09:41+0530\n"
+"PO-Revision-Date: 2024-02-21 07:10+0530\n"
 "Last-Translator: Subhraman Sarkar <suvrax@gmail.com>\n"
 "Language-Team: Bengali < >\n"
 "Language: bn\n"
@@ -51,17 +51,17 @@ msgstr ""
 #. [ai]: id=ai_default_rca
 #: data/ai/ais/ai_default_rca.cfg:9
 msgid "Multiplayer_AI^Default AI (RCA)"
-msgstr ""
+msgstr "স্বাভাবিক এআই (আরসিএ)"
 
 #. [ai]: id=ai_default_rca_1_14
 #: data/ai/ais/ai_default_rca_1_14.cfg:9
 msgid "Multiplayer_AI^Old Default AI (1.14 version)"
-msgstr ""
+msgstr "পুরোনো স্বাভাবিক এআই (1.14 সংস্করণ)"
 
 #. [ai]: id=experimental_ai
 #: data/ai/ais/ai_experimental.cfg:11
 msgid "Multiplayer_AI^Experimental AI"
-msgstr ""
+msgstr "পরীক্ষমূলক এআই"
 
 #. [ai]: id=idle_ai
 #: data/ai/ais/idle_ai.cfg:4
@@ -71,7 +71,7 @@ msgstr ""
 #. [ai]: id=ai_default_rca_alternate_recruiting
 #: data/ai/dev/ai_default_rca_alternate_recruiting.cfg:10
 msgid "Multiplayer_AI^Dev AI: Default AI (RCA) with Alternate Recruiting"
-msgstr ""
+msgstr "ভিন্ন নিয়োগসহ স্বাভাবিক এআই (আরসিএ)"
 
 #. [terrain_type]: id=farmer-fence  # AI-animal-proof fences from first scenario
 #. [terrain_type]: id=fence
@@ -282,7 +282,7 @@ msgstr "পরিষ্কার ধূসর প্রস্তরখন্ড"
 #. [terrain_type]: id=road_desert
 #: data/core/terrain.cfg:274
 msgid "Rocky Sands"
-msgstr ""
+msgstr "পাথুরে বালি"
 
 #. [terrain_type]: id=stone_path
 #: data/core/terrain.cfg:284
@@ -1207,12 +1207,12 @@ msgstr "গ্রাম"
 #. [terrain_type]: id=desert_village
 #: data/core/terrain.cfg:1785
 msgid "Adobe Village"
-msgstr ""
+msgstr "অ্যাডোবি গ্রাম"
 
 #. [terrain_type]: id=desert_village_ruin
 #: data/core/terrain.cfg:1798
 msgid "Ruined Adobe Village"
-msgstr ""
+msgstr "ধ্বংসপ্রাপ্ত অ্যাডোবি গ্রাম"
 
 #. [terrain_type]: id=desert_village_tent
 #: data/core/terrain.cfg:1811
@@ -1382,17 +1382,17 @@ msgstr "গ্রাম অভিলেপন"
 #: data/core/terrain.cfg:2218 data/core/terrain.cfg:2230
 #: data/core/terrain.cfg:2435 data/core/terrain.cfg:2447
 msgid "Encampment"
-msgstr ""
+msgstr "সৈন্যশিবির"
 
 #. [terrain_type]: id=encampment_ruin
 #: data/core/terrain.cfg:2219
 msgid "Ruined Encampment"
-msgstr ""
+msgstr "ধ্বংসপ্রাপ্ত সৈন্যশিবির"
 
 #. [terrain_type]: id=encampment_snow
 #: data/core/terrain.cfg:2231
 msgid "Snowy Encampment"
-msgstr ""
+msgstr "বরফে ঢাকা সৈন্যশিবির"
 
 #. [terrain_type]: id=orcish_fort
 #. [terrain_type]: id=snow_orcish_fort
@@ -1502,22 +1502,22 @@ msgstr ""
 #. [terrain_type]: id=sand_castle
 #: data/core/terrain.cfg:2412
 msgid "Desert Castle"
-msgstr ""
+msgstr "মরু দূর্গ"
 
 #. [terrain_type]: id=sand_castle_ruin
 #: data/core/terrain.cfg:2424
 msgid "Ruined Desert Castle"
-msgstr ""
+msgstr "ধ্বংসপ্রাপ্ত মরু দূর্গ"
 
 #. [terrain_type]: id=troll_encampment
 #: data/core/terrain.cfg:2436
 msgid "Troll Encampment"
-msgstr ""
+msgstr "ট্রোল সৈন্যশিবির"
 
 #. [terrain_type]: id=aquatic_camp
 #: data/core/terrain.cfg:2448
 msgid "Aquatic Encampment"
-msgstr ""
+msgstr "জলজ সৈন্যশিবির"
 
 #. [terrain_type]: id=aquatic_castle
 #: data/core/terrain.cfg:2461
@@ -1533,22 +1533,22 @@ msgstr "জলজ প্রাসাদ"
 #: data/core/terrain.cfg:2514 data/core/terrain.cfg:2735
 #: data/core/terrain.cfg:2748
 msgid "Encampment Keep"
-msgstr ""
+msgstr "সৈন্যশিবির দূর্গ"
 
 #. [terrain_type]: id=encampment_ruin_keep
 #: data/core/terrain.cfg:2489
 msgid "Ruined Encampment Keep"
-msgstr ""
+msgstr "ধ্বংসপ্রাপ্ত সৈন্যশিবির দূর্গ"
 
 #. [terrain_type]: id=encampment_keep_tall
 #: data/core/terrain.cfg:2502
 msgid "Tall Encampment Keep"
-msgstr ""
+msgstr "লম্বা সৈন্যশিবির দূর্গ"
 
 #. [terrain_type]: id=encampment_snow_keep
 #: data/core/terrain.cfg:2515
 msgid "Snowy Encampment Keep"
-msgstr ""
+msgstr "বরফে ঢাকা সৈন্যশিবির দূর্গ"
 
 #. [terrain_type]: id=orcish_keep
 #. [terrain_type]: id=snow_orcish_keep
@@ -1607,7 +1607,7 @@ msgstr "এল্ফদের ধ্বংসপ্রাপ্ত দূর্�
 #. [terrain_type]: id=elven_keep_winter
 #: data/core/terrain.cfg:2606
 msgid "Winter Elven Keep"
-msgstr ""
+msgstr "এল্ফদের শীতকালীন দূর্গ"
 
 #. [terrain_type]: id=dwarven_keep
 #: data/core/terrain.cfg:2619
@@ -1636,47 +1636,47 @@ msgstr ""
 #: data/core/terrain.cfg:2670 data/core/terrain.cfg:2683
 #: data/core/terrain.cfg:2696 data/core/terrain.cfg:2722
 msgid "Ruined Keep"
-msgstr ""
+msgstr "ধ্বংসপ্রাপ্ত দূর্গ"
 
 #. [terrain_type]: id=ruined_keep
 #: data/core/terrain.cfg:2671
 msgid "Ruined Human Castle Keep"
-msgstr ""
+msgstr "ধ্বংসপ্রাপ্ত মানব প্রাসাদ দূর্গ"
 
 #. [terrain_type]: id=sunken_keep
 #: data/core/terrain.cfg:2684
 msgid "Sunken Human Castle Keep"
-msgstr ""
+msgstr "ডুবে যাওয়া মানব প্রাসাদ দূর্গ"
 
 #. [terrain_type]: id=swamp_keep
 #: data/core/terrain.cfg:2697
 msgid "Swamp Human Castle Keep"
-msgstr ""
+msgstr "জলাভূমির মানব প্রাসাদ দূর্গ"
 
 #. [terrain_type]: id=desert_keep
 #: data/core/terrain.cfg:2710
 msgid "Desert Keep"
-msgstr ""
+msgstr "মরু দূর্গ"
 
 #. [terrain_type]: id=desert_keep_ruined
 #: data/core/terrain.cfg:2723
 msgid "Ruined Desert Keep"
-msgstr ""
+msgstr "ধ্বংসপ্রাপ্ত মরু দূর্গ"
 
 #. [terrain_type]: id=merman_campkeep
 #: data/core/terrain.cfg:2736
 msgid "Aquatic Encampment Keep"
-msgstr ""
+msgstr "জলজ সৈন্যশিবির দূর্গ"
 
 #. [terrain_type]: id=troll_campkeep
 #: data/core/terrain.cfg:2749
 msgid "Troll Encampment Keep"
-msgstr ""
+msgstr "ট্রোল সৈন্যশিবির দূর্গ"
 
 #. [terrain_type]: id=merman_castlekeep
 #: data/core/terrain.cfg:2762
 msgid "Aquatic Keep"
-msgstr ""
+msgstr "জলজ দূর্গ"
 
 #. [terrain_type]: id=castle_overlay
 #: data/core/terrain.cfg:2777
@@ -1725,7 +1725,7 @@ msgstr ""
 #: data/core/terrain.cfg:3082 data/core/terrain.cfg:3096
 #: data/core/terrain.cfg:3110 data/core/terrain.cfg:3124
 msgid "Bridge"
-msgstr ""
+msgstr "সেতু"
 
 #. [terrain_type]: id=bridge
 #. [terrain_type]: id=bridgediag1
@@ -1733,7 +1733,7 @@ msgstr ""
 #: data/core/terrain.cfg:2809 data/core/terrain.cfg:2824
 #: data/core/terrain.cfg:2837
 msgid "Wooden Bridge"
-msgstr ""
+msgstr "কাঠের সেতু"
 
 #. [terrain_type]: id=bridge
 #: data/core/terrain.cfg:2815
@@ -1830,7 +1830,7 @@ msgstr ""
 #. [terrain_type]: id=off_map
 #: data/core/terrain.cfg:3182
 msgid "Off Map"
-msgstr ""
+msgstr "মানচিত্রের বাইরে"
 
 #. [terrain_type]: id=off_map2
 #: data/core/terrain.cfg:3192
@@ -2074,7 +2074,7 @@ msgstr ""
 #. [terrain_type]: id=impassable
 #: data/core/terrain.cfg:3440 data/core/terrain.cfg:3441
 msgid "Impassable"
-msgstr ""
+msgstr "অনতিক্রম্য"
 
 #. [terrain_type]: id=impassable
 #: data/core/terrain.cfg:3443
@@ -2089,7 +2089,7 @@ msgstr ""
 #. [terrain_type]: id=unwalkable
 #: data/core/terrain.cfg:3450 data/core/terrain.cfg:3451
 msgid "Unwalkable"
-msgstr ""
+msgstr "অচলনযোগ্য"
 
 #. [terrain_type]: id=unwalkable
 #: data/core/terrain.cfg:3453
@@ -2172,17 +2172,17 @@ msgstr "নাম"
 #. [label]
 #: data/gui/widget/addon_list.cfg:93
 msgid "Version"
-msgstr ""
+msgstr "সংস্করণ"
 
 #. [toggle_button]: id=sort_1
 #: data/gui/widget/addon_list.cfg:107
 msgid "Author"
-msgstr ""
+msgstr "লেখক"
 
 #. [toggle_button]: id=sort_2
 #: data/gui/widget/addon_list.cfg:121
 msgid "Size"
-msgstr ""
+msgstr "আকার"
 
 #. [toggle_button]: id=sort_3
 #: data/gui/widget/addon_list.cfg:135
@@ -2215,7 +2215,7 @@ msgstr "অ্যাড-অন আপডেট করুন"
 #: data/gui/widget/addon_list.cfg:412 data/gui/window/addon_manager.cfg:645
 #: src/gui/widgets/addon_list.cpp:265
 msgid "Publish add-on"
-msgstr ""
+msgstr "অ্যাড-অন প্রকাশিত করুন"
 
 #. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [button]: id=single_uninstall
@@ -2223,12 +2223,12 @@ msgstr ""
 #: data/gui/widget/addon_list.cfg:435 data/gui/window/addon_manager.cfg:622
 #: src/gui/dialogs/addon/manager.cpp:1006
 msgid "Uninstall add-on"
-msgstr ""
+msgstr "অ্যাড-অন আনইনস্টল করুন"
 
 #. [image]: id=pending_messages
 #: data/gui/widget/chatbox.cfg:40
 msgid "Messages waiting"
-msgstr ""
+msgstr "অপেক্ষমান বার্তা"
 
 #. [button]: id=close_window
 #. [button]: id=click_dismiss
@@ -2280,7 +2280,7 @@ msgstr ""
 #. [label]
 #: data/gui/window/addon_auth.cfg:67
 msgid "Username:"
-msgstr ""
+msgstr "ব্যবহারকারীর নাম:"
 
 #. [label]
 #. [grid]
@@ -2289,13 +2289,13 @@ msgstr ""
 #: data/gui/window/mp_join_game_password_prompt.cfg:90
 #: data/gui/window/mp_login.cfg:143
 msgid "Password:"
-msgstr ""
+msgstr "পাসওয়ার্ড:"
 
 #. [toggle_button]: id=remember_password
 #: data/gui/window/addon_auth.cfg:139 data/gui/window/mp_login.cfg:199
 #: data/gui/window/preferences/05_multiplayer.cfg:68
 msgid "Save password locally (encrypted)"
-msgstr ""
+msgstr "স্থানীয়ভাবে পাসওয়ার্ড সঞ্চয় করুন (এনক্রিপ্টেড)"
 
 #. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [button]: id=ok
@@ -2432,24 +2432,24 @@ msgstr ""
 #: data/gui/window/editor_edit_pbl.cfg:210
 #: data/gui/window/editor_edit_unit.cfg:750
 msgid "Type:"
-msgstr ""
+msgstr "প্রকৃতি:"
 
 #. [label]
 #: data/gui/window/addon_manager.cfg:195
 msgid "Status:"
-msgstr ""
+msgstr "অবস্থা:"
 
 #. [label]
 #: data/gui/window/addon_manager.cfg:229
 #: data/gui/window/game_cache_options.cfg:160
 #: data/gui/window/screenshot_notification.cfg:141
 msgid "Size:"
-msgstr ""
+msgstr "আকার:"
 
 #. [label]
 #: data/gui/window/addon_manager.cfg:269
 msgid "Downloads:"
-msgstr ""
+msgstr "ডাউনলোড:"
 
 #. [label]
 #: data/gui/window/addon_manager.cfg:299
@@ -2466,34 +2466,34 @@ msgstr ""
 #: data/gui/window/addon_manager.cfg:415
 #: src/gui/dialogs/multiplayer/mp_create_game.cpp:560
 msgid "No description available."
-msgstr ""
+msgstr "কোনো বর্ণনা নেই ।"
 
 #. [label]: id=version_string
 #. [grid]
 #: data/gui/window/addon_manager.cfg:456
 #: data/gui/window/editor_edit_pbl.cfg:207
 msgid "Version:"
-msgstr ""
+msgstr "সংস্করণ:"
 
 #. [menu_button]: id=version_filter
 #: data/gui/window/addon_manager.cfg:471
 msgid "Select the add-on version"
-msgstr ""
+msgstr "অ্যাড-অন সংস্করণ নির্বাচন করুন"
 
 #. [label]
 #: data/gui/window/addon_manager.cfg:489
 msgid "Website:"
-msgstr ""
+msgstr "ওয়েবসাইট:"
 
 #. [label]
 #: data/gui/window/addon_manager.cfg:521
 msgid "Id:"
-msgstr ""
+msgstr "আইডি:"
 
 #. [button]: id=delete
 #: data/gui/window/addon_manager.cfg:659
 msgid "Delete add-on"
-msgstr ""
+msgstr "অ্যাড-অন মুছুন"
 
 #. [label]
 #. [grid]
@@ -2519,7 +2519,7 @@ msgstr "অনুবাদসমূহ:"
 #. [label]: id=translations
 #: data/gui/window/addon_manager.cfg:748 src/gui/dialogs/addon/manager.cpp:1098
 msgid "translations^None"
-msgstr ""
+msgstr "নেই"
 
 #. [text_box]: id=filter
 #: data/gui/window/addon_manager.cfg:770
@@ -2551,7 +2551,7 @@ msgstr "ভাষা"
 #. [label]
 #: data/gui/window/addon_manager.cfg:895
 msgid "Order:"
-msgstr ""
+msgstr "ক্রম:"
 
 #. [label]
 #: data/gui/window/addon_manager.cfg:989 data/gui/window/addon_manager.cfg:1186
@@ -2632,7 +2632,7 @@ msgstr ""
 #. [label]: id=title
 #: data/gui/window/attack_predictions.cfg:249
 msgid "Damage Calculations"
-msgstr ""
+msgstr "ক্ষতি গণনা"
 
 #. [column]
 #: data/gui/window/attack_predictions.cfg:272
@@ -2674,7 +2674,7 @@ msgstr "লড়াই:"
 #. [option]
 #: data/gui/window/campaign_dialog.cfg:317
 msgid "Default RNG"
-msgstr ""
+msgstr "স্বাভাবিক আরএনজি"
 
 #. [option]
 #: data/gui/window/campaign_dialog.cfg:318
@@ -2792,7 +2792,7 @@ msgstr "পরবর্তী পাতা"
 #: data/gui/window/chat_log.cfg:187 data/gui/window/gamestate_inspector.cfg:335
 #: data/gui/window/lua_interpreter.cfg:105 data/gui/window/wml_error.cfg:124
 msgid "clipboard^Copy"
-msgstr ""
+msgstr "প্রতিলিপি"
 
 #. [button]: id=copy
 #: data/gui/window/chat_log.cfg:188 data/gui/window/lua_interpreter.cfg:106
@@ -2817,7 +2817,7 @@ msgstr ""
 #: data/gui/window/game_version.cfg:47
 #: data/gui/window/screenshot_notification.cfg:33
 msgid "filesystem^Copy"
-msgstr ""
+msgstr "প্রতিলিপি"
 
 #. [button]: id=copy_
 #. [button]: id=copy
@@ -2846,7 +2846,7 @@ msgstr ""
 #. [label]
 #: data/gui/window/custom_tod.cfg:147
 msgid "Edit Time Schedule"
-msgstr ""
+msgstr "সময়সূচী পরিমার্জন করুন"
 
 #. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]
@@ -2899,7 +2899,7 @@ msgstr "শব্দ:"
 #. [label]
 #: data/gui/window/custom_tod.cfg:344
 msgid "Lawful Bonus:"
-msgstr ""
+msgstr "নৈতিক বোনাস:"
 
 #. [grid]
 #: data/gui/window/custom_tod.cfg:367
@@ -2919,12 +2919,12 @@ msgstr "নীল:"
 #. [button]: id=new
 #: data/gui/window/custom_tod.cfg:433
 msgid "New ToD"
-msgstr ""
+msgstr "নতুন দিনের সময়"
 
 #. [button]: id=delete
 #: data/gui/window/custom_tod.cfg:446
 msgid "Delete ToD"
-msgstr ""
+msgstr "দিনের সময় মুছুন"
 
 #. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]
@@ -2937,7 +2937,7 @@ msgstr "নিশ্চিত করুন"
 #. [label]
 #: data/gui/window/depcheck_confirm_change.cfg:96
 msgid "Would you like to apply the changes?"
-msgstr ""
+msgstr "আপনি কী পরিবর্তনগুলি করতে চান?"
 
 #. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [button]: id=ok
@@ -2974,12 +2974,12 @@ msgstr ""
 #. [label]: id=title
 #: data/gui/window/edit_label.cfg:42 data/gui/window/editor_edit_label.cfg:42
 msgid "Place Label"
-msgstr ""
+msgstr "লেবেল বসান"
 
 #. [label]
 #: data/gui/window/edit_label.cfg:72 data/gui/window/editor_edit_label.cfg:72
 msgid "Label:"
-msgstr ""
+msgstr "লেবেল:"
 
 #. [toggle_button]: id=team_only_toggle
 #: data/gui/window/edit_label.cfg:111
@@ -3007,7 +3007,7 @@ msgstr "অ্যাড-অন আইডি"
 #. [label]
 #: data/gui/window/editor_choose_addon.cfg:172
 msgid "Show all"
-msgstr ""
+msgstr "সব দেখান"
 
 #. [toggle_button]: id=show_all
 #: data/gui/window/editor_choose_addon.cfg:184
@@ -3027,7 +3027,7 @@ msgstr ""
 #. [label]
 #: data/gui/window/editor_edit_label.cfg:164
 msgid "Color"
-msgstr ""
+msgstr "রঙ"
 
 #. [toggle_button]: id=immutable_toggle
 #: data/gui/window/editor_edit_label.cfg:181
@@ -3057,7 +3057,7 @@ msgstr ""
 #. [grid]
 #: data/gui/window/editor_edit_pbl.cfg:150
 msgid "Title:"
-msgstr ""
+msgstr "শিরোনাম:"
 
 #. [grid]
 #: data/gui/window/editor_edit_pbl.cfg:151
@@ -3069,7 +3069,7 @@ msgstr ""
 #: data/gui/window/editor_edit_pbl.cfg:162
 #: data/gui/window/editor_edit_unit.cfg:710
 msgid "Icon:"
-msgstr ""
+msgstr "ছবি:"
 
 #. [button]: id=select_icon
 #: data/gui/window/editor_edit_pbl.cfg:182
@@ -3086,7 +3086,7 @@ msgstr ""
 #. [grid]
 #: data/gui/window/editor_edit_pbl.cfg:206
 msgid "Author:"
-msgstr ""
+msgstr "লেখক:"
 
 #. [grid]
 #: data/gui/window/editor_edit_pbl.cfg:206
@@ -3737,7 +3737,7 @@ msgstr ""
 #. [label]
 #: data/gui/window/formula_debugger.cfg:59
 msgid "Welcome"
-msgstr ""
+msgstr "স্বাগতম"
 
 #. [label]: id=state
 #: data/gui/window/formula_debugger.cfg:71
@@ -3752,7 +3752,7 @@ msgstr ""
 #. [label]
 #: data/gui/window/formula_debugger.cfg:94
 msgid "Actions"
-msgstr ""
+msgstr "কাজগুলি"
 
 #. [button]: id=step
 #: data/gui/window/formula_debugger.cfg:128
@@ -3979,28 +3979,36 @@ msgstr "দল"
 msgid ""
 "Starting\n"
 "Gold"
-msgstr "শুরুর সময়\nস্বর্ণ"
+msgstr ""
+"শুরুর সময়\n"
+"স্বর্ণ"
 
 #. [toggle_button]: id=sort_3
 #: data/gui/window/game_stats.cfg:325
 msgid ""
 "Base\n"
 "Income"
-msgstr "মূল\nআয়"
+msgstr ""
+"মূল\n"
+"আয়"
 
 #. [toggle_button]: id=sort_4
 #: data/gui/window/game_stats.cfg:340
 msgid ""
 "Gold Per\n"
 "Village"
-msgstr "গ্রাম প্রতি\nস্বর্ণ"
+msgstr ""
+"গ্রাম প্রতি\n"
+"স্বর্ণ"
 
 #. [toggle_button]: id=sort_5
 #: data/gui/window/game_stats.cfg:355
 msgid ""
 "Support Per\n"
 "Village"
-msgstr "গ্রাম প্রতি\nসাহায্য"
+msgstr ""
+"গ্রাম প্রতি\n"
+"সাহায্য"
 
 #. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]: id=title
@@ -8696,7 +8704,7 @@ msgstr "ফর্মূলা চালান"
 
 #: src/hotkey/hotkey_command.cpp:291
 msgid "Clear Chat"
-msgstr ""
+msgstr "চ্যাট পরিস্কার করুন"
 
 #: src/hotkey/hotkey_command.cpp:293
 msgid "Change Language"
@@ -8716,11 +8724,11 @@ msgstr ""
 
 #: src/hotkey/hotkey_command.cpp:297
 msgid "Start Campaign"
-msgstr ""
+msgstr "অভিযান শুরু করুন"
 
 #: src/hotkey/hotkey_command.cpp:298
 msgid "Start Multiplayer Game"
-msgstr ""
+msgstr "বহুখেলোয়াড় খেলা শুরু করুন"
 
 #: src/hotkey/hotkey_command.cpp:299
 msgid "Manage Add-ons"
@@ -8744,7 +8752,7 @@ msgstr ""
 
 #: src/hotkey/hotkey_command.cpp:307
 msgid "Show Lua Console"
-msgstr ""
+msgstr "লুয়া কনসোল দেখান"
 
 #: src/hotkey/hotkey_command.cpp:310
 msgid "Unrecognized Command"
@@ -8763,7 +8771,7 @@ msgstr ""
 
 #: src/preferences/display.cpp:117
 msgid "Find Server Application"
-msgstr ""
+msgstr "সার্ভার অ্যাপ্লিকেশন খুঁজুন"
 
 #: src/preferences/game.cpp:867
 msgid "[%H:%M]"
