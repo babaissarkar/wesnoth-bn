@@ -17,7 +17,7 @@ msgstr ""
 #: data/campaigns/Liberty/_main.cfg:10 data/campaigns/Liberty/_main.cfg:11
 #: data/campaigns/Liberty/achievements.cfg:3
 msgid "Liberty"
-msgstr "লিবার্টি"
+msgstr "মুক্তি"
 
 #. [campaign]: id=Liberty
 #: data/campaigns/Liberty/_main.cfg:19
@@ -37,7 +37,7 @@ msgstr "সাধারণ"
 #. [campaign]: id=Liberty
 #: data/campaigns/Liberty/_main.cfg:20
 msgid "Outlaw"
-msgstr "আউটলু"
+msgstr "দস্যু"
 
 #. [campaign]: id=Liberty
 #: data/campaigns/Liberty/_main.cfg:21
@@ -57,20 +57,20 @@ msgid ""
 "As the shadow of civil war deepens across Wesnoth, a band of hardy marchlanders revolts against the governance of the new queen. To win their way to freedom, they must learn to use shadows and deception to rout the trained blades of the Wesnothian army.\n"
 "\n"
 msgstr ""
-"ওয়েসোথ জুড়ে গৃহযুদ্ধের ছায়া আরও গভীর হওয়ার সাথে সাথে হার্ডি "
-"মার্চল্যান্ডারদের একটি দল নতুন রানির প্রশাসনের বিরুদ্ধে বিদ্রোহ করে।তাদের "
-"স্বাধীনতার পথে জিততে, ওয়েসনোথিয়ান সেনাবাহিনীর প্রশিক্ষিত ব্লেডগুলি রুট "
-"করতে তাদের অবশ্যই ছায়া এবং প্রতারণা ব্যবহার করতে শিখতে হবে।"
+"ওয়েসোথ জুড়ে গৃহযুদ্ধের ছায়া আরও গভীর হওয়ার সাথে সাথে পরিশ্রমী "
+"প্রান্তিক অধিবাসীদের একটি দল নতুন রানির প্রশাসনের বিরুদ্ধে বিদ্রোহ করে। তাদের "
+"স্বাধীনতার পথে জিততে, ওয়েসনোথিয়ান সেনাবাহিনীর প্রশিক্ষিত সৈন্যদের "
+"পরাজিত করার জন্য তাদের অবশ্যই ছায়ার আড়াল থেকে আঘাত করা এবং প্রতারণা করা শিখতে হবে।"
 
 #. [campaign]: id=Liberty
 #: data/campaigns/Liberty/_main.cfg:27
 msgid "(Novice level, 7 scenarios.)"
-msgstr "(নবজাতক স্তর, 7 পরিস্থিতি।)"
+msgstr "(শিক্ষানবিস স্তর, 7টি ঘটনাক্রম।)"
 
 #. [about]
 #: data/campaigns/Liberty/_main.cfg:30
 msgid "Original Campaign Design"
-msgstr "মূল প্রচারের নকশা"
+msgstr "মূল অভিযানের পরিকল্পনা"
 
 #. [about]
 #: data/campaigns/Liberty/_main.cfg:36
@@ -80,7 +80,7 @@ msgstr "সর্বশেষ পুনর্লিখন"
 #. [about]
 #: data/campaigns/Liberty/_main.cfg:42
 msgid "Campaign Maintenance"
-msgstr "প্রচার রক্ষণাবেক্ষণ"
+msgstr "অভিযান রক্ষণাবেক্ষণ"
 
 #. [about]
 #: data/campaigns/Liberty/_main.cfg:52
@@ -90,22 +90,22 @@ msgstr "শিল্পকর্ম এবং গ্রাফিক্স ডি
 #. [achievement]: id=liberty_or_death
 #: data/campaigns/Liberty/achievements.cfg:7
 msgid "Give Me Liberty or Give Me Death!"
-msgstr "আমাকে স্বাধীনতা নইলে মৃত্যু দিন!"
+msgstr "হয় আমাকে স্বাধীনতা দিন নয়তো আমাকে মৃত্যু দিন!"
 
 #. [achievement]: id=liberty_or_death
 #: data/campaigns/Liberty/achievements.cfg:8
 msgid "Complete Civil Disobedience with at least 3 peasants remaining."
-msgstr "কমপক্ষে 3 কৃষক বাকি রেখে সম্পূর্ণ নাগরিক অবাধ্যতা।"
+msgstr "কমপক্ষে 3 কৃষক বেঁচে থাকা অবস্থায় অসহযোগ সম্পূর্ণ করুন ।"
 
 #. [achievement]: id=liberty_nameless
 #: data/campaigns/Liberty/achievements.cfg:14
 msgid "The Nameless General"
-msgstr "নামহীন জেনারেল"
+msgstr "নামহীন সেনাপতি"
 
 #. [achievement]: id=liberty_nameless
 #: data/campaigns/Liberty/achievements.cfg:15
 msgid "Find out the name of the general in Unlawful Orders."
-msgstr "বেআইনী আদেশে জেনারেলের নামটি সন্ধান করুন।"
+msgstr "বেআইনী আদেশে সেনাপতির নামটি সন্ধান করুন।"
 
 #. [achievement]: id=liberty_iron
 #: data/campaigns/Liberty/achievements.cfg:21
@@ -115,28 +115,28 @@ msgstr "হার্পার বনাম গোলিয়াথ"
 #. [achievement]: id=liberty_iron
 #: data/campaigns/Liberty/achievements.cfg:22
 msgid "Defeat an Iron Mauler with Harper in Hide and Seek."
-msgstr "লুকানো এবং সিকের হার্পারের সাথে একটি আয়রন মালারকে পরাজিত করুন।"
+msgstr "লুকানোচুরির খেলায় হার্পারকে দিয়ে একজন আয়রন মলারকে পরাজিত করুন।"
 
 #. [achievement]: id=liberty_hunter
 #. this is the achievement for the scenario The Hunters
 #: data/campaigns/Liberty/achievements.cfg:29
 msgid "Perfect Hunter"
-msgstr "পারফেক্ট হান্টার"
+msgstr "আদর্শ শিকারী"
 
 #. [achievement]: id=liberty_hunter
 #: data/campaigns/Liberty/achievements.cfg:30
 msgid "Complete The Hunters with no losses"
-msgstr "কোনও ক্ষতি ছাড়াই শিকারীদের সম্পূর্ণ করুন"
+msgstr "কোনও ক্ষতি শিকারীরা ঘটনাক্রম সম্পূর্ণ করুন"
 
 #. [achievement]: id=liberty_army
 #: data/campaigns/Liberty/achievements.cfg:36
 msgid "Force of Arms is Pointless Without Strategy"
-msgstr "অস্ত্রের শক্তি কৌশল ছাড়াই অর্থহীন"
+msgstr "অস্ত্রের শক্তি যুদ্ধনীতি ছাড়া অর্থহীন"
 
 #. [achievement]: id=liberty_army
 #: data/campaigns/Liberty/achievements.cfg:37
 msgid "On Challenging difficulty, defeat Dommel in Glory."
-msgstr "চ্যালেঞ্জিং অসুবিধায়, গৌরবতে ডোমেলকে পরাস্ত করুন।"
+msgstr "চ্যালেঞ্জিং জটিলতায়, গৌরব ঘটনাক্রমে ডোমেলকে পরাস্ত করুন।"
 
 #. [scenario]: id=01_The_Raid
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:4
