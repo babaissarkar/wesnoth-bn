@@ -2555,7 +2555,7 @@ msgstr ""
 #: data/gui/window/addon_uninstall_list.cfg:161
 #: data/gui/window/preferences/05_multiplayer.cfg:289
 msgid "Remove"
-msgstr ""
+msgstr "মুছুন"
 
 #. [grid]
 #: data/gui/window/attack_predictions.cfg:82
@@ -4159,14 +4159,14 @@ msgstr ""
 #: data/gui/window/lobby_player_info.cfg:88
 #: data/gui/window/preferences/05_multiplayer.cfg:263
 msgid "Add Friend"
-msgstr ""
+msgstr "বন্ধু যোগ করুন"
 
 #. [button]: id=add_to_ignores
 #. [button]: id=add_ignored
 #: data/gui/window/lobby_player_info.cfg:99
 #: data/gui/window/preferences/05_multiplayer.cfg:276
 msgid "Block"
-msgstr ""
+msgstr "ব্লক করুন"
 
 #. [button]: id=remove_from_list
 #: data/gui/window/lobby_player_info.cfg:112
@@ -4314,7 +4314,7 @@ msgstr ""
 #: data/gui/window/mp_alerts_options.cfg:147
 #: data/gui/window/preferences.cfg:347
 msgid "Sound"
-msgstr ""
+msgstr "ধ্বনি"
 
 #. [label]: id=notification_label
 #: data/gui/window/mp_alerts_options.cfg:163
@@ -4640,7 +4640,7 @@ msgstr ""
 #: data/gui/window/preferences/05_multiplayer.cfg:402
 #: data/gui/window/server_info.cfg:181 src/hotkey/hotkey_command.cpp:51
 msgid "General"
-msgstr ""
+msgstr "সাধারণ"
 
 #. [widget]: id=tab_label
 #: data/gui/window/mp_create_game.cfg:592
@@ -4980,7 +4980,7 @@ msgstr ""
 #. [widget]: id=label
 #: data/gui/window/preferences.cfg:311
 msgid "Hotkeys"
-msgstr ""
+msgstr "হটকি"
 
 #. [widget]: id=label
 #: data/gui/window/preferences.cfg:329
@@ -5010,7 +5010,7 @@ msgstr "এআই-এর দান এড়িয়ে যান"
 #. [toggle_button]: id=skip_ai_moves
 #: data/gui/window/preferences/01_general.cfg:55
 msgid "Do not animate AI units moving"
-msgstr ""
+msgstr "এআই নিয়ন্ত্রিত ইউনিটদের সরা অ্যানিমেট করবেন না"
 
 #. [toggle_button]: id=turbo_toggle
 #: data/gui/window/preferences/01_general.cfg:68
@@ -5020,12 +5020,12 @@ msgstr "ত্বরিত গতি"
 #. [toggle_button]: id=turbo_toggle
 #: data/gui/window/preferences/01_general.cfg:69
 msgid "Make units move and fight faster"
-msgstr ""
+msgstr "ইউনিটরা আরও দ্রুত সরবে এবং লড়াই করবে"
 
 #. [column]
 #: data/gui/window/preferences/01_general.cfg:79
 msgid "Acceleration factor:"
-msgstr ""
+msgstr "দ্রুততার গুণিতক:"
 
 #. [column]
 #: data/gui/window/preferences/01_general.cfg:84
@@ -5037,7 +5037,7 @@ msgstr ""
 #. [toggle_button]: id=disable_auto_moves
 #: data/gui/window/preferences/01_general.cfg:100
 msgid "Disable automatic moves"
-msgstr ""
+msgstr "স্বয়ংক্রিয় দান চালানো নিস্ক্রিয় করুন"
 
 #. [toggle_button]: id=disable_auto_moves
 #: data/gui/window/preferences/01_general.cfg:101
@@ -5052,22 +5052,22 @@ msgstr "দানের ডায়ালগ"
 #. [toggle_button]: id=show_turn_dialog
 #: data/gui/window/preferences/01_general.cfg:115
 msgid "Display a dialog at the beginning of your turn"
-msgstr ""
+msgstr "আপনার দানের শুরুতে একটি ডায়ালগ দেখান"
 
 #. [toggle_button]: id=whiteboard_on_start
 #: data/gui/window/preferences/01_general.cfg:128
 msgid "Enable planning mode on start"
-msgstr ""
+msgstr "শুরুতেই পরিকল্পনা মোড সক্রিয় করুন"
 
 #. [toggle_button]: id=whiteboard_on_start
 #: data/gui/window/preferences/01_general.cfg:129
 msgid "Activates Planning Mode on game start"
-msgstr ""
+msgstr "খেলার শুরুতে পরিকল্পনা মোড চালু করে"
 
 #. [toggle_button]: id=whiteboard_hide_allies
 #: data/gui/window/preferences/01_general.cfg:142
 msgid "Hide allies’ plans by default"
-msgstr ""
+msgstr "স্বাভাবিকভাবে মিত্রপক্ষের পরিকল্পনা লুকিয়ে রাখুন"
 
 #. [toggle_button]: id=whiteboard_hide_allies
 #: data/gui/window/preferences/01_general.cfg:143
@@ -5077,7 +5077,7 @@ msgstr ""
 #. [toggle_button]: id=interrupt_move_when_ally_sighted
 #: data/gui/window/preferences/01_general.cfg:156
 msgid "Interrupt move when an ally is sighted"
-msgstr ""
+msgstr "মিত্রপক্ষকে দেখা গেলে দান থামান"
 
 #. [toggle_button]: id=interrupt_move_when_ally_sighted
 #: data/gui/window/preferences/01_general.cfg:157
@@ -5087,7 +5087,7 @@ msgstr ""
 #. [toggle_button]: id=save_replays
 #: data/gui/window/preferences/01_general.cfg:172
 msgid "Save replays at the end of scenarios"
-msgstr ""
+msgstr "দানের শেষে রিপ্লে সঞ্চয় করুন"
 
 #. [toggle_button]: id=save_replays
 #: data/gui/window/preferences/01_general.cfg:173
@@ -5097,7 +5097,7 @@ msgstr ""
 #. [toggle_button]: id=delete_saves
 #: data/gui/window/preferences/01_general.cfg:186
 msgid "Delete auto-saves at the end of scenarios"
-msgstr ""
+msgstr "ঘটনাক্রমের শেষে স্বয়ংক্রিয় সঞ্চয়গুলি মুছে ফেলুন"
 
 #. [toggle_button]: id=delete_saves
 #: data/gui/window/preferences/01_general.cfg:187
@@ -5108,7 +5108,7 @@ msgstr ""
 #. [column]
 #: data/gui/window/preferences/01_general.cfg:197
 msgid "Maximum auto-saves:"
-msgstr ""
+msgstr "সর্বোচ্চ স্বয়ংক্রিয় সঞ্চয়ের সংখ্যা:"
 
 #. [column]
 #: data/gui/window/preferences/01_general.cfg:200
@@ -5123,7 +5123,7 @@ msgstr ""
 #. [button]: id=cachemg
 #: data/gui/window/preferences/01_general.cfg:218
 msgid "Cache"
-msgstr ""
+msgstr "ক্যাশে"
 
 #. [button]: id=cachemg
 #: data/gui/window/preferences/01_general.cfg:219
@@ -5133,7 +5133,7 @@ msgstr ""
 #. [label]
 #: data/gui/window/preferences/02_hotkeys.cfg:25
 msgid "Filter:"
-msgstr ""
+msgstr "ফিল্টার:"
 
 #. [text_box]: id=filter
 #: data/gui/window/preferences/02_hotkeys.cfg:50
@@ -5143,12 +5143,12 @@ msgstr ""
 #. [toggle_button]: id=sort_0
 #: data/gui/window/preferences/02_hotkeys.cfg:94
 msgid "Action"
-msgstr ""
+msgstr "কাজ"
 
 #. [toggle_button]: id=sort_1
 #: data/gui/window/preferences/02_hotkeys.cfg:106
 msgid "Hotkey"
-msgstr ""
+msgstr "হটকি"
 
 #. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [toggle_button]: id=sort_2
@@ -5161,7 +5161,7 @@ msgstr ""
 #. [toggle_button]: id=sort_2
 #: data/gui/window/preferences/02_hotkeys.cfg:119
 msgid "Available in game"
-msgstr ""
+msgstr "খেলায় উপলব্ধ"
 
 #. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [toggle_button]: id=sort_3
@@ -5174,7 +5174,7 @@ msgstr ""
 #. [toggle_button]: id=sort_3
 #: data/gui/window/preferences/02_hotkeys.cfg:132
 msgid "Available in editor"
-msgstr ""
+msgstr "এডিটরে উপলব্ধ"
 
 #. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [toggle_button]: id=sort_4
@@ -5187,22 +5187,22 @@ msgstr ""
 #. [toggle_button]: id=sort_4
 #: data/gui/window/preferences/02_hotkeys.cfg:145
 msgid "Available at main menu"
-msgstr ""
+msgstr "মূল মেনুতে উপলব্ধ"
 
 #. [button]: id=btn_add_hotkey
 #: data/gui/window/preferences/02_hotkeys.cfg:260
 msgid "Add Hotkey"
-msgstr ""
+msgstr "হটকি যোগ করুন"
 
 #. [button]: id=btn_clear_hotkey
 #: data/gui/window/preferences/02_hotkeys.cfg:271
 msgid "Clear Hotkey"
-msgstr ""
+msgstr "হটকি মুছুন"
 
 #. [label]
 #: data/gui/window/preferences/03_display.cfg:15
 msgid "Window size:"
-msgstr ""
+msgstr "উইন্ডোর আকার:"
 
 #. [label]: id=help_text
 #: data/gui/window/preferences/03_display.cfg:39
@@ -5224,7 +5224,7 @@ msgstr ""
 #. [toggle_button]: id=fullscreen
 #: data/gui/window/preferences/03_display.cfg:102
 msgid "Full screen"
-msgstr ""
+msgstr "সম্পূর্ণ স্ক্রিন ব্যবহার করুন"
 
 #. [toggle_button]: id=fullscreen
 #: data/gui/window/preferences/03_display.cfg:103
@@ -5256,7 +5256,7 @@ msgstr ""
 #. [toggle_button]: id=fps_limiter
 #: data/gui/window/preferences/03_display.cfg:145
 msgid "Limit FPS"
-msgstr ""
+msgstr "এফপিএস সীমিত করুন"
 
 #. [toggle_button]: id=fps_limiter
 #: data/gui/window/preferences/03_display.cfg:146
@@ -5268,7 +5268,7 @@ msgstr ""
 #. [label]
 #: data/gui/window/preferences/03_display.cfg:168
 msgid "Interface theme:"
-msgstr ""
+msgstr "ইন্টারফেসের থিম:"
 
 #. [menu_button]: id=choose_theme
 #: data/gui/window/preferences/03_display.cfg:181
@@ -5280,7 +5280,7 @@ msgstr ""
 #. [toggle_button]: id=show_floating_labels
 #: data/gui/window/preferences/03_display.cfg:200
 msgid "Combat damage indicators"
-msgstr ""
+msgstr "লড়াইয়ের ক্ষতির সূচক"
 
 #. [toggle_button]: id=show_floating_labels
 #: data/gui/window/preferences/03_display.cfg:201
@@ -5290,7 +5290,7 @@ msgstr ""
 #. [toggle_button]: id=show_ellipses
 #: data/gui/window/preferences/03_display.cfg:214
 msgid "Team color indicators"
-msgstr ""
+msgstr "দলের রঙের সূচক"
 
 #. [toggle_button]: id=show_ellipses
 #: data/gui/window/preferences/03_display.cfg:215
@@ -5312,7 +5312,7 @@ msgstr ""
 #. [toggle_button]: id=animate_terrains
 #: data/gui/window/preferences/03_display.cfg:263
 msgid "Animate map"
-msgstr ""
+msgstr "মানচিত্র অ্যানিমেট করুন"
 
 #. [toggle_button]: id=animate_terrains
 #: data/gui/window/preferences/03_display.cfg:264
@@ -5322,7 +5322,7 @@ msgstr ""
 #. [toggle_button]: id=animate_water
 #: data/gui/window/preferences/03_display.cfg:277
 msgid "Animate water"
-msgstr ""
+msgstr "জল অ্যানিমেট করুন"
 
 #. [toggle_button]: id=animate_water
 #: data/gui/window/preferences/03_display.cfg:278
@@ -5352,7 +5352,7 @@ msgstr ""
 #. [label]
 #: data/gui/window/preferences/03_display.cfg:336
 msgid "Frequency:"
-msgstr ""
+msgstr "কম্পাঙ্ক:"
 
 #. [slider]: id=idle_anim_frequency
 #: data/gui/window/preferences/03_display.cfg:352
@@ -5377,37 +5377,37 @@ msgstr ""
 #. [column]
 #: data/gui/window/preferences/04_sound.cfg:104
 msgid "Sound effects"
-msgstr ""
+msgstr "ধ্বনি এফেক্ট"
 
 #. [column]
 #: data/gui/window/preferences/04_sound.cfg:104
 msgid "Sound effects on/off"
-msgstr ""
+msgstr "ধ্বনি এফেক্ট চালু/বন্ধ"
 
 #. [column]
 #: data/gui/window/preferences/04_sound.cfg:105
 msgid "Change the sound effects volume"
-msgstr ""
+msgstr "ধ্বনি এফেক্ট ভলিউম পাল্টান"
 
 #. [column]
 #: data/gui/window/preferences/04_sound.cfg:115
 msgid "Music"
-msgstr ""
+msgstr "সঙ্গীত"
 
 #. [column]
 #: data/gui/window/preferences/04_sound.cfg:115
 msgid "Music on/off"
-msgstr ""
+msgstr "সঙ্গীত চালু/বন্ধ"
 
 #. [column]
 #: data/gui/window/preferences/04_sound.cfg:116
 msgid "Change the music volume"
-msgstr ""
+msgstr "সঙ্গীত ভলিউম পাল্টান"
 
 #. [column]
 #: data/gui/window/preferences/04_sound.cfg:127
 msgid "Play a bell sound at the beginning of your turn"
-msgstr ""
+msgstr "দানের শুরুতে একটি ঘন্টাধ্বনি বাজান"
 
 #. [column]
 #: data/gui/window/preferences/04_sound.cfg:127
@@ -5417,22 +5417,22 @@ msgstr "দানের ঘন্টা"
 #. [column]
 #: data/gui/window/preferences/04_sound.cfg:128
 msgid "Change the bell volume"
-msgstr ""
+msgstr "ঘন্টার ভলিউম পাল্টান"
 
 #. [column]
 #: data/gui/window/preferences/04_sound.cfg:137
 msgid "Turn menu and button sounds on/off"
-msgstr ""
+msgstr "মেনু এবং বাটনের শব্দ চালু/বন্ধ"
 
 #. [column]
 #: data/gui/window/preferences/04_sound.cfg:137
 msgid "User interface sounds"
-msgstr ""
+msgstr "ইউজ়ার ইন্টারফেসের ধ্বনি"
 
 #. [column]
 #: data/gui/window/preferences/04_sound.cfg:138
 msgid "Change the sound volume for button clicks, etc."
-msgstr ""
+msgstr "বাটন ক্লিক ইত্যাদি শব্দের ভলিউম পাল্টান"
 
 #. [label]
 #: data/gui/window/preferences/05_multiplayer.cfg:20
