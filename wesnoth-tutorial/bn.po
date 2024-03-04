@@ -2,13 +2,11 @@
 # Bengali translation of Wesnoth.
 # Copyright (C) 2024 Wesnoth development team
 # Subhraman Sarkar <suvrax@gmail.com>, 2024.
-
 msgid ""
 msgstr ""
-"#-#-#-#-#  wesnoth-tutorial  #-#-#-#-#\n"
 "Project-Id-Version: bn\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2024-01-28 19:45+0530\n"
+"POT-Creation-Date: 2024-03-03 07:38+0530\n"
 "PO-Revision-Date: 2024-02-21 09:49+0530\n"
 "Last-Translator: Subhraman Sarkar <suvrax@gmail.com>\n"
 "Language-Team: Bengali < >\n"
@@ -16,6 +14,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  wesnoth-tutorial  #-#-#-#-#\n"
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"
 "X-Generator: Gtranslator 42.0\n"
 
@@ -78,7 +77,7 @@ msgstr "কনরাড"
 #. [lua]: wml_actions.select_character
 #. [modify_side]
 #: data/campaigns/tutorial/gui/character_selection.cfg:70
-#: data/campaigns/tutorial/lua/character_selection.lua:24
+#: data/campaigns/tutorial/lua/character_selection.lua:25
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:178
 msgid "Li’sar"
 msgstr "লি'সার"
@@ -700,9 +699,9 @@ msgid ""
 "have been safer."
 msgstr ""
 "তোমার এল্ফ তলোয়ার দিয়ে আক্রমণ করেছে (6×4; বা প্রত্যেক আঘাতে 6 ক্ষতি, এরকম 4টি "
-"আক্রমণ), যা একটি <i>নিকট</i> আক্রমণ । কুইন্টেনটি নিজের নিকট আক্রমণ দিয়ে নিজের সুরক্ষা "
-"করেছে (3×5; বা প্রত্যেক আঘাতে 3 ক্ষতি, এরকম 5টি আক্রমণ) । দূরবর্তী আক্রমণটি (ধনুক) "
-"বেশী নিরাপদ হত ।"
+"আক্রমণ), যা একটি <i>নিকট</i> আক্রমণ । কুইন্টেনটি নিজের নিকট আক্রমণ দিয়ে নিজের "
+"সুরক্ষা করেছে (3×5; বা প্রত্যেক আঘাতে 3 ক্ষতি, এরকম 5টি আক্রমণ) । দূরবর্তী আক্রমণটি "
+"(ধনুক) বেশী নিরাপদ হত ।"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:899
@@ -1295,8 +1294,8 @@ msgstr ""
 "করার জন্য নয়, কিন্তু তাকে পরবর্তী পর্যায়ে উন্নীত করা লাভজনক -- তার দ্বিতীয় পর্যায়, "
 "এল্ফ অরণ্যযাজক সুস্থ করার ক্ষমতা গ্রামের সমপরিমাণ ।\n"
 "\n"
-"আরোগ্যকরণ সংক্রান্ত বিস্তারিত তথ্য সাহায্যের <i>খেলা</i> বিভাগে পাওয়া যাবে (স্বাভাবিক "
-"হট-কি: <b>F1</b>)."
+"আরোগ্যকরণ সংক্রান্ত বিস্তারিত তথ্য সাহায্যের <i>খেলা</i> বিভাগে পাওয়া যাবে "
+"(স্বাভাবিক হট-কি: <b>F1</b>)."
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:329
@@ -1321,10 +1320,9 @@ msgstr ""
 "সফলকে একজন শত্রুকে আঘাত করবে, তখন এক দানের জন্য তারা যা ক্ষতি করবে তা অর্ধেক হয়ে "
 "যাবে । অন্যান্য অস্ত্রের বিশেষত্বের মধ্যে রয়েছে প্রথম আঘাত, যেটি যে-ই প্রথমে আক্রমণ "
 "শুরু করুক না কেন, প্রথম-আঘাত যুক্ত আক্রমণটিকে প্রথমে আঘাত করতে দেয় এবং জাদু, যা "
-"সবসময়েই আক্রমণটির আঘাত করার সম্ভাবনা 70% করে দেয় ।"
-"\n"
-"দক্ষতা এবং অস্ত্রের বিশেষত্বের একটি সম্পূর্ণ তালিকা সাহায্যে পাওয়া যাবে"
-"(স্বাভাবিক হটকি: <b>F1</b>)."
+"সবসময়েই আক্রমণটির আঘাত করার সম্ভাবনা 70% করে দেয় ।\n"
+"দক্ষতা এবং অস্ত্রের বিশেষত্বের একটি সম্পূর্ণ তালিকা সাহায্যে পাওয়া যাবে(স্বাভাবিক "
+"হটকি: <b>F1</b>)."
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:361
@@ -2320,7 +2318,7 @@ msgid "Fighter"
 msgstr "যোদ্ধা"
 
 #. [unit_type]: id=Fighter, race=human
-#. [unit_type]: id=Fighteress, race=human
+#. [unit_type]: id=Fighteress, gender=female, race=human
 #: data/campaigns/tutorial/units/Fighter.cfg:18
 #: data/campaigns/tutorial/units/Fighteress.cfg:20
 msgid ""
@@ -2331,7 +2329,7 @@ msgstr ""
 "কমবয়সী এবং হঠকারী, যোদ্ধারা অসিচালনায় নিপুণ এবং শত্রুদের থেকে তাদের আক্রান্ত হওয়ার "
 "সম্ভবনা বেশী । তবে, একদিন তাদের দক্ষ যোদ্ধা হয়ে ওঠার ক্ষমতা রয়েছে ।"
 
-#. [unit_type]: id=Fighteress, race=human
+#. [unit_type]: id=Fighteress, gender=female, race=human
 #: data/campaigns/tutorial/units/Fighteress.cfg:4
 msgid "female^Fighter"
 msgstr "যোদ্ধা"
@@ -2356,7 +2354,7 @@ msgid "Warrior"
 msgstr "অভিজ্ঞ যোদ্ধা"
 
 #. [unit_type]: id=Warrior, race=human
-#. [unit_type]: id=Warrioress, race=human
+#. [unit_type]: id=Warrioress, gender=female, race=human
 #: data/campaigns/tutorial/units/Warrior.cfg:19
 #: data/campaigns/tutorial/units/Warrioress.cfg:21
 msgid ""
@@ -2366,7 +2364,7 @@ msgstr ""
 "অভিজ্ঞতা অর্জন করে, যোদ্ধারা অসিচালনায় আরও নিপুণ হয়ে শক্তিশালী অভিজ্ঞ যোদ্ধায় পরিণত "
 "হয়েছে ।"
 
-#. [unit_type]: id=Warrioress, race=human
+#. [unit_type]: id=Warrioress, gender=female, race=human
 #: data/campaigns/tutorial/units/Warrioress.cfg:4
 msgid "female^Warrior"
 msgstr "অভিজ্ঞ যোদ্ধা"
