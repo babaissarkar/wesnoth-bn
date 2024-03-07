@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: unnamed project\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-03-03 07:38+0530\n"
-"PO-Revision-Date: 2024-03-04 22:24+0530\n"
+"PO-Revision-Date: 2024-03-07 09:45+0530\n"
 "Last-Translator: Tahsin J Khalid\n"
 "Language-Team: Bengali\n"
 "Language: bn\n"
@@ -131,11 +131,11 @@ msgstr ""
 "সে তার জাদু-আবাহনের জন্য বলি চাইতে শুরু করে ।\n"
 "\n"
 "কঙ্কাল এবং জম্বিগুলি গবাদি পশুদের হত্যা করেছিল এবং ক্ষেতগুলি জ্বালিয়ে দিয়েছিল । তারা "
-"তাদের নিষ্ঠুর স্বরে <i>“জাদুবিদকে ভয় করুন এবং মেনে চলুন!”</i> ধ্বনি দিয়ে কুকর্মগুলি "
-"করতে থাকে । লোকেরা বিচ্ছিন্ন খামার থেকে নিখোঁজ হতে থাকে । পুরুষ এবং মহিলারা রাতকে "
-"এবং তাদের সন্তানেরা এমনকি উজ্জ্বল দিনকেও ভয় করতে শুরু করে । নিকটতম লর্ডের বাড়ি এক "
-"দিনের যাত্রার চেয়ে বেশি দূরে এবং তাঁর সাহায্য খুঁজতে যাওয়া বার্তাবাহকরা আর ফিরে "
-"আসেনি ।"
+"তাদের নিষ্ঠুর স্বরে <i>“জাদুবিদ মোরডাককে ভয় করুন এবং মেনে চলুন!”</i> ধ্বনি দিয়ে "
+"কুকর্মগুলি করতে থাকে । লোকেরা বিচ্ছিন্ন খামার থেকে নিখোঁজ হতে থাকে । পুরুষ এবং "
+"মহিলারা রাতকে এবং তাদের সন্তানেরা এমনকি উজ্জ্বল দিনকেও ভয় করতে শুরু করে । নিকটতম "
+"লর্ডের বাড়ি এক দিনের যাত্রার চেয়ে বেশি দূরে এবং তাঁর সাহায্য খুঁজতে যাওয়া "
+"বার্তাবাহকরা আর ফিরে আসেনি ।"
 
 #. [part]
 #: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:63
@@ -579,8 +579,8 @@ msgid ""
 "The elvish forces are spread out. Seek to fight them one at a time with "
 "several of your units."
 msgstr ""
-"এলভিশ বাহিনী ছড়িয়ে পড়ে।আপনার বেশ কয়েকটি ইউনিটের সাথে একবারে তাদের সাথে লড়াই "
-"করার চেষ্টা করুন।"
+"এল্ফদের বাহিনী চারদিকে ছড়িয়ে রয়েছে । একাধিক ইউনিট দিয়ে এক-এক করে তাদের সঙ্গে "
+"লড়াই করার চেষ্টা করুন ।"
 
 #. [objectives]
 #: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:295
@@ -588,32 +588,33 @@ msgid ""
 "Use horsemen or footpads to quickly explore the shrouded woods to locate the "
 "kidnappers."
 msgstr ""
-"অপহরণকারীদের সনাক্ত করতে দ্রুত কাটা কাঠগুলি অন্বেষণ করতে ঘোড়সওয়ার বা ফুটপ্যাডগুলি "
-"ব্যবহার করুন।"
+"দ্রুত অন্ধকারাচ্ছন্ন বনভূমিতে সন্ধান চালিয়ে অপহরণকারীদের খুঁজে বের করতে অশ্বারোহী বা "
+"ফুটপ্যাডদের ব্যবহার করুন।"
 
 #. [objectives]
 #: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:310
 msgid ""
 "Separate the Dark Adept from his guards and attack in force for an easy kill."
 msgstr ""
-"তার প্রহরীদের থেকে অন্ধকার পারদর্শী আলাদা করুন এবং একটি সহজ হত্যার জন্য জোর করে "
-"আক্রমণ করুন।"
+"সহজে তমস শিক্ষানবিসকে নিহত করার জন্য তাকে তার প্রহরীদের থেকে আলাদা করে সর্বশক্তি "
+"দিয়ে আক্রমণ করুন ।"
 
 #. [message]: speaker=Arvith
 #: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:353
 msgid ""
 "Come on, men. A stroll through such lovely green woods, what could be finer?"
-msgstr "আসুন, পুরুষরা।এত সুন্দর সবুজ কাঠের মধ্য দিয়ে ঘুরে বেড়ানো, কী সূক্ষ্ম হতে পারে?"
+msgstr ""
+"আসুন, সকলে । এত সুন্দর সবুজ অরণ্যের মধ্যে ভ্রমণের থেকে ভালো আর কী-ই বা হতে পারে?"
 
 #. [message]: speaker=Nil-Galion
 #: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:358
 msgid "You there! Halt and explain yourself."
-msgstr "আপনি সেখানে!থামুন এবং নিজেকে ব্যাখ্যা করুন।"
+msgstr "এই যে আপনি! থামুন এবং আসার কারণ বলুন ।"
 
 #. [message]: speaker=Arvith
 #: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:363
 msgid "We’re chasing after some men who kidnapped my brother!"
-msgstr "আমরা আমার ভাইকে অপহরণকারী কিছু পুরুষের পিছনে তাড়া করছি!"
+msgstr "আমরা আমার ভাইকে অপহরণকারী কয়েকজনের পিছনে তাড়া করছি!"
 
 #. [message]: speaker=Nil-Galion
 #: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:368
@@ -623,17 +624,18 @@ msgid ""
 "murderer, and rest assured that the grey mages will release all of the souls "
 "that their prisoner’s evil magic has bound to this world."
 msgstr ""
-"এই লোকেরা তাদের বন্দীকে নেক্রোমেন্সি অনুশীলন করে ধরেছিল;আপনার জন্য, আমি আশা করি "
-"তিনি আপনার ভাই ছিলেন না।ধরে নিন যে তারা যে লোকটি ধরেছিল সে হ'ল আপনার ভাইয়ের "
-"খুনি এবং তিনি আশ্বাস দিয়েছেন যে ধূসর ম্যাজগুলি তাদের বন্দীর দুষ্ট যাদুটি এই পৃথিবীতে "
-"আবদ্ধ সমস্ত প্রাণকে মুক্তি দেবে।"
+"এই লোকেরা তাদের বন্দীকে মৃত্যু-জাদু অনুশীলন করার সময় ধরেছিল; আপনার খাতিরে আমি আশা "
+"করি তিনি আপনার ভাই নন । ধরে নিন যে তারা যে লোকটিকে ধরেছে সে আপনার ভাইয়ের "
+"খুনি, এবং আশ্বস্ত থাকুন যে ধূসর জাদুবিদেরা তাদের বন্দীর দুষ্ট যাদুর মাধ্যমে এই পৃথিবীতে "
+"আবদ্ধ সমস্ত আত্মাদের মুক্ত করবে ।"
 
 #. [message]: speaker=Arvith
 #: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:379
 msgid ""
 "We killed the necromancer on the battlefield! I struck the killing blow "
 "myself."
-msgstr "আমরা যুদ্ধক্ষেত্রে নেক্রোমেন্সারকে হত্যা করেছি!আমি নিজেই হত্যার ধাক্কা মারলাম।"
+msgstr ""
+"আমরা যুদ্ধক্ষেত্রে ওই মৃত্যু-জাদুবিদকে হত্যা করেছি! আমি নিজের হাতে তাকে নিহত করেছি ।"
 
 #. [message]: speaker=Arvith
 #: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:385
@@ -641,7 +643,8 @@ msgid ""
 "We killed the necromancer on the battlefield! I saw the killing blow with my "
 "own eyes."
 msgstr ""
-"আমরা যুদ্ধক্ষেত্রে নেক্রোমেন্সারকে হত্যা করেছি!আমি নিজের চোখে হত্যার আঘাতটি দেখেছি।"
+"আমরা যুদ্ধক্ষেত্রে ওই মৃত্যু-জাদুবিদকে হত্যা করেছি! আমি নিজের চোখে তাকে নিহত হতে "
+"দেখেছি ।"
 
 #. [message]: speaker=Nil-Galion
 #: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:392
@@ -655,13 +658,13 @@ msgid ""
 "Either way, nothing will be gained by your intrusion into our woods. Now "
 "advance no further, for we will defend our land."
 msgstr ""
-"আমরা তিন দিন আগে যুদ্ধের শব্দ শুনেছি, তবে বন্দী আমাদের পাশ দিয়ে যাওয়ার সাথে সাথে "
-"মৃত্যুর জঘন্য ঘটনাটি অনিচ্ছাকৃত ছিল;যদি আপনার ভাই সত্যিই বন্দী হন তবে তিনি একজন "
-"নেক্রোম্যান্সারও।আপনার ভাইকে মনে রাখবেন যেমন আমরা সকলেই আশা করি তিনি ছিলেন, এবং "
-"জেনে রাখুন যে বন্দীর ভাগ্য আপনার ইচ্ছামত যতটা ভয়াবহ প্রতিশোধ নেবে।\n"
+"আমরা তিন দিন আগে যুদ্ধের শব্দ শুনেছি, তবে বন্দী আমাদের পাশ দিয়ে যাওয়ার সময় মৃত্যুর "
+"কুৎসিত গন্ধ আমরা পেয়েছি; যদি আপনার ভাই সত্যিই বন্দী হন তবে তিনি একজন মৃত্যু-"
+"জাদুবিদও। যেভাবে তিনি অতীতে ছিলেন সেভাবেই আপনার ভাইকে মনে রাখবেন, এবং জেনে "
+"রাখুন যে বন্দীর ভাগ্য আপনি যতটা অনুমান করেছেন ততটাই ভয়াবহ হবে ।\n"
 "\n"
-"যেভাবেই হোক, আমাদের বনের মধ্যে আপনার অনুপ্রবেশ দ্বারা কিছুই অর্জন করা হবে না।এখন "
-"আর অগ্রসর হবে না, কারণ আমরা আমাদের জমি রক্ষা করব।"
+"উভয় ক্ষেত্রেই, আমাদের বনের মধ্যে অনুপ্রবেশ করে আপনি কিছুই পাবেন না । এখন আর অগ্রসর "
+"হবে না, কারণ আমরা আমাদের এলাকাকে রক্ষা করব ।"
 
 #. [message]: speaker=Arvith
 #: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:399
@@ -669,8 +672,8 @@ msgid ""
 "So much for those ghost stories, but even ghosts might have been more "
 "observant than these elves. Still, they will not stop me from freeing Baran!"
 msgstr ""
-"এই ভূতের গল্পগুলির জন্য অনেক কিছু, তবে এমনকি ভূতরাও এই ধনুকের চেয়ে বেশি "
-"পর্যবেক্ষণকারী হতে পারে।তবুও, তারা আমাকে বারানকে মুক্ত করা থেকে বিরত করবে না!"
+"এই তাহলে ভুতের গল্পের সত্যতা, তবে ভুতদেরও পর্যবেক্ষণ ক্ষমতা এই এল্ফদের থেকে বেশী । "
+"তবে, এরা আমাকে বারানকে মুক্ত করার থেকে থামাতে পারবে না!"
 
 #. [message]: role=Mercenary
 #: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:404
@@ -679,8 +682,8 @@ msgid ""
 "will have us at a disadvantage; our horses will not maneuver well in the "
 "trees."
 msgstr ""
-"আমি কমপক্ষে আনন্দিত যে আমাদের ভূতের মুখোমুখি হতে হবে না।তবে সেই ধনুকগুলি আমাদের "
-"একটি অসুবিধায় থাকবে;আমাদের ঘোড়াগুলি গাছগুলিতে ভালভাবে চালনা করবে না।"
+"আমি কমপক্ষে আনন্দিত যে আমাদের ভূতের মুখোমুখি হতে হবে না । তবে এল্ফদের সাপেক্ষে আমরা "
+"একটা অসুবিধায় থাকব; আমাদের ঘোড়াগুলি এই অরণ্য ভালোভাবে চলাফেরা করতে পারবে না ।"
 
 #. [message]: speaker=Arvith
 #: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:409
@@ -689,14 +692,13 @@ msgid ""
 "woods. We have faced and won through greater perils than those amateurs can "
 "offer."
 msgstr ""
-"বাহ, শুধু পথে থাকুন;আমাদের স্পিয়ারম্যান এবং বাউম্যান গভীর বনে লড়াই করতে পারে।আমরা "
-"যে অপেশাদারদের প্রস্তাব দিতে পারেন তার চেয়ে আমরা আরও বেশি বিপদের মধ্য দিয়ে "
-"মুখোমুখি হয়েছি এবং জিতেছি।"
+"ধুর, শুধু পথে থাকুন; আমাদের বর্শাবিদ এবং ধনুর্বিদেরা গভীর অরণ্যে লড়াই করতে পারে । "
+"আমরা এই অপেশাদারদের থেকে অনেকগুণ বেশি বিপদের মুখোমুখি হয়েছি এবং জিতেছি।"
 
 #. [message]: speaker=second_unit
 #: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:450
 msgid "I see them! There they are!"
-msgstr "আমি তাদের দেখেছি! ওই যে তারা!"
+msgstr "আমি তাদের দেখতে পাচ্ছি! ওই যে তারা!"
 
 #. [message]: speaker=Muff Toras
 #. There are no undead on the map yet, but Muff Toras summons some immediately after saying this
@@ -706,7 +708,7 @@ msgid ""
 "without arousing the elves’ suspicions. Still, no need for the disguise any "
 "more."
 msgstr ""
-"অভিশাপ!যদি তারা কয়েক ঘন্টা ধীর হয়ে যায় তবে আমি এলভেসের সন্দেহ জাগিয়ে না দিয়ে "
+"অভিশাপ! যদি তারা কয়েক ঘন্টা ধীর হয়ে যায় তবে আমি এলভেসের সন্দেহ জাগিয়ে না দিয়ে "
 "আমাদের ট্র্যাকগুলি cover েকে রাখতে পারি।তবুও, আর কোনও ছদ্মবেশের দরকার নেই।"
 
 #. [message]: speaker=Arvith
