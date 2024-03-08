@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: unnamed project\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-03-03 07:38+0530\n"
-"PO-Revision-Date: 2024-03-07 09:45+0530\n"
+"PO-Revision-Date: 2024-03-08 12:29+0530\n"
 "Last-Translator: Tahsin J Khalid\n"
 "Language-Team: Bengali\n"
 "Language: bn\n"
@@ -708,14 +708,14 @@ msgid ""
 "without arousing the elves’ suspicions. Still, no need for the disguise any "
 "more."
 msgstr ""
-"অভিশাপ! যদি তারা কয়েক ঘন্টা ধীর হয়ে যায় তবে আমি এলভেসের সন্দেহ জাগিয়ে না দিয়ে "
-"আমাদের ট্র্যাকগুলি cover েকে রাখতে পারি।তবুও, আর কোনও ছদ্মবেশের দরকার নেই।"
+"অভিশাপে পড়ুক ওরা! ওরা আর কয়েক ঘন্টা দেরী করে এলে, আমি এল্ফদের মনে সন্দেহ না "
+"জাগিয়ে আমাদের যাওয়ার চিহ্নগুলো মুছে ফেলতে পারতাম । তবে, ছদ্মবেশের আর প্রয়োজন নেই ।"
 
 #. [message]: speaker=Arvith
 #. it's likely that all the elves are already dead, and Arvith is just shouting to the forest
 #: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:498
 msgid "Well, elves? Now do you see who the necromancers are?"
-msgstr "আচ্ছা, এলভেস?এখন আপনি দেখতে পাচ্ছেন যে নেক্রোম্যান্সাররা কে?"
+msgstr "তাহলে, এল্ফগণেরা? এখন আপনরা দেখতে পাচ্ছেন যে প্রকৃত মৃত্যু-জাদুবিদ কে?"
 
 #. [message]: speaker=messenger_elf
 #. a elven scout rides in from off-map, takes their first look at the situation, and realises that they have no idea what's going on
@@ -724,13 +724,13 @@ msgid ""
 "I heard sounds of battle, but did not expect to see this. I will inform the "
 "Council, they can work out who the necromancers are."
 msgstr ""
-"আমি যুদ্ধের শব্দ শুনেছি, তবে এটি দেখার আশা করি নি।আমি কাউন্সিলকে অবহিত করব, তারা "
-"নেক্রোম্যান্সাররা কারা তা নিয়ে কাজ করতে পারে।"
+"আমি যুদ্ধের শব্দ শুনেছি, তবে এটি দেখার আশা করি নি । আমি পরিষদকে অবহিত করব, তাঁরা "
+"বিচার করে দেখবেন যে মৃত্যু-জাদুবিদ কারা ।"
 
 #. [message]: speaker=Arvith
 #: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:544
 msgid "Come on, men, let’s catch those kidnappers!"
-msgstr "আসুন, পুরুষরা, আসুন সেই অপহরণকারীদের ধরুন!"
+msgstr "আসুন, সবাই, অপহরণকারীদের ধরতে হবে!"
 
 #. [message]: speaker=unit
 #: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:556
@@ -739,9 +739,9 @@ msgid ""
 "precious brother the mage north with half my men a day since; he will be "
 "safely locked away in our master’s dungeons by now."
 msgstr ""
-"হাহ!আপনি আমাকে বন্দী করেছেন, তবে এটি আপনাকে কিছুই উপকার দেবে না।আমি আপনার "
-"মূল্যবান ভাইকে আমার অর্ধেক পুরুষদের সাথে একদিনের পরে প্রেরণ করেছি;এখনই তিনি "
-"নিরাপদে আমাদের মাস্টারের অন্ধকূপে লক হয়ে যাবেন।"
+"হাহা! আপনি আমাকে বন্দী করেছেন, তবে এতে আপনার কিছুই উপকার হবে না। আপনার মূল্যবান "
+"ভাইকে আমি আমার অর্ধেক অনুচরদের সঙ্গে একদিনের আগে প্রেরণ করেছি; এখন তিনি নিরাপদে "
+"আমাদের প্রভুর অন্ধকূপে বন্ধ হয়ে পড়েছেন নিশ্চয়ই ।"
 
 #. [message]: speaker=Arvith
 #: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:561
@@ -749,23 +749,23 @@ msgid ""
 "My blade is at your throat. Give us the way to my brother now, or I will "
 "spill your wretched blood on the ground."
 msgstr ""
-"আমার ব্লেড আপনার গলায়।আমাদের এখনই আমার ভাইয়ের পথ দিন, বা আমি আপনার খারাপ রক্ত "
-"মাটিতে ছড়িয়ে দেব।"
+"আমার তরোয়াল তোর গলায়। আমাদের এখনই আমার ভাইয়ের কাছে যাওয়ার পথ বল, নয়তো এক্ষুণি "
+"তোর এই বিষাক্ত রক্তে মাটি লাল হয়ে যাবে ।"
 
 #. [event]
 #: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:564
 msgid "Sithrak"
-msgstr "সিঙ্গার"
+msgstr "সিথ্রাক"
 
 #. [event]
 #: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:565
 msgid "Eleben"
-msgstr "রিংলিডি"
+msgstr "এলেবেন"
 
 #. [event]
 #: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:566
 msgid "Jarlom"
-msgstr "আইলুম"
+msgstr "জারলম"
 
 #. [event]
 #: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:567
@@ -775,22 +775,22 @@ msgstr "হামিক"
 #. [event]
 #: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:571
 msgid "Akranbral"
-msgstr "আখারামব্রাল"
+msgstr "আক্রানব্রাল"
 
 #. [event]
 #: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:572
 msgid "Drakanal"
-msgstr "অন্ধকার"
+msgstr "ড্রাকানাল"
 
 #. [event]
 #: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:573
 msgid "Xaskanat"
-msgstr "র‌্যাকটিয়ার"
+msgstr "জ়াস্কানাট"
 
 #. [event]
 #: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:574
 msgid "Katklagad"
-msgstr "ক্যাটল্যাকস"
+msgstr "কাটক্লাগাড"
 
 #. [message]: speaker=unit
 #: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:580
@@ -806,8 +806,8 @@ msgstr ""
 #: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:588
 msgid "Bind him and take him with us. If he has played us false, he will die."
 msgstr ""
-"তাকে বেঁধে আমাদের সাথে নিয়ে চলো । তিনি যদি আমাদের সঙ্গে মিথ্যা অভিনয় করে থাকেন "
-"তবে তিনি মারা যাবেন ।"
+"একে বেঁধে আমাদের সাথে নিয়ে চলো । এ যদি আমাদের সঙ্গে মিথ্যা অভিনয় করে থাকে তবে এ "
+"মরবে ।"
 
 #. [message]: role=Mercenary
 #: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:602
@@ -815,8 +815,8 @@ msgid ""
 "Captain, what are we riding into? I thought you wanted nothing to do with "
 "Baran any more, not since Toen Caric."
 msgstr ""
-"ক্যাপ্টেন, আমরা কোথায় যাচ্ছি? আমি ভেবেছিলাম আপনি বারানের সাথে আর কিছুই করতে "
-"চাননি, টেন ক্যারিকের সময় থেকে ।"
+"ক্যাপ্টেন, আমরা কোথায় যাচ্ছি? আমি ভেবেছিলাম টোয়েন ক্যারিকের সময় থেকে আপনি আর "
+"বারানের সঙ্গে নিজেকে জড়াতে চাননি ।"
 
 #. [message]: speaker=Arvith
 #: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:607
@@ -824,8 +824,8 @@ msgid ""
 "I’m no longer sure. What’s between us remains, but knowing someone else has "
 "lain hands on him changes things. Mount up, and let’s get moving."
 msgstr ""
-"আমি আর নিশ্চিত নই।আমাদের মধ্যে যা রয়েছে তা রয়ে গেছে, তবে অন্য কারও সাথে তাঁর হাত "
-"রয়েছে তা জানার বিষয়টি পরিবর্তন করে।মাউন্ট আপ, এবং চলুন চলুন।"
+"আমি আর নিশ্চিত নই। আমাদের মধ্যে যা হয়েছে তা এখনও আছে, তবে সবকিছু পাল্টে যাচ্ছে "
+"অন্য কেউ তার গায়ে হাত দিয়েছে । ঘোড়ায় চড়ুন, আমাদের যেতে হবে ।"
 
 #. [event]
 #: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:622
@@ -838,8 +838,8 @@ msgid ""
 "Greetings. I am Brena, a knight errant. I saw you pursuing and fighting the "
 "foul undead. Are there more of them to be destroyed?"
 msgstr ""
-"শুভেচ্ছা।আমি ব্রেনা, একজন নাইট ভুল।আমি আপনাকে অবিচ্ছিন্নভাবে অনুসরণ করতে এবং লড়াই "
-"করতে দেখেছি।তাদের আরও কি ধ্বংস হওয়ার দরকার আছে?"
+"আপনাদের শুভেচ্ছা । আমি ব্রেনা, একজন নাইট । আমি আপনাদের ওই ঘৃণ্য না-মৃতদের অনুসরণ "
+"এবং ধ্বংস করতে দেখেছি । ধ্বংস করার জন্য আরও না-মৃত আছে কী?"
 
 #. [message]: speaker=Arvith
 #: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:636
@@ -847,7 +847,7 @@ msgid ""
 "Aye. We think there’s a nest of them north-east of here. They’ve captured my "
 "brother."
 msgstr ""
-"আয়েআমরা মনে করি এখানে উত্তর-পূর্বে তাদের একটি বাসা রয়েছে।তারা আমার ভাইকে বন্দী "
+"হ্যাঁ । আমাদের অনুমান, উত্তর-পূর্বে তাদের একটি বাসা রয়েছে। তারা আমার ভাইকে বন্দী "
 "করেছে।"
 
 #. [message]: speaker=Brena
@@ -856,33 +856,33 @@ msgid ""
 "I bear a great hatred towards their kind. I will follow and fight them with "
 "you, if you permit."
 msgstr ""
-"আমি তাদের ধরণের প্রতি একটি দুর্দান্ত ঘৃণা সহ্য করি।আপনি যদি অনুমতি দেন তবে আমি "
-"তাদের সাথে অনুসরণ করব এবং তাদের সাথে লড়াই করব।"
+"আমি তাদের প্রচন্ড ঘৃণা করি । আপনি যদি অনুমতি দেন, তবে আমি আপনাদের সঙ্গে আসতে চাইব "
+"এবং তাদের সাথে লড়াই করব ।"
 
 #. [message]: role=Mercenary
 #: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:646
 msgid "He would only slow us down!"
-msgstr "তিনি কেবল আমাদের ধীর করে দিতেন!"
+msgstr "এনার জন্য আমাদের গতি কমে যাবে মাত্র!"
 
 #. [message]: speaker=Arvith
 #: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:651
 msgid "It is my place to decide this."
-msgstr "এটি সিদ্ধান্ত নেওয়ার আমার জায়গা।"
+msgstr "আমি সেটার সিদ্ধান্ত নেব ।"
 
 #. [option]
 #: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:653
 msgid "Oh, all right then. Come along with us."
-msgstr "ওহ, ঠিক আছে তখন । আমাদের সাথে আসা।"
+msgstr "ওহ, ঠিক আছে তাহলে । আমাদের সাথে আসুন ।"
 
 #. [message]: speaker=Brena
 #: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:657
 msgid "Thank you. My comrades and I will help you on your noble quest."
-msgstr "ধন্যবাদ.আমার কমরেড এবং আমি আপনাকে আপনার মহৎ অনুসন্ধানে সহায়তা করব।"
+msgstr "ধন্যবাদ । আমার সহযোদ্ধারা এবং আমি আপনাকে আপনার মহৎ অভিযানে সাহায্য করব।"
 
 #. [option]
 #: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:662
 msgid "I am sorry. We have not the time to spare."
-msgstr "আমি দুঃখিত.আমাদের বাঁচানোর সময় নেই।"
+msgstr "আমি দুঃখিত । আমাদের কাছে অতটা সময় নেই ।"
 
 #. [message]: speaker=Brena
 #: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:666
@@ -890,13 +890,13 @@ msgid ""
 "Take this, then, for I see that you are on a quest. My comrades will help "
 "you whenever you call for them."
 msgstr ""
-"এটি গ্রহণ করুন, তবে, আমি দেখতে পাচ্ছি যে আপনি একটি অনুসন্ধানে রয়েছেন।আমার কমরেডরা "
-"যখনই আপনি তাদের জন্য ডাকবেন তখন আপনাকে সহায়তা করবে।"
+"তবে এটি গ্রহণ করুন । আমি দেখতে পাচ্ছি যে আপনি একটি অভিযানে রয়েছেন । যখনই আপনি "
+"তাদের জন্য ডাকবেন তখন আমার সহযোদ্ধারা আপনাকে সহায়তা করতে আসবে ।"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:681
 msgid "You receive 70 pieces of gold!"
-msgstr "আপনি 70 টি সোনার টুকরো পাবেন!"
+msgstr "আপনি 70 টি স্বর্ণ পেলেন!"
 
 #. [message]: speaker=Arvith
 #: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:710
@@ -904,8 +904,8 @@ msgid ""
 "These elves have delayed us too long, the kidnappers’ trail will have faded "
 "by now."
 msgstr ""
-"এই এলভাসগুলি আমাদের খুব দীর্ঘ সময় ধরে বিলম্ব করেছে, অপহরণকারীদের ট্রেইল এখনই ম্লান "
-"হয়ে যাবে।"
+"এল্ফেরা আমাদের খুব দীর্ঘ সময় ধরে থামিয়ে রেখেছিল, অপহরণকারীদের চিহ্ন এতক্ষণে মুছে "
+"গিয়েছে বোধহয় ।"
 
 #. [message]: speaker=Arvith
 #: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:716
@@ -913,8 +913,8 @@ msgid ""
 "More elves are arriving; even if they believe me, the kidnappers’ trail is "
 "sure to fade before we can follow."
 msgstr ""
-"আরও ধনুক আগত;এমনকি যদি তারা আমাকে বিশ্বাস করে তবে অপহরণকারীদের ট্রেইলটি আমরা "
-"অনুসরণ করার আগে ম্লান হয়ে যাবেন তা নিশ্চিত।"
+"আরও এল্ফেরা আসছে; ওরা আমাদের বিশ্বাস করলেও, আমরা অনুসরণ করার আগেই অপহরণকারীদের "
+"যাওয়া চিহ্নগুলি মুছে যাবে ।"
 
 #. [message]: speaker=Nil-Galion
 #: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:730
@@ -922,18 +922,18 @@ msgid ""
 "Deluded fool, you are rescuing a necromancer. I can only hope that you are "
 "too late, and that our souls will rest in peace."
 msgstr ""
-"বোকা বোকা, আপনি একজন নেক্রোম্যান্সারকে উদ্ধার করছেন।আমি কেবল আশা করতে পারি যে "
-"আপনি অনেক দেরি করেছেন এবং আমাদের আত্মারা শান্তিতে বিশ্রাম নেবে।"
+"অজ্ঞান মূর্খ, আপনি একজন মৃত্যু-জাদুবিদকে উদ্ধার করেছেন। আমি কেবল আশা করতে পারি যে "
+"আপনি অনেক দেরী করেছেন এবং আমাদের আত্মারা শান্তিতে বিশ্রাম নিতে পারবে ।"
 
 #. [message]: speaker=Arvith
 #: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:740
 msgid "Follow their back trail!"
-msgstr "তাদের পিছনের ট্রেইল অনুসরণ করুন!"
+msgstr "তাদের পিছনে ফেলা যাওয়া চিহ্নগুলি অনুসরণ করুন!"
 
 #. [scenario]: id=03_Guarded_Castle
 #: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:5
 msgid "Guarded Castle"
-msgstr "রক্ষিত দুর্গ"
+msgstr "সুরক্ষিত দুর্গ"
 
 #. [part]
 #: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:26
