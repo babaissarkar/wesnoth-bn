@@ -2,12 +2,13 @@
 # Bengali translation of Wesnoth.
 # Copyright (C) 2024 Wesnoth development team
 # Subhraman Sarkar <suvrax@gmail.com>, 2024.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: bn\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-03-03 07:37+0530\n"
-"PO-Revision-Date: 2024-02-21 09:49+0530\n"
+"PO-Revision-Date: 2024-03-11 15:20+0530\n"
 "Last-Translator: Subhraman Sarkar <suvrax@gmail.com>\n"
 "Language-Team: Bengali < >\n"
 "Language: bn\n"
@@ -36,12 +37,12 @@ msgstr "পরীক্ষমূলক এআই"
 #. [ai]: id=idle_ai
 #: data/ai/ais/idle_ai.cfg:4
 msgid "Multiplayer_AI^Dev AI: Idle AI"
-msgstr ""
+msgstr "ডেভ এআই: অলস এআই"
 
 #. [ai]: id=ai_default_rca_alternate_recruiting
 #: data/ai/dev/ai_default_rca_alternate_recruiting.cfg:10
 msgid "Multiplayer_AI^Dev AI: Default AI (RCA) with Alternate Recruiting"
-msgstr "ভিন্ন নিয়োগসহ স্বাভাবিক এআই (আরসিএ)"
+msgstr "ডেভ এআই: ভিন্ন নিয়োগসহ স্বাভাবিক এআই (আরসিএ)"
 
 #. [terrain_type]: id=farmer-fence  # AI-animal-proof fences from first scenario
 #. [terrain_type]: id=fence
@@ -158,12 +159,12 @@ msgstr "কেল্প অরণ্য"
 #. [terrain_type]: id=swamp_water_reed
 #: data/core/terrain.cfg:150
 msgid "Swamp Water Reed"
-msgstr ""
+msgstr "জলাভূমি জলের নলখাগড়া"
 
 #. [terrain_type]: id=quagmire
 #: data/core/terrain.cfg:161
 msgid "Muddy Quagmire"
-msgstr ""
+msgstr "কর্দমাক্ত পাঁকজমি"
 
 #. [terrain_type]: id=grassland
 #. [terrain_type]: id=savanna
@@ -192,7 +193,7 @@ msgstr "শুকনো ঘাস"
 #. [terrain_type]: id=leaf_litter
 #: data/core/terrain.cfg:211
 msgid "Leaf Litter"
-msgstr ""
+msgstr "ছড়ানো পাতা"
 
 #. [terrain_type]: id=dirt_dark
 #. [terrain_type]: id=dirt
@@ -335,7 +336,7 @@ msgstr "ধ্বংসাবশেষ"
 #. [terrain_type]: id=crater
 #: data/core/terrain.cfg:378
 msgid "Crater"
-msgstr ""
+msgstr "বিস্ফোরণসৃষ্ট গর্ত"
 
 #. [terrain_type]: id=flowers_mixed
 #: data/core/terrain.cfg:393
@@ -350,12 +351,12 @@ msgstr "কৃষিক্ষেত্র"
 #. [terrain_type]: id=stones_small
 #: data/core/terrain.cfg:411
 msgid "Stones"
-msgstr "পাথী"
+msgstr "পাথর"
 
 #. [terrain_type]: id=snowbits_small
 #: data/core/terrain.cfg:420
 msgid "Snowbits"
-msgstr ""
+msgstr "ছড়ানো বরফ"
 
 #. [terrain_type]: id=mushrooms_small
 #: data/core/terrain.cfg:429
@@ -365,7 +366,7 @@ msgstr "ছোটো ছত্রাক"
 #. [terrain_type]: id=mushrooms_farm
 #: data/core/terrain.cfg:438
 msgid "Mushroom Farm"
-msgstr ""
+msgstr "ছত্রাকের ক্ষেত"
 
 #. [terrain_type]: id=desert_plants
 #: data/core/terrain.cfg:447
@@ -390,7 +391,7 @@ msgstr ""
 #. [terrain_type]: id=wallfire
 #: data/core/terrain.cfg:484
 msgid "Sconce"
-msgstr ""
+msgstr "ঝুলন্ত দীপ"
 
 #. [terrain_type]: id=brazier
 #: data/core/terrain.cfg:494
@@ -435,7 +436,7 @@ msgstr "পুষ্পিত ওয়াটার লিলি"
 #. [terrain_type]: id=seashells
 #: data/core/terrain.cfg:573
 msgid "Seashells"
-msgstr ""
+msgstr "সামুদ্রিক জীবের খোলক"
 
 #. [terrain_type]: id=detritus_trash
 #: data/core/terrain.cfg:584
@@ -445,7 +446,7 @@ msgstr "আবর্জনা"
 #. [terrain_type]: id=detritus_bones
 #: data/core/terrain.cfg:593
 msgid "Remains"
-msgstr ""
+msgstr "অবশিষ্টাংশ"
 
 #. [terrain_type]: id=wall_windows
 #: data/core/terrain.cfg:603
@@ -1428,22 +1429,22 @@ msgstr "শীতকালীন এল্ফ প্রাসাদ"
 #. [terrain_type]: id=dwarven_castle
 #: data/core/terrain.cfg:2326
 msgid "Dwarven Underground Castle"
-msgstr ""
+msgstr "বামনদের ভূগর্ভস্থ প্রাসাদ"
 
 #. [terrain_type]: id=dwarven_castle2
 #: data/core/terrain.cfg:2338
 msgid "Dwarven Castle"
-msgstr ""
+msgstr "বামনদের প্রাসাদ"
 
 #. [terrain_type]: id=dwarven_castle_ruin
 #: data/core/terrain.cfg:2350
 msgid "Dwarven Castle Ruins"
-msgstr ""
+msgstr "বামনদের ধ্বংসপ্রাপ্ত প্রাসাদ"
 
 #. [terrain_type]: id=dwarven_castle_winter
 #: data/core/terrain.cfg:2362
 msgid "Winter Dwarven Castle"
-msgstr ""
+msgstr "বামনদের শীতকালীন প্রাসাদ"
 
 #. [terrain_type]: id=ruin
 #. [terrain_type]: id=sunkenruin
@@ -1462,12 +1463,12 @@ msgstr "ধ্বংসপ্রাপ্ত মানব প্রাসাদ"
 #. [terrain_type]: id=sunkenruin
 #: data/core/terrain.cfg:2386
 msgid "Sunken Human Ruin"
-msgstr ""
+msgstr "মানুষদের ডুবে যাওয়া প্রাসাদের ধ্বংসাবশেষ"
 
 #. [terrain_type]: id=swampruin
 #: data/core/terrain.cfg:2399
 msgid "Swamp Human Ruin"
-msgstr ""
+msgstr "মানুষদের জলাভূমির প্রাসাদের ধ্বংসাবশেষ"
 
 #. [terrain_type]: id=sand_castle
 #: data/core/terrain.cfg:2412
@@ -1582,22 +1583,22 @@ msgstr "এল্ফদের শীতকালীন দূর্গ"
 #. [terrain_type]: id=dwarven_keep
 #: data/core/terrain.cfg:2619
 msgid "Dwarven Underground Keep"
-msgstr ""
+msgstr "বামনদের ভূগর্ভস্থ দূর্গ"
 
 #. [terrain_type]: id=dwarven_keep2
 #: data/core/terrain.cfg:2632
 msgid "Dwarven Castle Keep"
-msgstr ""
+msgstr "বামনদের প্রাসাদের দূর্গ"
 
 #. [terrain_type]: id=dwarven_keep_ruin
 #: data/core/terrain.cfg:2645
 msgid "Dwarven Ruin Keep"
-msgstr ""
+msgstr "বামনদের ধ্বংসপ্রাপ্ত দূর্গ"
 
 #. [terrain_type]: id=dwarven_keep_winter
 #: data/core/terrain.cfg:2658
 msgid "Winter Dwarven Keep"
-msgstr ""
+msgstr "বামনদের শীতকালীন দূর্গ"
 
 #. [terrain_type]: id=ruined_keep
 #. [terrain_type]: id=sunken_keep
@@ -1651,12 +1652,12 @@ msgstr "জলজ দূর্গ"
 #. [terrain_type]: id=castle_overlay
 #: data/core/terrain.cfg:2777
 msgid "Castle Overlay"
-msgstr ""
+msgstr "প্রাসাদ অভিলেপন"
 
 #. [terrain_type]: id=keep_overlay
 #: data/core/terrain.cfg:2790
 msgid "Keep Overlay"
-msgstr ""
+msgstr "দূর্গ অভিলেপন"
 
 #. [terrain_type]: id=bridge
 #. [terrain_type]: id=bridgediag1
@@ -1767,7 +1768,7 @@ msgstr "ঝুুলন্ত সেতু"
 #: data/core/terrain.cfg:3055 data/core/terrain.cfg:3069
 #: data/core/terrain.cfg:3083
 msgid "Stone Chasm Bridge"
-msgstr ""
+msgstr "খাদের ওপরে পাথরের সেতু"
 
 #. [terrain_type]: id=plankbridgediag1
 #. [terrain_type]: id=plankbridgediag2
@@ -1775,7 +1776,7 @@ msgstr ""
 #: data/core/terrain.cfg:3097 data/core/terrain.cfg:3111
 #: data/core/terrain.cfg:3125
 msgid "Plank Bridge"
-msgstr ""
+msgstr "পাটাতনের সেতু"
 
 #. [terrain_type]: id=mark_high
 #: data/core/terrain.cfg:3140
@@ -1805,7 +1806,7 @@ msgstr "মানচিত্রের বাইরে"
 #. [terrain_type]: id=off_map2
 #: data/core/terrain.cfg:3192
 msgid "Fake Map Border"
-msgstr ""
+msgstr "মানচিত্রের নকল সীমা"
 
 #. [terrain_type]: id=overlay_artplaceholder
 #: data/core/terrain.cfg:3202
@@ -2073,7 +2074,7 @@ msgstr ""
 #. [terrain_type]: id=rails
 #: data/core/terrain.cfg:3460 data/core/terrain.cfg:3461
 msgid "Rails"
-msgstr ""
+msgstr "রেল"
 
 #. [terrain_type]: id=rails
 #: data/core/terrain.cfg:3463
@@ -2495,14 +2496,14 @@ msgstr ""
 #. [label]
 #: data/gui/window/addon_manager.cfg:791
 msgid "State:"
-msgstr ""
+msgstr "অবস্থা:"
 
 #. [label]
 #. [grid]
 #: data/gui/window/addon_manager.cfg:844
 #: data/gui/window/editor_edit_pbl.cfg:209
 msgid "Tags:"
-msgstr ""
+msgstr "ট্যাগ:"
 
 #. [label]
 #. [label]: id=translations_language
@@ -2529,13 +2530,13 @@ msgstr ""
 #: data/gui/window/addon_manager.cfg:1099 src/gui/dialogs/addon/manager.cpp:551
 #: src/gui/dialogs/addon/manager.cpp:825
 msgid "Add-on Details"
-msgstr ""
+msgstr "অ্যাড-অনের বিস্তারিত বিবরণ"
 
 #. [button]: id=update_all
 #: data/gui/window/addon_manager.cfg:1120
 #: data/gui/window/addon_manager.cfg:1304
 msgid "Update All"
-msgstr ""
+msgstr "সব আপডেট করুন"
 
 #. [button]: id=cancel
 #: data/gui/window/addon_manager.cfg:1134
@@ -2973,7 +2974,7 @@ msgstr ""
 #. [label]
 #: data/gui/window/editor_edit_label.cfg:106
 msgid "Category:"
-msgstr ""
+msgstr "শ্রেণী:"
 
 #. [label]
 #: data/gui/window/editor_edit_label.cfg:152
@@ -2988,12 +2989,12 @@ msgstr "রঙ"
 #. [toggle_button]: id=immutable_toggle
 #: data/gui/window/editor_edit_label.cfg:181
 msgid "Immutable"
-msgstr ""
+msgstr "অপরিবর্তনযোগ্য"
 
 #. [toggle_button]: id=visible_fog_toggle
 #: data/gui/window/editor_edit_label.cfg:216
 msgid "Visible in fog"
-msgstr ""
+msgstr "কুয়াশার মধ্যে দৃশ্যমান"
 
 #. [toggle_button]: id=visible_shroud_toggle
 #: data/gui/window/editor_edit_label.cfg:251
@@ -3028,7 +3029,7 @@ msgstr "ছবি:"
 #. [button]: id=select_icon
 #: data/gui/window/editor_edit_pbl.cfg:182
 msgid "Select an icon file"
-msgstr ""
+msgstr "আইকন ফাইল নির্বাচন করুন"
 
 #. [text_box]: id=icon
 #: data/gui/window/editor_edit_pbl.cfg:195
@@ -3077,7 +3078,7 @@ msgstr ""
 #. [grid]
 #: data/gui/window/editor_edit_pbl.cfg:212
 msgid "Forum URL"
-msgstr ""
+msgstr "ফোরাম ইউআরএল"
 
 #. [grid]
 #: data/gui/window/editor_edit_pbl.cfg:212
@@ -3140,7 +3141,7 @@ msgstr "বর্ণনা"
 #. [button]: id=server_add
 #: data/gui/window/editor_edit_pbl.cfg:406 data/gui/window/mp_connect.cfg:270
 msgid "Add"
-msgstr ""
+msgstr "যোগ"
 
 #. [button]: id=translations_delete
 #. [button]: id=delete_file
@@ -3173,12 +3174,12 @@ msgstr "অনুবাদ"
 #. [label]
 #: data/gui/window/editor_edit_pbl_translation.cfg:84
 msgid "* Required"
-msgstr ""
+msgstr "* প্রয়োজনীয়"
 
 #. [grid]
 #: data/gui/window/editor_edit_pbl_translation.cfg:97
 msgid "* Language:"
-msgstr ""
+msgstr "* ভাষা:"
 
 #. [grid]
 #: data/gui/window/editor_edit_pbl_translation.cfg:97
@@ -3190,7 +3191,7 @@ msgstr ""
 #. [grid]
 #: data/gui/window/editor_edit_pbl_translation.cfg:98
 msgid "* Title:"
-msgstr ""
+msgstr "* শিরোনাম:"
 
 #. [grid]
 #: data/gui/window/editor_edit_pbl_translation.cfg:98
@@ -3205,7 +3206,7 @@ msgstr ""
 #. [label]: id=title
 #: data/gui/window/editor_edit_scenario.cfg:42
 msgid "Edit Scenario Settings"
-msgstr ""
+msgstr "ঘটনাক্রমের সেটিং পাল্টান"
 
 #. [label]
 #: data/gui/window/editor_edit_scenario.cfg:72
@@ -3222,7 +3223,7 @@ msgstr ""
 #. [label]
 #: data/gui/window/editor_edit_scenario.cfg:201
 msgid "Turns:"
-msgstr ""
+msgstr "দান:"
 
 #. [toggle_button]: id=victory_when_enemies_defeated
 #: data/gui/window/editor_edit_scenario.cfg:241
@@ -3242,7 +3243,7 @@ msgstr ""
 #. [label]
 #: data/gui/window/editor_edit_side.cfg:83
 msgid "Number:"
-msgstr ""
+msgstr "সংখ্যা:"
 
 #. [label]
 #: data/gui/window/editor_edit_side.cfg:110
@@ -3902,7 +3903,7 @@ msgstr "লুয়া কনসোল"
 #. [label]
 #: data/gui/window/generator_settings.cfg:89
 msgid "Map Generator Settings"
-msgstr ""
+msgstr "মানচিত্র সৃষ্টিকারকের সেটিং"
 
 #. [grid]
 #. [label]
@@ -3912,12 +3913,12 @@ msgstr ""
 #: data/gui/window/mp_create_game/small_resolution.cfg:151
 #: data/gui/window/mp_create_game/tiny_resolution.cfg:137
 msgid "Players:"
-msgstr ""
+msgstr "খেলোয়াড় সংখ্যা:"
 
 #. [grid]
 #: data/gui/window/generator_settings.cfg:111
 msgid "Number of Hills:"
-msgstr ""
+msgstr "পাহাড়ের সংখ্যা:"
 
 #. [grid]
 #: data/gui/window/generator_settings.cfg:113
@@ -4155,7 +4156,7 @@ msgstr ""
 #. [label]
 #: data/gui/window/lobby_player_info.cfg:169
 msgid "Reason:"
-msgstr ""
+msgstr "কারণ:"
 
 #. [label]
 #: data/gui/window/lobby_player_info.cfg:195
@@ -4240,12 +4241,12 @@ msgstr ""
 #. [button]: id=clear
 #: data/gui/window/lua_interpreter.cfg:117
 msgid "Clear Console"
-msgstr ""
+msgstr "কনসোল পরিষ্কার করুন"
 
 #. [button]: id=clear
 #: data/gui/window/lua_interpreter.cfg:118
 msgid "Clear the log area"
-msgstr ""
+msgstr "লগ এলাকা পরিষ্কার করুন"
 
 #. [label]
 #: data/gui/window/migrate_version_selection.cfg:40
@@ -4263,7 +4264,7 @@ msgstr ""
 #: data/gui/window/migrate_version_selection.cfg:127
 #: data/gui/window/story_viewer.cfg:131
 msgid "Skip"
-msgstr ""
+msgstr "এড়িয়ে যান"
 
 #. [label]: id=title
 #: data/gui/window/mp_alerts_options.cfg:95
@@ -4953,12 +4954,12 @@ msgstr ""
 #. [button]: id=ok
 #: data/gui/window/mp_staging.cfg:423
 msgid "I’m Ready"
-msgstr ""
+msgstr "আমি প্রস্তুত"
 
 #. [text]
 #: data/gui/window/outro.cfg:49
 msgid "Press ESC to skip"
-msgstr ""
+msgstr "এড়িয়ে যাওয়ার জন্য ESC টিপুন"
 
 #. [widget]: id=label
 #: data/gui/window/preferences.cfg:311
@@ -5144,7 +5145,7 @@ msgstr "হটকি"
 #: data/gui/window/preferences/02_hotkeys.cfg:118
 #: src/gui/dialogs/preferences_dialog.cpp:827
 msgid "game_hotkeys^G"
-msgstr ""
+msgstr "G"
 
 #. [toggle_button]: id=sort_2
 #: data/gui/window/preferences/02_hotkeys.cfg:119
@@ -5157,7 +5158,7 @@ msgstr "খেলায় উপলব্ধ"
 #: data/gui/window/preferences/02_hotkeys.cfg:131
 #: src/gui/dialogs/preferences_dialog.cpp:828
 msgid "editor_hotkeys^E"
-msgstr ""
+msgstr "E"
 
 #. [toggle_button]: id=sort_3
 #: data/gui/window/preferences/02_hotkeys.cfg:132
@@ -5170,7 +5171,7 @@ msgstr "মানচিত্র পরিমার্জকে উপলব্�
 #: data/gui/window/preferences/02_hotkeys.cfg:144
 #: src/gui/dialogs/preferences_dialog.cpp:829
 msgid "mainmenu_hotkeys^M"
-msgstr ""
+msgstr "M"
 
 #. [toggle_button]: id=sort_4
 #: data/gui/window/preferences/02_hotkeys.cfg:145
@@ -5581,7 +5582,7 @@ msgstr ""
 #. [grid]
 #: data/gui/window/select_orb_colors.cfg:153
 msgid "Show ally orb"
-msgstr ""
+msgstr "মিত্রের গোলক দেখান"
 
 #. [grid]
 #: data/gui/window/select_orb_colors.cfg:154
@@ -5599,12 +5600,12 @@ msgstr ""
 #. [grid]
 #: data/gui/window/select_orb_colors.cfg:156
 msgid "Show enemy orb"
-msgstr ""
+msgstr "শত্রুর গোলক দেখান"
 
 #. [label]: id=asdf
 #: data/gui/window/server_info.cfg:79
 msgid "Server Information"
-msgstr ""
+msgstr "সার্ভারের তথ্যাবলী"
 
 #. [label]
 #: data/gui/window/sp_options_configure.cfg:44
@@ -5619,7 +5620,7 @@ msgstr ""
 #. [label]
 #: data/gui/window/statistics_dialog.cfg:141
 msgid "Overall"
-msgstr ""
+msgstr "সর্বমোট"
 
 #. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]: id=title
@@ -5747,7 +5748,7 @@ msgstr "পতাকা"
 #. [label]
 #: data/gui/window/theme_list.cfg:51
 msgid "Choose Theme"
-msgstr ""
+msgstr "থিম পছন্দ করুন"
 
 #. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [button]: id=help
@@ -5924,7 +5925,7 @@ msgstr "ইউনিটের তালিকা"
 #. [label]: id=title
 #: data/gui/window/unit_recall.cfg:297
 msgid "Recall Unit"
-msgstr ""
+msgstr "ইউনিট পুনরায় ডাকুন"
 
 #. [text_box]: id=filter_box
 #: data/gui/window/unit_recall.cfg:311
@@ -5964,7 +5965,7 @@ msgstr "নিয়োগ"
 #: src/gui/dialogs/preferences_dialog.cpp:253
 #: src/gui/dialogs/transient_message.cpp:79
 msgid "Error"
-msgstr ""
+msgstr "ত্রুটি"
 
 #. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]: id=details_heading
@@ -8030,7 +8031,7 @@ msgstr ""
 
 #: src/hotkey/hotkey_command.cpp:208
 msgid "Can Recruit"
-msgstr ""
+msgstr "নিয়োগ করতে পারে"
 
 #: src/hotkey/hotkey_command.cpp:208
 msgid "Toggle the recruit attribute of a unit."
@@ -8038,7 +8039,7 @@ msgstr ""
 
 #: src/hotkey/hotkey_command.cpp:209
 msgid "Can be Renamed"
-msgstr ""
+msgstr "নাম পাল্টানো যাবে"
 
 #: src/hotkey/hotkey_command.cpp:209
 msgid "Toggle the unit being renameable."
@@ -8074,11 +8075,11 @@ msgstr ""
 
 #: src/hotkey/hotkey_command.cpp:222
 msgid "Next Brush"
-msgstr ""
+msgstr "পরবর্তী তুলি"
 
 #: src/hotkey/hotkey_command.cpp:223
 msgid "Default Brush"
-msgstr ""
+msgstr "স্বাভাবিক তুলি"
 
 #: src/hotkey/hotkey_command.cpp:224
 msgid "Single Tile"
@@ -8131,7 +8132,7 @@ msgstr "বিপরীত নির্বাচন"
 
 #: src/hotkey/hotkey_command.cpp:236
 msgid "Select None"
-msgstr ""
+msgstr "সবকিছু অনির্বাচিত করুন"
 
 #: src/hotkey/hotkey_command.cpp:237
 msgid "Rotate Clipboard Clockwise"
@@ -8167,11 +8168,11 @@ msgstr ""
 
 #: src/hotkey/hotkey_command.cpp:247
 msgid "Apply a Mask"
-msgstr ""
+msgstr "মাস্ক প্রয়োগ করুন"
 
 #: src/hotkey/hotkey_command.cpp:248
 msgid "Create Mask"
-msgstr ""
+msgstr "মাস্ক সৃষ্টি করুন"
 
 #: src/hotkey/hotkey_command.cpp:249
 msgid "Refresh Display"
