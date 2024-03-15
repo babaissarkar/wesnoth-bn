@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: bn\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-03-03 07:37+0530\n"
-"PO-Revision-Date: 2024-03-11 15:20+0530\n"
+"PO-Revision-Date: 2024-03-15 15:50+0530\n"
 "Last-Translator: Subhraman Sarkar <suvrax@gmail.com>\n"
 "Language-Team: Bengali < >\n"
 "Language: bn\n"
@@ -7721,7 +7721,7 @@ msgstr "দান শেষ"
 
 #: src/hotkey/hotkey_command.cpp:116
 msgid "Toggle Ellipses"
-msgstr ""
+msgstr "উপবৃত্তগুলি সক্রিয়/নিস্ক্রিয়"
 
 #: src/hotkey/hotkey_command.cpp:117
 msgid "Toggle Grid"
@@ -7729,7 +7729,7 @@ msgstr "গ্রিড সক্রিয়/নিস্ক্রিয়"
 
 #: src/hotkey/hotkey_command.cpp:118
 msgid "Mouse Scrolling"
-msgstr ""
+msgstr "মাউস স্ক্রোল"
 
 #: src/hotkey/hotkey_command.cpp:119
 msgid "Status Table"
@@ -7773,7 +7773,7 @@ msgstr "মেনুতে ফিরে যান"
 
 #: src/hotkey/hotkey_command.cpp:133
 msgid "Set Team Label"
-msgstr ""
+msgstr "দলের লেবেল বসান"
 
 #: src/hotkey/hotkey_command.cpp:134
 msgid "Set Label"
@@ -7813,27 +7813,27 @@ msgstr "পরবর্তী দল"
 
 #: src/hotkey/hotkey_command.cpp:144
 msgid "Next Move"
-msgstr ""
+msgstr "পরবর্তী দান"
 
 #: src/hotkey/hotkey_command.cpp:145
 msgid "View: Full Map"
-msgstr ""
+msgstr "দেখুন: সম্পূর্ণ মানচিত্র"
 
 #: src/hotkey/hotkey_command.cpp:146
 msgid "View: Each Team"
-msgstr ""
+msgstr "দেখুন: প্রত্যেক দল"
 
 #: src/hotkey/hotkey_command.cpp:147
 msgid "View: Human Team"
-msgstr ""
+msgstr "দেখুন: মানব দল"
 
 #: src/hotkey/hotkey_command.cpp:148
 msgid "Skip Animation"
-msgstr ""
+msgstr "অ্যানিমেশন এরিয়ে যান"
 
 #: src/hotkey/hotkey_command.cpp:149
 msgid "End Replay"
-msgstr ""
+msgstr "রিপ্লে শেষ করুন"
 
 #. TRANSLATORS: whiteboard menu entry: toggle planning mode
 #: src/hotkey/hotkey_command.cpp:152
@@ -7880,11 +7880,11 @@ msgstr ""
 
 #: src/hotkey/hotkey_command.cpp:171
 msgid "Switch Time of Day"
-msgstr ""
+msgstr "দিনের সময় পাল্টান"
 
 #: src/hotkey/hotkey_command.cpp:173
 msgid "Switch Map"
-msgstr ""
+msgstr "মানচিত্র পাল্টান"
 
 #: src/hotkey/hotkey_command.cpp:174
 msgid "Assign Local Time"
@@ -7892,11 +7892,11 @@ msgstr ""
 
 #: src/hotkey/hotkey_command.cpp:176
 msgid "Time Schedule Editor"
-msgstr ""
+msgstr "সময়সূচী পরিমার্জক"
 
 #: src/hotkey/hotkey_command.cpp:177
 msgid "Partial Undo"
-msgstr ""
+msgstr "আংশিকভাবে ফিরিয়ে নিন"
 
 #: src/hotkey/hotkey_command.cpp:179
 msgid "New Scenario"
@@ -7908,11 +7908,11 @@ msgstr "মানচিত্র খুলুন"
 
 #: src/hotkey/hotkey_command.cpp:182
 msgid "Save Map As"
-msgstr ""
+msgstr "মানচিত্র এভাবে সঞ্চয় করুন"
 
 #: src/hotkey/hotkey_command.cpp:183
 msgid "Save Scenario As"
-msgstr ""
+msgstr "ঘটনাক্রম এভাবে সঞ্চয় করুন"
 
 #: src/hotkey/hotkey_command.cpp:184
 msgid "Save All Maps"
@@ -7924,7 +7924,7 @@ msgstr ""
 
 #: src/hotkey/hotkey_command.cpp:186
 msgid "Map Information"
-msgstr ""
+msgstr "মানচিত্রের তথ্য"
 
 #: src/hotkey/hotkey_command.cpp:188
 msgid "Clear Selected Item Set"
@@ -7948,19 +7948,19 @@ msgstr ""
 
 #: src/hotkey/hotkey_command.cpp:193
 msgid "Remove Location"
-msgstr ""
+msgstr "অবস্থান মুছুন"
 
 #: src/hotkey/hotkey_command.cpp:195
 msgid "Add New Side"
-msgstr ""
+msgstr "নতুন দল যোগ করুন"
 
 #: src/hotkey/hotkey_command.cpp:197
 msgid "Next Tool"
-msgstr ""
+msgstr "পরবর্তী টুল"
 
 #: src/hotkey/hotkey_command.cpp:199
 msgid "Paint Tool"
-msgstr ""
+msgstr "আঁকার টুল"
 
 #: src/hotkey/hotkey_command.cpp:199 src/hotkey/hotkey_command.cpp:200
 msgid ""
@@ -7970,7 +7970,7 @@ msgstr ""
 
 #: src/hotkey/hotkey_command.cpp:200
 msgid "Fill Tool"
-msgstr ""
+msgstr "পূরণকারক টুল"
 
 #: src/hotkey/hotkey_command.cpp:201
 msgid ""
@@ -7980,7 +7980,7 @@ msgstr ""
 
 #: src/hotkey/hotkey_command.cpp:201
 msgid "Selection Tool"
-msgstr ""
+msgstr "নির্বাচন টুল"
 
 #: src/hotkey/hotkey_command.cpp:202
 msgid ""
@@ -7995,7 +7995,7 @@ msgstr ""
 
 #: src/hotkey/hotkey_command.cpp:203
 msgid "Label Tool"
-msgstr ""
+msgstr "লেবেল টুল"
 
 #: src/hotkey/hotkey_command.cpp:203
 msgid "Left mouse button sets or drags a label, right clears."
@@ -8009,11 +8009,11 @@ msgstr ""
 
 #: src/hotkey/hotkey_command.cpp:204
 msgid "Unit Tool"
-msgstr ""
+msgstr "ইউনিট টুল"
 
 #: src/hotkey/hotkey_command.cpp:205
 msgid "Item Tool"
-msgstr ""
+msgstr "বস্তু টুল"
 
 #: src/hotkey/hotkey_command.cpp:205
 msgid "Left mouse button sets a new item."
@@ -8027,7 +8027,7 @@ msgstr ""
 
 #: src/hotkey/hotkey_command.cpp:206
 msgid "Village Tool"
-msgstr ""
+msgstr "গ্রাম টুল"
 
 #: src/hotkey/hotkey_command.cpp:208
 msgid "Can Recruit"
@@ -8043,7 +8043,7 @@ msgstr "নাম পাল্টানো যাবে"
 
 #: src/hotkey/hotkey_command.cpp:209
 msgid "Toggle the unit being renameable."
-msgstr ""
+msgstr "ইউনিটের নাম পাল্টানো যাবে কী না সক্রিয়/নিস্ক্রিয় করুন"
 
 #: src/hotkey/hotkey_command.cpp:211
 msgid "Change Unit ID"
@@ -8083,15 +8083,15 @@ msgstr "স্বাভাবিক তুলি"
 
 #: src/hotkey/hotkey_command.cpp:224
 msgid "Single Tile"
-msgstr ""
+msgstr "একটি টাইল"
 
 #: src/hotkey/hotkey_command.cpp:225
 msgid "Radius One"
-msgstr ""
+msgstr "ব্যাসার্ধ এক"
 
 #: src/hotkey/hotkey_command.cpp:226
 msgid "Radius Two"
-msgstr ""
+msgstr "ব্যাসার্ধ দুই"
 
 #: src/hotkey/hotkey_command.cpp:227
 msgid "Brush NW-SE"
@@ -8136,11 +8136,11 @@ msgstr "সবকিছু অনির্বাচিত করুন"
 
 #: src/hotkey/hotkey_command.cpp:237
 msgid "Rotate Clipboard Clockwise"
-msgstr ""
+msgstr "ক্লিপবোর্ড ডানাবর্তে ঘোরান"
 
 #: src/hotkey/hotkey_command.cpp:238
 msgid "Rotate Clipboard Counter-Clockwise"
-msgstr ""
+msgstr "ক্লিপবোর্ড বামাবর্তে ঘোরান"
 
 #: src/hotkey/hotkey_command.cpp:239
 msgid "Flip Clipboard Horizontally"
@@ -8152,7 +8152,7 @@ msgstr ""
 
 #: src/hotkey/hotkey_command.cpp:241
 msgid "Rotate Selection"
-msgstr ""
+msgstr "নির্বাচন ঘোরান"
 
 #: src/hotkey/hotkey_command.cpp:242
 msgid "Flip Selection"
@@ -8160,11 +8160,11 @@ msgstr ""
 
 #: src/hotkey/hotkey_command.cpp:243
 msgid "Fill Selection"
-msgstr ""
+msgstr "নির্বাচন পূরণ করুন"
 
 #: src/hotkey/hotkey_command.cpp:244
 msgid "Randomize Tiles in Selection"
-msgstr ""
+msgstr "নির্বাচনের মধ্যে ইতস্তত টাইল বসান"
 
 #: src/hotkey/hotkey_command.cpp:247
 msgid "Apply a Mask"
@@ -8176,7 +8176,7 @@ msgstr "মাস্ক সৃষ্টি করুন"
 
 #: src/hotkey/hotkey_command.cpp:249
 msgid "Refresh Display"
-msgstr ""
+msgstr "ডিসপ্লে রিফ্রেশ করুন"
 
 #: src/hotkey/hotkey_command.cpp:251
 msgid "Update Terrain Transitions"
@@ -8200,31 +8200,31 @@ msgstr ""
 
 #: src/hotkey/hotkey_command.cpp:260
 msgid "Refresh Image Cache"
-msgstr ""
+msgstr "ছবির ক্যাশে রিফ্রেশ করুন"
 
 #: src/hotkey/hotkey_command.cpp:261
 msgid "Draw Hex Coordinates"
-msgstr ""
+msgstr "ষড়ভুজের স্থানাঙ্ক দেখান"
 
 #: src/hotkey/hotkey_command.cpp:262
 msgid "Draw Terrain Codes"
-msgstr ""
+msgstr "ভূমির কোড আঁকুন"
 
 #: src/hotkey/hotkey_command.cpp:263
 msgid "Draw Number of Bitmaps"
-msgstr ""
+msgstr "বিটম্যাপের সংখ্যা আঁকুন"
 
 #: src/hotkey/hotkey_command.cpp:265
 msgid "Save Selection to Area"
-msgstr ""
+msgstr "নির্বাচিত অংশকে এলাকায় সঞ্চয় করুন"
 
 #: src/hotkey/hotkey_command.cpp:266
 msgid "Rename Selected Area"
-msgstr ""
+msgstr "নির্বাচিত এলাকার নাম পাল্টান"
 
 #: src/hotkey/hotkey_command.cpp:267
 msgid "Remove Selected Area"
-msgstr ""
+msgstr "নির্বাচিত এলাকা মুছুন"
 
 #: src/hotkey/hotkey_command.cpp:268
 msgid "Add New Area"
@@ -8232,7 +8232,7 @@ msgstr "নতুন এলাকা যোগ করুন"
 
 #: src/hotkey/hotkey_command.cpp:270
 msgid "Add-on Publishing Editor"
-msgstr ""
+msgstr "অ্যাড-অন প্রকাশনা পরিমার্জক"
 
 #: src/hotkey/hotkey_command.cpp:271
 msgid "Change Add-on ID"
@@ -8252,35 +8252,35 @@ msgstr "দল বাদ দিন"
 
 #: src/hotkey/hotkey_command.cpp:277
 msgid "Delay Shroud Updates"
-msgstr ""
+msgstr "ছায়ার আপডেট বিলম্বিত করুন"
 
 #: src/hotkey/hotkey_command.cpp:278
 msgid "Update Shroud Now"
-msgstr ""
+msgstr "ছায়া এক্ষুণি আপডেট করুন"
 
 #: src/hotkey/hotkey_command.cpp:279
 msgid "Continue Interrupted Move"
-msgstr ""
+msgstr "ব্যঘাত হওয়া দান সম্পূর্ণ করুন"
 
 #: src/hotkey/hotkey_command.cpp:280
 msgid "Find Label or Unit"
-msgstr ""
+msgstr "লেবেল বা ইউনিট খুঁজুন"
 
 #: src/hotkey/hotkey_command.cpp:281
 msgid "Speak to Ally"
-msgstr ""
+msgstr "মিত্রপক্ষের সঙ্গে কথা বলুন"
 
 #: src/hotkey/hotkey_command.cpp:282
 msgid "Speak to All"
-msgstr ""
+msgstr "সবার সঙ্গে কথা বলুন"
 
 #: src/hotkey/hotkey_command.cpp:284
 msgid "Help about save-loading"
-msgstr ""
+msgstr "সঞ্চয়-খোলা সংক্রান্ত সাহায্য"
 
 #: src/hotkey/hotkey_command.cpp:284
 msgid "Hint: save-loading is unnecessary"
-msgstr ""
+msgstr "সাহায্য: সঞ্চয়-খোলা অপ্রয়োজনীয়"
 
 #: src/hotkey/hotkey_command.cpp:286
 msgid "Enter Command"
@@ -8304,7 +8304,7 @@ msgstr "ভাষা পরিবর্তন করুন"
 
 #: src/hotkey/hotkey_command.cpp:292
 msgid "Refresh WML"
-msgstr ""
+msgstr "ডব্লুএমএল রিফ্রেশ করুন"
 
 #: src/hotkey/hotkey_command.cpp:293
 msgid "Next Tip of the Day"
@@ -8324,11 +8324,11 @@ msgstr "বহুখেলোয়াড় খেলা শুরু করুন"
 
 #: src/hotkey/hotkey_command.cpp:297
 msgid "Manage Add-ons"
-msgstr ""
+msgstr "অ্যাড-অন ব্যবস্থাপনা"
 
 #: src/hotkey/hotkey_command.cpp:298
 msgid "Manage Cores"
-msgstr ""
+msgstr "কোর ব্যবস্থাপনা"
 
 #: src/hotkey/hotkey_command.cpp:299
 msgid "Start Editor"
@@ -8340,7 +8340,7 @@ msgstr "স্বীকৃতি দেখান"
 
 #: src/hotkey/hotkey_command.cpp:303
 msgid "Show Helptip"
-msgstr ""
+msgstr "সাহায্যমূলক টিপ দেখান"
 
 #: src/hotkey/hotkey_command.cpp:305
 msgid "Show Lua Console"
@@ -8378,6 +8378,8 @@ msgid ""
 "An error due to possibly invalid WML occurred\n"
 "The error message is :"
 msgstr ""
+"সম্ভবত ভুল ডব্লুএমএল এর জন্য ত্রুটি\n"
+"ত্রুটিবার্তাটি হল:"
 
 #: src/wml_exception.cpp:68
 msgid "When reporting the bug please include the following error message :"
