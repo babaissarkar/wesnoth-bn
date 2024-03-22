@@ -4601,7 +4601,7 @@ msgstr ""
 #. [grid]
 #: data/gui/window/mp_create_game.cfg:503
 msgid "Time for each attack, recruit, and capture"
-msgstr ""
+msgstr "প্রত্যেক আক্রমণ, নিয়োগ এবং নিয়ন্ত্রণের সময়"
 
 #. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [widget]: id=tab_label
@@ -4620,12 +4620,12 @@ msgstr ""
 #. [widget]: id=tab_label
 #: data/gui/window/mp_create_game.cfg:605
 msgid "Game Settings"
-msgstr ""
+msgstr "খেলার সেটিং"
 
 #. [slider]: id=num_players
 #: data/gui/window/mp_create_game.cfg:748
 msgid "Any"
-msgstr ""
+msgstr "যেকোনো"
 
 #. [label]
 #: data/gui/window/mp_create_game.cfg:881
@@ -4635,7 +4635,7 @@ msgstr ""
 #. [button]: id=random_map_regenerate
 #: data/gui/window/mp_create_game.cfg:902
 msgid "Regenerate"
-msgstr ""
+msgstr "পুনরায় সৃষ্টি"
 
 #: data/gui/window/mp_create_game.cfg:975
 msgid "Assign sides to players at random"
@@ -4651,7 +4651,7 @@ msgstr ""
 
 #: data/gui/window/mp_create_game.cfg:979
 msgid "Observers"
-msgstr ""
+msgstr "দর্শক"
 
 #: data/gui/window/mp_create_game.cfg:983
 msgid "Strict Synchronization"
@@ -4663,7 +4663,7 @@ msgstr ""
 
 #: data/gui/window/mp_create_game.cfg:987
 msgid "Private Replay"
-msgstr ""
+msgstr "নিজস্ব রিপ্লে"
 
 #: data/gui/window/mp_create_game.cfg:987
 msgid "Whether the replay will be publicly available"
@@ -4672,7 +4672,7 @@ msgstr ""
 #. [label]
 #: data/gui/window/mp_create_game.cfg:1003
 msgid "Name of game:"
-msgstr ""
+msgstr "খেলার নাম:"
 
 #. [text_box]: id=game_password
 #: data/gui/window/mp_create_game.cfg:1050
@@ -4687,36 +4687,36 @@ msgstr ""
 #: data/gui/window/mp_create_game/tiny_resolution.cfg:164
 #: src/gui/dialogs/multiplayer/lobby.cpp:457
 msgid "Map size:"
-msgstr ""
+msgstr "মানচিত্রের আকার:"
 
 #. [row]
 #: data/gui/window/mp_faction_select.cfg:180
 msgid "gender^Random"
-msgstr ""
+msgstr "যেকোনো"
 
 #. [row]
 #. [toggle_button]: id=male_toggle
 #: data/gui/window/mp_faction_select.cfg:182
 #: data/gui/window/unit_create.cfg:225
 msgid "Male"
-msgstr ""
+msgstr "পুরুষ"
 
 #. [row]
 #. [toggle_button]: id=female_toggle
 #: data/gui/window/mp_faction_select.cfg:184
 #: data/gui/window/unit_create.cfg:236
 msgid "Female"
-msgstr ""
+msgstr "স্ত্রী"
 
 #. [label]
 #: data/gui/window/mp_faction_select.cfg:217
 msgid "Recruits"
-msgstr ""
+msgstr "নিয়োগগুলি"
 
 #. [label]
 #: data/gui/window/mp_faction_select.cfg:308
 msgid "Choose Your Leader"
-msgstr ""
+msgstr "দলনেতা পছন্দ করুন"
 
 #. [label]
 #. [widget]: id=name
@@ -4736,28 +4736,28 @@ msgstr ""
 #. [button]: id=select_leader
 #: data/gui/window/mp_join_game.cfg:71 data/gui/window/mp_staging.cfg:70
 msgid "Select the faction and leader for this side"
-msgstr ""
+msgstr "এই পক্ষের দল এবং দলনেতা নির্বাচন করুন"
 
 #. [label]
 #: data/gui/window/mp_join_game.cfg:155
 msgid "<b>Faction:</b>"
-msgstr ""
+msgstr "<b>দল:</b>"
 
 #. [label]
 #: data/gui/window/mp_join_game.cfg:187
 msgid "<b>Gender:</b>"
-msgstr ""
+msgstr "<b>লিঙ্গ:</b>"
 
 #. [button]: id=cancel
 #: data/gui/window/mp_join_game.cfg:359
 msgid "Leave"
-msgstr ""
+msgstr "বেরিয়ে যান"
 
 #. [label]: id=title
 #: data/gui/window/mp_join_game.cfg:422 data/gui/window/mp_staging.cfg:559
 #: data/gui/window/mp_staging.cfg:744
 msgid "Game Lobby"
-msgstr ""
+msgstr "খেলার লবি"
 
 #. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]: id=status_label
@@ -4765,32 +4765,32 @@ msgstr ""
 #: data/gui/window/mp_staging.cfg:813
 #: src/gui/dialogs/multiplayer/mp_staging.cpp:517
 msgid "Waiting for players to join..."
-msgstr ""
+msgstr "খেলোয়াড়দের যোগদান করার জন্য অপেক্ষা করা হচ্ছে..."
 
 #. [label]: id=title
 #: data/gui/window/mp_join_game_password_prompt.cfg:42
 msgid "Password Required"
-msgstr ""
+msgstr "পাসওয়ার্ড প্রয়োজন"
 
 #. [scroll_label]: id=message
 #: data/gui/window/mp_join_game_password_prompt.cfg:61
 msgid "Joining this game requires a password."
-msgstr ""
+msgstr "এই খেলাটিতে যোগদান করার জন্য পাসওয়ার্ডের প্রয়োজন"
 
 #. [label]
 #: data/gui/window/mp_login.cfg:41
 msgid "Login"
-msgstr ""
+msgstr "লগ-ইন"
 
 #. [label]
 #: data/gui/window/mp_login.cfg:91 data/gui/window/mp_method_selection.cfg:76
 msgid "Login:"
-msgstr ""
+msgstr "লগ-ইন:"
 
 #. [button]: id=replay_download
 #: data/gui/window/mp_match_history.cfg:159
 msgid "Download"
-msgstr ""
+msgstr "ডাউনলোড"
 
 #. [label]: id=players
 #. [label]: id=modifications
@@ -4802,24 +4802,24 @@ msgstr ""
 #. [widget]: id=tab_label
 #: data/gui/window/mp_match_history.cfg:375
 msgid "Info"
-msgstr ""
+msgstr "তথ্য"
 
 #. [widget]: id=tab_label
 #: data/gui/window/mp_match_history.cfg:388
 msgid "Players"
-msgstr ""
+msgstr "খেলোয়াড়েরা"
 
 #. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [widget]: id=tab_label
 #: data/gui/window/mp_match_history.cfg:401
 #: src/gui/dialogs/multiplayer/lobby.cpp:433
 msgid "Modifications"
-msgstr ""
+msgstr "পরিবর্তনগুলি"
 
 #. [label]
 #: data/gui/window/mp_match_history.cfg:450
 msgid "Player:"
-msgstr ""
+msgstr "খেলোয়াড়:"
 
 #. [text_box]: id=search_player
 #. [text_box]: id=search_game_name
@@ -4838,7 +4838,7 @@ msgstr ""
 #. [label]
 #: data/gui/window/mp_match_history.cfg:494
 msgid "Game name:"
-msgstr ""
+msgstr "খেলার নাম:"
 
 #. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]
@@ -4855,27 +4855,27 @@ msgstr "বহুখেলোয়াড়"
 msgid ""
 "A registered account on the Wesnoth forums is required to join the official "
 "server."
-msgstr ""
+msgstr "অফিশিয়াল সার্ভারে যোগাযোগ করার জন্য ওয়েসনথ ফোরামে রেজিস্টার করা একটি অ্যাকউন্ট প্রয়োজন"
 
 #. [button]: id=register
 #: data/gui/window/mp_method_selection.cfg:136
 msgid "Sign Up"
-msgstr ""
+msgstr "সাইন আপ"
 
 #. [column]
 #: data/gui/window/mp_method_selection.cfg:226
 msgid "Log on to the official Wesnoth multiplayer server"
-msgstr ""
+msgstr "অফিশিয়াল ওয়েসনথ বহুখেলোয়াড় সার্ভারে লগ অন করুন"
 
 #. [widget]: id=name
 #: data/gui/window/mp_method_selection.cfg:235
 msgid "Join Official Server"
-msgstr ""
+msgstr "অফিশিয়াল সার্ভারে যোগাযোগ করুন"
 
 #. [column]
 #: data/gui/window/mp_method_selection.cfg:245
 msgid "Join a different server"
-msgstr ""
+msgstr "অন্য একটি সার্ভারে যোগাযোগ করুন"
 
 #. [column]
 #: data/gui/window/mp_method_selection.cfg:264
@@ -4900,7 +4900,7 @@ msgstr ""
 #. [label]
 #: data/gui/window/mp_report.cfg:82
 msgid "* Reason for report:"
-msgstr ""
+msgstr "* রিপোর্ট করার কারণ:"
 
 #. [label]
 #: data/gui/window/mp_report.cfg:114
@@ -4910,7 +4910,7 @@ msgstr ""
 #. [label]
 #: data/gui/window/mp_report.cfg:146
 msgid "Additional information:"
-msgstr ""
+msgstr "অতিরিক্ত তথ্য:"
 
 #. [label]
 #: data/gui/window/mp_report.cfg:191
@@ -4922,34 +4922,34 @@ msgstr ""
 #, fuzzy
 #| msgid "Action"
 msgid "Faction:"
-msgstr "কাজ"
+msgstr "দল:"
 
 #. [label]
 #: data/gui/window/mp_staging.cfg:189
 #, fuzzy
 #| msgid "Defender"
 msgid "Gender:"
-msgstr "সুরক্ষাকারী"
+msgstr "লিঙ্গ:"
 
 #. [menu_button]: id=controller
 #: data/gui/window/mp_staging.cfg:243
 msgid "Change the side’s controller"
-msgstr ""
+msgstr "এই পক্ষের নিয়ন্ত্রণকারী পাল্টান"
 
 #. [menu_button]: id=ai_controller
 #: data/gui/window/mp_staging.cfg:259
 msgid "Change the AI side’s behaviour"
-msgstr ""
+msgstr "এআই পক্ষের স্বভাব পাল্টান"
 
 #. [menu_button]: id=side_team
 #: data/gui/window/mp_staging.cfg:286
 msgid "Which team this side belongs to"
-msgstr ""
+msgstr "এই পক্ষ কোন দলের সদস্য"
 
 #. [menu_button]: id=side_color
 #: data/gui/window/mp_staging.cfg:302
 msgid "This side’s color"
-msgstr ""
+msgstr "এই পক্ষের রঙ"
 
 #. [button]: id=ok
 #: data/gui/window/mp_staging.cfg:423
@@ -4989,7 +4989,7 @@ msgstr "সরে যাওয়ার গতিবেগ"
 #. [slider]: id=scroll_speed
 #: data/gui/window/preferences/01_general.cfg:36
 msgid "Change the speed of scrolling around the map"
-msgstr ""
+msgstr "মানচিত্রের চারদিকে স্ক্রোলের গতিবেগ পাল্টান"
 
 #. [toggle_button]: id=skip_ai_moves
 #: data/gui/window/preferences/01_general.cfg:54
