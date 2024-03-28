@@ -5764,12 +5764,12 @@ msgstr "ব্যাটল ফর ওয়েসনথের সাহায্য
 #. [button]: id=previous_tip
 #: data/gui/window/title_screen.cfg:194
 msgid "Show previous tip of the day"
-msgstr "পূর্ববর্তী দিনের সুত্র দেখান"
+msgstr "দিনের পূর্ববর্তী সুত্র দেখান"
 
 #. [button]: id=next_tip
 #: data/gui/window/title_screen.cfg:209
 msgid "Show next tip of the day"
-msgstr "পরবর্তী দিনের সুত্র দেখান"
+msgstr "দিনের পরবর্তী সুত্র দেখান"
 
 #. [grid]
 #: data/gui/window/title_screen.cfg:255
@@ -7876,7 +7876,7 @@ msgstr "ডেস্কটপে প্রস্থান করুন"
 
 #: src/hotkey/hotkey_command.cpp:167
 msgid "Close Map"
-msgstr ""
+msgstr "মানচিত্র বন্ধ করুন"
 
 #: src/hotkey/hotkey_command.cpp:171
 msgid "Switch Time of Day"
@@ -7908,11 +7908,11 @@ msgstr "মানচিত্র খুলুন"
 
 #: src/hotkey/hotkey_command.cpp:182
 msgid "Save Map As"
-msgstr "মানচিত্র এভাবে সঞ্চয় করুন"
+msgstr "মানচিত্র সঞ্চয় করুন এখানে"
 
 #: src/hotkey/hotkey_command.cpp:183
 msgid "Save Scenario As"
-msgstr "ঘটনাক্রম এভাবে সঞ্চয় করুন"
+msgstr "ঘটনাক্রম সঞ্চয় করুন এখানে"
 
 #: src/hotkey/hotkey_command.cpp:184
 msgid "Save All Maps"
@@ -7920,7 +7920,7 @@ msgstr "সব মানচিত্র সঞ্চয় করুন"
 
 #: src/hotkey/hotkey_command.cpp:185
 msgid "Revert All Changes"
-msgstr ""
+msgstr "সব পরিবর্তন ফিরিয়ে নিন"
 
 #: src/hotkey/hotkey_command.cpp:186
 msgid "Map Information"
@@ -7928,7 +7928,7 @@ msgstr "মানচিত্রের তথ্য"
 
 #: src/hotkey/hotkey_command.cpp:188
 msgid "Clear Selected Item Set"
-msgstr ""
+msgstr "নির্বাচিত বস্তু মুছুন"
 
 #: src/hotkey/hotkey_command.cpp:189
 msgid "Swap Foreground/Background Palette Item"
@@ -7940,11 +7940,11 @@ msgstr ""
 
 #: src/hotkey/hotkey_command.cpp:191
 msgid "Scroll Palette Left"
-msgstr ""
+msgstr "প্যালেট বামদিকে সরান"
 
 #: src/hotkey/hotkey_command.cpp:192
 msgid "Scroll Palette Right"
-msgstr ""
+msgstr "প্যালেট ডানদিকে সরান"
 
 #: src/hotkey/hotkey_command.cpp:193
 msgid "Remove Location"
@@ -8095,11 +8095,11 @@ msgstr "ব্যাসার্ধ দুই"
 
 #: src/hotkey/hotkey_command.cpp:227
 msgid "Brush NW-SE"
-msgstr ""
+msgstr "তুলি উ.প.-দ.পূ."
 
 #: src/hotkey/hotkey_command.cpp:228
 msgid "Brush SW-NE"
-msgstr ""
+msgstr "তুমি দ.প.-উ.পূ."
 
 #: src/hotkey/hotkey_command.cpp:230
 msgid "Cut"
@@ -8180,23 +8180,23 @@ msgstr "ডিসপ্লে রিফ্রেশ করুন"
 
 #: src/hotkey/hotkey_command.cpp:251
 msgid "Update Terrain Transitions"
-msgstr ""
+msgstr "ভূমিরূপ পরিবর্তন আপডেট করুন"
 
 #: src/hotkey/hotkey_command.cpp:254
 msgid "Toggle Terrain Transition Update"
-msgstr ""
+msgstr "স্বয়ংক্রিয় ভূমিরূপ পরিবর্তন আপডেট সক্রিয়/নিস্ক্রিয়"
 
 #: src/hotkey/hotkey_command.cpp:256
 msgid "Auto-update Terrain Transitions"
-msgstr ""
+msgstr "স্বয়ংক্রিয় ভূমিরূপ পরিবর্তন আপডেট"
 
 #: src/hotkey/hotkey_command.cpp:257
 msgid "Auto-update Terrain Transitions: No"
-msgstr ""
+msgstr "স্বয়ংক্রিয় ভূমিরূপ পরিবর্তন আপডেট: না"
 
 #: src/hotkey/hotkey_command.cpp:258
 msgid "Auto-update Terrain Transitions: Partial"
-msgstr ""
+msgstr "স্বয়ংক্রিয় ভূমিরূপ পরিবর্তন আপডেট: আংশিক"
 
 #: src/hotkey/hotkey_command.cpp:260
 msgid "Refresh Image Cache"
@@ -8308,11 +8308,11 @@ msgstr "ডব্লুএমএল রিফ্রেশ করুন"
 
 #: src/hotkey/hotkey_command.cpp:293
 msgid "Next Tip of the Day"
-msgstr ""
+msgstr "দিনের পরবর্তী সুত্র"
 
 #: src/hotkey/hotkey_command.cpp:294
 msgid "Previous Tip of the Day"
-msgstr ""
+msgstr "দিনের পূর্ববর্তী সুত্র"
 
 #: src/hotkey/hotkey_command.cpp:295
 msgid "Start Campaign"

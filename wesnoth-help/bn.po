@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: bn\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-03-03 07:37+0530\n"
-"PO-Revision-Date: 2024-03-21 20:11+0530\n"
+"PO-Revision-Date: 2024-03-28 12:58+0530\n"
 "Last-Translator: Subhraman Sarkar <suvrax@gmail.com>\n"
 "Language-Team: Bengali < >\n"
 "Language: bn\n"
@@ -63,6 +63,9 @@ msgid ""
 "Walking Corpse on the same side as the unit with the Plague attack. This "
 "doesn’t work on Undead or units in villages."
 msgstr ""
+"যখন একটি ইউনিট প্লেগ আক্রমণের দ্বারা নিহত হয়, তখন সেই ইউনিটটি প্লেগ আক্রমণকারী "
+"পক্ষের একটি চলমান শব ইউনিটে পাল্টে যায় । এটি না-মৃত বা গ্রামে দাঁড়িয়ে থাকা "
+"ইউনিটদের ওপর কার্যকরী নয় ।"
 
 #. [resistance]: id=garak_steadfast
 #. [resistance]: id=steadfast
@@ -116,6 +119,8 @@ msgstr ""
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:749
 msgid "This unit is capable of basic healing and slowing dehydration."
 msgstr ""
+"এই ইউনিটটি সাধারণ চিকিৎসা করতে পারে এবং জলের অভাবে হওয়া ক্ষতির প্রভাব কমাতে "
+"পারে ।"
 
 #. [heals]: id=healing
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:698
@@ -169,6 +174,8 @@ msgid ""
 "This unit is capable of healing those around it, slowing dehydration, and "
 "curing them of poison."
 msgstr ""
+"এই ইউনিটটি নিজের চারপাশে থাকা ইউনিটগুলির চিকিৎসা করতে পারে, জলের অভাবে হওয়া "
+"ক্ষতি কমাতে পারে, এবং তাদেরকে বিষের প্রভাবমুক্ত করতে পারে ।"
 
 #. [artifact]
 #. [chance]
@@ -251,7 +258,7 @@ msgstr "অরণ্য"
 
 #: data/campaigns/World_Conquest/resources/strings/mainline.cfg:33
 msgid "Frozen"
-msgstr ""
+msgstr "বরফে ঢাকা"
 
 #: data/campaigns/World_Conquest/resources/strings/mainline.cfg:36
 msgid "Hills"
@@ -433,7 +440,7 @@ msgstr "একই সরলরেখায় থাকা তিনটি ষড়�
 #. [topic]: id=editor_tool_paste
 #: data/core/editor/help.cfg:89
 msgid "Clipboard and Paste Tool"
-msgstr ""
+msgstr "ক্লিপবোর্ড এবং বসানোর টুল"
 
 #. [topic]: id=editor_tool_paste
 #: data/core/editor/help.cfg:90
@@ -838,6 +845,9 @@ msgid ""
 "in. This will only rename that folder and update any references to it in the "
 "_main.cfg file. Any other place will need to be updated manually."
 msgstr ""
+"অ্যাড অনের আইডি পাল্টাতে সাহায্য করে, যা সাধারণভাবে সেটির ফোল্ডারের নাম । এটি "
+"শুধুমাত্র ওই ফোল্ডারটির নাম এবং _main.cfg ফাইলে হওয়া এর উল্লেখগুলিকে পাল্টে দেবে । "
+"এছাড়া অন্যান্য স্থানে থাকা নাম বা উল্লেখগুলি আপনাকে নিজে পাল্টাতে হবে ।"
 
 #. [topic]: id=editor_pbl_editor
 #: data/core/editor/help.cfg:329
@@ -851,6 +861,9 @@ msgid ""
 "publishing an add-on to the add-ons server for other players to download. "
 "The Validate button will check whether all required fields have valid values."
 msgstr ""
+"একটি অ্যাড অনকে অন্য খেলোয়াড়দের খেলার জন্য অ্যাড অন সার্ভারে প্রকাশনার জন্য "
+"প্রয়োজনীয় _server.pbl ফাইলটিকে বানাতে সাহায্য করে । পরীক্ষা বাটনটি পরীক্ষা করে "
+"দেখবে সকল ফিল্ডে সঠিক মান বসানো হয়েছে কী না ।"
 
 #. [topic]: id=..editor
 #: data/core/editor/help.cfg:338
@@ -1181,13 +1194,13 @@ msgstr ""
 #. [time]: id=deep_underground
 #: data/core/editor/time-of-day.cfg:47 data/core/macros/schedules.cfg:127
 msgid "Deep Underground"
-msgstr ""
+msgstr "গভীর ভূগর্ভ"
 
 #. [editor_times]: id=indoors
 #. [time]: id=indoors
 #: data/core/editor/time-of-day.cfg:53 data/core/macros/schedules.cfg:104
 msgid "Indoors"
-msgstr ""
+msgstr "অভ্যন্তর"
 
 #. [section]: id=encyclopedia
 #. [topic]: id=..encyclopedia
@@ -1644,7 +1657,7 @@ msgstr ""
 #. [topic]: id=about_game
 #: data/core/help.cfg:106
 msgid "About the Game"
-msgstr ""
+msgstr "খেলাটির সম্পর্কে জানুন"
 
 #. [topic]: id=about_game
 #: data/core/help.cfg:107
@@ -2477,7 +2490,7 @@ msgstr ""
 #. [topic]: id=damage_types_and_resistance
 #: data/core/help.cfg:369
 msgid "Damage Types and Resistance"
-msgstr ""
+msgstr "ক্ষতির প্রকৃতি এবং প্রতিরোধ"
 
 #. [topic]: id=damage_types_and_resistance
 #: data/core/help.cfg:370
@@ -2525,7 +2538,7 @@ msgstr ""
 #. [topic]: id=orbs
 #: data/core/help.cfg:382
 msgid "Orbs and ellipses"
-msgstr ""
+msgstr "গোলক এবং উপবৃত্ত"
 
 #. [topic]: id=orbs
 #: data/core/help.cfg:383
@@ -2592,7 +2605,7 @@ msgstr ""
 #. [topic]: id=crowns
 #: data/core/help.cfg:432
 msgid "Crowns and loyal markers"
-msgstr ""
+msgstr "মুকুট এবং বিশ্বস্তরা নির্দেশকগুলি"
 
 #. [topic]: id=crowns
 #: data/core/help.cfg:433
@@ -2630,7 +2643,7 @@ msgstr ""
 #. [topic]: id=time_of_day
 #: data/core/help.cfg:466
 msgid "Time of Day"
-msgstr ""
+msgstr "দিনের সময়"
 
 #. [topic]: id=time_of_day
 #: data/core/help.cfg:467
@@ -2662,19 +2675,19 @@ msgstr ""
 #: data/core/help.cfg:476 data/core/macros/schedules.cfg:16
 #: data/core/macros/schedules.cfg:290
 msgid "Dawn"
-msgstr ""
+msgstr "ভোর"
 
 #. [topic]: id=time_of_day
 #. [time]: id=morning
 #: data/core/help.cfg:477 data/core/macros/schedules.cfg:28
 msgid "Morning"
-msgstr ""
+msgstr "সকাল"
 
 #. [topic]: id=time_of_day
 #. [time]: id=afternoon
 #: data/core/help.cfg:478 data/core/macros/schedules.cfg:46
 msgid "Afternoon"
-msgstr ""
+msgstr "বিকেল"
 
 #. [topic]: id=time_of_day
 #. [time]: id=dusk
@@ -2682,19 +2695,19 @@ msgstr ""
 #: data/core/help.cfg:479 data/core/macros/schedules.cfg:55
 #: data/core/macros/schedules.cfg:411
 msgid "Dusk"
-msgstr ""
+msgstr "সন্ধ্যা"
 
 #. [topic]: id=time_of_day
 #. [time]: id=first_watch
 #: data/core/help.cfg:480 data/core/macros/schedules.cfg:67
 msgid "First Watch"
-msgstr ""
+msgstr "রাত্রির প্রথমার্ধ"
 
 #. [topic]: id=time_of_day
 #. [time]: id=second_watch
 #: data/core/help.cfg:481 data/core/macros/schedules.cfg:91
 msgid "Second Watch"
-msgstr ""
+msgstr "রাত্রির দ্বিতীয়ার্ধ"
 
 #. [topic]: id=time_of_day
 #: data/core/help.cfg:483
@@ -2729,7 +2742,7 @@ msgstr ""
 #. [topic]: id=healing
 #: data/core/help.cfg:496
 msgid "Healing"
-msgstr ""
+msgstr "চিকিৎসা"
 
 #. [topic]: id=healing
 #: data/core/help.cfg:497
@@ -2829,7 +2842,7 @@ msgstr ""
 #. [topic]: id=wrap_up
 #: data/core/help.cfg:516
 msgid "Wrap Up"
-msgstr ""
+msgstr "উপসংহার"
 
 #. [topic]: id=wrap_up
 #: data/core/help.cfg:517
@@ -2844,7 +2857,7 @@ msgstr ""
 #. [topic]: id=license
 #: data/core/help.cfg:522
 msgid "License"
-msgstr ""
+msgstr "লাইসেন্স"
 
 #. [topic]: id=..traits_section
 #: data/core/help.cfg:533
@@ -3216,7 +3229,7 @@ msgstr ""
 #. [topic]: id=installing_addons
 #: data/core/help.cfg:648
 msgid "Installing Add-ons"
-msgstr ""
+msgstr "অ্যাড-অন ইনস্টল করা"
 
 #. [topic]: id=installing_addons
 #: data/core/help.cfg:649
@@ -3266,7 +3279,7 @@ msgstr ""
 #. [topic]: id=general_commands
 #: data/core/help.cfg:678
 msgid "General Commands"
-msgstr ""
+msgstr "সাধারণ কমান্ড"
 
 #. [topic]: id=general_commands
 #. [topic]: id=mp_commands
@@ -3780,7 +3793,7 @@ msgstr ""
 #. [hides]: id=concealment
 #: data/core/macros/abilities.cfg:347
 msgid "female^concealment"
-msgstr ""
+msgstr "গোপনীয়তা"
 
 #. [hides]: id=concealment
 #: data/core/macros/abilities.cfg:348
@@ -3845,197 +3858,201 @@ msgstr "মধ্যরাত্রি"
 #. [time]: id=second_watch_hour1
 #: data/core/macros/schedules.cfg:218
 msgid "Second Watch — First Hour"
-msgstr ""
+msgstr "রাত্রির দ্বিতীয়ার্ধ — প্রথম ঘন্টা"
 
 #. [time]: id=second_watch_hour2
 #: data/core/macros/schedules.cfg:230
 msgid "Second Watch — Second Hour"
-msgstr ""
+msgstr "রাত্রির দ্বিতীয়ার্ধ — দ্বিতীয় ঘন্টা"
 
 #. [time]: id=second_watch_hour3
 #: data/core/macros/schedules.cfg:242
 msgid "Second Watch — Third Hour"
-msgstr ""
+msgstr "রাত্রির দ্বিতীয়ার্ধ — তৃতীয় ঘন্টা"
 
 #. [time]: id=second_watch_hour4
 #: data/core/macros/schedules.cfg:254
 msgid "Second Watch — Fourth Hour"
-msgstr ""
+msgstr "রাত্রির দ্বিতীয়ার্ধ — চতুর্থ ঘন্টা"
 
 #. [time]: id=second_watch_hour5
 #: data/core/macros/schedules.cfg:266
 msgid "Second Watch — Fifth Hour"
-msgstr ""
+msgstr "রাত্রির দ্বিতীয়ার্ধ — পঞ্চম ঘন্টা"
 
 #. [time]: id=second_watch_hour6
 #: data/core/macros/schedules.cfg:278
 msgid "Second Watch — Sixth Hour"
-msgstr ""
+msgstr "রাত্রির দ্বিতীয়ার্ধ — ষষ্ঠ ঘন্টা"
 
 #. [time]: id=morning_hour1
 #: data/core/macros/schedules.cfg:302
 msgid "Morning — First Hour"
-msgstr ""
+msgstr "সকাল — প্রথম ঘন্টা"
 
 #. [time]: id=morning_hour2
 #: data/core/macros/schedules.cfg:314
 msgid "Morning — Second Hour"
-msgstr ""
+msgstr "সকাল — দ্বিতীয় ঘন্টা"
 
 #. [time]: id=morning_hour3
 #: data/core/macros/schedules.cfg:326
 msgid "Morning — Third Hour"
-msgstr ""
+msgstr "সকাল — তৃতীয় ঘন্টা"
 
 #. [time]: id=morning_hour4
 #: data/core/macros/schedules.cfg:335
 msgid "Morning — Fourth Hour"
-msgstr ""
+msgstr "সকাল — চতুর্থ ঘন্টা"
 
 #. [time]: id=afternoon_hour1
 #: data/core/macros/schedules.cfg:353
 msgid "Afternoon — First Hour"
-msgstr ""
+msgstr "বিকেল — প্রথম ঘন্টা"
 
 #. [time]: id=afternoon_hour2
 #: data/core/macros/schedules.cfg:362
 msgid "Afternoon — Second Hour"
-msgstr ""
+msgstr "বিকেল — দ্বিতীয় ঘন্টা"
 
 #. [time]: id=afternoon_hour3
 #: data/core/macros/schedules.cfg:371
 msgid "Afternoon — Third Hour"
-msgstr ""
+msgstr "বিকেল — তৃতীয় ঘন্টা"
 
 #. [time]: id=afternoon_hour4
 #: data/core/macros/schedules.cfg:380
 msgid "Afternoon — Fourth Hour"
-msgstr ""
+msgstr "বিকেল — চতুর্থ ঘন্টা"
 
 #. [time]: id=afternoon_hour5
 #: data/core/macros/schedules.cfg:389
 msgid "Afternoon — Fifth Hour"
-msgstr ""
+msgstr "বিকেল — পঞ্চম ঘন্টা"
 
 #. [time]: id=afternoon_hour6
 #: data/core/macros/schedules.cfg:400
 msgid "Afternoon — Sixth Hour"
-msgstr ""
+msgstr "বিকেল — ষষ্ঠ ঘন্টা"
 
 #. [time]: id=first_watch_hour1
 #: data/core/macros/schedules.cfg:423
 msgid "First Watch — First Hour"
-msgstr ""
+msgstr "রাত্রির প্রথমার্ধ — প্রথম ঘন্টা"
 
 #. [time]: id=first_watch_hour2
 #: data/core/macros/schedules.cfg:435
 msgid "First Watch — Second Hour"
-msgstr ""
+msgstr "রাত্রির প্রথমার্ধ — দ্বিতীয় ঘন্টা"
 
 #. [time]: id=first_watch_hour3
 #: data/core/macros/schedules.cfg:447
 msgid "First Watch — Third Hour"
-msgstr ""
+msgstr "রাত্রির প্রথমার্ধ — তৃতীয় ঘন্টা"
 
 #. [time]: id=first_watch_hour4
 #: data/core/macros/schedules.cfg:459
 msgid "First Watch — Fourth Hour"
-msgstr ""
+msgstr "রাত্রির প্রথমার্ধ — চতুর্থ ঘন্টা"
 
 #. [time]: id=dawn1
 #: data/core/macros/schedules.cfg:514
 msgid "First Dawn"
-msgstr ""
+msgstr "দ্বিতীয় ভোর"
 
 #. [time]: id=dawn2
 #: data/core/macros/schedules.cfg:525
 msgid "Second Dawn"
-msgstr ""
+msgstr "দ্বিতীয় ভোর"
 
 #. [time]: id=morning1
 #: data/core/macros/schedules.cfg:536
 msgid "First Morning"
-msgstr ""
+msgstr "প্রথম সকাল"
 
 #. [time]: id=morning2
 #: data/core/macros/schedules.cfg:548
 msgid "Second Morning"
-msgstr ""
+msgstr "দ্বিতীয় সকাল"
 
 #. [time]: id=midday1
 #: data/core/macros/schedules.cfg:560
 msgid "First Midday"
-msgstr ""
+msgstr "প্রথম মধ্যাহ্ন"
 
 #. [time]: id=midday2
 #: data/core/macros/schedules.cfg:572
 msgid "Second Midday"
-msgstr ""
+msgstr "দ্বিতীয় মধ্যাহ্ন"
 
 #. [time]: id=afternoon1
 #: data/core/macros/schedules.cfg:584
 msgid "First Afternoon"
-msgstr ""
+msgstr "প্রথম বিকেল"
 
 #. [time]: id=afternoon2
 #: data/core/macros/schedules.cfg:596
 msgid "Second Afternoon"
-msgstr ""
+msgstr "দ্বিতীয় বিকেল"
 
 #. [time]: id=dusk1
 #: data/core/macros/schedules.cfg:608
 msgid "First Dusk"
-msgstr ""
+msgstr "প্রথম সন্ধ্যা"
 
 #. [time]: id=dusk2
 #: data/core/macros/schedules.cfg:619
 msgid "Second Dusk"
-msgstr ""
+msgstr "দ্বিতীয় সন্ধ্যা"
 
 #. [time]: id=short_dark
 #: data/core/macros/schedules.cfg:630
 msgid "The Short Dark"
-msgstr ""
+msgstr "হ্রস্ব অন্ধকার"
 
 #. [time]: id=long_dark1
 #: data/core/macros/schedules.cfg:642
 msgid "The Long Dark (1)"
-msgstr ""
+msgstr "দীর্ঘ অন্ধকার (1)"
 
 #. [time]: id=long_dark2
 #: data/core/macros/schedules.cfg:654
 msgid "The Long Dark (2)"
-msgstr ""
+msgstr "দীর্ঘ অন্ধকার (2)"
 
 #. [time]: id=long_dark3
 #: data/core/macros/schedules.cfg:666
 msgid "The Long Dark (3)"
-msgstr ""
+msgstr "দীর্ঘ অন্ধকার (3)"
 
 #. [time]: id=long_dark4
 #: data/core/macros/schedules.cfg:680
 msgid "The Long Dark (4)"
-msgstr ""
+msgstr "দীর্ঘ অন্ধকার (4)"
 
 #: data/core/macros/special-notes.cfg:9
 msgid ""
 "Spirits have very unusual resistances to damage, and move quite slowly over "
 "open water."
 msgstr ""
+"ক্ষতির থেকে আত্মাদের সুরক্ষা সাধারণের তুলনায় অনেকটাই আলাদা, এবং তারা জলের ওপর খুবই "
+"ধীরে চলে ।"
 
 #: data/core/macros/special-notes.cfg:12
 msgid ""
 "This unit’s arcane attack deals tremendous damage to magical creatures, and "
 "even some to mundane creatures."
 msgstr ""
+"এই ইউনিটটির অলৌকিক আক্রমণ জাদুনির্ভর জীবেদের প্রচন্ড ক্ষতি করে, এবং সাধারণ জীবদেরও "
+"কিছুটা ক্ষতি করে থাকে ।"
 
 #: data/core/macros/special-notes.cfg:19
 msgid "This unit is capable of basic healing."
-msgstr ""
+msgstr "এই ইউনিটটি সাধারণ চিকিৎসা করতে পারে ।"
 
 #: data/core/macros/special-notes.cfg:22
 msgid "This unit is capable of rapid healing."
-msgstr ""
+msgstr "এই ইউনিটটি দ্রুত চিকিৎসা করতে পারে ।"
 
 #: data/core/macros/special-notes.cfg:25
 msgid ""
@@ -4518,7 +4535,7 @@ msgstr "বন্য"
 #. [trait]: id=feral
 #: data/core/macros/traits.cfg:287
 msgid "Receives only 50% defense in land-based villages"
-msgstr ""
+msgstr "ভূমিতে থাকা গ্রামে শুধু 50% সুরক্ষা পায় ।"
 
 #. [trait]: id=feral
 #: data/core/macros/traits.cfg:288
@@ -4545,6 +4562,8 @@ msgid ""
 "Units with the <italic>text='weak'</italic> trait receive a 1 point decrease "
 "in hitpoints and melee damage."
 msgstr ""
+"<italic>text='দূর্বল'</italic> বৈশিষ্ট্যযুক্ত ইউনিটদের জীবনসংখ্যা এবং নিকট আক্রমণের "
+"ক্ষতি সাধারণের থেকে 1 কম হয় ।"
 
 #. [trait]: id=slow
 #: data/core/macros/traits.cfg:323
@@ -4727,6 +4746,8 @@ msgid ""
 "When used offensively, this attack deals double damage to the target. It "
 "also causes this unit to take double damage from the target’s counterattack."
 msgstr ""
+"আক্রমণের জন্য ব্যবহার করা হলে, এই আক্রমণটি প্রতিপক্ষকে দ্বিগুণ ক্ষতি করে । তবে "
+"ব্যবহারকারী ইউনিটও প্রতিপক্ষের আক্রমণ থেকে দ্বিগুণ পরিমাণ ক্ষতিগ্রস্ত হয় ।"
 
 #. [damage]: id=absorb
 #: data/core/macros/weapon_specials.cfg:153
@@ -4789,6 +4810,8 @@ msgstr ""
 msgid ""
 "This unit is able to stun its enemies, disrupting their zones of control."
 msgstr ""
+"এই ইউনিটটি প্রতিপক্ষকে হতচকিত করে তাদের নিয়ন্ত্রণের ক্ষেত্রকে নিস্ক্রিয় করে দিতে "
+"পারে ।"
 
 #. [damage_type]: id=arcane_damage
 #: data/core/macros/weapon_specials.cfg:208
