@@ -5009,39 +5009,39 @@ msgstr[1] ""
 
 #: src/chat_command_handler.cpp:82
 msgid "Added to ignore list: $nick"
-msgstr ""
+msgstr "এড়িয়ে যাওয়ার তালিকায় যোগ করা হল: $nick"
 
 #: src/chat_command_handler.cpp:82
 msgid "ignores list"
-msgstr ""
+msgstr "এড়িয়ে যাওয়ার তালিকা"
 
 #: src/chat_command_handler.cpp:86 src/chat_command_handler.cpp:105
 msgid "Invalid username: $nick"
-msgstr ""
+msgstr "অবৈধ ব্যবহারকারী নাম: $nick"
 
 #: src/chat_command_handler.cpp:101
 msgid "Added to friends list: $nick"
-msgstr ""
+msgstr "বন্ধুর তালিকায় যোগ করা হল: $nick"
 
 #: src/chat_command_handler.cpp:101
 msgid "friends list"
-msgstr ""
+msgstr "বন্ধুর তালিকা"
 
 #: src/chat_command_handler.cpp:117
 msgid "Removed from list: $nick"
-msgstr ""
+msgstr "তালিকা থেকে সরানো হল: $nick"
 
 #: src/chat_command_handler.cpp:117
 msgid "friends and ignores list"
-msgstr ""
+msgstr "বন্ধুর এবং এড়িয়ে যাওয়ার তালিকা"
 
 #: src/chat_command_handler.cpp:127
 msgid "version"
-msgstr ""
+msgstr "সংস্করণ"
 
 #: src/chat_command_handler.cpp:139
 msgid "nick registration"
-msgstr ""
+msgstr "ডাকনাম নথিভুক্তকরণ"
 
 #: src/chat_command_handler.cpp:139
 msgid "requesting information for user $nick"
@@ -5081,7 +5081,7 @@ msgstr ""
 
 #: src/chat_command_handler.hpp:84
 msgid "Kick a player or observer."
-msgstr ""
+msgstr "একজন খেলোয়াড় বা দর্শককে বের করুন ।"
 
 #: src/chat_command_handler.hpp:86
 msgid "Mute an observer. Without an argument displays the mute status."
@@ -5093,7 +5093,7 @@ msgstr ""
 
 #: src/chat_command_handler.hpp:90
 msgid "Mute/Unmute all observers. (toggles)"
-msgstr ""
+msgstr "সকল দর্শকের জন্য মিউট সক্রিয়/নিস্ক্রিয় করুন ।"
 
 #: src/chat_command_handler.hpp:92
 msgid ""
@@ -5131,19 +5131,19 @@ msgstr ""
 
 #: src/chat_command_handler.hpp:107
 msgid "Change the log level of a log domain."
-msgstr ""
+msgstr "লগ ডোমেনের লগের পর্যায় পাল্টান"
 
 #: src/chat_command_handler.hpp:109
 msgid "Add a nickname to your ignores list."
-msgstr ""
+msgstr "আপনার এড়িয়ে যাওয়ার তালিকায় একটি ডাকনাম যোগ করুন"
 
 #: src/chat_command_handler.hpp:111
 msgid "Add a nickname to your friends list."
-msgstr ""
+msgstr "আপনার বন্ধুদের তালিকায় একটি ডাকনাম যোগ করুন ।"
 
 #: src/chat_command_handler.hpp:113
 msgid "Remove a nickname from your ignores or friends list."
-msgstr ""
+msgstr "আপনার এড়িয়ে যাওয়ার বা বন্ধুদের তালিকা থেকে একটি ডাকনাম মুছুন ।"
 
 #: src/chat_command_handler.hpp:115
 msgid "<N>"
@@ -5155,15 +5155,15 @@ msgstr ""
 
 #: src/chat_command_handler.hpp:117
 msgid "Display version information."
-msgstr ""
+msgstr "সংস্করণের তথ্য দেখান ।"
 
 #: src/chat_command_handler.hpp:119
 msgid "Request information about a nickname."
-msgstr ""
+msgstr "একটি ডাকনামের সম্পর্কে তথ্য জানার জন্য অনুরোধ করুন ।"
 
 #: src/chat_command_handler.hpp:121 src/menu_events.cpp:1245
 msgid "Clear chat history."
-msgstr ""
+msgstr "চ্যাটের ইতিহাস মুছুন"
 
 #: src/chat_events.cpp:60
 msgid "Unknown debug level: '$level'."
@@ -5171,7 +5171,7 @@ msgstr ""
 
 #: src/chat_events.cpp:62 src/chat_events.cpp:71
 msgid "error"
-msgstr ""
+msgstr "ত্রুটি"
 
 #: src/chat_events.cpp:69
 msgid "Unknown debug domain: '$domain'."
@@ -5211,15 +5211,15 @@ msgstr ""
 
 #: src/desktop/notifications.cpp:78
 msgid "Chat message"
-msgstr ""
+msgstr "চ্যাট বার্তা"
 
 #: src/desktop/windows_tray_notification.cpp:126 src/game_config.cpp:568
 msgid "The Battle for Wesnoth"
-msgstr ""
+msgstr "ব্যাটল ফর ওয়েসনথ"
 
 #: src/font/text_formatting.cpp:52
 msgid "Invalid Color"
-msgstr ""
+msgstr "অবৈধ রঙ"
 
 #. TRANSLATORS: 24-hour time, eg '13:59'
 #: src/format_time_summary.cpp:48
@@ -5284,7 +5284,7 @@ msgstr ""
 
 #: src/game_config_manager.cpp:271
 msgid "File not found."
-msgstr ""
+msgstr "ফাইল খুঁজে পাওয়া যাচ্ছে না ।"
 
 #: src/game_config_manager.cpp:291 src/game_config_manager.cpp:303
 msgid "Error loading core data."
@@ -5304,7 +5304,7 @@ msgstr ""
 
 #: src/game_config_manager.cpp:305
 msgid "The game will now exit."
-msgstr ""
+msgstr "খেলাটি এখন বন্ধ হয়ে যাবে ।"
 
 #: src/game_config_manager.cpp:366
 msgid ""
@@ -5360,15 +5360,15 @@ msgstr "সতর্কবার্তা:"
 
 #: src/game_events/pump.cpp:396
 msgid "Debug: "
-msgstr ""
+msgstr "ডিবাগ: "
 
 #: src/game_events/pump.cpp:398
 msgid "Info: "
-msgstr "তথ্য:"
+msgstr "তথ্য: "
 
 #: src/game_initialization/configure_engine.cpp:64
 msgid "$login|’s game"
-msgstr ""
+msgstr "$login|-র খেলা"
 
 #: src/game_initialization/connect_engine.cpp:102
 msgid "Team"
@@ -5376,32 +5376,32 @@ msgstr "দল"
 
 #: src/game_initialization/connect_engine.cpp:950
 msgid "Anonymous player"
-msgstr ""
+msgstr "নামহীন খেলোয়াড়"
 
 #: src/game_initialization/connect_engine.cpp:955
 #: src/game_initialization/connect_engine.cpp:1253
 msgid "Computer Player"
-msgstr ""
+msgstr "কম্পিউটার খেলোয়াড়"
 
 #: src/game_initialization/connect_engine.cpp:997
 msgid "$playername $side"
-msgstr ""
+msgstr "$playername $side"
 
 #: src/game_initialization/connect_engine.cpp:1249
 msgid "Network Player"
-msgstr ""
+msgstr "নেটওর্য়াকে যুক্ত খেলোয়াড়"
 
 #: src/game_initialization/connect_engine.cpp:1252
 msgid "Local Player"
-msgstr ""
+msgstr "স্থানীয় খেলোয়াড়"
 
 #: src/game_initialization/connect_engine.cpp:1254
 msgid "Nobody"
-msgstr ""
+msgstr "কেউ নেই"
 
 #: src/game_initialization/connect_engine.cpp:1257
 msgid "Reserved"
-msgstr ""
+msgstr "সংরক্ষিত"
 
 #: src/game_initialization/create_engine.cpp:77
 #: src/game_initialization/create_engine.cpp:669
@@ -5414,7 +5414,7 @@ msgstr "মানচিত্র খোলা যাচ্ছে না ।"
 
 #: src/game_initialization/create_engine.cpp:98
 msgid "not available."
-msgstr ""
+msgstr "উপলব্ধ নয় ।"
 
 #: src/game_initialization/create_engine.cpp:153
 msgid "Custom map."
@@ -5455,7 +5455,7 @@ msgstr ""
 #: src/game_initialization/depcheck.hpp:309
 #: src/game_initialization/depcheck.hpp:321
 msgid "A component"
-msgstr ""
+msgstr "একটি উপাদান"
 
 #: src/game_initialization/flg_manager.cpp:212
 msgid "Only random sides in the current era."
@@ -5479,7 +5479,7 @@ msgstr ""
 
 #: src/game_initialization/lobby_data.cpp:197
 msgid "Unknown era"
-msgstr ""
+msgstr "অজানা যুগ"
 
 #: src/game_initialization/lobby_data.cpp:264
 #: src/game_initialization/lobby_data.cpp:298
@@ -7085,7 +7085,7 @@ msgstr "ধীর: "
 
 #: src/reports.cpp:848
 msgid "Max swarm bonus: "
-msgstr "দঙ্গলসহ অতিরিক্ত ক্ষতি: "
+msgstr "দঙ্গলের জন্য সর্বোচ্চ ক্ষতি: "
 
 #: src/reports.cpp:849 src/reports.cpp:868
 msgid "Swarm: "
@@ -7144,7 +7144,7 @@ msgstr[1] ""
 #. TRANSLATORS: This string is shown in the sidebar beneath the word "Attacks" when a unit can attack multiple times per turn
 #: src/reports.cpp:1171
 msgid "Remaining: $left/$max"
-msgstr ""
+msgstr "বাকি: $left/$max"
 
 #: src/reports.cpp:1175
 msgid "This unit can attack multiple times per turn."
@@ -7156,7 +7156,7 @@ msgstr "দিনের সময়সূচী:"
 
 #: src/reports.cpp:1316
 msgid "Time of day:"
-msgstr "দিনের সময়"
+msgstr "দিনের সময়:"
 
 #: src/reports.cpp:1317 src/reports.cpp:1371
 msgid "Lawful units: "
@@ -7191,11 +7191,11 @@ msgstr "স্বর্ণ"
 #: src/reports.cpp:1462
 msgid ""
 "The amount of gold currently available to recruit and maintain your army."
-msgstr ""
+msgstr "বর্তমানে আপনার সেনাবাহিনীতে নিয়োগ এবং তাদের খরচ বহনের জন্য যে পরিমাণ স্বর্ণ রয়েছে ।"
 
 #: src/reports.cpp:1481
 msgid "The fraction of known villages that your side has captured."
-msgstr ""
+msgstr "জানা গ্রামের যে ভগ্নাংশ আপনার পক্ষ নিয়ন্ত্রণে আনতে পেরেছে"
 
 #: src/reports.cpp:1481
 msgid "Villages"
@@ -7203,7 +7203,7 @@ msgstr "গ্রাম"
 
 #: src/reports.cpp:1486
 msgid "The total number of units on your side."
-msgstr ""
+msgstr "আপনার পক্ষে মোট ইউনিটের সংখ্যা ।"
 
 #: src/reports.cpp:1486
 msgid "Units"
@@ -7242,7 +7242,7 @@ msgstr "ঘড়ি"
 
 #: src/reports.cpp:1764
 msgid "Battery"
-msgstr ""
+msgstr "ব্যাটারি"
 
 #: src/reports.cpp:1795
 msgid "Countdown until your turn automatically ends."
@@ -7306,11 +7306,11 @@ msgstr "খেলা খুলুন"
 
 #: src/savegame.cpp:319
 msgid "Replays are not supported in multiplayer mode."
-msgstr ""
+msgstr "বহুখেলোয়াড় মোডে রিপ্লে ব্যবহার করা সম্ভব নয় ।"
 
 #: src/savegame.cpp:326
 msgid "This is not a multiplayer save."
-msgstr ""
+msgstr "এটি একটি বহুখেলোয়াড় সঞ্চয় নয় ।"
 
 #: src/savegame.cpp:360
 msgid "The game could not be saved: "
@@ -7318,11 +7318,11 @@ msgstr "খেলাটি সঞ্চয় করা যাচ্ছে না: 
 
 #: src/savegame.cpp:429
 msgid "Save already exists. Do you want to overwrite it?"
-msgstr ""
+msgstr "আগেই সঞ্চয় করা রয়েছে । আপনি কী সেটিকে পাল্টাতে চান?"
 
 #: src/savegame.cpp:430
 msgid "Overwrite?"
-msgstr ""
+msgstr "পাল্টাবেন?"
 
 #: src/savegame.cpp:437
 msgid ""
@@ -7426,7 +7426,7 @@ msgstr ""
 
 #: src/serialization/parser.cpp:471
 msgid "at $pos"
-msgstr ""
+msgstr "$pos-এ"
 
 #: src/serialization/parser.cpp:484
 msgid "Value: '$value' Previous: '$previous_value'"
@@ -7508,11 +7508,11 @@ msgstr ""
 
 #: src/synced_commands.cpp:415
 msgid "(unknown player)"
-msgstr ""
+msgstr "(অজানা খেলোয়াড়)"
 
 #: src/synced_commands.cpp:420
 msgid "The :$command debug command was used during $player’s turn"
-msgstr ""
+msgstr ":$command-টি $player-এর দানে ব্যবহার করা হয়েছে"
 
 #: src/synced_commands.cpp:428
 msgid ""
@@ -7526,7 +7526,7 @@ msgstr "বিস্তারিত তথ্য:"
 
 #: src/synced_commands.cpp:433
 msgid "Do you wish to save the game before continuing?"
-msgstr ""
+msgstr "আপনি কি এগিয়ে যাওয়ার আগে খেলাটি সঞ্চিত করতে চান?"
 
 #: src/synced_commands.cpp:435
 msgid "Debug Command Used"
@@ -7590,12 +7590,12 @@ msgstr "নিয়ন্ত্রিত: "
 #. TRANSLATORS: Past-participle of "teach", used for an ability similar to leadership
 #: src/units/abilities.cpp:974
 msgid "Taught: "
-msgstr ""
+msgstr "জানা: "
 
 #. TRANSLATORS: Past-participle of "teach", used for an ability similar to leadership
 #: src/units/abilities.cpp:978
 msgid "Taught: (by an enemy): "
-msgstr ""
+msgstr "জানা: (শত্রুর দ্বারা): "
 
 #: src/units/abilities.cpp:991
 msgid "Used by opponent: "
@@ -7698,7 +7698,7 @@ msgstr "নিরপেক্ষ"
 
 #: src/units/types.cpp:849
 msgid "female^chaotic"
-msgstr "বিশৃঙ্খল"
+msgstr "অনৈতিক"
 
 #: src/units/types.cpp:851
 msgid "female^liminal"
@@ -7714,7 +7714,7 @@ msgstr "নিরপেক্ষ"
 
 #: src/units/types.cpp:863
 msgid "chaotic"
-msgstr "বিশৃঙ্খল"
+msgstr "অনৈতিক"
 
 #: src/units/types.cpp:865
 msgid "liminal"
