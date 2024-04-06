@@ -7182,7 +7182,7 @@ msgstr "দান সংখ্যা"
 msgid ""
 "When the game exceeds the number of turns indicated by the second number, it "
 "will end."
-msgstr ""
+msgstr "যখন দ্বিতীয় সংখ্যাটির দ্বারা নির্দেশিত দানগুলি পেরিয়ে যাবে, তখন খেলাটি নিজের থেকেই শেষ হয়ে যাবে ।"
 
 #: src/reports.cpp:1462
 msgid "Gold"
@@ -7230,7 +7230,7 @@ msgstr "মোট আয়"
 msgid ""
 "The net amount of gold you gain or lose each turn, taking into account "
 "income from controlled villages and payment of upkeep."
-msgstr ""
+msgstr "প্রত্যেকটি নিয়ন্ত্রিত গ্রাম থেকে পাওয়া আয় এবং সেনাদলের জন্য ব্যয় মিলিয়ে, আপনি প্রত্যেক দানে যে পরিমাণ স্বর্ণ আয় বা ব্যয় করছেন ।"
 
 #: src/reports.cpp:1733
 msgid "Observers:"
@@ -7246,21 +7246,21 @@ msgstr "ব্যাটারি"
 
 #: src/reports.cpp:1795
 msgid "Countdown until your turn automatically ends."
-msgstr ""
+msgstr "আপনার দান শেষ হওয়া পর্যন্ত বিপরীত গণনা ।"
 
 #: src/reports.cpp:1795
 msgid "Turn Countdown"
-msgstr ""
+msgstr "দানের বিপরীত গণনা"
 
 #. TRANSLATORS: Day of week + month + day of month + year + 12-hour time, eg 'Tue Nov 02 2021, 1:59 PM'. Format for your locale.
 #: src/save_index.cpp:257
 msgid "%a %b %d %Y, %I:%M %p"
-msgstr ""
+msgstr "%a %b %d %Y, %I:%M %p"
 
 #. TRANSLATORS: Day of week + month + day of month + year + 24-hour time, eg 'Tue Nov 02 2021, 13:59'. Format for your locale.
 #: src/save_index.cpp:259
 msgid "%a %b %d %Y, %H:%M"
-msgstr ""
+msgstr "%H:%M, %a %b %d %Y"
 
 #. TRANSLATORS: This string is used as part of a filename, as in, "HttT-The Elves Besieged replay.gz"
 #: src/save_index.cpp:279 src/savegame.cpp:584
@@ -7274,13 +7274,13 @@ msgstr "স্বয়ংক্রিয়-সঞ্চয়"
 
 #: src/savegame.cpp:204 src/savegame.cpp:206
 msgid "Warning: The file you have tried to load is corrupt. Loading anyway.\n"
-msgstr ""
+msgstr "সতর্কবার্তা: আপনি যে ফাইলটি খোলার চেষ্টা করছেন সেটি খারাপ । তবুও লোড করা হচ্ছে ।\n"
 
 #: src/savegame.cpp:250
 msgid ""
 "This save is from an old, unsupported version ($version_number|) and cannot "
 "be loaded."
-msgstr ""
+msgstr "এই সঞ্চয়টি একটি পুরোনো, অসমর্থিত সংস্করণ থেকে ($version_number|) এবং খোলা যাবে না ।"
 
 #: src/savegame.cpp:259
 msgid ""
@@ -7327,14 +7327,15 @@ msgstr "পাল্টাবেন?"
 #: src/savegame.cpp:437
 msgid ""
 "Save names should not end on '.gz' or '.bz2'. Please remove the extension."
-msgstr ""
+msgstr "সঞ্চিত ফাইলের নাম '.gz' বা '.bz2'-এ শেষ হওয়া উচিত নয় । অনুগ্রহ করে এক্সটেনশনটি সরান ।"
 
 #: src/savegame.cpp:442
 msgid ""
 "Save names may not end with a dot, or contain two dots or any of the "
 "following characters:\n"
 "    \" * / : < > ? \\ | ~"
-msgstr ""
+msgstr "সঞ্চিত ফাইলের নাম বিন্দু দিয়ে শেষ হওয়া যাবে না, বা তাতে দুটি বিন্দু বা পরবর্তী অক্ষরগুলির কোনোটি থাকতে পারবে না :\n"
+"    \" * / : < > ? \\ | ~"
 
 #: src/savegame.cpp:489
 msgid "Saved"
@@ -7342,7 +7343,7 @@ msgstr "সঞ্চিত"
 
 #: src/savegame.cpp:489
 msgid "The game has been saved."
-msgstr "খেলাটি সঞ্চিয় হয়েছে ।"
+msgstr "খেলাটি সঞ্চিত হয়েছে ।"
 
 #: src/savegame.cpp:521 src/savegame.cpp:538
 msgid "Could not write to file"
@@ -7362,7 +7363,7 @@ msgstr "খেলা সঞ্চয় করুন"
 
 #: src/savegame.cpp:666
 msgid "Game state is corrupted"
-msgstr ""
+msgstr "খেলার অবস্থা ত্রুটিপূর্ণ"
 
 #: src/serialization/parser.cpp:156
 msgid "Unexpected characters at line start"
@@ -7374,55 +7375,55 @@ msgstr ""
 
 #: src/serialization/parser.cpp:184
 msgid "expected at $pos"
-msgstr ""
+msgstr "$pos-এ আশা করা হয়েছিল"
 
 #: src/serialization/parser.cpp:185 src/serialization/parser.cpp:272
 msgid "opened at $pos"
-msgstr ""
+msgstr "$pos-এ খোলা হয়েছে"
 
 #: src/serialization/parser.cpp:203
 msgid "Unterminated [element] tag"
-msgstr ""
+msgstr "[element] ট্যাগ শেষ করা হয়নি"
 
 #: src/serialization/parser.cpp:219 src/serialization/parser.cpp:287
 msgid "Invalid tag name"
-msgstr ""
+msgstr "ট্যাগের নাম অবৈধ"
 
 #: src/serialization/parser.cpp:225
 msgid "Unterminated [+element] tag"
-msgstr ""
+msgstr "[+element] ট্যাগ শেষ করা হয়নি"
 
 #: src/serialization/parser.cpp:249
 msgid "Invalid closing tag name"
-msgstr ""
+msgstr "বন্ধ করার ট্যাগের নাম অবৈধ"
 
 #: src/serialization/parser.cpp:255
 msgid "Unterminated closing tag"
-msgstr ""
+msgstr "বন্ধ করার ট্যাগ শেষ করা হয়নি"
 
 #: src/serialization/parser.cpp:259
 msgid "Unexpected closing tag"
-msgstr ""
+msgstr "অপ্রত্যাশিত বন্ধ করার ট্যাগ"
 
 #: src/serialization/parser.cpp:271
 msgid "Found invalid closing tag [/$tag2] for tag [$tag1]"
-msgstr ""
+msgstr "[$tag1]-এর জন্য অবৈধ বন্ধ করার ট্যাগ [/$tag2] পাওয়া গিয়েছে"
 
 #: src/serialization/parser.cpp:273
 msgid "closed at $pos"
-msgstr ""
+msgstr "$pos-এ বন্ধ করা হয়েছে"
 
 #: src/serialization/parser.cpp:309 src/serialization/parser.cpp:325
 msgid "Empty variable name"
-msgstr ""
+msgstr "চলরাশির নাম ফাঁকা"
 
 #: src/serialization/parser.cpp:317
 msgid "Unexpected characters after variable name (expected , or =)"
-msgstr ""
+msgstr "চলরাশির নামের পর অপ্রত্যাশিত অক্ষর (, বা = আশা করা হয়েছিল)"
 
 #: src/serialization/parser.cpp:364 src/serialization/parser.cpp:404
 msgid "Unterminated quoted string"
-msgstr ""
+msgstr "উদ্ধৃত স্ট্রিং শেষ করা হয়নি"
 
 #: src/serialization/parser.cpp:471
 msgid "at $pos"
@@ -7430,7 +7431,7 @@ msgstr "$pos-এ"
 
 #: src/serialization/parser.cpp:484
 msgid "Value: '$value' Previous: '$previous_value'"
-msgstr ""
+msgstr "মান: '$value' পূর্ববর্তী: '$previous_value'"
 
 #: src/serialization/string_utils.cpp:558
 msgid "prefix_milli^m"
@@ -7534,7 +7535,7 @@ msgstr "ডিবাগ কমান্ড ব্যবহার করা হ�
 
 #: src/synced_commands.cpp:547
 msgid "A unit was created using debug mode during $player’s turn"
-msgstr ""
+msgstr "$player-এর দানে ডিবাগ মোড ব্যবহার করে একটি ইউনিট সৃষ্টি করা হয়েছে"
 
 #: src/synced_user_choice.cpp:342
 msgid "waiting for $desc from side $sides"
@@ -7553,7 +7554,7 @@ msgstr ""
 #. Translate the quotation marks only; leave "color_id" untranslated, as it's a variable name.
 #: src/team.cpp:1006
 msgid "“$color_id”"
-msgstr ""
+msgstr "“$color_id”"
 
 #: src/terrain/terrain.cpp:193
 msgid "Allied village"
@@ -7577,11 +7578,11 @@ msgstr "হটকি: "
 
 #: src/time_of_day.cpp:44
 msgid "Stub Time of Day"
-msgstr ""
+msgstr "ফাঁকা দিনের সময়"
 
 #: src/time_of_day.cpp:45
 msgid "This Time of Day is only a Stub!"
-msgstr ""
+msgstr "দিনের এই সময়টি ফাঁকা"
 
 #: src/units/abilities.cpp:970
 msgid "Owned: "
