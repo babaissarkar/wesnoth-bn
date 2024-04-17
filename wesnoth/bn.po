@@ -2,12 +2,13 @@
 # Bengali translation of Wesnoth.
 # Copyright (C) 2024 Wesnoth development team
 # Subhraman Sarkar <suvrax@gmail.com>, 2024.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: bn\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-03-03 07:36+0530\n"
-"PO-Revision-Date: 2024-02-21 09:49+0530\n"
+"PO-Revision-Date: 2024-04-17 15:11+0530\n"
 "Last-Translator: Subhraman Sarkar <suvrax@gmail.com>\n"
 "Language-Team: Bengali < >\n"
 "Language: bn\n"
@@ -1525,7 +1526,7 @@ msgstr "পিছনে"
 #. [protect]
 #: data/core/macros/ai_controller.cfg:315
 msgid "Focus on protecting..."
-msgstr "রক্ষা করার ওপর মনোনিবেশ করো..."
+msgstr "রক্ষা করার ওপর মনোযোগ দাও..."
 
 #. [protect]
 #: data/core/macros/ai_controller.cfg:316
@@ -1533,36 +1534,38 @@ msgid ""
 "focusing on protecting $ai_controller.side_$ally_side|_current_settings."
 "protect.side_description|."
 msgstr ""
+"$ai_controller.side_$ally_side|_current_settings.protect.side_description|-"
+"কে রক্ষা করো"
 
 #. [option]
 #: data/core/macros/ai_controller.cfg:473
 msgid "Defend a location..."
-msgstr ""
+msgstr "অবস্থানকে রক্ষা করো..."
 
 #. [print]
 #: data/core/macros/ai_controller.cfg:489
 msgid "Right-click to select a location to defend"
-msgstr ""
+msgstr "রক্ষা করার জন্য ডানদিকে ক্লিক করে একটি অবস্থানকে নির্বাচন করুন"
 
 #. [set_menu_item]: id=ai_controller_defend_location_picker
 #: data/core/macros/ai_controller.cfg:496
 msgid "Defend this location"
-msgstr ""
+msgstr "এই অবস্থানটিকে রক্ষা করো"
 
 #. [command]
 #: data/core/macros/ai_controller.cfg:513
 msgid "focusing on defending the area around $x1|,$y1|."
-msgstr ""
+msgstr "$x1|,$y1|-এর চারপাশে এলাকাকে রক্ষা করার ওপর মনোযোগ দাও"
 
 #. [print]
 #: data/core/macros/ai_controller.cfg:555
 msgid "Location selection canceled"
-msgstr ""
+msgstr "অবস্থান নির্বাচন বাতিল"
 
 #. [revoke_objective_orders]
 #: data/core/macros/ai_controller.cfg:570
 msgid "Clear objective orders"
-msgstr ""
+msgstr "উদ্দেশ্য সংক্রান্ত নির্দেশ বাতিল করুন"
 
 #. [revoke_objective_orders]
 #. [revoke_behavior_orders]
@@ -1572,17 +1575,17 @@ msgstr ""
 #: data/core/macros/ai_controller.cfg:714
 #: data/core/macros/ai_controller.cfg:725
 msgid "none set."
-msgstr ""
+msgstr "কিছু নেই ।"
 
 #. [revoke_behavior_orders]
 #: data/core/macros/ai_controller.cfg:583
 msgid "Clear behavior orders"
-msgstr ""
+msgstr "আচরণ সংক্রান্ত নির্দেশ বাতিল করুন"
 
 #. [revoke_all_orders]
 #: data/core/macros/ai_controller.cfg:597
 msgid "Clear all orders"
-msgstr ""
+msgstr "সকল নির্দেশ বাতিল করুন"
 
 #. [do]
 #: data/core/macros/ai_controller.cfg:765
@@ -1592,16 +1595,20 @@ msgid ""
 "Behavior: $ai_controller.side_$ally_side|_current_settings."
 "currently_doing_behavior_description"
 msgstr ""
+"উদ্দেশ্য: $ai_controller.side_$ally_side|_current_settings."
+"currently_doing_objective_description\n"
+"আচরণ: $ai_controller.side_$ally_side|_current_settings."
+"currently_doing_behavior_description"
 
 #. [literal]
 #: data/core/macros/ai_controller.cfg:781
 msgid "Set objective..."
-msgstr ""
+msgstr "উদ্দেশ্য ঠিক করুন..."
 
 #. [literal]
 #: data/core/macros/ai_controller.cfg:872
 msgid "Set behavior..."
-msgstr ""
+msgstr "আচরণ ঠিক করুন..."
 
 #. [literal]
 #: data/core/macros/ai_controller.cfg:977
@@ -1610,27 +1617,27 @@ msgstr "প্রস্থান"
 
 #: data/core/macros/ai_controller.cfg:1114
 msgid "Set special orders..."
-msgstr ""
+msgstr "বিশেষ নির্দেশ দিন..."
 
 #: data/core/macros/ai_controller.cfg:1115
 msgid "Move leader to..."
-msgstr ""
+msgstr "দলনেতাকে এখানে সরান..."
 
 #: data/core/macros/ai_controller.cfg:1116
 msgid "Right-click to select a location to move leader to"
-msgstr ""
+msgstr "দলনেতাকে সরাবার জন্য ডানদিকে ক্লিক করে একটি অবস্থানকে নির্বাচন করুন"
 
 #: data/core/macros/ai_controller.cfg:1117
 msgid "Move leader here"
-msgstr ""
+msgstr "দলনেতাকে এখানে সরান"
 
 #: data/core/macros/ai_controller.cfg:1118
 msgid "moving leader to $x1|,$y1|."
-msgstr ""
+msgstr "দলনেতাকে $x1|,$y1|-এ সরানো হচ্ছে"
 
 #: data/core/macros/ai_controller.cfg:1119
 msgid "Clear special orders"
-msgstr ""
+msgstr "বিশেষ নির্দেশ বাতিল করুন"
 
 #: data/core/macros/ai_controller.cfg:1120
 msgid ""
@@ -1641,7 +1648,7 @@ msgstr "বিশেষ নির্দেশ মুছুন ।"
 #. [else]
 #: data/core/macros/deprecated-utils.cfg:35
 msgid "This unit has been renamed to: "
-msgstr ""
+msgstr "এই ইউনিটির নাম পাল্টে হয়েছে:"
 
 #. [lua]: generate_objectives
 #: data/core/macros/deprecated-utils.cfg:52 data/lua/wml/objectives.lua:106
@@ -1686,11 +1693,12 @@ msgstr ""
 #: data/core/macros/items.cfg:23
 msgid "You have come across a wishing well. What would you like to wish for?"
 msgstr ""
+"আপনি একটি মনস্কামনা পুরণকারী কূয়ার কাছে এসেছেন । আপনি কী মনস্কামনা করতে চান?"
 
 #. [option]
 #: data/core/macros/items.cfg:26
 msgid "A swift victory"
-msgstr ""
+msgstr "দ্রুত জয়"
 
 #. [message]: speaker=unit
 #: data/core/macros/items.cfg:34
@@ -1698,6 +1706,7 @@ msgid ""
 "With this golden coin, I wish that this battle end in a swift and safe "
 "victory."
 msgstr ""
+"এই স্বর্ণমুদ্রা দিয়ে আমি প্রার্থনা করি, যেন এই লড়াই দ্রুত এবং নিরাপদভাবে শেষ হয় ।"
 
 #. [option]
 #: data/core/macros/items.cfg:40
@@ -1707,27 +1716,28 @@ msgstr "প্রচুর সোনা"
 #. [message]: speaker=unit
 #: data/core/macros/items.cfg:48
 msgid "I wish this single gold coin be returned ten-fold to me."
-msgstr ""
+msgstr "আমি প্রার্থনা করি যেন এই একটি স্বর্ণমুদ্রা দশগুণ হয়ে আমার কাছে ফিরে আসে ।"
 
 #. [option]
 #: data/core/macros/items.cfg:54
 msgid "Peace throughout Wesnoth."
-msgstr ""
+msgstr "ওয়েসনথের সর্বত্র শান্তি"
 
 #. [message]: speaker=unit
 #: data/core/macros/items.cfg:62
 msgid "The only thing worth wishing for is peace throughout the land."
 msgstr ""
+"রাষ্ট্রের সর্বত্র শান্তি কামনা করা ব্যতীত অন্য কিছুর জন্য প্রার্থনা করা যথেষ্ট নয় ।"
 
 #. [option]
 #: data/core/macros/items.cfg:68
 msgid "Don’t make a wish."
-msgstr ""
+msgstr "মনস্কামনা করবেন না ।"
 
 #. [object]: id={ID}
 #: data/core/macros/items.cfg:209
 msgid "Potion of Healing"
-msgstr ""
+msgstr "চিকিৎসার পানীয়"
 
 #. [object]: id={ID}
 #: data/core/macros/items.cfg:212
@@ -1737,7 +1747,7 @@ msgstr ""
 #. [object]: id={ID}
 #: data/core/macros/items.cfg:213
 msgid "You are not worthy of healing."
-msgstr ""
+msgstr "তুমি সুস্থ করার যোগ্য নও ।"
 
 #. [object]: id={ID}
 #: data/core/macros/items.cfg:252
@@ -1752,15 +1762,15 @@ msgstr ""
 
 #: data/core/macros/items.cfg:282
 msgid "holy water^Take it"
-msgstr ""
+msgstr "নিয়ে নিন"
 
 #: data/core/macros/items.cfg:283
 msgid "holy water^Leave it"
-msgstr ""
+msgstr "ছেড়ে দিন"
 
 #: data/core/macros/items.cfg:284
 msgid "$unit.name has no need for this Holy Water! Let another take it."
-msgstr ""
+msgstr "$unit.name-এর এই পবিত্র জলের কোনো প্রয়োজন নেই! অন্য কাউকে এটা নিতে দিন ।"
 
 #. [object]
 #: data/core/macros/items.cfg:289
@@ -1772,7 +1782,7 @@ msgstr ""
 #. [object]: id={ID}
 #: data/core/macros/items.cfg:335
 msgid "Potion of Strength"
-msgstr ""
+msgstr "শক্তির পানীয়"
 
 #. [object]: id={ID}
 #: data/core/macros/items.cfg:338
@@ -1782,7 +1792,7 @@ msgstr ""
 #. [object]: id={ID}
 #: data/core/macros/items.cfg:380
 msgid "Potion of Decay"
-msgstr ""
+msgstr "ক্ষয়ের পানীয়"
 
 #. [object]: id={ID}
 #: data/core/macros/items.cfg:383
@@ -1792,7 +1802,7 @@ msgstr ""
 #. [object]: id={ID}
 #: data/core/macros/items.cfg:419
 msgid "Ring of Regeneration"
-msgstr ""
+msgstr "পুনর্জীবনের আংটি"
 
 #. [object]: id={ID}
 #: data/core/macros/items.cfg:422
@@ -1802,7 +1812,7 @@ msgstr ""
 #. [object]: id={ID}
 #: data/core/macros/items.cfg:460
 msgid "Ring of Slowness"
-msgstr ""
+msgstr "শ্লথতার আংটি"
 
 #. [object]: id={ID}
 #: data/core/macros/items.cfg:463
@@ -1812,7 +1822,7 @@ msgstr ""
 #. [object]: id={ID}
 #: data/core/macros/items.cfg:499
 msgid "Staff of Swiftness"
-msgstr ""
+msgstr "দ্রুততার দন্ড"
 
 #. [object]: id={ID}
 #: data/core/macros/items.cfg:502
@@ -1826,32 +1836,33 @@ msgstr ""
 
 #: data/core/macros/items.cfg:547
 msgid "Should $unit.name pick up the trident?"
-msgstr ""
+msgstr "$unit.name কি ত্রিশূলটি নেবে?"
 
 #: data/core/macros/items.cfg:548
 msgid "storm trident^Take it"
-msgstr ""
+msgstr "নিয়ে নাও"
 
 #: data/core/macros/items.cfg:549
 msgid "storm trident^Leave it"
-msgstr ""
+msgstr "ছেড়ে দাও"
 
 #: data/core/macros/items.cfg:550
 msgid ""
 "$unit.name cannot use this Storm Trident! Let one of the merfolk who can "
 "wield it have it."
 msgstr ""
+"$unit.name-এই ঝঞ্ঝার ত্রিশূল ব্যবহার করতে সক্ষম নয়! কোনো জলমানবকে এটি নিতে দিন ।"
 
 #. [object]
 #: data/core/macros/items.cfg:555
 msgid ""
 "This trident gives merfolk the power to throw lightning at their enemies."
-msgstr ""
+msgstr "এই ত্রিশূলটি জলমানবদের শত্রুর ওপর বিদ্যুত ছোঁড়ার ক্ষমতা নেয় ।"
 
 #. [effect]: type=fire
 #: data/core/macros/items.cfg:583
 msgid "sceptre of fire"
-msgstr ""
+msgstr "অগ্নি রাজদন্ড"
 
 #: data/core/macros/names.cfg:19
 msgid ""
@@ -2707,7 +2718,7 @@ msgstr "(দ্রুত শেষ করার অতিরিক্ত পু�
 
 #: data/core/macros/objective-utils.cfg:25
 msgid "Alternative objective:"
-msgstr ""
+msgstr "অন্য উদ্দেশ্য:"
 
 #: data/core/macros/objective-utils.cfg:30
 msgid "Bonus objective:"
@@ -2715,7 +2726,7 @@ msgstr "অতিরিক্ত উদ্দেশ্য:"
 
 #: data/core/macros/objective-utils.cfg:35
 msgid "Optional objective:"
-msgstr ""
+msgstr "অতিরিক্ত ঐচ্ছিক উদ্দেশ্য:"
 
 #. [note]: description=<b>
 #: data/core/macros/objective-utils.cfg:60
@@ -2733,6 +2744,8 @@ msgid ""
 "The computer player might not be able to play side $side_number properly in "
 "this scenario. Side $side_number is intended to be played by a human player."
 msgstr ""
+"কম্পিউটার খেলোয়াড় এই ঘটনাক্রমে দল $side_number-কে ঠিকমতো চালনা করতে পারবে না । "
+"একজন মানুষ খেলোয়ারের দল $side_number খেলার কথা ।"
 
 #. [music]
 #: data/core/macros/sound-utils.cfg:157
@@ -2742,7 +2755,7 @@ msgstr ""
 #. [music]
 #: data/core/macros/sound-utils.cfg:163
 msgid "Battle Music"
-msgstr ""
+msgstr "যুদ্ধের সঙ্গীত"
 
 #. [music]
 #: data/core/macros/sound-utils.cfg:169
@@ -2782,7 +2795,7 @@ msgstr ""
 #. [music]
 #: data/core/macros/sound-utils.cfg:211
 msgid "Journey’s End"
-msgstr ""
+msgstr "যাত্রার শেষ"
 
 #. [music]
 #: data/core/macros/sound-utils.cfg:217
@@ -2832,7 +2845,7 @@ msgstr ""
 #. [music]
 #: data/core/macros/sound-utils.cfg:271
 msgid "Sad"
-msgstr ""
+msgstr "দুঃখ"
 
 #. [music]
 #: data/core/macros/sound-utils.cfg:277
@@ -2882,7 +2895,7 @@ msgstr ""
 #. [music]
 #: data/core/macros/sound-utils.cfg:331
 msgid "Underground"
-msgstr ""
+msgstr "ভুগর্ভ"
 
 #. [music]
 #: data/core/macros/sound-utils.cfg:337
@@ -2902,7 +2915,7 @@ msgstr ""
 #. [message]: speaker=narrator
 #: data/core/macros/utils.cfg:662
 msgid "You retrieve $amount_gold pieces of gold."
-msgstr ""
+msgstr "আপনি $amount_gold পরিমাণ স্বর্ণ পেয়েছেন ।"
 
 #. [color_range]: id=red
 #. [color_range]: id=1
@@ -7182,7 +7195,9 @@ msgstr "দান সংখ্যা"
 msgid ""
 "When the game exceeds the number of turns indicated by the second number, it "
 "will end."
-msgstr "যখন দ্বিতীয় সংখ্যাটির দ্বারা নির্দেশিত দানগুলি পেরিয়ে যাবে, তখন খেলাটি নিজের থেকেই শেষ হয়ে যাবে ।"
+msgstr ""
+"যখন দ্বিতীয় সংখ্যাটির দ্বারা নির্দেশিত দানগুলি পেরিয়ে যাবে, তখন খেলাটি নিজের "
+"থেকেই শেষ হয়ে যাবে ।"
 
 #: src/reports.cpp:1462
 msgid "Gold"
@@ -7191,7 +7206,9 @@ msgstr "স্বর্ণ"
 #: src/reports.cpp:1462
 msgid ""
 "The amount of gold currently available to recruit and maintain your army."
-msgstr "বর্তমানে আপনার সেনাবাহিনীতে নিয়োগ এবং তাদের খরচ বহনের জন্য যে পরিমাণ স্বর্ণ রয়েছে ।"
+msgstr ""
+"বর্তমানে আপনার সেনাবাহিনীতে নিয়োগ এবং তাদের খরচ বহনের জন্য যে পরিমাণ স্বর্ণ "
+"রয়েছে ।"
 
 #: src/reports.cpp:1481
 msgid "The fraction of known villages that your side has captured."
@@ -7230,7 +7247,9 @@ msgstr "মোট আয়"
 msgid ""
 "The net amount of gold you gain or lose each turn, taking into account "
 "income from controlled villages and payment of upkeep."
-msgstr "প্রত্যেকটি নিয়ন্ত্রিত গ্রাম থেকে পাওয়া আয় এবং সেনাদলের জন্য ব্যয় মিলিয়ে, আপনি প্রত্যেক দানে যে পরিমাণ স্বর্ণ আয় বা ব্যয় করছেন ।"
+msgstr ""
+"প্রত্যেকটি নিয়ন্ত্রিত গ্রাম থেকে পাওয়া আয় এবং সেনাদলের জন্য ব্যয় মিলিয়ে, আপনি "
+"প্রত্যেক দানে যে পরিমাণ স্বর্ণ আয় বা ব্যয় করছেন ।"
 
 #: src/reports.cpp:1733
 msgid "Observers:"
@@ -7274,13 +7293,16 @@ msgstr "স্বয়ংক্রিয়-সঞ্চয়"
 
 #: src/savegame.cpp:204 src/savegame.cpp:206
 msgid "Warning: The file you have tried to load is corrupt. Loading anyway.\n"
-msgstr "সতর্কবার্তা: আপনি যে ফাইলটি খোলার চেষ্টা করছেন সেটি খারাপ । তবুও লোড করা হচ্ছে ।\n"
+msgstr ""
+"সতর্কবার্তা: আপনি যে ফাইলটি খোলার চেষ্টা করছেন সেটি খারাপ । তবুও লোড করা হচ্ছে ।\n"
 
 #: src/savegame.cpp:250
 msgid ""
 "This save is from an old, unsupported version ($version_number|) and cannot "
 "be loaded."
-msgstr "এই সঞ্চয়টি একটি পুরোনো, অসমর্থিত সংস্করণ থেকে ($version_number|) এবং খোলা যাবে না ।"
+msgstr ""
+"এই সঞ্চয়টি একটি পুরোনো, অসমর্থিত সংস্করণ থেকে ($version_number|) এবং খোলা যাবে "
+"না ।"
 
 #: src/savegame.cpp:259
 msgid ""
@@ -7327,14 +7349,18 @@ msgstr "পাল্টাবেন?"
 #: src/savegame.cpp:437
 msgid ""
 "Save names should not end on '.gz' or '.bz2'. Please remove the extension."
-msgstr "সঞ্চিত ফাইলের নাম '.gz' বা '.bz2'-এ শেষ হওয়া উচিত নয় । অনুগ্রহ করে এক্সটেনশনটি সরান ।"
+msgstr ""
+"সঞ্চিত ফাইলের নাম '.gz' বা '.bz2'-এ শেষ হওয়া উচিত নয় । অনুগ্রহ করে এক্সটেনশনটি "
+"সরান ।"
 
 #: src/savegame.cpp:442
 msgid ""
 "Save names may not end with a dot, or contain two dots or any of the "
 "following characters:\n"
 "    \" * / : < > ? \\ | ~"
-msgstr "সঞ্চিত ফাইলের নাম বিন্দু দিয়ে শেষ হওয়া যাবে না, বা তাতে দুটি বিন্দু বা পরবর্তী অক্ষরগুলির কোনোটি থাকতে পারবে না :\n"
+msgstr ""
+"সঞ্চিত ফাইলের নাম বিন্দু দিয়ে শেষ হওয়া যাবে না, বা তাতে দুটি বিন্দু বা পরবর্তী "
+"অক্ষরগুলির কোনোটি থাকতে পারবে না :\n"
 "    \" * / : < > ? \\ | ~"
 
 #: src/savegame.cpp:489
@@ -7570,7 +7596,7 @@ msgstr "নিয়ন্ত্রত গ্রাম"
 
 #: src/theme.cpp:315
 msgid "border_size should be between 0.0 and 0.5."
-msgstr ""
+msgstr "border_size 0.0 থেকে 0.5-এর মধ্যে হতে হবে ।"
 
 #: src/theme.cpp:566 src/theme.cpp:571
 msgid "Hotkey(s): "
@@ -7632,22 +7658,22 @@ msgstr[1] ""
 #. TRANSLATORS: Current value for WML code set_accuracy, documented in https://wiki.wesnoth.org/EffectWML
 #: src/units/attack_type.cpp:509
 msgid "$number| accuracy"
-msgstr ""
+msgstr "$number| নির্ভূলতা"
 
 #. TRANSLATORS: Current value for WML code increase_accuracy, documented in https://wiki.wesnoth.org/EffectWML
 #: src/units/attack_type.cpp:516
 msgid "<span color=\"$color\">$number_or_percent|%</span> accuracy"
-msgstr ""
+msgstr "<span color=\"$color\">$number_or_percent|%</span> নির্ভূলতা"
 
 #. TRANSLATORS: Current value for WML code set_parry, documented in https://wiki.wesnoth.org/EffectWML
 #: src/units/attack_type.cpp:523
 msgid "$number parry"
-msgstr ""
+msgstr "$number প্রতিহত"
 
 #. TRANSLATORS: Current value for WML code increase_parry, documented in https://wiki.wesnoth.org/EffectWML
 #: src/units/attack_type.cpp:530
 msgid "<span color=\"$color\">$number_or_percent</span> parry"
-msgstr ""
+msgstr "<span color=\"$color\">$number_or_percent</span> প্রতিহত"
 
 #. TRANSLATORS: Current value for WML code set_movement_used, documented in https://wiki.wesnoth.org/EffectWML
 #: src/units/attack_type.cpp:537
@@ -7723,11 +7749,11 @@ msgstr "মধ্যবর্তী"
 
 #: src/units/unit.cpp:2011
 msgid "$attack_list|: $effect_description"
-msgstr ""
+msgstr "$attack_list|: $effect_description"
 
 #: src/units/unit.cpp:2017
 msgid "<span color=\"$color\">$number_or_percent</span> HP"
-msgstr ""
+msgstr "<span color=\"$color\">$number_or_percent</span> জীবন"
 
 #: src/units/unit.cpp:2027
 msgid "<span color=\"$color\">$number_or_percent</span> move"
@@ -7737,7 +7763,7 @@ msgstr[1] ""
 
 #: src/units/unit.cpp:2033
 msgid "<span color=\"$color\">$number_or_percent</span> vision"
-msgstr ""
+msgstr "<span color=\"$color\">$number_or_percent</span> দৃষ্টি"
 
 #: src/units/unit.cpp:2037
 msgid "<span color=\"$color\">$number_or_percent</span> jamming"
@@ -7745,7 +7771,7 @@ msgstr ""
 
 #: src/units/unit.cpp:2042
 msgid "<span color=\"$color\">$number_or_percent</span> XP to advance"
-msgstr ""
+msgstr "উন্নয়ণের জন্য অভিজ্ঞতা <span color=\"$color\">$number_or_percent</span>"
 
 #: src/units/unit.cpp:2046
 msgid "<span color=\"$color\">$number_or_percent</span> attack per turn"
@@ -7756,42 +7782,44 @@ msgstr[1] ""
 
 #: src/units/unit.cpp:2053
 msgid "<span color=\"$color\">$number_or_percent</span> cost to recall"
-msgstr ""
+msgstr "পুনরায় ডাকার মূল্য <span color=\"$color\">$number_or_percent</span>"
 
 #: src/units/unit.cpp:2519
 msgid "$effect_description per level"
-msgstr ""
+msgstr "পর্যায় প্রতি $effect_description"
 
 #. TRANSLATORS: "Before Wesnoth"   - format for years prior to the founding of Wesnoth
 #: src/utils/irdya_datetime.cpp:62
 msgid "$year BW"
-msgstr ""
+msgstr "$year ও.পূ."
 
 #. TRANSLATORS: "Year of Wesnoth"  - format for years after the founding of Wesnoth
 #: src/utils/irdya_datetime.cpp:65
 msgid "$year YW"
-msgstr ""
+msgstr "$year ও.অব্দ"
 
 #. TRANSLATORS: "Before the Fall" -  format for years prior to the fall of Wesnoth
 #: src/utils/irdya_datetime.cpp:68
 msgid "$year BF"
-msgstr ""
+msgstr "$year ধ.পূ."
 
 #. TRANSLATORS: "After the Fall"   - format for years after the fall of Wesnoth
 #: src/utils/irdya_datetime.cpp:71
 msgid "$year AF"
-msgstr ""
+msgstr "$year ধ.অব্দ"
 
 #: src/wesnoth.cpp:803
 msgid ""
 "Unable to create log files in directory $logdir. This is often caused by "
 "incorrect folder permissions, anti-virus software restricting folder access, "
 "or using OneDrive to manage your My Documents folder."
-msgstr ""
+msgstr "$logdir ডিরক্টরিতে লগ ফাইল তৈরী করা যাচ্ছে । সাধারণ ফোল্ডারে ভুল অনুমতি ব্যবহার করা,"
+"অ্যান্টি-ভাইরাস ফোল্ডার ব্যবহারে বাধা দেওয়া, বা ওয়ানড্রাইভের মাধ্যমে মাই ডকুমেন্টস ফোল্ডার ব্যবস্থপনা"
+"করার জন্য এটি হয়ে থাকে ।"
 
 #: src/wesnoth.cpp:804
 msgid "Logging Failure"
-msgstr ""
+msgstr "লগকালীন ত্রুটি"
 
 #: src/wesnothd_connection.cpp:549
 msgid "Disconnected from server."
@@ -7799,20 +7827,20 @@ msgstr "সার্ভার থেকে বিচ্ছিন্ন হয়
 
 #: src/whiteboard/manager.cpp:1121
 msgid "SHOW ALL allies’ plans"
-msgstr ""
+msgstr "সকল মিত্রপক্ষের পরিকল্পনা দেখান"
 
 #: src/whiteboard/manager.cpp:1122
 msgid "HIDE ALL allies’ plans"
-msgstr ""
+msgstr "সকল মিত্রপক্ষের পরিকল্পনা লুকোন"
 
 #: src/whiteboard/manager.cpp:1136
 msgid "Show plans for $player"
-msgstr ""
+msgstr "$player-এর জন্য পরিকল্পনা দেখান"
 
 #: src/whiteboard/manager.cpp:1138
 msgid "Hide plans for $player"
-msgstr ""
+msgstr "$player-এর জন্য পরিকল্পনা লুকোন"
 
 #: src/whiteboard/manager.cpp:1141
 msgid "Whiteboard Options"
-msgstr ""
+msgstr "হোয়াইটবোর্ড অপশনগুলি"
