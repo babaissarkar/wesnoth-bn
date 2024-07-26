@@ -4178,65 +4178,63 @@ msgstr "এখানে সরুন"
 #. [label]
 #: data/gui/themes/default/window/game_version.cfg:122
 msgid "<span font_family='DejaVu Sans'>✦</span> <b>Version:</b>"
-msgstr ""
+msgstr "<span font_family='DejaVu Sans'>✦</span> <b>সংস্করণ:</b>"
 
 #. [label]
 #: data/gui/themes/default/window/game_version.cfg:150
 msgid "<span font_family='DejaVu Sans'>✦</span> <b>Running on:</b>"
-msgstr ""
+msgstr "<span font_family='DejaVu Sans'>✦</span> <b>চলছে এতে:</b>"
 
 #. [label]
 #: data/gui/themes/default/window/game_version.cfg:179
 msgid "<span font_family='DejaVu Sans'>✦</span> <b>Architecture:</b>"
-msgstr ""
+msgstr "<span font_family='DejaVu Sans'>✦</span> <b>আর্কিটেকচার:</b>"
 
 #. [label]
 #: data/gui/themes/default/window/game_version.cfg:207
 msgid "<span font_family='DejaVu Sans'>✦</span> <b>Homepage:</b>"
-msgstr ""
+msgstr "<span font_family='DejaVu Sans'>✦</span> <b>হোমপেজ:</b>"
 
 #. [label]
 #: data/gui/themes/default/window/game_version.cfg:239
 msgid "<span font_family='DejaVu Sans'>✦</span> <b>Wiki:</b>"
-msgstr ""
+msgstr "<span font_family='DejaVu Sans'>✦</span> <b>উইকি:</b>"
 
 #. [label]
 #: data/gui/themes/default/window/game_version.cfg:279
 msgid ""
 "<i><span font_family='DejaVu Sans'>➤</span> Copy a full report here:</i>"
-msgstr ""
+msgstr "<i><span font_family='DejaVu Sans'>➤</span> সম্পূর্ণ রিপোর্ট প্রতিলিপি করুন এখানে:</i>"
 
 #. [label]
 #: data/gui/themes/default/window/game_version.cfg:299
 msgid ""
 "<i><span font_family='DejaVu Sans'>➤</span> Report an issue or request a "
 "feature:</i>"
-msgstr ""
+msgstr "<i><span font_family='DejaVu Sans'>➤</span> সমস্যা জানান বা নতুন ফিচারের জন্য অনুরোধ করুন:</i>"
 
 #. [button]: id=issue
 #: data/gui/themes/default/window/game_version.cfg:313
 msgid "Report Issue"
-msgstr ""
+msgstr "সমস্যা জানান"
 
 #. [label]
 #: data/gui/themes/default/window/game_version.cfg:322
 msgid ""
 "<i><span font_family='DejaVu Sans'>➤</span> Re-open the version migrator "
 "dialog:</i>"
-msgstr ""
+msgstr "<i><span font_family='DejaVu Sans'>➤</span> পুনরায় সংস্করণ মাইগ্রেটর ডায়ালগ খুলুন:</i>"
 
 #. [button]: id=run_migrator
 #. button to open the version migration dialog manually to re-migrate add-ons and the preferences file
 #: data/gui/themes/default/window/game_version.cfg:335
-#, fuzzy
-#| msgid "Crater"
 msgid "Migrate"
-msgstr "বিস্ফোরণসৃষ্ট গর্ত"
+msgstr "মাইগ্রেট"
 
 #. [grid]
 #: data/gui/themes/default/window/game_version.cfg:372
 msgid "Game data:"
-msgstr "গেমের তথ্য:"
+msgstr "খেলার তথ্য:"
 
 #. [grid]
 #: data/gui/themes/default/window/game_version.cfg:374
@@ -4304,45 +4302,43 @@ msgstr "ওয়েসনথের এই সংস্করণটি বানা
 #. [button]: id=forums
 #. this is on a button that opens the Wesnoth forums webpage
 #: data/gui/themes/default/window/game_version.cfg:633
-#, fuzzy
-#| msgid "Forum URL"
 msgid "Forums"
-msgstr "ফোরাম ইউআরএল"
+msgstr "ফোরাম"
 
 #. [button]: id=discord
 #. this is on a button that opens the Wesnoth Discord server webpage
 #: data/gui/themes/default/window/game_version.cfg:652
 msgid "Discord"
-msgstr ""
+msgstr "ডিসকর্ড"
 
 #. [button]: id=irc
 #. this is on a button that opens the Wesnoth IRC webpage. IRC is an acronym for Internet Relay Chat
 #: data/gui/themes/default/window/game_version.cfg:671
 msgid "IRC"
-msgstr ""
+msgstr "আইআরসি"
 
 #. [button]: id=steam
 #. this is on a button that opens the Wesnoth Steam forums webpage
 #: data/gui/themes/default/window/game_version.cfg:690
 msgid "Steam"
-msgstr ""
+msgstr "স্টিম"
 
 #. [button]: id=reddit
 #. this is on a button that opens the Wesnoth Reddit webpage
 #: data/gui/themes/default/window/game_version.cfg:709
 msgid "Reddit"
-msgstr ""
+msgstr "রেডিট"
 
 #. [button]: id=donate
 #. this is on a button that opens the Wesnoth SPI webpage for sending donations
 #: data/gui/themes/default/window/game_version.cfg:728
 msgid "Donate"
-msgstr ""
+msgstr "দান করুন"
 
 #. [label]: id=description
 #: data/gui/themes/default/window/game_version.cfg:824
 msgid "An open source, turn-based strategy game with a high fantasy theme."
-msgstr ""
+msgstr "উচ্চ ফ্যান্টাসির ওপরে একটি মুক্ত-সোর্স, দানভিত্তিক পরিকল্পনার খেলা"
 
 #. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [tab]
@@ -5473,8 +5469,6 @@ msgstr ""
 
 #. [label]
 #: data/gui/themes/default/window/mp_staging.cfg:157
-#, fuzzy
-#| msgid "Action"
 msgid "Faction:"
 msgstr "দল:"
 
@@ -6405,10 +6399,8 @@ msgstr "মানচিত্র পরিমার্জক শুরু কর
 #. [grid]
 #: data/gui/themes/default/window/title_screen.cfg:262
 #: data/gui/themes/modern/dialogs/title_screen.cfg:262
-#, fuzzy
-#| msgid "The Battle for Wesnoth"
 msgid "Places to talk about Wesnoth"
-msgstr "ব্যাটল ফর ওয়েসনথ"
+msgstr "ওয়েসনথের সম্পর্কে কথা বলার জায়গা"
 
 #. [grid]
 #: data/gui/themes/default/window/title_screen.cfg:263
@@ -6426,15 +6418,13 @@ msgstr "খেলা থেকে প্রস্থান"
 #: data/gui/themes/default/window/title_screen.cfg:472
 #: data/gui/themes/modern/dialogs/title_screen.cfg:437
 msgid "About"
-msgstr ""
+msgstr "সম্পর্কে"
 
 #. [button]: id=about
 #: data/gui/themes/default/window/title_screen.cfg:473
 #: data/gui/themes/modern/dialogs/title_screen.cfg:438
-#, fuzzy
-#| msgid "The Battle for Wesnoth"
 msgid "General information about Battle for Wesnoth"
-msgstr "ব্যাটল ফর ওয়েসনথ"
+msgstr "ওয়েসনথের সম্পর্কে সাধারণ তথ্য"
 
 #. [button]: id=language
 #: data/gui/themes/default/window/title_screen.cfg:495
@@ -6580,23 +6570,23 @@ msgstr "বিস্তারিত:"
 
 #: src/build_info.cpp:285
 msgid "feature^Lua console completion"
-msgstr ""
+msgstr "লুয়া কনসোল সম্পূর্ণকরণ"
 
 #: src/build_info.cpp:292
 msgid "feature^D-Bus notifications back end"
-msgstr ""
+msgstr "ডি-বাস সূচনা ব্যাক এন্ড"
 
 #: src/build_info.cpp:301
 msgid "feature^Win32 notifications back end"
-msgstr ""
+msgstr "উইন32 সূচনা ব্যাক এন্ড"
 
 #: src/build_info.cpp:307
 msgid "feature^Cocoa notifications back end"
-msgstr ""
+msgstr "কোকোয়া সূচনা ব্যাকএন্ড"
 
 #: src/build_info.cpp:346 src/desktop/version.cpp:125
 msgid "cpu_architecture^<unknown>"
-msgstr ""
+msgstr "<অজানা>"
 
 #: src/desktop/paths.cpp:96
 msgid "filesystem_path_system^Volumes"
@@ -8884,16 +8874,12 @@ msgid "Change Add-on ID"
 msgstr "অ্যাড-অন আইডি পাল্টান"
 
 #: src/hotkey/hotkey_command.cpp:275
-#, fuzzy
-#| msgid "Select the add-on version"
 msgid "Select active Add-on"
-msgstr "অ্যাড-অন সংস্করণ নির্বাচন করুন"
+msgstr "সক্রিয় অ্যাড-অন নির্বাচন করুন"
 
 #: src/hotkey/hotkey_command.cpp:276
-#, fuzzy
-#| msgid "Open saves folder"
 msgid "Open Add-on folder"
-msgstr "সঞ্চিত খেলার ফোল্ডার খুলুন"
+msgstr "অ্যাড-অনের ফোল্ডার খুলুন"
 
 #: src/hotkey/hotkey_command.cpp:279
 msgid "Edit Side"
