@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: bn\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-05-26 15:07-0500\n"
-"PO-Revision-Date: 2024-05-10 18:39+0530\n"
+"PO-Revision-Date: 2024-09-06 08:58+0530\n"
 "Last-Translator: Subhraman Sarkar <suvrax@gmail.com>\n"
 "Language-Team: Bengali < >\n"
 "Language: bn\n"
@@ -6139,7 +6139,7 @@ msgstr "প্রতিরোধ"
 
 #: src/help/help_topic_generators.cpp:751
 msgid "Terrain Modifiers"
-msgstr ""
+msgstr "ভূমিরূপ পরিবর্তনগুলি"
 
 #: src/help/help_topic_generators.cpp:755
 msgid "Terrain"
@@ -6163,4 +6163,4 @@ msgstr "দৃষ্টিমূল্য"
 
 #: src/help/help_topic_generators.cpp:770
 msgid "Jamming Cost"
-msgstr ""
+msgstr "জ্যামিং মূল্য"
