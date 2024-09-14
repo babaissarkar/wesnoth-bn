@@ -2,10 +2,10 @@ Bengali gettext translation files for [Battle for Wesnoth](https://www.wesnoth.o
 The files in this repository will be sent by the maintainer(s) to the Battle for Wesnoth team.
 
 # Maintainer
-Knyghtmare,	knyghtmare#8753 on Discord 
+babaissarkar (Subhraman Sarkar), Forum: bssarkar, Discord: lumious_e
 
 # Contributors
-babaissarkar (Subhraman Sarkar), Forum : bssarkar
+Knyghtmare,	knyghtmare#8753 on Discord (former maintainer)
 
 # Contribution guidelines
 Please create a PR (Pull request) to this repository.
