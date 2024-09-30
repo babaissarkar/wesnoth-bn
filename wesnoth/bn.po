@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: bn\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-08-18 23:11-0500\n"
-"PO-Revision-Date: 2024-09-10 14:53+0530\n"
+"PO-Revision-Date: 2024-09-30 17:08+0530\n"
 "Last-Translator: Subhraman Sarkar <suvrax@gmail.com>\n"
 "Language-Team: Bengali < >\n"
 "Language: bn\n"
@@ -1232,7 +1232,7 @@ msgstr "বরফের থলে"
 #. [item]: id=leanto
 #: data/core/editor/items.cfg:918
 msgid "Lean-to"
-msgstr ""
+msgstr "হেলানো ছাদ"
 
 #. [item]: id=lighthouse
 #: data/core/editor/items.cfg:924
@@ -1886,7 +1886,7 @@ msgid ""
 "Merritos Gark,Morusté,Murr,Omataké,Reshan,Vashitt,Velnick,Veralon,Veramo,"
 "Verath,Verditt,Verkon,Verlinn,Vermad,Vertick,Vladnir"
 msgstr ""
-"এগার,এল্চ,গা'শ, গাডে ইহ্‌ন, গাক্রে ওহম,গালেক,গালশ,গারাডিন,গার্চিন,গার্ক,গার্লান,"
+"এগার,এল্চ,গা'শ,গাডে ইহ্‌ন,গাক্রে ওহম,গালেক,গালশ,গারাডিন,গার্চিন,গার্ক,গার্লান,"
 "গার্লিন ওহ্‌ন,গারুটিন,গার্ট'লো,গারুশি,গাশিনার,গাশোল,গাউশি,গাউস্টুন,গেগচি,গেলকা কোন,"
 "গেল্কনিক,গিলান,গিশারি,গোস্ট,গ্রাডা,গ্র্যাট ইহ্‌ন,গ্রাশেন,গ্রাভলান,গ্রাগ,গ্রেল্‌নিট,গ্রেন "
 "ওহ্‌ন,গ্রেথ,গ্রিবেল,গ্রিডা,গ্রিশ,গ্রোন ইহ্‌ন,কা,কাহ্‌ন ইহ্,কারিগান,কারি কোন,কারোন,কাস্ক,"
@@ -1916,6 +1916,13 @@ msgid ""
 "suffix=ash|kré|lsh|lin|rutin|shinar|rushi|ka|ash|ag|all|ash|slar|li|dian|"
 "ritos|rusté|shitt|nick|rath|ditt|kon|mad|tick|nir\n"
 msgstr ""
+"\n"
+"main={prefix}{suffix}|{prefix}’{suffix}|{prefix}{suffix} {short_name}\n"
+"short_name=ওহন|ইহন|কা|মুর|কোন|এলচ|কো|গ্রেট|এগার\n"
+"prefix=গা|গে|গেল|গি|গো|গ্রা|গ্রি|কা|কো|ক্লা|মার|ডি|মের|মোর|ওমা|রে|ভেল|ভাশ|ভের|"
+"ভ্লা\n"
+"suffix=আশ|ক্রে|ল্শ|লিন|রুটিন|শিনার|রুশি|কা|আশ|আগ|আল|আশ|স্লার|লি|ডিয়ান|রিটোস|রুস্টে|"
+"শিট|নিক|রাথ|ডিট|কোন|মাড|টিক|নির\n"
 
 #. Generator for female drake names; see <https://wiki.wesnoth.org/Context-free_grammar> for syntax
 #: data/core/macros/names.cfg:29
@@ -1926,6 +1933,11 @@ msgid ""
 "suffix=en|nash|irt|glann|ll|ge|lin|nitt|tin|tar|lisk|rida|grra|sill|la|mell\n"
 "short_name=Mal|Ka|Emth|Dar|Eshi\n"
 msgstr ""
+"\n"
+"main={prefix}{suffix}|{prefix}{suffix} {short_name}\n"
+"prefix=আল|আলি|আশ|অগ|অউগ|ডা|ডে|ডেম|ডিন|ওল|ওমা|ওরি|ওশি|ভাল|ভের|ভেল|ভুশ\n"
+"suffix=এন|নাশ|ইর্ট|গ্লান|ল্ল|গে|লিন|নিট|টিন|টার|লিস্ক|রিডা|গ্রা|সিল|লা|মেল\n"
+"short_name=মাল|কা|এমথ|ডার|এশি\n"
 
 #: data/core/macros/names.cfg:38
 msgid ""
@@ -2182,6 +2194,11 @@ msgid ""
 "suffix=aa|eaa|ee|aaa|ssshh|rro|uu|uuu\n"
 "centre=arr|aash|eez|ozz\n"
 msgstr ""
+"\n"
+"main={prefix}{suffix}|{prefix}{centre}{suffix}\n"
+"prefix=গ্র|কা|কে|কো|ক্র|ক্জ\n"
+"suffix=আ|এয়া|ই|য়আ|শশশ|ররো|উ|উউ\n"
+"centre=আর|আশ|ইজ|ওজ\n"
 
 #. Generator for female gryphon names; see <https://wiki.wesnoth.org/Context-free_grammar> for syntax
 #: data/core/macros/names.cfg:98
@@ -3240,6 +3257,10 @@ msgid ""
 "\t\tmain=$base {bridge_type}|$base{!}’s {bridge_type}\n"
 "\t"
 msgstr ""
+"\n"
+"\t\tbridge_type=সেতু|ক্রসিং\n"
+"\t\tmain=$base {bridge_type}|$base{!}-এর {bridge_type}\n"
+"\t"
 
 #. [naming]
 #. Generator for road labels in random maps; see <https://wiki.wesnoth.org/Context-free_grammar> for syntax and <https://wiki.wesnoth.org/MapGeneratorWML#The_Default_Generator> for variables summary
@@ -3310,6 +3331,10 @@ msgid ""
 "\t\tmain=$base{!}{suffix}\n"
 "\t"
 msgstr ""
+"\n"
+"\t\tsuffix=-এর জলা|জলাভুমি|ফেন\n"
+"\t\tmain=$base{!}{suffix}\n"
+"\t"
 
 #. [village_naming]
 #. Generator for generic village labels in random maps; see <https://wiki.wesnoth.org/Context-free_grammar> for syntax and <https://wiki.wesnoth.org/MapGeneratorWML#The_Default_Generator> for variables summary
@@ -3320,6 +3345,10 @@ msgid ""
 "\t\tmain=$base{!}{suffix}\n"
 "\t"
 msgstr ""
+"\n"
+"\t\tsuffix=বারি|বারি|হ্যাম|টন|ভিল\n"
+"\t\tmain=$base{!}{suffix}\n"
+"\t"
 
 #. [village_naming]
 #. Generator for lakeside village labels in random maps; see <https://wiki.wesnoth.org/Context-free_grammar> for syntax and <https://wiki.wesnoth.org/MapGeneratorWML#The_Default_Generator> for variables summary
@@ -3354,6 +3383,11 @@ msgid ""
 "\t\tmain={prefix}{suffix}\n"
 "\t"
 msgstr ""
+"\n"
+"\t\tprefix=$base{!}|$river{!}|$bridge{!}\n"
+"\t\tsuffix=ব্রিজ|ব্রিজ|হ্যাম|টন\n"
+"\t\tmain={prefix}{suffix}\n"
+"\t"
 
 #. [village_naming]
 #. Generator for grassland village labels in random maps; see <https://wiki.wesnoth.org/Context-free_grammar> for syntax and <https://wiki.wesnoth.org/MapGeneratorWML#The_Default_Generator> for variables summary
@@ -3364,6 +3398,10 @@ msgid ""
 "\t\tmain=$base{!}{suffix}\n"
 "\t"
 msgstr ""
+"\n"
+"\t\tsuffix=হ্যাম|টন|ফিল্ড\n"
+"\t\tmain=$base{!}{suffix}\n"
+"\t"
 
 #. [village_naming]
 #. Generator for forest village labels in random maps; see <https://wiki.wesnoth.org/Context-free_grammar> for syntax and <https://wiki.wesnoth.org/MapGeneratorWML#The_Default_Generator> for variables summary
@@ -3375,6 +3413,11 @@ msgid ""
 "\t\tmain={prefix}{suffix}\n"
 "\t"
 msgstr ""
+"\n"
+"\t\tprefix=$base{!}|$forest{!}\n"
+"\t\tsuffix=হ্যাম|টন|উড| বন\n"
+"\t\tmain={prefix}{suffix}\n"
+"\t"
 
 #. [village_naming]
 #. Generator for hill village labels in random maps; see <https://wiki.wesnoth.org/Context-free_grammar> for syntax and <https://wiki.wesnoth.org/MapGeneratorWML#The_Default_Generator> for variables summary
@@ -3385,6 +3428,10 @@ msgid ""
 "\t\tmain=$base{!}{suffix}\n"
 "\t"
 msgstr ""
+"\n"
+"\t\tsuffix=হ্যাম|বারি|টন|হিল|ক্রেস্ট\n"
+"\t\tmain=$base{!}{suffix}\n"
+"\t"
 
 #. [village_naming]
 #. Generator for mountain village labels in random maps; see <https://wiki.wesnoth.org/Context-free_grammar> for syntax and <https://wiki.wesnoth.org/MapGeneratorWML#The_Default_Generator> for variables summary
@@ -3396,6 +3443,11 @@ msgid ""
 "\t\tmain={prefix}{suffix}\n"
 "\t"
 msgstr ""
+"\n"
+"\t\tprefix=$base{!}|$mountain{!}\n"
+"\t\tsuffix=মন্ট|ক্লিফ|বারি|হ্যাম\n"
+"\t\tmain={prefix}{suffix}\n"
+"\t"
 
 #. [village_naming]
 #. Generator for mountain labels in random maps; see <https://wiki.wesnoth.org/Context-free_grammar> for syntax and <https://wiki.wesnoth.org/MapGeneratorWML#The_Default_Generator> for variables summary
@@ -3406,6 +3458,10 @@ msgid ""
 "\t\tmain=$base{!}{suffix}\n"
 "\t"
 msgstr ""
+"\n"
+"\t\tsuffix=হ্যাম|বারি|টন|মন্ট|ক্লিফ|ক্লিফ|ক্লিফ\n"
+"\t\tmain=$base{!}{suffix}\n"
+"\t"
 
 #. [village_naming]
 #. Generator for roadside village labels in random maps; see <https://wiki.wesnoth.org/Context-free_grammar> for syntax and <https://wiki.wesnoth.org/MapGeneratorWML#The_Default_Generator> for variables summary
@@ -3428,6 +3484,11 @@ msgid ""
 "\t\tmain={prefix}{suffix}\n"
 "\t"
 msgstr ""
+"\n"
+"\t\tprefix=$base{!}|$swamp{!}\n"
+"\t\tsuffix=বারি|হ্যাম|টন\n"
+"\t\tmain={prefix}{suffix}\n"
+"\t"
 
 #. [server]
 #: data/game_config.cfg:4
@@ -3810,11 +3871,12 @@ msgid ""
 "Use the map editor’s <i>Areas</i> menu to define regions later addressed by "
 "event or AI coding."
 msgstr ""
+"পরে ইভেন্ট বা এআই কোডিং-এ ব্যবহৃত হবে এমন এলাকা চিহ্নিত করতে মানচিত্র পরিমার্জকের <i>এলাকা</i> মেনু ব্যবহার করুন ।"
 
 #. [tip]
 #: data/tips.cfg:5 data/tips.cfg:9 data/tips.cfg:13
 msgid "<i>― The Wesnoth Design Guide</i>"
-msgstr ""
+msgstr "<i>― ওয়েসনথ ডিজাইন গাইড</i>"
 
 #. [tip]
 #: data/tips.cfg:8
@@ -3822,6 +3884,7 @@ msgid ""
 "In the map editor, select <i>New Scenario</i> in the <i>File</i> menu to "
 "make use of advanced features."
 msgstr ""
+"উন্নততর সুবিধাগুলি ব্যবহারের জন্য, মানচিত্র পরিমার্জকে <i>ফাইল</i> মেনু থেকে <i>নতুন ঘটনাক্রম</i> নির্বাচন করুন ।"
 
 #. [tip]
 #: data/tips.cfg:12
@@ -3861,7 +3924,7 @@ msgstr ""
 #: data/tips.cfg:206 data/tips.cfg:214 data/tips.cfg:234 data/tips.cfg:242
 #: data/tips.cfg:250 data/tips.cfg:266 data/tips.cfg:271 data/tips.cfg:276
 msgid "<i>― The Wesnoth Tactical Guide</i>"
-msgstr ""
+msgstr "<i>― ওয়েসনথ ট্যাকটিকাল গাইড</i>"
 
 #. [tip]
 #: data/tips.cfg:24
@@ -3874,7 +3937,7 @@ msgstr ""
 #. [tip]
 #: data/tips.cfg:25
 msgid "<i>― King Konrad, 536YW</i>"
-msgstr ""
+msgstr "<i>― রাজা কনরাড, 536 ই.ও.</i>"
 
 #. [tip]
 #: data/tips.cfg:28
@@ -3888,7 +3951,7 @@ msgstr ""
 #. [tip]
 #: data/tips.cfg:29 data/tips.cfg:141
 msgid "<i>― Memoirs of Gweddry, 627YW</i>"
-msgstr ""
+msgstr "<i>― গুয়েড্রির স্মৃতিকথা, 627 ই.ও.</i>"
 
 #. [tip]
 #: data/tips.cfg:32
@@ -4043,7 +4106,7 @@ msgstr ""
 #. [tip]
 #: data/tips.cfg:89
 msgid "<i>― Haldric II, 43YW, Handbook of Tactical Analysis: Volume II</i>"
-msgstr ""
+msgstr "<i>― দ্বিতীয় হ্যালড্রিক, 43 ই.ও., যুদ্ধকৌশলের রূপরেখা: দ্বিতীয় খন্ড</i>"
 
 #. [tip]
 #: data/tips.cfg:92
@@ -4080,7 +4143,7 @@ msgstr ""
 #. [tip]
 #: data/tips.cfg:105 data/tips.cfg:185
 msgid "<i>― Sir Kaylan, 498YW</i>"
-msgstr ""
+msgstr "<i>― স্যার কাইলান, 498 ই.ও.</i>"
 
 #. [tip]
 #: data/tips.cfg:108
@@ -4093,7 +4156,7 @@ msgstr ""
 #. [tip]
 #: data/tips.cfg:109
 msgid "<i>― Sir Kaylan, 502YW</i>"
-msgstr ""
+msgstr "<i>― স্যার কাইলান, 502 ই.ও.</i>"
 
 #. [tip]
 #: data/tips.cfg:112
@@ -4134,7 +4197,7 @@ msgstr ""
 #. [tip]
 #: data/tips.cfg:129
 msgid "<i>― Meneldur, 123YW</i>"
-msgstr ""
+msgstr "<i>― মেনেলডুর, 123 ই.ও.</i>"
 
 #. [tip]
 #: data/tips.cfg:132
@@ -4180,7 +4243,7 @@ msgstr ""
 #. [tip]
 #: data/tips.cfg:149
 msgid "<i>― Great Mage Delfador, 516YW</i>"
-msgstr ""
+msgstr "<i>― বিশিষ্ট জাদুবিদ ডেলফাডোর, 516 ই.ও.</i>"
 
 #. [tip]
 #: data/tips.cfg:152
@@ -4194,7 +4257,7 @@ msgstr ""
 #. [tip]
 #: data/tips.cfg:153
 msgid "<i>― Kai Laudiss, 623YW</i>"
-msgstr ""
+msgstr "<i>― কাই লডিস, 623 ই.ও.</i>"
 
 #. [tip]
 #: data/tips.cfg:156
@@ -4204,7 +4267,7 @@ msgstr ""
 #. [tip]
 #: data/tips.cfg:157
 msgid "<i>― Princess Li’sar, 515YW</i>"
-msgstr ""
+msgstr "<i>― রাজকুমারী লি’সার, 515 ই.ও.</i>"
 
 #. [tip]
 #: data/tips.cfg:160
@@ -4230,7 +4293,7 @@ msgstr ""
 #. [tip]
 #: data/tips.cfg:169 data/tips.cfg:210
 msgid "<i>― The Scroll of Chantal, 516YW</i>"
-msgstr ""
+msgstr "<i>― চান্তালের পুঁথি, 516 ই.ও.</i>"
 
 #. [tip]
 #: data/tips.cfg:172
@@ -4247,7 +4310,7 @@ msgstr ""
 #. [tip]
 #: data/tips.cfg:177
 msgid "<i>― Great Sage Dacyn, 626YW</i>"
-msgstr ""
+msgstr "<i>― বিশিষ্ট মনিষী ড্যাসিন, 626 ই.ও.</i>"
 
 #. [tip]
 #: data/tips.cfg:180
