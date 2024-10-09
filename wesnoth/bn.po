@@ -4305,7 +4305,7 @@ msgstr ""
 #. [tip]
 #: data/tips.cfg:176
 msgid "<i>Arcane</i> attacks are very powerful against undead."
-msgstr ""
+msgstr "না-মৃতদের বিরুদ্ধে <i>অলৌকিক</i> আক্রমণ অত্যন্ত কার্যকরী।"
 
 #. [tip]
 #: data/tips.cfg:177
@@ -4347,7 +4347,7 @@ msgstr ""
 #. [tip]
 #: data/tips.cfg:193
 msgid "<i>― Queen Li’sar, 528YW</i>"
-msgstr ""
+msgstr "<i>― রাণী লি’সার, 528 ই.ও.</i>"
 
 #. [tip]
 #. Whiteboard is another name for the Planning Mode
@@ -4421,7 +4421,7 @@ msgstr ""
 #. [tip]
 #: data/tips.cfg:226 data/tips.cfg:238
 msgid "<i>― Lord Hamel of Knalga</i>"
-msgstr ""
+msgstr "<i>― নালগার লর্ড হ্যামেল</i>"
 
 #. [tip]
 #: data/tips.cfg:229
@@ -4468,12 +4468,12 @@ msgstr ""
 #. [tip]
 #: data/tips.cfg:246
 msgid "<i>― Queen Asheviere, 503YW</i>"
-msgstr ""
+msgstr "<i>― রাণী অ্যাশভিয়ের, 503 ই.ও."
 
 #. [tip]
 #: data/tips.cfg:249
 msgid "Using lower-level units can be very cost-effective."
-msgstr ""
+msgstr "কম-পর্যায়ের ইউনিটেরা খরচ বাঁচায়।"
 
 #. [tip]
 #: data/tips.cfg:253
@@ -4486,7 +4486,7 @@ msgstr ""
 #. [tip]
 #: data/tips.cfg:254
 msgid "<i>― Sir Gerrick of Westin, 607YW</i>"
-msgstr ""
+msgstr "<i>― ওয়েস্টিনের স্যার গ্যারিক, 607 ই.ও.</i>"
 
 #. [tip]
 #: data/tips.cfg:257
@@ -4499,7 +4499,7 @@ msgstr ""
 #. [tip]
 #: data/tips.cfg:258
 msgid "<i>― Dominant Gorlack, 3YW</i>"
-msgstr ""
+msgstr "<i>― প্রধান গোরল্যাক, 3 ই.ও.</i>"
 
 #. [tip]
 #: data/tips.cfg:261
@@ -4512,7 +4512,7 @@ msgstr ""
 #. [tip]
 #: data/tips.cfg:262
 msgid "<i>― Lord Tallin of Knalga, 538 YW</i>"
-msgstr ""
+msgstr "<i>― নালগার লর্ড ট্যালিন, 538 ই.ও.</i>"
 
 #. [tip]
 #: data/tips.cfg:265
@@ -4544,7 +4544,7 @@ msgstr ""
 #. other players. It will be embedded within a message.
 #: src/actions/advancement.cpp:256
 msgid "waiting for^an advancement choice"
-msgstr ""
+msgstr "উন্নয়ণ পছন্দের জন্য অপেক্ষা করা হচ্ছে"
 
 #: src/actions/attack.cpp:584 src/actions/attack.cpp:1383
 msgid "An invalid attacker weapon got selected."
@@ -4552,7 +4552,7 @@ msgstr ""
 
 #: src/actions/create.cpp:340
 msgid "You do not have a leader to recall with."
-msgstr ""
+msgstr "ডাকার জন্য আপনার কোনো দলনেতা নেই।"
 
 #: src/actions/create.cpp:344
 msgid "None of your leaders are able to recall that unit."
@@ -4560,11 +4560,11 @@ msgstr "আপনার কোনো দলনেতা এই ইউনিট�
 
 #: src/actions/create.cpp:348
 msgid "You must have a leader on a keep who is able to recall that unit."
-msgstr ""
+msgstr "এই ইউনিটটিকে ডাকতে পারে দূর্গে ওপরে দাঁড়িয়ে থাকা এমন একজন নেতা আবশ্যক।"
 
 #: src/actions/create.cpp:352
 msgid "There are no vacant castle tiles in which to recall the unit."
-msgstr ""
+msgstr "ইউনিটটিকে পুনরায় ডাকার জন্য কোনো ফাঁকা প্রাসাদ টাইল নেই।"
 
 #: src/actions/create.cpp:362 src/actions/create.cpp:498
 msgid "An unrecognized error has occurred."
@@ -4580,11 +4580,11 @@ msgstr "আপনার কোনো দলনেতা এই ইউনিট�
 
 #: src/actions/create.cpp:484
 msgid "You must have a leader on a keep who is able to recruit the unit."
-msgstr ""
+msgstr "এই ইউনিটটিকে নিয়োগ করতে পারে দূর্গে ওপরে দাঁড়িয়ে থাকা এমন একজন নেতা আবশ্যক।"
 
 #: src/actions/create.cpp:488
 msgid "There are no vacant castle tiles in which to recruit the unit."
-msgstr ""
+msgstr "ইউনিটটিকে নিয়োগ করার জন্য কোনো ফাঁকা প্রাসাদ টাইল নেই।"
 
 #: src/actions/heal.cpp:273
 msgid "cured"
@@ -4600,7 +4600,7 @@ msgstr "আক্রান্ত!"
 
 #: src/actions/move.cpp:1194
 msgid "Failed teleport! Exit not empty"
-msgstr ""
+msgstr "টেলিপোর্ট করা যায়নি! বেরিয়ে আসার জায়গাটি ফাঁকা নয়"
 
 #. TRANSLATORS: This becomes the "friendphrase" in "Units sighted! ($friendphrase, $enemyphrase)"
 #: src/actions/move.cpp:1210
