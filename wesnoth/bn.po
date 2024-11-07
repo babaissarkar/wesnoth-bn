@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: bn\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-08-18 23:11-0500\n"
-"PO-Revision-Date: 2024-09-30 17:08+0530\n"
+"PO-Revision-Date: 2024-11-07 16:04+0530\n"
 "Last-Translator: Subhraman Sarkar <suvrax@gmail.com>\n"
 "Language-Team: Bengali < >\n"
 "Language: bn\n"
@@ -2209,6 +2209,11 @@ msgid ""
 "suffix=sa|yya|ra|rra\n"
 "centre=err|aash|eez|azz\n"
 msgstr ""
+"\n"
+"main={prefix}{suffix}|{prefix}{centre}{suffix}\n"
+"prefix=কা|কা|কে|কূ|কো\n"
+"suffix=সা|য়া|রা|রা\n"
+"centre=এর|আশ|ঈজ়|আজ়\n"
 
 #: data/core/macros/names.cfg:107
 msgid ""
@@ -2331,6 +2336,23 @@ msgid ""
 "centre_c=redd|reor|og|thyn\n"
 "centre_v=rae|ra|thar|gwy\n"
 msgstr ""
+"\n"
+"main={generated_prefix_c}{suffix_c}|{generated_prefix_v}{suffix_v}|{prefix_c}"
+"{centre_c}{suffix_c}|{prefix_v}{centre_v}{suffix_v}\n"
+"generated_prefix_c={starting_consonnant}{vowel}{consonnant}|{starting_vowel}"
+"{consonnant}\n"
+"generated_prefix_v={starting_consonnant}{vowel}|{starting_vowel}\n"
+"starting_consonnant=ব|ক|ড|গ|হ|ল|ম|র|র|স|ট|ভ\n"
+"starting_vowel=আ|এ|ই|য়|এ\n"
+"vowel=া|ে|ি|ো|ু|য়|েও|াএ\n"
+"consonnant=ও|ল|ড|ন|র|র্ক|ল্ল|ন্ন|ড্ড|থ\n"
+"prefix_c=অ্যাড|ডেন|ডের|গুম|ম্যাড|ম্যার|ওউ|টেড|ট{vowel}ন|ভার|ভিন|ভব|ভুগ|য়ের|রির\n"
+"prefix_v=এ|ব্ল{vowel}|ক{vowel}|ড{vowel}|গ্ল{vowel}|গ{vowel}|গ{vowel}|হা|"
+"ল{vowel}|ম{vowel}|র{vowel}|র{vowel}|স{vowel}|স{vowel}|ট{vowel}|ভ{vowel}\n"
+"suffix_c=িন|ের|িক|েক|োক|ির|িন|েন্ট\n"
+"suffix_v=রি|রিন|রান|লিন|ভ্যান|নিক\n"
+"centre_c=রেড|রেওর|ওগ|থিন\n"
+"centre_v=রে|রা|থার|গি\n"
 
 #. Generator for female Wesnothian human names; see <https://wiki.wesnoth.org/Context-free_grammar> for syntax
 #: data/core/macros/names.cfg:126
@@ -3871,7 +3893,8 @@ msgid ""
 "Use the map editor’s <i>Areas</i> menu to define regions later addressed by "
 "event or AI coding."
 msgstr ""
-"পরে ইভেন্ট বা এআই কোডিং-এ ব্যবহৃত হবে এমন এলাকা চিহ্নিত করতে মানচিত্র পরিমার্জকের <i>এলাকা</i> মেনু ব্যবহার করুন ।"
+"পরে ইভেন্ট বা এআই কোডিং-এ ব্যবহৃত হবে এমন এলাকা চিহ্নিত করতে মানচিত্র পরিমার্জকের "
+"<i>এলাকা</i> মেনু ব্যবহার করুন ।"
 
 #. [tip]
 #: data/tips.cfg:5 data/tips.cfg:9 data/tips.cfg:13
@@ -3884,7 +3907,8 @@ msgid ""
 "In the map editor, select <i>New Scenario</i> in the <i>File</i> menu to "
 "make use of advanced features."
 msgstr ""
-"উন্নততর সুবিধাগুলি ব্যবহারের জন্য, মানচিত্র পরিমার্জকে <i>ফাইল</i> মেনু থেকে <i>নতুন ঘটনাক্রম</i> নির্বাচন করুন ।"
+"উন্নততর সুবিধাগুলি ব্যবহারের জন্য, মানচিত্র পরিমার্জকে <i>ফাইল</i> মেনু থেকে <i>নতুন "
+"ঘটনাক্রম</i> নির্বাচন করুন ।"
 
 #. [tip]
 #: data/tips.cfg:12
@@ -4580,7 +4604,8 @@ msgstr "আপনার কোনো দলনেতা এই ইউনিট�
 
 #: src/actions/create.cpp:484
 msgid "You must have a leader on a keep who is able to recruit the unit."
-msgstr "এই ইউনিটটিকে নিয়োগ করতে পারে দূর্গে ওপরে দাঁড়িয়ে থাকা এমন একজন নেতা আবশ্যক।"
+msgstr ""
+"এই ইউনিটটিকে নিয়োগ করতে পারে দূর্গে ওপরে দাঁড়িয়ে থাকা এমন একজন নেতা আবশ্যক।"
 
 #: src/actions/create.cpp:488
 msgid "There are no vacant castle tiles in which to recruit the unit."
