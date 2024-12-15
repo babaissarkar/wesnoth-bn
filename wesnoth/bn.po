@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: bn\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-08-18 23:11-0500\n"
-"PO-Revision-Date: 2024-11-30 16:22+0530\n"
+"PO-Revision-Date: 2024-12-15 15:47+0530\n"
 "Last-Translator: Subhraman Sarkar <suvrax@gmail.com>\n"
 "Language-Team: Bengali < >\n"
 "Language: bn\n"
@@ -6757,39 +6757,39 @@ msgstr ""
 
 #: src/menu_events.cpp:1293
 msgid "Fire a game event."
-msgstr ""
+msgstr "খেলার কোনো একটি ঘটনা সক্রিয় করুন ।"
 
 #: src/menu_events.cpp:1296
 msgid "Toggle overlaying of x,y coordinates on hexes."
-msgstr ""
+msgstr "ষড়ভুজের ওপরে x,y স্থানাঙ্ক দেখান/লুকোন ।"
 
 #: src/menu_events.cpp:1299
 msgid "Toggle overlaying of terrain codes on hexes."
-msgstr ""
+msgstr "ষড়ভুজের ওপরে ভুমির কোড দেখান/লুকোন ।"
 
 #: src/menu_events.cpp:1302
 msgid "Toggle overlaying of number of bitmaps on hexes."
-msgstr ""
+msgstr "ষড়ভুজের ওপরে অভিলিপ্ত বিটম্যাপের সংখ্যা লুকোন/মুছুন ।"
 
 #: src/menu_events.cpp:1304
 msgid "Toggle planning mode."
-msgstr ""
+msgstr "পরিকল্পনা মোড সক্রিয়/নিস্ক্রিয় করুন ।"
 
 #: src/menu_events.cpp:1307
 msgid "Access whiteboard options dialog."
-msgstr ""
+msgstr "হোয়াইটবোর্ড অপশন ডায়ালগ দেখান ।"
 
 #: src/menu_events.cpp:1427
 msgid "Could not find label or unit containing the string ‘$search’."
-msgstr ""
+msgstr "‘$search’ আছে এমন কোনো ইউনিট বা লেবেল খুঁজে পাওয়া যায়নি ।"
 
 #: src/menu_events.cpp:1474
 msgid "Can't droid invalid side: '$side'."
-msgstr ""
+msgstr "অজানা পক্ষ '$side' ড্রইড করা যাবে না ।"
 
 #: src/menu_events.cpp:1477
 msgid "Can't droid networked side: '$side'."
-msgstr ""
+msgstr "নেটওয়ার্ক নিয়ন্ত্রিত পক্ষ '$side' ড্রইড করা যাবে না ।"
 
 #: src/menu_events.cpp:1489 src/menu_events.cpp:1505 src/menu_events.cpp:1537
 msgid ""
@@ -6799,19 +6799,19 @@ msgstr ""
 
 #: src/menu_events.cpp:1499 src/menu_events.cpp:1555
 msgid "Side '$side' controller is now controlled by: AI."
-msgstr ""
+msgstr "পক্ষ '$side' এখন নিয়ন্ত্রিত: এআই দ্বারা"
 
 #: src/menu_events.cpp:1501
 msgid "Side '$side' is already droided."
-msgstr ""
+msgstr "'$side' ইতিমধ্যেই ড্রইড-নিয়ন্ত্রিত ।"
 
 #: src/menu_events.cpp:1515 src/menu_events.cpp:1547
 msgid "Side '$side' controller is now controlled by: human."
-msgstr ""
+msgstr "পক্ষ '$side' এখন নিয়ন্ত্রিত: মানুষ দ্বারা"
 
 #: src/menu_events.cpp:1517
 msgid "Side '$side' is already not droided."
-msgstr ""
+msgstr "'$side' ইতিমধ্যেই ড্রইড-নিয়ন্ত্রিত নয় ।"
 
 #: src/menu_events.cpp:1521
 msgid ""
@@ -6838,7 +6838,7 @@ msgstr "দল '$side' মানব বা এআই খেলোয়াড় ন�
 
 #: src/menu_events.cpp:1603
 msgid "Can't idle invalid side: '$side'."
-msgstr ""
+msgstr "অজানা পক্ষ '$side'-কে অলস করা যাবে না ।"
 
 #: src/menu_events.cpp:1608
 msgid "Can't idle networked side: '$side'."
@@ -6904,16 +6904,20 @@ msgstr "চলরাশি পাওয়া যায়নি"
 #: src/menu_events.cpp:1984
 msgid "Debug command 'unit: $unit' failed: no unit selected or hovered over."
 msgstr ""
+"ডিবাগ কমান্ড 'unit: $unit' করা যায়নি: কোনো ইউনিট নির্বাচিত বা হোভার করা অবস্থায় "
+"নেই ।"
 
 #: src/menu_events.cpp:2002
 msgid ""
 "Invalid alignment: '$alignment', needs to be one of lawful, neutral, "
 "chaotic, or liminal."
 msgstr ""
+"অজানা স্বভাব: '$alignment', নৈতিক, নিরপেক্ষ, বিশৃঙ্খল, বা মধ্যবর্তীর মধ্যে একটি হতে "
+"হবে ।"
 
 #: src/menu_events.cpp:2028
 msgid "Do you wish to clear all of your discovered units from help?"
-msgstr ""
+msgstr "আপনি কী সাহায্য থেকে আপনার খুঁজে পাওয়া ইউনিটদের তালিকা মুছে ফেলতে চান?"
 
 #: src/menu_events.cpp:2042
 msgid "Invalid unit type"
@@ -6932,6 +6936,8 @@ msgid ""
 "You cannot move your leader away from the keep with some planned recruits or "
 "recalls left."
 msgstr ""
+"পরিকল্পিত নিয়োগ বা পুনরায় ডাকা বাকি থাকার কারণে আপনি আপনার দলনেতাকে দূর্গ থেকে "
+"সরাতে পারবেন না ।"
 
 #: src/mouse_events.cpp:1358
 msgid "No Attacks"
@@ -6980,6 +6986,8 @@ msgid ""
 "An error occurred when downloading the file. Check the game logs for more "
 "information."
 msgstr ""
+"ফাইলটি ডাউনলোড করার সময় কোনো ত্রুটি হয়েছে । অতিরিক্ত তথ্যের জন্য খেলার লগগুলি দেখুন "
+"।"
 
 #: src/network_download_file.cpp:68 src/network_download_file.cpp:83
 #: src/network_download_file.cpp:91
@@ -7011,7 +7019,7 @@ msgstr "1-এর থেকে কম স্থানান্তর মূল্
 #. from another player. This text will be embedded into a sentence.
 #: src/persist_var.cpp:58
 msgid "waiting for^a global variable"
-msgstr ""
+msgstr "একটি গ্লোবাল ভ্যারিয়েবল"
 
 #: src/play_controller.cpp:254
 msgid "time left for current turn"
@@ -7024,6 +7032,7 @@ msgstr "বর্তমান স্থানীয় সময়"
 #: src/play_controller.cpp:558
 msgid "Trying to create a corrupt file, please report this bug"
 msgstr ""
+"কারাপ্ট ফাইল তৈরী করার চেষ্টা করা হচ্ছে, অনুগ্রহ করে এই ত্রুটিটির সম্পর্কে জানান ।"
 
 #: src/play_controller.cpp:1021
 msgid ""
@@ -7058,7 +7067,11 @@ msgid_plural ""
 "Please report the following missing scenarios to the campaign’s author:\n"
 "$unknown_list|"
 msgstr[0] ""
+"অনুগ্রহ করে এই অভিযানের লেখককে পরবর্তী অজানা ঘটনাক্রমটির সম্পর্কে জানান:\n"
+"$unknown_list|"
 msgstr[1] ""
+"অনুগ্রহ করে এই অভিযানের লেখককে পরবর্তী অজানা ঘটনাক্রমগুলির সম্পর্কে জানান:\n"
+"$unknown_list|"
 
 #: src/play_controller.cpp:1225
 msgid "Once this is fixed, you will need to restart this scenario."
@@ -7134,6 +7147,8 @@ msgid ""
 "what this message means, then most likely someone is cheating or someone "
 "reloaded a corrupt game."
 msgstr ""
+"এই বহুখেলোয়াড় খেলাটি একটি অন্য ইতস্তত সংখ্যায়ণ ব্যবহার করছে, যদি আপনি না জানেন এই "
+"বার্তার অর্থ কী, তাহলে কেউ অসৎ উপায় অবলম্বন করছে বা কারাপ্ট খেলা খুলেছে ।"
 
 #: src/playsingle_controller.cpp:384
 msgid "The game is over."
@@ -7228,6 +7243,12 @@ msgid ""
 "Units cannot be killed by poison alone. The poison will not reduce it below "
 "1 HP."
 msgstr ""
+"এই ইউনিটটি বিষক্রিয়ার দ্বারা আক্রান্ত । এটি প্রত্যেক দানে 8 জীবনসংখ্যা হারাতে থাকবে "
+"যতক্ষণ পর্যন্ত না এটি গ্রামে বা ‘চিকিৎসা করে’ এমন কোনো মিত্র ইউনিটের দ্বারা বিষের "
+"চিকিৎসা পাচ্ছে ।\n"
+"\n"
+"শুধুমাত্র বিষক্রিয়ার কারণে কোনো ইউনিটের মৃত্যু হতে পারে না । বিষক্রিয়া কখনও ইউনিটটির "
+"জীবনসংখ্যা 1-এর নীচে নামাবে না ।"
 
 #: src/reports.cpp:349
 msgid "petrified: "
@@ -7246,6 +7267,8 @@ msgid ""
 "This unit is unhealable. It cannot be healed by healers or villages and "
 "doesn’t benefit from resting."
 msgstr ""
+"এই ইউনিটটি অচিকিৎসনীয় । আরোগ্যকারকদের বা গ্রামের দ্বারা এটির চিকিৎসা হতে পারে "
+"না এবং স্থির দাঁড়িয়ে থাকার দ্বারা এটি উপকৃত হয় না ।"
 
 #: src/reports.cpp:357
 msgid "invulnerable: "
@@ -7461,6 +7484,11 @@ msgid ""
 "cost of upkeep, including that covered by villages — in other words, the "
 "amount of gold that would be deducted if you lost all villages."
 msgstr ""
+"প্রত্যেক দানের শেষে আপনার সেনাবাহিনীর জন্য যে পরিমাণ খরচ হচ্ছে । প্রথম সংখ্যাটি হল "
+"যে পরিমাণ স্বর্ণ বিয়োগ হবে । এটি ইউনিটদের সেই পর্যায়গুলির সংখ্যার সমান গ্রামগুলি "
+"যেগুলির ভারবহন করছে না । দ্বিতীয়টি হল মোট খরচ, গ্রামগুলি যত পরিমাণ সাহায্য করছে "
+"তা সহ — অন্যভাবে বলতে হলে, আপনি সব গ্রামগুলির নিয়ন্ত্রণ হারালে আপনার যে পরিমাণ "
+"খরচ হবে ।"
 
 #: src/reports.cpp:1500
 msgid "Upkeep"
@@ -7620,11 +7648,11 @@ msgstr "খেলার অবস্থা ত্রুটিপূর্ণ"
 
 #: src/serialization/parser.cpp:152
 msgid "Unexpected characters at line start"
-msgstr ""
+msgstr "লাইনের শুরুতে অপ্রত্যাশিত অক্ষর"
 
 #: src/serialization/parser.cpp:179
 msgid "Missing closing tag for tag [$tag]"
-msgstr ""
+msgstr "[$tag]-এর জন্য বন্ধ করার ট্যাগ নেই"
 
 #: src/serialization/parser.cpp:180
 msgid "expected at $pos"
@@ -7803,7 +7831,7 @@ msgstr[1] "দল $sides-এর থেকে $desc-এর জন্য অপে
 #. This text will be embedded into a sentence.
 #: src/synced_user_choice.hpp:45
 msgid "waiting for^input"
-msgstr ""
+msgstr "ইনপুট"
 
 #. TRANSLATORS: $color_id is the internal identifier of a side color, for example, 'lightred'.
 #. Translate the quotation marks only; leave "color_id" untranslated, as it's a variable name.
