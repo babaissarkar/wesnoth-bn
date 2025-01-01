@@ -5088,7 +5088,7 @@ msgstr ""
 #. [toggle_button]: id=fog
 #: data/gui/themes/default/window/mp_create_game.cfg:389
 msgid "Fog of War"
-msgstr ""
+msgstr "যুদ্ধের কুয়াশা"
 
 #. [toggle_button]: id=fog
 #: data/gui/themes/default/window/mp_create_game.cfg:390

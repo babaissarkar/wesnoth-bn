@@ -2123,7 +2123,7 @@ msgstr ""
 #. [topic]: id=shroud_and_fog
 #: data/core/help.cfg:277
 msgid "Shroud and Fog of War"
-msgstr ""
+msgstr "ছায়া ও যুদ্ধের কুয়াশা"
 
 #. [topic]: id=shroud_and_fog
 #: data/core/help.cfg:278
