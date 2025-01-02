@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: bn\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-12-18 16:51-0600\n"
-"PO-Revision-Date: 2025-01-01 15:35+0530\n"
+"PO-Revision-Date: 2025-01-02 17:00+0530\n"
 "Last-Translator: Subhraman Sarkar <suvrax@gmail.com>\n"
 "Language-Team: Bengali < >\n"
 "Language: bn\n"
@@ -3723,8 +3723,6 @@ msgstr[1] "আপনি পরবর্তী ঘটনাক্রম ন্য
 
 #. [lua]: carryover.carryover_mesage
 #: data/lua/carryover_gold.lua:179
-#| msgid_plural ""
-#| "You will start the next scenario with the defined minimum starting gold."
 msgid ""
 "You will start the next scenario with the defined minimum starting gold."
 msgstr "আপনি পরবর্তী ঘটনাক্রম ন্যূনতম সোনা নিয়ে শুরু করবেন ।"
@@ -4527,6 +4525,8 @@ msgstr "<i>― কাই লডিস, 623 ই.ও.</i>"
 #: data/tips.cfg:156
 msgid "Use lines of troops to screen your injured units while they recover."
 msgstr ""
+"আপনার আহত ইউনিটগুলি সুস্থ হচ্ছে সেই সময় অন্য সৈন্যদের লাইন দিয়ে তাদের আড়াল করে "
+"রাখুন ।"
 
 #. [tip]
 #: data/tips.cfg:157
@@ -4539,6 +4539,8 @@ msgid ""
 "If you move a unit, but don’t attack or discover any additional information, "
 "you can undo your move by pressing <b>u</b>."
 msgstr ""
+"আপনি যদি কোনও ইউনিটকে সরান, কিন্তু আক্রমণ না করেন বা কোনও অতিরিক্ত তথ্য আবিষ্কার "
+"না করেন, তাহলে আপনি <b>u</b> টিপে আপনার চালটি পূর্বাবস্থায় ফেরাতে পারেন।"
 
 #. [tip]
 #: data/tips.cfg:164
@@ -4546,6 +4548,8 @@ msgid ""
 "You can see how far enemy units can move by moving the mouse cursor over "
 "them."
 msgstr ""
+"শত্রু ইউনিটগুলি কতদূর যেতে পারে তা আপনি তাদের উপর মাউস কার্সারটি সরিয়ে দেখতে "
+"পারেন।"
 
 #. [tip]
 #: data/tips.cfg:168
@@ -4553,6 +4557,8 @@ msgid ""
 "Use healers to support your attacks — they will win you battles without "
 "needing to attack anything themselves."
 msgstr ""
+"আপনার আক্রমণে সাহায্য করার জন্য আরোগ্যকারকদের ব্যবহার করুন - তারা নিজেরা কোনও কিছু "
+"আক্রমণ না করেই আপনাকে যুদ্ধে জেতাবে ।"
 
 #. [tip]
 #: data/tips.cfg:169 data/tips.cfg:210
@@ -4582,6 +4588,8 @@ msgid ""
 "Units are healed when they advance a level. Used wisely, this can turn a "
 "fight."
 msgstr ""
+"ইউনিটগুলি যখন পরবর্তী পর্যায়ে উন্নীত হয় তখন তারা সম্পূর্ণভাবে সুস্থ হয়ে ওঠে । ঠিকমতো "
+"ব্যবহার করা হলে, এটি লড়াইয়ের মোড় ঘুরিয়ে দিতে পারে ।"
 
 #. [tip]
 #: data/tips.cfg:184
@@ -4607,6 +4615,9 @@ msgid ""
 "veteran to damage a joint target heavily enough for the junior partner to "
 "get in the killing blow."
 msgstr ""
+"নিম্ন-পর্যায়ের ইউনিটগুলিকে দ্রুত উন্নীত করে, তাদের একজন প্রবীণের সাথে ব্যবহার করুন "
+"এবং প্রবীণ ইউনিটটিকে দিয়ে যথেষ্ট পরিমাণে যৌথ লক্ষ্যকে ক্ষতিগ্রস্থ করুন, যাতে নবীন "
+"ইউনিটটি লক্ষ্যকে মারার সুযোগটি পায় ।"
 
 #. [tip]
 #: data/tips.cfg:193
@@ -4628,6 +4639,8 @@ msgid ""
 "If an enemy benefits more from a rare terrain type than you do, occupying "
 "that terrain will deprive them of its benefits."
 msgstr ""
+"যদি কোনও শত্রু বিরল কোনো ভুমি থেকে আপনার চেয়ে বেশি উপকৃত হয় তবে সেই ভূমিটি দখল "
+"করলে তারা তাদের সুবিধাগুলি থেকে বঞ্চিত করবে।"
 
 #. [tip]
 #: data/tips.cfg:205
@@ -4636,6 +4649,9 @@ msgid ""
 "a river can inflict heavy casualties. Elves can use the edge of a forest in "
 "a similar manner, and dwarves can do the same with mountains."
 msgstr ""
+"খুব কম ইউনিটদেরই জলে ভাল প্রতিরক্ষা রয়েছে; নদীর কিনারা বরাবর আক্রমণকারীদের একটি "
+"লাইন ভারী হতাহতের কারণ হতে পারে । এল্ফরা একইভাবে বনের প্রান্তটি ব্যবহার করতে "
+"পারে এবং বামনরা পর্বতকে একইভাবে ব্যবহার করতে পারে ।"
 
 #. [tip]
 #: data/tips.cfg:209
@@ -4812,7 +4828,7 @@ msgstr "উন্নয়ণ পছন্দের জন্য অপেক্ষ
 
 #: src/actions/attack.cpp:588 src/actions/attack.cpp:1387
 msgid "An invalid attacker weapon got selected."
-msgstr ""
+msgstr "অবৈধ আক্রমণকারী অস্ত্র নির্বাচিত করা হয়েছে ।"
 
 #: src/actions/create.cpp:340
 msgid "You do not have a leader to recall with."
@@ -4885,7 +4901,7 @@ msgstr[1] "$enemies জন শত্রু"
 #. This is shown when a move is interrupted because units were revealed from the fog of war.
 #: src/actions/move.cpp:1300
 msgid "Units sighted! ($friendphrase, $enemyphrase)"
-msgstr ""
+msgstr "ইউনিট দেখা গিয়েছে! ($friendphrase, $enemyphrase)"
 
 #. TRANSLATORS: Only enemies sighted -- bad message.
 #. This is shown when a move is interrupted because units were revealed from the fog of war.
@@ -5010,7 +5026,7 @@ msgstr ""
 
 #: src/addon/client.cpp:423 src/gui/dialogs/multiplayer/match_history.cpp:248
 msgid "The server responded with an error:"
-msgstr ""
+msgstr "সার্ভার ত্রুটি বার্তা জানিয়েছে:"
 
 #: src/addon/client.cpp:478
 msgid ""
