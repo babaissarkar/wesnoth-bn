@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: bn\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-12-18 16:51-0600\n"
-"PO-Revision-Date: 2025-01-02 17:00+0530\n"
+"PO-Revision-Date: 2025-01-03 15:12+0530\n"
 "Last-Translator: Subhraman Sarkar <suvrax@gmail.com>\n"
 "Language-Team: Bengali < >\n"
 "Language: bn\n"
@@ -6839,7 +6839,7 @@ msgstr "সঞ্চয় করে বেরিয়ে যান ।"
 
 #: src/menu_events.cpp:1249
 msgid "Ignore replay errors."
-msgstr ""
+msgstr "রিপ্লে ত্রুটি এড়িয়ে যান ।"
 
 #: src/menu_events.cpp:1250
 msgid "Disable autosaves."
@@ -6875,7 +6875,7 @@ msgstr ""
 
 #: src/menu_events.cpp:1260
 msgid "[limit]"
-msgstr ""
+msgstr "[limit]"
 
 #: src/menu_events.cpp:1262
 msgid "Turn debug mode on."
@@ -6887,7 +6887,7 @@ msgstr "ডিবাগ মোড নিস্ক্রিয় করুন ।"
 
 #: src/menu_events.cpp:1265 src/menu_events.cpp:1269
 msgid "<command>[;<command>...]"
-msgstr ""
+msgstr "<command>[;<command>...]"
 
 #: src/menu_events.cpp:1265
 msgid "Execute a Lua statement."
@@ -6895,7 +6895,7 @@ msgstr "লুয়া স্টেটমেন্ট চালান ।"
 
 #: src/menu_events.cpp:1267
 msgid "Grant higher privileges to Lua scripts."
-msgstr ""
+msgstr "লুয়া স্ক্রিপ্টগুলিকে উচ্চতর সুবিধা দিন ।"
 
 #: src/menu_events.cpp:1268
 msgid "Set the command used by the custom command hotkey"
@@ -6903,7 +6903,7 @@ msgstr "নিজস্ব কমান্ড হটকির মাধ্যম
 
 #: src/menu_events.cpp:1271
 msgid "Invoke a dialog allowing changing control of MP sides."
-msgstr ""
+msgstr "বহুখেলোয়াড় দলগুলির নিয়ন্ত্রণ পাল্টানো যাবে এমন একটি ডায়ালগ খুলুন ।"
 
 #: src/menu_events.cpp:1272
 msgid "Launch the gamestate inspector"
@@ -6911,7 +6911,7 @@ msgstr "খেলার অবস্থা পরিদর্শক চালু
 
 #: src/menu_events.cpp:1274
 msgid "<name>[=<command>]"
-msgstr ""
+msgstr "<name>[=<command>]"
 
 #: src/menu_events.cpp:1274
 msgid "Set or show alias to a command"
@@ -6919,7 +6919,7 @@ msgstr "একটি কমান্ডের অ্যালায়াস্ দ
 
 #: src/menu_events.cpp:1276 src/menu_events.cpp:1281
 msgid "<var>=<value>"
-msgstr ""
+msgstr "<var>=<value>"
 
 #: src/menu_events.cpp:1276
 msgid "Set a scenario variable."
@@ -6927,7 +6927,7 @@ msgstr "ঘটনাক্রমে একটি চলরাশি সেট �
 
 #: src/menu_events.cpp:1277
 msgid "<var>"
-msgstr ""
+msgstr "<var>"
 
 #: src/menu_events.cpp:1277
 msgid "Show a scenario variable."
@@ -6945,14 +6945,12 @@ msgid "Discover all units in help."
 msgstr "সাহায্যে সকল ইউনিট দেখান ।"
 
 #: src/menu_events.cpp:1288
-#, fuzzy
-#| msgid "'Undiscover' all units in help."
 msgid "‘Undiscover’ all units in help."
-msgstr "সাহায্যে সকল ইউনিট 'না দেখা' করুন"
+msgstr "সাহায্যে সকল ইউনিট ‘না দেখা’ করুন"
 
 #: src/menu_events.cpp:1289
 msgid "<unit type id>"
-msgstr ""
+msgstr "<unit type id>"
 
 #: src/menu_events.cpp:1289
 msgid "Create a unit."
@@ -6968,7 +6966,7 @@ msgstr "বর্তমান খেলোয়াড়ের জন্য আচ
 
 #: src/menu_events.cpp:1292
 msgid "<amount>"
-msgstr ""
+msgstr "<amount>"
 
 #: src/menu_events.cpp:1292
 msgid "Give gold to the current player."
@@ -6976,7 +6974,7 @@ msgstr "বর্তমান খেলোয়াড়কে স্বর্ণ দ
 
 #: src/menu_events.cpp:1293
 msgid "<event name>"
-msgstr ""
+msgstr "<event name>"
 
 #: src/menu_events.cpp:1293
 msgid "Fire a game event."
@@ -7007,16 +7005,12 @@ msgid "Could not find label or unit containing the string ‘$search’."
 msgstr "‘$search’ আছে এমন কোনো ইউনিট বা লেবেল খুঁজে পাওয়া যায়নি ।"
 
 #: src/menu_events.cpp:1468
-#, fuzzy
-#| msgid "Can't droid invalid side: '$side'."
 msgid "Can’t droid invalid side: ‘$side’."
-msgstr "অজানা পক্ষ '$side' ড্রইড করা যাবে না ।"
+msgstr "অজানা পক্ষ ‘$side’ ড্রইড করা যাবে না ।"
 
 #: src/menu_events.cpp:1471
-#, fuzzy
-#| msgid "Can't droid networked side: '$side'."
 msgid "Can’t droid networked side: ‘$side’."
-msgstr "নেটওয়ার্ক নিয়ন্ত্রিত পক্ষ '$side' ড্রইড করা যাবে না ।"
+msgstr "নেটওয়ার্ক নিয়ন্ত্রিত পক্ষ ‘$side’ ড্রইড করা যাবে না ।"
 
 #: src/menu_events.cpp:1483 src/menu_events.cpp:1499 src/menu_events.cpp:1531
 msgid ""
@@ -7025,46 +7019,34 @@ msgid ""
 msgstr ""
 
 #: src/menu_events.cpp:1493 src/menu_events.cpp:1549
-#, fuzzy
-#| msgid "Side '$side' controller is now controlled by: AI."
 msgid "Side ‘$side’ controller is now controlled by: AI."
-msgstr "পক্ষ '$side' এখন নিয়ন্ত্রিত: এআই দ্বারা"
+msgstr "পক্ষ ‘$side’ এখন নিয়ন্ত্রিত: এআই দ্বারা"
 
 #: src/menu_events.cpp:1495
-#, fuzzy
-#| msgid "Side '$side' is already droided."
 msgid "Side ‘$side’ is already droided."
-msgstr "'$side' ইতিমধ্যেই ড্রইড-নিয়ন্ত্রিত ।"
+msgstr "‘$side’ ইতিমধ্যেই ড্রইড-নিয়ন্ত্রিত ।"
 
 #: src/menu_events.cpp:1509 src/menu_events.cpp:1541
-#, fuzzy
-#| msgid "Side '$side' controller is now controlled by: human."
 msgid "Side ‘$side’ controller is now controlled by: human."
-msgstr "পক্ষ '$side' এখন নিয়ন্ত্রিত: মানুষ দ্বারা"
+msgstr "পক্ষ ‘$side’ এখন নিয়ন্ত্রিত: মানুষ দ্বারা"
 
 #: src/menu_events.cpp:1511
-#, fuzzy
-#| msgid "Side '$side' is already not droided."
 msgid "Side ‘$side’ is already not droided."
-msgstr "'$side' ইতিমধ্যেই ড্রইড-নিয়ন্ত্রিত নয় ।"
+msgstr "‘$side’ ইতিমধ্যেই ড্রইড-নিয়ন্ত্রিত নয় ।"
 
 #: src/menu_events.cpp:1515
 msgid ""
 "It is not allowed to change a side from human to AI control when it’s not "
 "your turn."
-msgstr ""
+msgstr "আপনার দানের বাইরে দলকে মানব থেকে এআই নিয়ন্ত্রণে পাঠানো যাবে না ।"
 
 #: src/menu_events.cpp:1525
-#, fuzzy
-#| msgid "Side '$side' controller is now fully controlled by: AI."
 msgid "Side ‘$side’ controller is now fully controlled by: AI."
-msgstr "পক্ষ '$side' এখন সম্পূর্ণরূপে এআই দ্বারা নিয়ন্ত্রিত ।"
+msgstr "পক্ষ ‘$side’ এখন সম্পূর্ণরূপে এআই দ্বারা নিয়ন্ত্রিত ।"
 
 #: src/menu_events.cpp:1527
-#, fuzzy
-#| msgid "Side '$side' is already fully AI controlled."
 msgid "Side ‘$side’ is already fully AI controlled."
-msgstr "পক্ষ '$side' ইতিমধ্যেই সম্পূর্ণরূপে এআই দ্বারা নিয়ন্ত্রিত ।"
+msgstr "পক্ষ ‘$side’ ইতিমধ্যেই সম্পূর্ণরূপে এআই দ্বারা নিয়ন্ত্রিত ।"
 
 #: src/menu_events.cpp:1552
 msgid ""
@@ -7072,48 +7054,36 @@ msgid ""
 msgstr ""
 
 #: src/menu_events.cpp:1561
-#, fuzzy
-#| msgid "Side '$side' is not a human or AI player."
 msgid "Side ‘$side’ is not a human or AI player."
-msgstr "দল '$side' মানব বা এআই খেলোয়াড় নয় ।"
+msgstr "দল ‘$side’ মানব বা এআই খেলোয়াড় নয় ।"
 
 #: src/menu_events.cpp:1597
-#, fuzzy
-#| msgid "Can't idle invalid side: '$side'."
 msgid "Can’t idle invalid side: ‘$side’."
-msgstr "অজানা পক্ষ '$side'-কে অলস করা যাবে না ।"
+msgstr "অজানা পক্ষ ‘$side’-কে অলস করা যাবে না ।"
 
 #: src/menu_events.cpp:1602
-#, fuzzy
-#| msgid "Can't droid networked side: '$side'."
 msgid "Can’t idle networked side: ‘$side’."
-msgstr "নেটওয়ার্ক নিয়ন্ত্রিত পক্ষ '$side' ড্রইড করা যাবে না ।"
+msgstr "নেটওয়ার্ক নিয়ন্ত্রিত পক্ষ ‘$side’ ড্রইড করা যাবে না ।"
 
 #: src/menu_events.cpp:1607
-#, fuzzy
-#| msgid "Can't idle invalid side: '$side'."
 msgid "Can’t idle local ai side: ‘$side’."
-msgstr "অজানা পক্ষ '$side'-কে অলস করা যাবে না ।"
+msgstr "অজানা পক্ষ ‘$side’-কে অলস করা যাবে না ।"
 
 #: src/menu_events.cpp:1668
-#, fuzzy
-#| msgid "Can't droid invalid side: '$side'."
 msgid "Can’t change control of invalid side: ‘$side’."
-msgstr "অজানা পক্ষ '$side' ড্রইড করা যাবে না ।"
+msgstr "অজানা পক্ষ ‘$side’ ড্রইড করা যাবে না ।"
 
 #: src/menu_events.cpp:1678
 msgid "Can’t change control of out-of-bounds side: ‘$side’."
-msgstr ""
+msgstr "সীমা বহির্ভূত সাইড ‘$side’-এর নিয়ন্ত্রণ পাল্টানো যাবে না ।"
 
 #: src/menu_events.cpp:1695
-#, fuzzy
-#| msgid "Can't droid invalid side: '$side'."
 msgid "Can’t query control of invalid side: ‘$side’."
-msgstr "অজানা পক্ষ '$side' ড্রইড করা যাবে না ।"
+msgstr "অজানা পক্ষ ‘$side’-এর নিয়ন্ত্রণ অবস্থা জানা যাবে না ।"
 
 #: src/menu_events.cpp:1702
 msgid "Can’t query control of out-of-bounds side: ‘$side’."
-msgstr ""
+msgstr "সীমা বহির্ভূত পক্ষ ‘$side’-এর নিয়ন্ত্রণ অবস্থা জানা যাবে না ।"
 
 #: src/menu_events.cpp:1824
 msgid "Choose Scenario (Debug!)"
@@ -7153,24 +7123,17 @@ msgid "Variable not found"
 msgstr "চলরাশি পাওয়া যায়নি"
 
 #: src/menu_events.cpp:1978
-#, fuzzy
-#| msgid ""
-#| "Debug command 'unit: $unit' failed: no unit selected or hovered over."
 msgid "Debug command ‘unit: $unit’ failed: no unit selected or hovered over."
 msgstr ""
-"ডিবাগ কমান্ড 'unit: $unit' করা যায়নি: কোনো ইউনিট নির্বাচিত বা হোভার করা অবস্থায় "
+"ডিবাগ কমান্ড ‘unit: $unit’ করা যায়নি: কোনো ইউনিট নির্বাচিত বা হোভার করা অবস্থায় "
 "নেই ।"
 
 #: src/menu_events.cpp:1996
-#, fuzzy
-#| msgid ""
-#| "Invalid alignment: '$alignment', needs to be one of lawful, neutral, "
-#| "chaotic, or liminal."
 msgid ""
 "Invalid alignment: ‘$alignment’, needs to be one of lawful, neutral, "
 "chaotic, or liminal."
 msgstr ""
-"অজানা স্বভাব: '$alignment', নৈতিক, নিরপেক্ষ, বিশৃঙ্খল, বা মধ্যবর্তীর মধ্যে একটি হতে "
+"অজানা স্বভাব: ‘$alignment’, নৈতিক, নিরপেক্ষ, বিশৃঙ্খল, বা মধ্যবর্তীর মধ্যে একটি হতে "
 "হবে ।"
 
 #: src/menu_events.cpp:2022
@@ -7190,10 +7153,8 @@ msgid "prompt^Command:"
 msgstr "কমান্ড"
 
 #: src/menu_events.cpp:2142
-#, fuzzy
-#| msgid "prompt^Command:"
 msgid "prompt^Formula:"
-msgstr "কমান্ড"
+msgstr "ফর্মুলা"
 
 #: src/mouse_events.cpp:1261
 msgid ""
@@ -7303,6 +7264,8 @@ msgid ""
 "The game is out of sync. It might not make much sense to continue. Do you "
 "want to save your game?"
 msgstr ""
+"গেমটি সিঙ্কের বাইরে। এটা চালিয়ে যাওয়া অর্থহীন হতে পারে। আপনি আপনার খেলাটি সঞ্চয় "
+"করতে চান?"
 
 #: src/play_controller.cpp:1024
 msgid "Error details:"
@@ -7358,6 +7321,12 @@ msgid ""
 "\n"
 "Do you want to save an error log of your game?"
 msgstr ""
+"গেমটি সিঙ্কের বাইরে, এবং চালিয়ে যাওয়া সম্ভব নয় । এটি বিভিন্ন কারণে হতে পারে: "
+"আপনি বা অন্য কোনও খেলোয়াড় যদি তাদের গেম সেটিংস পরিবর্তন করে থাকেন তবে এটি ঘটতে "
+"পারে। এর এটিও অর্থ হতে পারে যে খেলোয়াড়দের মধ্যে একজন প্রতারণা করার চেষ্টা করছে। "
+"এটি গেমের কোনও বাগের কারণেও হতে পারে, তবে তার সম্ভাবনা কম।\n"
+"\n"
+"আপনি কি আপনার খেলার একটি ত্রুটি লগ সংরক্ষণ করতে চান?"
 
 #: src/playmp_controller.cpp:269
 msgid ""
@@ -7406,11 +7375,6 @@ msgid "Game Error"
 msgstr "খেলায় ত্রুটি"
 
 #: src/playsingle_controller.cpp:183
-#, fuzzy
-#| msgid ""
-#| "This multiplayer game uses an alternative random mode, if you don't know "
-#| "what this message means, then most likely someone is cheating or someone "
-#| "reloaded a corrupt game."
 msgid ""
 "This multiplayer game uses an alternative random mode, if you don’t know "
 "what this message means, then most likely someone is cheating or someone "
@@ -7871,13 +7835,10 @@ msgid "Overwrite?"
 msgstr "পাল্টাবেন?"
 
 #: src/savegame.cpp:432
-#, fuzzy
-#| msgid ""
-#| "Save names should not end on '.gz' or '.bz2'. Please remove the extension."
 msgid ""
 "Save names should not end with ‘.gz’ or ‘.bz2’. Please remove the extension."
 msgstr ""
-"সঞ্চিত ফাইলের নাম '.gz' বা '.bz2'-এ শেষ হওয়া উচিত নয় । অনুগ্রহ করে এক্সটেনশনটি "
+"সঞ্চিত ফাইলের নাম ‘.gz’ বা ‘.bz2’-এ শেষ হওয়া উচিত নয় । অনুগ্রহ করে এক্সটেনশনটি "
 "সরান ।"
 
 #: src/savegame.cpp:437
@@ -7983,10 +7944,8 @@ msgid "at $pos"
 msgstr "$pos-এ"
 
 #: src/serialization/parser.cpp:480
-#, fuzzy
-#| msgid "Value: '$value' Previous: '$previous_value'"
 msgid "Value: ‘$value’ Previous: ‘$previous_value’"
-msgstr "মান: '$value' পূর্ববর্তী: '$previous_value'"
+msgstr "মান: ‘$value’ পূর্ববর্তী: ‘$previous_value’"
 
 #: src/serialization/string_utils.cpp:558
 msgid "prefix_milli^m"
@@ -8161,35 +8120,27 @@ msgstr "প্রতিপক্ষের দ্বারা ব্যবহৃ�
 
 #. TRANSLATORS: Current value for WML code set_min_range, documented in https://wiki.wesnoth.org/EffectWML
 #: src/units/attack_type.cpp:543
-#, fuzzy
-#| msgid "$number damage"
 #| msgid_plural "$number damage"
 msgid "$number min range"
-msgstr "$number ক্ষতি"
+msgstr "$number নিম্ন সীমা"
 
 #. TRANSLATORS: Current value for WML code increase_min_range, documented in https://wiki.wesnoth.org/EffectWML
 #: src/units/attack_type.cpp:550
-#, fuzzy
-#| msgid "<span color=\"$color\">$number_or_percent</span> damage"
 #| msgid_plural "<span color=\"$color\">$number_or_percent</span> damage"
 msgid "<span color=\"$color\">$number_or_percent</span> min range"
-msgstr "<span color=\"$color\">$number_or_percent</span> ক্ষতি"
+msgstr "<span color=\"$color\">$number_or_percent</span> নিম্ন সীমা"
 
 #. TRANSLATORS: Current value for WML code set_max_range, documented in https://wiki.wesnoth.org/EffectWML
 #: src/units/attack_type.cpp:557
-#, fuzzy
-#| msgid "$number damage"
 #| msgid_plural "$number damage"
 msgid "$number max range"
-msgstr "$number ক্ষতি"
+msgstr "$number উচ্চ সীমা"
 
 #. TRANSLATORS: Current value for WML code increase_max_range, documented in https://wiki.wesnoth.org/EffectWML
 #: src/units/attack_type.cpp:564
-#, fuzzy
-#| msgid "<span color=\"$color\">$number_or_percent</span> damage"
 #| msgid_plural "<span color=\"$color\">$number_or_percent</span> damage"
 msgid "<span color=\"$color\">$number_or_percent</span> max range"
-msgstr "<span color=\"$color\">$number_or_percent</span> ক্ষতি"
+msgstr "<span color=\"$color\">$number_or_percent</span> উচ্চ সীমা"
 
 #. TRANSLATORS: Current value for WML code increase_damage, documented in https://wiki.wesnoth.org/EffectWML
 #: src/units/attack_type.cpp:571
