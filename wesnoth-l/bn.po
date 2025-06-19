@@ -1,12 +1,11 @@
-#
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2024-02-19 21:05 UTC\n"
+"POT-Creation-Date: 2024-09-18 02:19 UTC\n"
 "PO-Revision-Date: 2024-02-19 12:43 UTC\n"
-"Last-Translator: Tahsin J Khalid (Lord-Knightmare)\n"
-"Language-Team: Bengali\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
 "Language: bn\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -17,202 +16,185 @@ msgstr ""
 #: data/campaigns/Liberty/_main.cfg:10 data/campaigns/Liberty/_main.cfg:11
 #: data/campaigns/Liberty/achievements.cfg:3
 msgid "Liberty"
-msgstr "মুক্তি"
+msgstr ""
 
 #. [campaign]: id=Liberty
 #: data/campaigns/Liberty/_main.cfg:19
 msgid "Easy"
-msgstr "সহজ"
+msgstr ""
 
 #. [campaign]: id=Liberty
 #: data/campaigns/Liberty/_main.cfg:19
 msgid "Peasant"
-msgstr "কৃষক"
+msgstr ""
 
 #. [campaign]: id=Liberty
 #: data/campaigns/Liberty/_main.cfg:20
 msgid "Normal"
-msgstr "সাধারণ"
+msgstr ""
 
 #. [campaign]: id=Liberty
 #: data/campaigns/Liberty/_main.cfg:20
 msgid "Outlaw"
-msgstr "দস্যু"
+msgstr ""
 
 #. [campaign]: id=Liberty
 #: data/campaigns/Liberty/_main.cfg:21
 msgid "Challenging"
-msgstr "চ্যালেঞ্জিং"
+msgstr ""
 
 #. [campaign]: id=Liberty
 #: data/campaigns/Liberty/_main.cfg:21
 msgid "Fugitive"
-msgstr "পলাতক"
+msgstr ""
 
 #. [campaign]: id=Liberty
-#. "marchlander" is archaic English for an inhabitant of a border region, not
-#. to be confused with "marshlander"
+#. "marchlander" is archaic English for an inhabitant of a border region, not to be confused with "marshlander"
 #: data/campaigns/Liberty/_main.cfg:25
 msgid ""
-"As the shadow of civil war deepens across Wesnoth, a band of hardy marchlanders revolts against the governance of the new queen. To win their way to freedom, they must learn to use shadows and deception to rout the trained blades of the Wesnothian army.\n"
+"As the shadow of civil war deepens across Wesnoth, a band of hardy "
+"marchlanders revolts against the governance of the new queen. To win their "
+"way to freedom, they must learn to use shadows and deception to rout the "
+"trained blades of the Wesnothian army.\n"
 "\n"
 msgstr ""
-"ওয়েসোথ জুড়ে গৃহযুদ্ধের ছায়া আরও গভীর হওয়ার সাথে সাথে পরিশ্রমী "
-"প্রান্তিক অধিবাসীদের একটি দল নতুন রানির প্রশাসনের বিরুদ্ধে বিদ্রোহ করে। তাদের "
-"স্বাধীনতার পথে জিততে, ওয়েসনোথিয়ান সেনাবাহিনীর প্রশিক্ষিত সৈন্যদের "
-"পরাজিত করার জন্য তাদের অবশ্যই ছায়ার আড়াল থেকে আঘাত করা এবং প্রতারণা করা শিখতে হবে।"
 
 #. [campaign]: id=Liberty
 #: data/campaigns/Liberty/_main.cfg:27
 msgid "(Novice level, 7 scenarios.)"
-msgstr "(শিক্ষানবিস স্তর, 7টি ঘটনাক্রম।)"
+msgstr ""
 
 #. [about]
 #: data/campaigns/Liberty/_main.cfg:30
 msgid "Original Campaign Design"
-msgstr "মূল অভিযানের পরিকল্পনা"
+msgstr ""
 
 #. [about]
 #: data/campaigns/Liberty/_main.cfg:36
 msgid "Latest Rewrite"
-msgstr "সর্বশেষ পুনর্লিখন"
+msgstr ""
 
 #. [about]
 #: data/campaigns/Liberty/_main.cfg:42
 msgid "Campaign Maintenance"
-msgstr "অভিযান রক্ষণাবেক্ষণ"
+msgstr ""
 
 #. [about]
 #: data/campaigns/Liberty/_main.cfg:52
 msgid "Artwork and Graphics Design"
-msgstr "শিল্পকর্ম এবং গ্রাফিক্স ডিজাইন"
+msgstr ""
 
 #. [achievement]: id=liberty_or_death
 #: data/campaigns/Liberty/achievements.cfg:7
 msgid "Give Me Liberty or Give Me Death!"
-msgstr "হয় আমাকে স্বাধীনতা দিন নয়তো আমাকে মৃত্যু দিন!"
+msgstr ""
 
 #. [achievement]: id=liberty_or_death
 #: data/campaigns/Liberty/achievements.cfg:8
 msgid "Complete Civil Disobedience with at least 3 peasants remaining."
-msgstr "কমপক্ষে 3 কৃষক বেঁচে থাকা অবস্থায় অসহযোগ সম্পূর্ণ করুন ।"
+msgstr ""
 
 #. [achievement]: id=liberty_nameless
 #: data/campaigns/Liberty/achievements.cfg:14
 msgid "The Nameless General"
-msgstr "নামহীন সেনাপতি"
+msgstr ""
 
 #. [achievement]: id=liberty_nameless
 #: data/campaigns/Liberty/achievements.cfg:15
 msgid "Find out the name of the general in Unlawful Orders."
-msgstr "বেআইনী আদেশে সেনাপতির নামটি সন্ধান করুন।"
+msgstr ""
 
 #. [achievement]: id=liberty_iron
 #: data/campaigns/Liberty/achievements.cfg:21
 msgid "Harper vs. Goliath"
-msgstr "হার্পার বনাম গোলিয়াথ"
+msgstr ""
 
 #. [achievement]: id=liberty_iron
 #: data/campaigns/Liberty/achievements.cfg:22
 msgid "Defeat an Iron Mauler with Harper in Hide and Seek."
-msgstr "লুকানোচুরির খেলায় হার্পারকে দিয়ে একজন আয়রন মলারকে পরাজিত করুন।"
+msgstr ""
 
 #. [achievement]: id=liberty_hunter
 #. this is the achievement for the scenario The Hunters
 #: data/campaigns/Liberty/achievements.cfg:29
 msgid "Perfect Hunter"
-msgstr "আদর্শ শিকারী"
+msgstr ""
 
 #. [achievement]: id=liberty_hunter
 #: data/campaigns/Liberty/achievements.cfg:30
 msgid "Complete The Hunters with no losses"
-msgstr "কোনও ক্ষতি শিকারীরা ঘটনাক্রম সম্পূর্ণ করুন"
+msgstr ""
 
 #. [achievement]: id=liberty_army
 #: data/campaigns/Liberty/achievements.cfg:36
 msgid "Force of Arms is Pointless Without Strategy"
-msgstr "অস্ত্রের শক্তি যুদ্ধনীতি ছাড়া অর্থহীন"
+msgstr ""
 
 #. [achievement]: id=liberty_army
 #: data/campaigns/Liberty/achievements.cfg:37
 msgid "On Challenging difficulty, defeat Dommel in Glory."
-msgstr "চ্যালেঞ্জিং জটিলতায়, গৌরব ঘটনাক্রমে ডোমেলকে পরাস্ত করুন।"
+msgstr ""
 
 #. [scenario]: id=01_The_Raid
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:4
 msgid "The Raid"
-msgstr "উপদ্রব"
+msgstr ""
 
 #. [label]
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:15
 msgid "Dallben"
-msgstr "ডালবেন"
+msgstr ""
 
 #. [part]
-#. Baldras is an old man from the country and both speaks and writes with many
-#. grammatical errors due to his relative lack of education
-#. He is also a little bit rude and grumpy, so languages with ruder or more
-#. informal variants of words should use those where appropriate
+#. Baldras is an old man from the country and both speaks and writes with many grammatical errors due to his relative lack of education
+#. He is also a little bit rude and grumpy, so languages with ruder or more informal variants of words should use those where appropriate
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:22
 msgid ""
 "From the journal of Baldras, 21 Scatterseed, 501 YW\n"
 "\n"
-"Months... seven months it’s been since the Crown did send a single guard here to help us. This Garard II be a pompous stinker, even worser than his pa! Us of these border towns Delwyn and Dallben already be poor and needy, yet alls ‘His Majesty’ can think of is tax, tax, tax, takin’ all our hard earned gold from us. Then he uses our gold to provoke more wars with more orcs just for personal glory and more land for them grubby nobles to lord over."
+"Months... seven months it’s been since the Crown did send a single guard "
+"here to help us. This Garard II be a pompous stinker, even worser than his "
+"pa! Us of these border towns Delwyn and Dallben already be poor and needy, "
+"yet alls ‘His Majesty’ can think of is tax, tax, tax, takin’ all our hard "
+"earned gold from us. Then he uses our gold to provoke more wars with more "
+"orcs just for personal glory and more land for them grubby nobles to lord "
+"over."
 msgstr ""
-"বাল্ড্রাস জার্নাল থেকে, 21 স্ক্যাটারসিড, 501 ওয়াইডাব্লুডাব্লু\n"
-"\n"
-"মাস ... সাত মাস হয়ে গেছে যেহেতু ক্রাউন আমাদের সহায়তা করার জন্য এখানে একক প্রহরী পাঠিয়েছিল।এই গারার্ড দ্বিতীয়টি একটি আড়ম্বরপূর্ণ দুর্গন্ধ, এমনকি তার পিএর চেয়েও খারাপ!আমাদের এই সীমান্ত শহরগুলির মধ্যে ডেলউইন এবং ডালবেন ইতিমধ্যে দরিদ্র এবং অভাবী হতে পারে, তবুও ‘তাঁর মহিমা’ হ'ল কর, কর, কর, তাকিন ’আমাদের কাছ থেকে আমাদের সমস্ত কঠোর উপার্জিত সোনার কথা ভাবতে পারে।তারপরে তিনি আমাদের সোনার ব্যবহার করেন কেবলমাত্র ব্যক্তিগত গৌরব এবং আরও জমি তাদের জন্য আরও বেশি যুদ্ধের জন্য আরও বেশি যুদ্ধকে উস্কে দেওয়ার জন্য এবং তাদের জন্য লর্ডের জন্য আরও বেশি জমি।"
 
 #. [part]
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:28
 msgid ""
 "To abbadon with the Crown! We got no armies and we don’t even got real "
-"weapons, but we of the Western Marches make do just fine with our slings and"
-" clubs. In all Annuvin Province, there won’t be nobody besting us in these "
+"weapons, but we of the Western Marches make do just fine with our slings and "
+"clubs. In all Annuvin Province, there won’t be nobody besting us in these "
 "swamps. We’re self-reliant out here. We gots our own trade routes and pacts "
 "of mutual defense. No need for them Wesnothians. Not a single bit."
 msgstr ""
-"মুকুট সঙ্গে অ্যাবাদন!আমরা কোনও সেনাবাহিনী পাইনি এবং আমরা এমনকি সত্যিকারের "
-"অস্ত্রও পাই না, তবে আমরা পশ্চিমা মার্চগুলির মধ্যে আমাদের স্লিং এবং ক্লাবগুলি"
-" দিয়ে ঠিকঠাক কাজ করি।সমস্ত আনুভিন প্রদেশে, এই জলাভূমিতে কেউ আমাদের সেরাটা "
-"করতে পারে না।আমরা এখানে স্বনির্ভর।আমরা আমাদের নিজস্ব বাণিজ্য রুট এবং "
-"পারস্পরিক প্রতিরক্ষার প্যাক্ট পেয়েছি।তাদের ওয়েসনোথিয়ানদের দরকার নেই।একটি "
-"বিট নয়।"
 
 #. [part]
-#. Some languages, including Norwegian and Old English, don't have a single
-#. word for "uncle", dividing it into
-#. mother's-brother vs. father's-brother. Baldras is Harper's mother's
-#. brother.
-#. Erwen is Baldras' younger sister, so languages with a special word for that
-#. should use it
+#. Some languages, including Norwegian and Old English, don't have a single word for "uncle", dividing it into
+#. mother's-brother vs. father's-brother. Baldras is Harper's mother's brother.
+#. Erwen is Baldras' younger sister, so languages with a special word for that should use it
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:35
 msgid ""
-"The sun were out today, but it were raining too. Weird mix of brightness and"
-" woe. Reminds me of the day Harper’s pa died in that orc raid. Since my sis "
+"The sun were out today, but it were raining too. Weird mix of brightness and "
+"woe. Reminds me of the day Harper’s pa died in that orc raid. Since my sis "
 "Erwen passed when she were young, poor lass had nobody but me. Never wanted "
-"no kid of my own but... she’s mine to take care of now. Fine lass, that one,"
-" just a bit careless like her pa. I needs to keep a good eye on her now, "
-"with all them orcs running round here of late."
+"no kid of my own but... she’s mine to take care of now. Fine lass, that one, "
+"just a bit careless like her pa. I needs to keep a good eye on her now, with "
+"all them orcs running round here of late."
 msgstr ""
-"আজ সূর্য বাইরে ছিল, তবে খুব বৃষ্টি হচ্ছে।উজ্জ্বলতা এবং দুঃখের অদ্ভুত "
-"মিশ্রণ।সেই ওআরসি অভিযানে হার্পারের পিএ মারা যাওয়ার দিনটি আমাকে মনে করিয়ে "
-"দেয়।যেহেতু আমার সিস এরওয়েন যখন ছোট ছিলেন তখন তিনি কেটে গেলেন, দরিদ্র লাসের"
-" আমার ছাড়া আর কেউ ছিল না।কখনই আমার নিজের কোনও বাচ্চা চাইনি তবে ... তিনি "
-"এখনই যত্ন নেওয়ার জন্য আমার।ফাইন লাস, সে একজন, তার পিএর মতো খানিকটা "
-"অযত্নে।আমার এখন তার দিকে ভাল নজর রাখা দরকার, তাদের সমস্ত অর্কগুলি এখানে "
-"দেরিতে চলছে।"
 
 #. [side]: type=Bandit_Peasant, id=Baldras
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:47
 #: data/campaigns/Liberty/scenarios/02_Civil_Disobedience.cfg:37
 msgid "Baldras"
-msgstr "বল -ড্রস"
+msgstr ""
 
 #. [side]: type=Goblin Pillager, id=Fal Khag
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:78
 msgid "Fal Khag"
-msgstr "ফল"
+msgstr ""
 
 #. [side]: type=Goblin Pillager, id=Fal Khag
 #. [side]: type=Orcish Warrior, id=Urk Delek
@@ -223,17 +205,17 @@ msgstr "ফল"
 #: data/campaigns/Liberty/scenarios/03_A_Strategy_Of_Hope.cfg:131
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:119
 msgid "Orcs"
-msgstr "Orcs"
+msgstr ""
 
 #. [objective]: condition=win
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:108
 msgid "Defeat all of the Goblin marauders"
-msgstr "গব্লিন ম্যারাডারদের সবাইকে পরাজিত করুন"
+msgstr ""
 
 #. [objective]: condition=lose
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:112
 msgid "Goblins reach the village of Dallben"
-msgstr "গোব্লিনস ডালবেন গ্রামে পৌঁছেছে"
+msgstr ""
 
 #. [objective]: condition=lose
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:116
@@ -246,7 +228,7 @@ msgstr "গোব্লিনস ডালবেন গ্রামে পৌঁ
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:225
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:420
 msgid "Death of Baldras"
-msgstr "বাল্ড্রাসের মৃত্যু"
+msgstr ""
 
 #. [objective]: condition=lose
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:120
@@ -259,31 +241,31 @@ msgstr "বাল্ড্রাসের মৃত্যু"
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:229
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:424
 msgid "Death of Harper"
-msgstr "হার্পারের মৃত্যু"
+msgstr ""
 
 #. [event]
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:166
 msgid "Gatrakh"
-msgstr "গাত্র"
+msgstr ""
 
 #. [event]
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:167
 msgid "Thurg"
-msgstr "থুর"
+msgstr ""
 
 #. [event]
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:170
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:175
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:180
 msgid "Krung"
-msgstr "ক্রুং"
+msgstr ""
 
 #. [event]
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:171
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:176
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:181
 msgid "Gorokh"
-msgstr "বন। জংগল"
+msgstr ""
 
 #. [message]: speaker=Fal Khag
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:203
@@ -292,60 +274,56 @@ msgid ""
 "enough for these puny villages. These hapless clods barely have anything, "
 "but at least the witch’s gold is good."
 msgstr ""
-"আমি মানব শহরগুলি পোড়াতে চাই, তবে সেই ওয়েজেলি জাদুকরী মনে করে যে আমরা এই "
-"শাস্তি গ্রামগুলির জন্য কেবল যথেষ্ট ভাল।এই অসহায় ক্লোডগুলির সবেমাত্র কিছু "
-"আছে তবে কমপক্ষে ডাইনির সোনার ভাল।"
 
 #. [message]: speaker=Fal Khag
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:207
 msgid "Ride, you worms! Let’s finish our raid before their hunters return."
 msgstr ""
-"চড়ুন, তুমি কৃমি!আসুন তাদের শিকারীরা ফিরে আসার আগে আমাদের অভিযান শেষ করি।"
 
 #. [event]
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:216
 msgid "Jalak"
-msgstr "স্টারলিং"
+msgstr ""
 
 #. [unit]: type=Footpad_Peasant, id=Delurin
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:220
 msgid "Delurin"
-msgstr "দেলুরিন"
+msgstr ""
 
 #. [event]
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:228
 msgid "Red"
-msgstr "লাল"
+msgstr ""
 
 #. [event]
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:229
 msgid "Ordo"
-msgstr "অর্ডো"
+msgstr ""
 
 #. [event]
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:230
 msgid "Novus"
-msgstr "নোভাস"
+msgstr ""
 
 #. [event]
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:231
 msgid "Teneor"
-msgstr "রাখা"
+msgstr ""
 
 #. [event]
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:232
 msgid "Kembe"
-msgstr "হাঁটা"
+msgstr ""
 
 #. [event]
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:233
 msgid "Treagh"
-msgstr "আমি আজ খুশি"
+msgstr ""
 
 #. [unit]: type=Footpad_Peasant, id=Harper, gender=female
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:240
 msgid "Harper"
-msgstr "হার্পার"
+msgstr ""
 
 #. [message]: speaker=Red
 #. Other country folk also have accents
@@ -354,8 +332,6 @@ msgid ""
 "Look, goblin riders approach! You was right, they was going to raid Dallben "
 "while we was gone."
 msgstr ""
-"দেখুন, গোব্লিন রাইডার্স পদ্ধতির!আপনি ঠিক বলেছেন, আমরা চলে যাওয়ার সময় তারা "
-"ডালবেনকে অভিযান চালাচ্ছিলেন।"
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:272
@@ -363,34 +339,23 @@ msgid ""
 "We gots to stop them or they’ll burn down the whole village. Damn these "
 "goblins and damn the Crown. We always be havin’ to fight for ourselves."
 msgstr ""
-"আমরা তাদের থামাতে পেয়েছি বা তারা পুরো গ্রামে পুড়ে যাবে।এই গব্লিনগুলি "
-"অভিশাপ এবং মুকুট জঘন্য।আমরা সবসময় নিজের জন্য লড়াই করার জন্য হাভিন হয়ে "
-"থাকি।"
 
 #. [message]: speaker=Harper
-#. Harper has a bit of an accent, but not as much as Baldras. She's a bit
-#. reckless as Baldras alludes to, but is more polite.
-#. Harper is quite the tomboy and her personality should reflect that, she
-#. should use words that are exciting and high spirited
-#. She's also pretty young (teenagerish) so her dialogue should reflect some
-#. lack of experience or immaturity
+#. Harper has a bit of an accent, but not as much as Baldras. She's a bit reckless as Baldras alludes to, but is more polite.
+#. Harper is quite the tomboy and her personality should reflect that, she should use words that are exciting and high spirited
+#. She's also pretty young (teenagerish) so her dialogue should reflect some lack of experience or immaturity
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:279
 msgid ""
 "Uncle, we got no time to talk! Them riders are heading full speed straight "
-"for Dallben. We’ll need to chase them down through those woods, and fast, or"
-" we won’t be able to catch up."
+"for Dallben. We’ll need to chase them down through those woods, and fast, or "
+"we won’t be able to catch up."
 msgstr ""
-"চাচা, আমরা কথা বলার সময় পাইনি!তাদের রাইডাররা ডালবেনের জন্য সরাসরি পুরো গতির"
-" দিকে যাচ্ছেন।আমাদের সেই কাঠগুলির মধ্য দিয়ে তাদের তাড়া করতে হবে এবং দ্রুত,"
-" বা আমরা ধরতে সক্ষম হব না।"
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:283
 msgid ""
 "Do it. Hold them beasts back till us old-timers get there to finish ‘em off."
 msgstr ""
-"এটা কর.আমাদের পুরানো-টাইমাররা সেখানে না পৌঁছানো পর্যন্ত তাদের জন্তুগুলি ধরে "
-"রাখুন।"
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:287
@@ -399,23 +364,18 @@ msgid ""
 "that, charging into a pack of goblins by ‘imself. I won’t lose ya the same "
 "way."
 msgstr ""
-"এবং হার্পার ... আজ আমার উপর বেপরোয়া হয়ে উঠবেন না।আপনার বুড়ো লোকটি এমনভাবে"
-" মারা গেলেন, ‘আমার নিজের দ্বারা গব্লিন্সের একটি প্যাকেটে চার্জ করে।আমি ইয়াও"
-" একইভাবে হারাব না।"
 
 #. [message]: speaker=Harper
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:291
 msgid "I know, I know, no need to worry so much. All right, let’s go!"
-msgstr "আমি জানি, আমি জানি, এত বেশি চিন্তা করার দরকার নেই।ঠিক আছে, চলুন!"
+msgstr ""
 
 #. [message]: speaker=Harper
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:305
 msgid ""
-"These orc raids keep getting harder and harder to hold off. Feels like every"
-" new day’s just another chance for us to lose everything..."
+"These orc raids keep getting harder and harder to hold off. Feels like every "
+"new day’s just another chance for us to lose everything..."
 msgstr ""
-"এই ওআরসি অভিযানগুলি ধরে রাখা আরও কঠিন এবং আরও কঠিন হতে থাকে।প্রতিটি নতুন "
-"দিনের মতো মনে হয় আমাদের কাছে সমস্ত কিছু হারানোর আরও একটি সুযোগ ..."
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:309
@@ -425,10 +385,6 @@ msgid ""
 "matter. Technically Annuvin be under the charge of Elensefar, but you don’t "
 "see ‘em coming to help us either."
 msgstr ""
-"যে গারার্ড দ্বিতীয়টি এখানে কিছুক্ষণ আগে সেন্ডিনকে টহল দিয়েছিল।স্টিঙ্কার "
-"সম্ভবত তাদের অর্কেসের বিরুদ্ধে কিছু নতুন যুদ্ধে তাঁর সেনা পাঠিয়েছিলেন।আসলেই"
-" কিছু যায় আসে না।প্রযুক্তিগতভাবে অ্যানুভিন এলেনসফারের দায়িত্বে থাকবেন, তবে"
-" আপনি দেখতে পাচ্ছেন না যে তারা আমাদেরও সাহায্য করতে আসছে।"
 
 #. [message]: speaker=Harper
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:313
@@ -436,8 +392,6 @@ msgid ""
 "Then why do we got to pay taxes to the King? Maybe Elensefar doesn’t help "
 "us, but at least they don’t take our gold."
 msgstr ""
-"তাহলে কেন আমরা রাজার কাছে কর প্রদান করতে পারি?হয়ত এলেনসফার আমাদের সহায়তা "
-"করে না, তবে কমপক্ষে তারা আমাদের স্বর্ণ নেয় না।"
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:317
@@ -445,8 +399,6 @@ msgid ""
 "We don’t got no choice, lass. If I don’t gives them what they want, they’ll "
 "make trouble for everyone in Dallben."
 msgstr ""
-"আমরা কোন পছন্দ পাই না, লাস।যদি আমি তাদের যা চান তা না দিলে তারা ডালবেনের "
-"প্রত্যেকের জন্য সমস্যা তৈরি করবে।"
 
 #. [message]: speaker=Harper
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:321
@@ -454,8 +406,6 @@ msgid ""
 "But we can’t keep doing this forever, Uncle. If we stay like this, those "
 "orcs will eventually overrun us. What should we do?"
 msgstr ""
-"তবে আমরা চাচা, আমরা চিরকাল এটি চালিয়ে যেতে পারি না।আমরা যদি এইরকম থাকি তবে "
-"সেই orcs অবশেষে আমাদেরকে ছাড়িয়ে যাবে।আমাদের কি করা উচিৎ?"
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:325
@@ -463,58 +413,54 @@ msgid ""
 "I don’t know, Harper. I just don’t know. Alls I can say is we’re on our own "
 "out here."
 msgstr ""
-"আমি জানি না, হার্পার।আমি শুধু জানি না।আমি বলতে পারি যে আমরা এখানে আমাদের "
-"নিজেরাই রয়েছি।"
 
 #. [message]: speaker=Harper
 #. Harper has a scar from a fire burn on the right side of her face
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:347
 msgid "My face kinda itches... I gotta be careful around these big ones."
 msgstr ""
-"আমার মুখের দয়ালু চুলকায় ... আমি এই বড়দের চারপাশে সাবধানতা অবলম্বন করব।"
 
 #. [message]: speaker=Fal Khag
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:364
 msgid "Time to feast on these puny pinkskins."
-msgstr "এই পুণী পিঙ্কসকিন্সে ভোজন করার সময়।"
+msgstr ""
 
 #. [message]: speaker=Harper
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:369
 msgid "Hey! Who ya calling puny?"
-msgstr "আরে!কে ইয়া ডাকছে?"
+msgstr ""
 
 #. [message]: speaker=Harper
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:384
 msgid "Ahh! I <i>really</i> don’t like fire..."
-msgstr "আহ!আমি <i> সত্যিই </i> আগুন পছন্দ করি না ..."
+msgstr ""
 
 #. [message]: speaker=Fal Khag
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:396
 msgid "I was... too weak..?"
-msgstr "আমি ... খুব দুর্বল ছিল ..?"
+msgstr ""
 
 #. [message]: speaker=Harper
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:401
 msgid "Silly goblin."
-msgstr "নির্বোধ গোব্লিন।"
+msgstr ""
 
 #. [message]: speaker=Harper
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:416
 msgid ""
-"Hey, someone left their pack here. I could use it to carry some more rocks."
+"Hey, someone left their pack here. I could use it to carry some heavier "
+"rocks."
 msgstr ""
-"আরে, কেউ এখানে তাদের প্যাকটি রেখেছিল।আমি এটি আরও কিছু শিলা বহন করতে ব্যবহার "
-"করতে পারে।"
 
 #. [message]: speaker=unit
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:449
 msgid "Spooky."
-msgstr "ভুতুরে."
+msgstr ""
 
 #. [message]: speaker=Harper
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:489
 msgid "They’re getting close to Dallben! What should we do?"
-msgstr "তারা ডালবেনের কাছাকাছি আসছে!আমাদের কি করা উচিৎ?"
+msgstr ""
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:493
@@ -522,47 +468,42 @@ msgid ""
 "There be a couple guards in the village. Might be able to slow them wolves "
 "down if they gets closer."
 msgstr ""
-"গ্রামে কয়েকজন প্রহরী রয়েছে।যদি তারা আরও কাছে আসে তবে তাদের নেকড়েদের ধীর "
-"করতে সক্ষম হতে পারে।"
 
 #. [event]
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:506
 msgid "Remald"
-msgstr "রিমাল্ড"
+msgstr ""
 
 #. [event]
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:507
 msgid "Wolmas"
-msgstr "ওলমাস"
+msgstr ""
 
 #. [event]
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:512
 msgid "Jasken"
-msgstr "জ্যাকেট"
+msgstr ""
 
 #. [message]: speaker=Wolmas
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:519
 msgid "What’s happening here? Why be you running like mad, $unit.name|?"
-msgstr "এখানে কি হচ্ছে?আপনি কেন পাগলের মতো চালাচ্ছেন, $ ইউনিট.নাম |"
+msgstr ""
 
 #. [message]: speaker=unit
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:523
 msgid ""
-"Goblin riders be on the hunt, headed right for Dallben. We gots to stop "
-"them!"
+"Goblin riders be on the hunt, headed right for Dallben. We gots to stop them!"
 msgstr ""
-"গোব্লিন রাইডাররা শিকারে থাকবেন, ডালবেনের দিকে ডানদিকে গেলেন।আমরা তাদের "
-"থামাতে পেয়েছি!"
 
 #. [message]: speaker=Wolmas
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:530
 msgid "Look! Goblin riders be on the hunt, headed right for Dallben!"
-msgstr "দেখ!গোব্লিন রাইডাররা শিকারে থাকবেন, ডালবেনের দিকে ডানদিকে গেলেন!"
+msgstr ""
 
 #. [message]: speaker=Remald
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:534
 msgid "We gots to stop them!"
-msgstr "আমরা তাদের থামাতে পেয়েছি!"
+msgstr ""
 
 #. [message]: speaker=Harper
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:554
@@ -570,45 +511,41 @@ msgid ""
 "The goblins reached the village! Now there’ll be nothing left after they "
 "raid our homes..."
 msgstr ""
-"গোব্লিনস গ্রামে পৌঁছেছে!তারা আমাদের বাড়িতে অভিযান চালানোর পরে এখন কিছুই "
-"অবশিষ্ট থাকবে না ..."
 
 #. [scenario]: id=02_Civil_Disobedience
 #: data/campaigns/Liberty/scenarios/02_Civil_Disobedience.cfg:4
 msgid "Civil Disobedience"
-msgstr "আইন অমান্য"
+msgstr ""
 
 #. [label]
 #: data/campaigns/Liberty/scenarios/02_Civil_Disobedience.cfg:16
 msgid "Baldras’ farm"
-msgstr "বালড্রাসের খামার"
+msgstr ""
 
 #. [part]
 #: data/campaigns/Liberty/scenarios/02_Civil_Disobedience.cfg:21
 msgid ""
 "Baldras’ journal, 6 Deeproot, 501 YW:\n"
 "\n"
-"Me and Harper visited Erwen’s grave today. I helped the lass pick her a bunch of flowers — we even found some of her favorite, blue lilies. Harper don’t remember her much, but still thinks lots about her. Lass reminds me so much of her ma often times, real bright and brassy, even if she don’t got the same sense or wits. I’m just hoping she be learning more with time."
+"Me and Harper visited Erwen’s grave today. I helped the lass pick her a "
+"bunch of flowers — we even found some of her favorite, blue lilies. Harper "
+"don’t remember her much, but still thinks lots about her. Lass reminds me so "
+"much of her ma often times, real bright and brassy, even if she don’t got "
+"the same sense or wits. I’m just hoping she be learning more with time."
 msgstr ""
-"বাল্ড্রাস ’জার্নাল, 6 ডিপ্রুট, 501 ওয়াইডাব্লু:\n"
-"\n"
-"আমি এবং হার্পার আজ এরওয়েনের কবর পরিদর্শন করেছি।আমি লাসকে তাকে একগুচ্ছ ফুল বাছাই করতে সহায়তা করেছি - আমরা এমনকি তার প্রিয় কয়েকটি নীল লিলি পেয়েছি।হার্পার তাকে বেশি মনে রাখে না, তবে এখনও তার সম্পর্কে প্রচুর চিন্তা করে।লাস আমাকে তার মা প্রায়শই অনেক সময় স্মরণ করিয়ে দেয়, সত্যিকারের উজ্জ্বল এবং পিতল, এমনকি যদি সে একই ধারণা বা বুদ্ধি না পায়।আমি কেবল আশা করছি যে তিনি সময়ের সাথে আরও শিখবেন।"
 
 #. [part]
 #: data/campaigns/Liberty/scenarios/02_Civil_Disobedience.cfg:27
 msgid ""
-"Speaking of sense, I gots me a bad feeling in my gut about today. I’d better"
-" ready our hunting troop when I get back to the village, just in case..."
+"Speaking of sense, I gots me a bad feeling in my gut about today. I’d better "
+"ready our hunting troop when I get back to the village, just in case..."
 msgstr ""
-"জ্ঞানের কথা বলতে গেলে, আমি আজ আমার অন্ত্রে একটি খারাপ অনুভূতি পেয়েছি।আমি "
-"যখন গ্রামে ফিরে আসি তখন আমি আমাদের শিকারের সৈন্যদের আরও ভাল প্রস্তুত করব, "
-"কেবল সেক্ষেত্রে ..."
 
 #. [side]: type=Bandit_Peasant, id=Baldras
 #. [side]
 #. [side]: type=Bandit, id=Baldras
 #. [side]: type=Highwayman_Peasant, gender=female, id=Relana
-#. [side]: type=General, id=Lord Maddock
+#. [side]: type=Lord of Elensefar, id=Lord Maddock
 #. [side]: type=Rogue, id=Hans
 #. [side]: type=Highwayman, id=Baldras
 #. [side]: type=Shadow Lord, id=Helicrom
@@ -625,12 +562,12 @@ msgstr ""
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:46
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:132
 msgid "Rebels"
-msgstr "বিদ্রোহী"
+msgstr ""
 
 #. [side]: type=Cavalier, id=Tarwen
 #: data/campaigns/Liberty/scenarios/02_Civil_Disobedience.cfg:53
 msgid "Tarwen"
-msgstr "টারভেস"
+msgstr ""
 
 #. [side]: type=Cavalier, id=Tarwen
 #. [side]: type=General, id=Kestrel
@@ -647,22 +584,22 @@ msgstr "টারভেস"
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:140
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:88
 msgid "Weldyn"
-msgstr "দেখা"
+msgstr ""
 
 #. [objective]: condition=win
 #: data/campaigns/Liberty/scenarios/02_Civil_Disobedience.cfg:96
 msgid "Kill the Wesnoth army captain, Tarwen"
-msgstr "ওয়েসথ আর্মি ক্যাপ্টেন, তারওয়েনকে হত্যা করুন"
+msgstr ""
 
 #. [message]: speaker=Harper
 #: data/campaigns/Liberty/scenarios/02_Civil_Disobedience.cfg:152
 msgid "Look, riders approach."
-msgstr "দেখুন, রাইডাররা যোগাযোগ করুন।"
+msgstr ""
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/02_Civil_Disobedience.cfg:156
 msgid "Stand fast, Harper."
-msgstr "দ্রুত দাঁড়ানো, হার্পার।"
+msgstr ""
 
 #. [message]: speaker=Tarwen
 #: data/campaigns/Liberty/scenarios/02_Civil_Disobedience.cfg:169
@@ -670,19 +607,14 @@ msgid ""
 "By order of the Queen, the magistrate of this town is to travel with us to "
 "Elensefar for vetting."
 msgstr ""
-"রানির আদেশে, এই শহরের ম্যাজিস্ট্রেট হ'ল আমাদের সাথে পরীক্ষা করার জন্য "
-"এলেনসফারে ভ্রমণ করা।"
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/02_Civil_Disobedience.cfg:173
 msgid ""
 "The Crown did long since abandon our village. You Wesnothians be too busy "
-"countin’ the gold from our taxes to be sending aid against them orcs. Nobody"
-" here be leaving to nowhere."
+"countin’ the gold from our taxes to be sending aid against them orcs. Nobody "
+"here be leaving to nowhere."
 msgstr ""
-"আমাদের গ্রামটি ত্যাগ করার পর থেকে মুকুট দীর্ঘকাল ধরে।আপনি ওয়েসনোথিয়ানরা "
-"খুব বেশি ব্যস্ত কাউন্টিন ’আমাদের ট্যাক্স থেকে সোনার তাদের অর্কেসের বিরুদ্ধে "
-"সহায়তা পাঠানোর জন্য।এখানে কেউ কোথাও চলে যাবেনা।"
 
 #. [message]: speaker=Tarwen
 #: data/campaigns/Liberty/scenarios/02_Civil_Disobedience.cfg:177
@@ -690,28 +622,26 @@ msgid ""
 "Insolent peasant. Try not my patience, else I shall be forced to drag thy "
 "deceased corpse back with me to the city."
 msgstr ""
-"অশ্লীল কৃষক।আমার ধৈর্য চেষ্টা করবেন না, অন্যথায় আমাকে আপনার মৃত মৃতদেহটি "
-"আমার সাথে শহরে ফিরিয়ে আনতে বাধ্য করা হবে।"
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/02_Civil_Disobedience.cfg:181
 msgid "Try it then, stinker."
-msgstr "দুর্গন্ধযুক্ত, দুর্গন্ধ।"
+msgstr ""
 
 #. [message]: speaker=Tarwen
 #: data/campaigns/Liberty/scenarios/02_Civil_Disobedience.cfg:185
 msgid "As you wish."
-msgstr "তোমার ইচ্ছা."
+msgstr ""
 
 #. [message]: speaker=Tarwen
 #: data/campaigns/Liberty/scenarios/02_Civil_Disobedience.cfg:219
 msgid "Guard the gate."
-msgstr "গেট রক্ষা করুন।"
+msgstr ""
 
 #. [message]: speaker=Harper
 #: data/campaigns/Liberty/scenarios/02_Civil_Disobedience.cfg:232
 msgid "<i>Uncle, since when did we have a queen?</i>"
-msgstr "<i> চাচা, কখন থেকে আমাদের রানী ছিল? </i>"
+msgstr ""
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/02_Civil_Disobedience.cfg:236
@@ -719,7 +649,6 @@ msgid ""
 "<i>Since a few years back, I thinks, but weren’t never her giving out no "
 "orders...</i>"
 msgstr ""
-"<i> কয়েক বছর আগে থেকে, আমি মনে করি, তবে সে কখনই কোনও আদেশ দেয় না ... </i>"
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/02_Civil_Disobedience.cfg:240
@@ -727,73 +656,68 @@ msgid ""
 "<i>It don’t really matter right now. Harper, get yerself out o’ here. This "
 "be no kind of battle for you.</i>"
 msgstr ""
-"<i> এখনই এটি আসলে গুরুত্বপূর্ণ নয়।হার্পার, এখানে ইয়ারসেলফ বের করুন "
-"’এখানে।এটি আপনার জন্য কোনও ধরণের যুদ্ধ হবে না <</i>"
 
 #. [message]: speaker=Harper
 #: data/campaigns/Liberty/scenarios/02_Civil_Disobedience.cfg:244
 msgid "I can fight!"
-msgstr "আমি লড়াই করতে পারি!"
+msgstr ""
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/02_Civil_Disobedience.cfg:248
 msgid "<i>Harper, do what I says to ya.</i>"
-msgstr "<i> হার্পার, আমি যা বলেছি তা করুন </i>"
+msgstr ""
 
 #. [message]: speaker=Harper
 #: data/campaigns/Liberty/scenarios/02_Civil_Disobedience.cfg:252
 msgid "We’re in this together. Death to the Wesnothians!"
-msgstr "আমরা এ ব্যাপারে একসাথে.ওয়েসনোথিয়ানদের মৃত্যু!"
+msgstr ""
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/02_Civil_Disobedience.cfg:256
 msgid "Impulsive lass..."
-msgstr "আবেগপ্রবণ লাস ..."
+msgstr ""
 
 #. [message]: speaker=second_unit
 #. this is from Monty Python and the Holy Grail :)
 #: data/campaigns/Liberty/scenarios/02_Civil_Disobedience.cfg:269
 msgid "Help, help! I’m being repressed!"
-msgstr "সাহায্য সাহায্য!আমি দমন করা হচ্ছে!"
+msgstr ""
 
 #. [message]: speaker=Harper
 #: data/campaigns/Liberty/scenarios/02_Civil_Disobedience.cfg:281
 msgid "They just killed an innocent man! Murderers!"
-msgstr "তারা সবেমাত্র একজন নিরীহ মানুষকে হত্যা করেছে!খুনি!"
+msgstr ""
 
 #. [message]: speaker=Tarwen
 #: data/campaigns/Liberty/scenarios/02_Civil_Disobedience.cfg:286
 msgid "Cry thine eyes out for me, peasant."
-msgstr "আমার জন্য আপনার চোখ কাঁদুন, কৃষক।"
+msgstr ""
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/02_Civil_Disobedience.cfg:299
 msgid "I oughta bring out the good mace to fight off these thugs."
-msgstr "আমি এই ঠগদের বিরুদ্ধে লড়াই করার জন্য ভাল গদি আনতে চাই।"
+msgstr ""
 
 #. [message]: speaker=Tarwen
 #: data/campaigns/Liberty/scenarios/02_Civil_Disobedience.cfg:345
 msgid "Back, back ye curs!"
-msgstr "পিছনে, পিছনে অভিশাপ!"
+msgstr ""
 
 #. [message]: speaker=Harper
 #: data/campaigns/Liberty/scenarios/02_Civil_Disobedience.cfg:357
 msgid "Take that, you bullies!"
-msgstr "যে, আপনি বুলি!"
+msgstr ""
 
 #. [message]: speaker=second_unit
 #: data/campaigns/Liberty/scenarios/02_Civil_Disobedience.cfg:371
 msgid "Get out of my village!"
-msgstr "আমার গ্রাম থেকে বেরিয়ে যাও!"
+msgstr ""
 
 #. [message]: role=Advisor
 #: data/campaigns/Liberty/scenarios/02_Civil_Disobedience.cfg:405
 msgid ""
-"We beat their leader, but a couple of them riders escaped. What should we "
-"do?"
+"We beat their leader, but a couple of them riders escaped. What should we do?"
 msgstr ""
-"আমরা তাদের নেতাকে মারধর করেছি, তবে তাদের মধ্যে কয়েকজন রাইডার পালিয়ে "
-"গেছে।আমাদের কি করা উচিৎ?"
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/02_Civil_Disobedience.cfg:410
@@ -802,8 +726,6 @@ msgid ""
 "but his men never would’ve attacked us. The Queen must’ve did something to "
 "him."
 msgstr ""
-"কিছু এখানে খুব ভুল হতে হবে।সেই গারার্ড কখনই নায়ক বা কিছুই ছিল না, তবে তার "
-"লোকেরা কখনই আমাদের আক্রমণ করে না।রানী অবশ্যই তাকে কিছু করেছে।"
 
 #. [message]: speaker=Harper
 #: data/campaigns/Liberty/scenarios/02_Civil_Disobedience.cfg:416
@@ -811,8 +733,6 @@ msgid ""
 "We’ve got to tell the people of Delwyn about this. Ol’ magistrate Relana "
 "will have some ideas."
 msgstr ""
-"আমরা এ সম্পর্কে ডেলউইনের লোকদের বলতে পেয়েছি।ওল ’ম্যাজিস্ট্রেট রিলানার কিছু "
-"ধারণা থাকবে।"
 
 #. [message]: role=Advisor
 #: data/campaigns/Liberty/scenarios/02_Civil_Disobedience.cfg:421
@@ -820,7 +740,6 @@ msgid ""
 "That’s true. Whenever there’s been troubles, we’ve always looked to her for "
 "help."
 msgstr ""
-"সেটা সত্য.যখনই ঝামেলা হয়, আমরা সর্বদা তার কাছে সাহায্যের জন্য সন্ধান করি।"
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/02_Civil_Disobedience.cfg:426
@@ -828,13 +747,11 @@ msgid ""
 "Fine. We’ll go to Delwyn, see what Relana gots to say. With them riders so "
 "eagerly attackin’ us today, I’m thinking Delwyn will be under threat too."
 msgstr ""
-"ভালআমরা ডেলউইনে যাব, দেখুন রিলানা কী বলেছে।তাদের সাথে রাইডাররা আজ আমাদের এত "
-"আগ্রহের সাথে আক্রমণ করে, আমি ভাবছি ডেলউইনও হুমকির মুখে পড়বে।"
 
 #. [message]: speaker=Harper
 #: data/campaigns/Liberty/scenarios/02_Civil_Disobedience.cfg:431
 msgid "So we’ll have to fight them Wesnothians again?"
-msgstr "সুতরাং আমাদের আবার ওয়েসোথিয়ানদের সাথে লড়াই করতে হবে?"
+msgstr ""
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/02_Civil_Disobedience.cfg:436
@@ -842,66 +759,59 @@ msgid ""
 "Alls I can say for certain is we’ve made ourselves enemies of the Crown. "
 "They’ll be hunting us now."
 msgstr ""
-"আমি নিশ্চিতভাবে বলতে পারি যে আমরা নিজেকে মুকুটের শত্রু করে তুলেছি।তারা এখন "
-"আমাদের শিকার করবে।"
 
 #. [message]: speaker=Harper
 #: data/campaigns/Liberty/scenarios/02_Civil_Disobedience.cfg:441
 msgid "Then we’re outlaws."
-msgstr "তারপরে আমরা আউটলু।"
+msgstr ""
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/02_Civil_Disobedience.cfg:446
 msgid "Aye, outlaws."
-msgstr "আয়ে, আউটলজ"
+msgstr ""
 
 #. [message]: speaker=Reinforcement Knight
 #: data/campaigns/Liberty/scenarios/02_Civil_Disobedience.cfg:539
 msgid "At your order, Captain."
-msgstr "আপনার আদেশে, ক্যাপ্টেন।"
+msgstr ""
 
 #. [message]: speaker=Tarwen
 #: data/campaigns/Liberty/scenarios/02_Civil_Disobedience.cfg:543
 msgid "Slay them all."
-msgstr "তাদের সবাইকে হত্যা করুন।"
+msgstr ""
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/02_Civil_Disobedience.cfg:547
 msgid ""
-"Curses! Their reinforcements has arrived. We gots no chance to fight ‘em off"
-" now..."
+"Curses! Their reinforcements has arrived. We gots no chance to fight ‘em off "
+"now..."
 msgstr ""
-"অভিশাপ!তাদের শক্তিবৃদ্ধি এসে গেছে।আমরা এখন তাদের লড়াই করার কোনও সুযোগ পাইনি"
-" ..."
 
 #. [scenario]: id=03_A_Strategy_of_Hope
 #: data/campaigns/Liberty/scenarios/03_A_Strategy_Of_Hope.cfg:4
 msgid "A Strategy of Hope"
-msgstr "আশার কৌশল"
+msgstr ""
 
 #. [part]
 #: data/campaigns/Liberty/scenarios/03_A_Strategy_Of_Hope.cfg:17
 msgid ""
 "Baldras’ journal, 10 Deeproot, 501 YW:\n"
 "\n"
-"Been a strange few days. Had to leave Dallben real quick. We grabbed whatever we could in just a day, some food, some clothes, sis’s lucky bracelet... and made off for Delwyn as quick as these old bones would let me. It be a three day journey there for me, but I sended Harper ahead for Relana first. Said we’d meet her in the usual hiding spot in the swamp."
+"Been a strange few days. Had to leave Dallben real quick. We grabbed "
+"whatever we could in just a day, some food, some clothes, sis’s lucky "
+"bracelet... and made off for Delwyn as quick as these old bones would let "
+"me. It be a three day journey there for me, but I sended Harper ahead for "
+"Relana first. Said we’d meet her in the usual hiding spot in the swamp."
 msgstr ""
-"বাল্ড্রাস ’জার্নাল, 10 ডিপ্রুট, 501 ওয়াইডাব্লু:\n"
-"\n"
-"কিছু দিন ছিল কিছু দিন।ডালবেনকে বাস্তব দ্রুত ছেড়ে যেতে হয়েছিল।আমরা কেবল একদিনে যা কিছু করতে পারি, কিছু খাবার, কিছু পোশাক, সিসের ভাগ্যবান ব্রেসলেট ... এবং ডেলউইনের জন্য যত তাড়াতাড়ি এই পুরানো হাড়গুলি আমাকে ছেড়ে দিতে পারে তা ধরলাম।এটি আমার জন্য সেখানে তিন দিনের যাত্রা হতে পারে তবে আমি হার্পারকে প্রথমে রিলানার জন্য এগিয়ে পাঠিয়েছিলাম।বলেছিলাম যে আমরা জলাভূমিতে স্বাভাবিক লুকিয়ে থাকা স্পটে তার সাথে দেখা করব।"
 
 #. [part]
 #: data/campaigns/Liberty/scenarios/03_A_Strategy_Of_Hope.cfg:23
 msgid ""
-"This whole mess be utter stupidness. Of all the things to be driving us from"
-" our home, how did it ended up being those accursed Wesnothians? Blasted "
-"Crown. Don’t matter whoever’s the one giving out them orders, those stinkers"
-" in Weldyn always be making trouble for us countryfolk."
+"This whole mess be utter stupidness. Of all the things to be driving us from "
+"our home, how did it ended up being those accursed Wesnothians? Blasted "
+"Crown. Don’t matter whoever’s the one giving out them orders, those stinkers "
+"in Weldyn always be making trouble for us countryfolk."
 msgstr ""
-"এই পুরো জগাখিচুড়ি সম্পূর্ণ বোকা।আমাদের বাড়ি থেকে আমাদের চালিত করার সমস্ত "
-"বিষয়গুলির মধ্যে, কীভাবে এটি সেই অভিশপ্ত ওয়েসনোথিয়ান হয়ে শেষ "
-"হয়েছিল?বিস্ফোরিত মুকুট।যে কেউ তাদের আদেশ দিচ্ছে তা বিবেচ্য নয়, ওয়েলডিনে "
-"থাকা এই দুর্গন্ধগুলি সর্বদা আমাদের দেশপোকের জন্য সমস্যা তৈরি করে।"
 
 #. [part]
 #: data/campaigns/Liberty/scenarios/03_A_Strategy_Of_Hope.cfg:27
@@ -911,62 +821,48 @@ msgid ""
 "don’t really got no choice either. Harper’s still too young to be leading "
 "anyone, and it don’t seem like anyone else in the village be suitable."
 msgstr ""
-"আমি এই সমস্ত জন্য অনেক বয়স্ক।তাদের অর্ক অভিযানগুলি ইতিমধ্যে আমার মোকাবেলা "
-"করার জন্য প্রচুর পরিমাণে রয়েছে।আমি ওয়েসোথের সাথে যুদ্ধে লড়াই করতে আগ্রহী "
-"নই।তবে ... আমার ধারণা, আমি আসলে কোনও উপায় পাইনি।হার্পার এখনও কারও নেতৃত্ব "
-"দিতে খুব কম বয়সী, এবং এটি গ্রামের অন্য কেউ উপযুক্ত বলে মনে হয় না।"
 
 #. [part]
 #: data/campaigns/Liberty/scenarios/03_A_Strategy_Of_Hope.cfg:31
 msgid ""
 "In times like these... I still wish Erwen was here with us. Little sis were "
 "always the better of us two. She always knew how to keep her temper and her "
-"wits about her. What would she say to me now? Probably something like, “Quit"
-" yapping ya old dog and focus on what you’re doing. What’s done is done. "
-"Just look at what’s ahead of ya and get them people to safety.” Cheeky, that"
-" one. But, she’d be right, I has me a responsibility to our people. Got a "
-"lot of trouble ahead of us..."
+"wits about her. What would she say to me now? Probably something like, “Quit "
+"yapping ya old dog and focus on what you’re doing. What’s done is done. Just "
+"look at what’s ahead of ya and get them people to safety.” Cheeky, that one. "
+"But, she’d be right, I has me a responsibility to our people. Got a lot of "
+"trouble ahead of us..."
 msgstr ""
-"এই জাতীয় সময়ে ... আমি এখনও আশা করি এরওয়েন আমাদের সাথে এখানে থাকতেন।ছোট্ট "
-"সিস সবসময় আমাদের দুজনের চেয়ে ভাল ছিল।তিনি সর্বদা জানতেন যে কীভাবে তার "
-"মেজাজ এবং তার সম্পর্কে তার বুদ্ধি রাখা যায়।সে এখন আমাকে কী বলবে?সম্ভবত এরকম"
-" কিছু, \"ইয়াপিং ইয়া ওল্ড কুকুরটি ছেড়ে দিন এবং আপনি যা করছেন তার দিকে "
-"মনোনিবেশ করুন।কি এর কাজ সম্পন্ন করা হয়.কেবল ইয়া থেকে কী এগিয়ে আছে তা "
-"দেখুন এবং তাদের লোকদের সুরক্ষায় নিয়ে যান ”\"গাধা, যে এক।তবে, তিনি ঠিক "
-"থাকবেন, আমার লোকদের কাছে আমার একটি দায়িত্ব রয়েছে।আমাদের সামনে অনেক ঝামেলা "
-"পেয়েছি ..."
 
 #. [side]: type=Highwayman_Peasant, gender=female, id=Relana
 #: data/campaigns/Liberty/scenarios/03_A_Strategy_Of_Hope.cfg:57
 msgid "Relana"
-msgstr "রাইনা"
+msgstr ""
 
 #. [side]: type=Orcish Warrior, id=Urk Delek
 #: data/campaigns/Liberty/scenarios/03_A_Strategy_Of_Hope.cfg:86
 msgid "Urk Delek"
-msgstr "Urk Delek"
+msgstr ""
 
 #. [side]: type=Saurian Oracle, id=Thhsthss
 #: data/campaigns/Liberty/scenarios/03_A_Strategy_Of_Hope.cfg:115
 msgid "Thhsthss"
-msgstr "Thshshss"
+msgstr ""
 
 #. [objective]: condition=win
 #: data/campaigns/Liberty/scenarios/03_A_Strategy_Of_Hope.cfg:157
 msgid "Defeat both enemy leaders"
-msgstr "উভয় শত্রু নেতাকে পরাজিত করুন"
+msgstr ""
 
 #. [objective]: condition=lose
 #: data/campaigns/Liberty/scenarios/03_A_Strategy_Of_Hope.cfg:169
 msgid "Death of Relana"
-msgstr "রিলানার মৃত্যু"
+msgstr ""
 
 #. [message]: speaker=Relana
 #: data/campaigns/Liberty/scenarios/03_A_Strategy_Of_Hope.cfg:203
 msgid "Baldras! Ya made it! Lil Harper here told me all about what happened."
 msgstr ""
-"বলদরা!ইয়া এটি তৈরি!লিল হার্পার এখানে যা ঘটেছিল তা সম্পর্কে আমাকে সব "
-"বলেছিলেন।"
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/03_A_Strategy_Of_Hope.cfg:207
@@ -975,14 +871,11 @@ msgid ""
 "Turns out they was itchin’ to attack us soon as I wasn’t willing to leave "
 "with ‘em."
 msgstr ""
-"আয়ে, রিলানা।এটি ছিল এক ও ’রানির টহল, এটি শব্দের মতো অদ্ভুত।দেখা যাচ্ছে যে "
-"আমি ‘এমের সাথে চলে যেতে রাজি না হওয়ায় তারা আমাদের আক্রমণ করার জন্য তারা "
-"চুলকানি’ ছিল।"
 
 #. [message]: speaker=Harper
 #: data/campaigns/Liberty/scenarios/03_A_Strategy_Of_Hope.cfg:211
 msgid "But we fought those ugly scoundrels off!"
-msgstr "তবে আমরা সেই কুৎসিত স্কাউন্ড্রেলগুলি বন্ধ করে দিয়েছি!"
+msgstr ""
 
 #. [message]: speaker=Relana
 #: data/campaigns/Liberty/scenarios/03_A_Strategy_Of_Hope.cfg:215
@@ -991,24 +884,18 @@ msgid ""
 "ago, demanding our allegiance to some ‘Asheviere’. Weren’t that Garard’s "
 "young bride or something? Why’s she the one in charge now?"
 msgstr ""
-"কুইনের টহল, ইয়া বলছেন?কয়েকদিন আগে তারা তাদেরকে আমাদের মেসেঞ্জার "
-"পাঠিয়েছিল, কিছু ‘আশেভেরের’ প্রতি আমাদের আনুগত্যের দাবি জানিয়েছিল।গারার্ডের"
-" তরুণ কনে বা কিছু ছিল না?কেন তিনি এখন দায়িত্বে আছেন?"
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/03_A_Strategy_Of_Hope.cfg:219
 msgid ""
-"I don’t know, but some of them riders escaped us. Bet they’ll report back to"
-" their local garrison, tell them we’re a bunch o’ traitors."
+"I don’t know, but some of them riders escaped us. Bet they’ll report back to "
+"their local garrison, tell them we’re a bunch o’ traitors."
 msgstr ""
-"আমি জানি না, তবে তাদের মধ্যে কয়েকজন রাইডার আমাদের পালিয়ে গেছে।বাজি তারা "
-"তাদের স্থানীয় গ্যারিসনে ফিরে রিপোর্ট করবে, তাদের বলুন যে আমরা একগুচ্ছ ও "
-"’বিশ্বাসঘাতক।"
 
 #. [message]: role=Advisor
 #: data/campaigns/Liberty/scenarios/03_A_Strategy_Of_Hope.cfg:223
 msgid "Then they’ll be comin’ back in force."
-msgstr "তারপরে তারা ফিরে আসবে ’জোর করে ফিরে আসবে।"
+msgstr ""
 
 #. [message]: speaker=Relana
 #: data/campaigns/Liberty/scenarios/03_A_Strategy_Of_Hope.cfg:227
@@ -1016,13 +903,11 @@ msgid ""
 "We needs more information. We should consult ourselves with Elensefar. Lord "
 "Maddock surely gots to know more than us."
 msgstr ""
-"আমাদের আরও তথ্য দরকার।আমাদের নিজের সাথে পরামর্শ করা উচিত এলেনসফারের "
-"সাথে।লর্ড ম্যাডক অবশ্যই আমাদের চেয়ে আরও বেশি কিছু জানতে পেরেছেন।"
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/03_A_Strategy_Of_Hope.cfg:231
 msgid "Elensefar? Why him?"
-msgstr "এলেনসফার?কেন তাকে?"
+msgstr ""
 
 #. [message]: speaker=Relana
 #: data/campaigns/Liberty/scenarios/03_A_Strategy_Of_Hope.cfg:235
@@ -1030,8 +915,6 @@ msgid ""
 "Well all Annuvin be ruled by Elensefar, right? We don’t gots to heed "
 "anything Wesnoth says. Lord Maddock’s technically the one we answer to."
 msgstr ""
-"আচ্ছা সমস্ত আনুভিন এলেনসফার দ্বারা শাসিত হবে, তাই না?ওয়েসোথ যা কিছু বলে "
-"আমরা তা মেনে চলি না।লর্ড ম্যাডক এর প্রযুক্তিগতভাবে আমরা উত্তর দিয়েছি।"
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/03_A_Strategy_Of_Hope.cfg:239
@@ -1039,8 +922,6 @@ msgid ""
 "It don’t matter. Weldyn be doing whatever it likes while Maddock says "
 "nothing. He knows, but he don’t care."
 msgstr ""
-"এটা কিছু যায় আসে না।ওয়েলডিন ম্যাডডক কিছুই না বলে যা কিছু পছন্দ করেন তা "
-"করছেন।সে জানে, তবে সে যত্ন করে না।"
 
 #. [message]: speaker=Relana
 #: data/campaigns/Liberty/scenarios/03_A_Strategy_Of_Hope.cfg:243
@@ -1049,27 +930,22 @@ msgid ""
 "great plan without no information. We both knows that if Weldyn brings one "
 "o’ their armies here, there be no way we can fight them off."
 msgstr ""
-"তবে আমাদের এখনও সেই জ্ঞান দরকার, বাল্ড্রা।আমরা কোনও তথ্য ছাড়াই কোনও "
-"দুর্দান্ত পরিকল্পনা নিয়ে আসতে পারি না।আমরা দুজনেই জানি যে ওয়েলডিন যদি "
-"তাদের সেনাবাহিনীকে এখানে নিয়ে আসে তবে আমরা তাদের সাথে লড়াই করার কোনও উপায়"
-" নেই।"
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/03_A_Strategy_Of_Hope.cfg:247
 msgid ""
 "Perhaps, but — hold there. Did ya hear that? Sounded like some wolf howl."
 msgstr ""
-"সম্ভবত, কিন্তু - সেখানে রাখা।তুমি কি শুনেছ?কিছু নেকড়ে চিত্কার মত শোনাচ্ছে।"
 
 #. [message]: speaker=Relana
 #: data/campaigns/Liberty/scenarios/03_A_Strategy_Of_Hope.cfg:251
 msgid "Somethin’ smells like lizard too. We’re not alone here."
-msgstr "কিছু 'টিকটিকি মত গন্ধ।আমরা এখানে একা নই।"
+msgstr ""
 
 #. [message]: speaker=Harper
 #: data/campaigns/Liberty/scenarios/03_A_Strategy_Of_Hope.cfg:255
 msgid "Finally, some action!"
-msgstr "অবশেষে, কিছু ক্রিয়া!"
+msgstr ""
 
 #. [message]: speaker=Urk Delek
 #: data/campaigns/Liberty/scenarios/03_A_Strategy_Of_Hope.cfg:263
@@ -1078,25 +954,18 @@ msgid ""
 "scout that puny village, not fight it by himself. Then those damned humans "
 "rejected our help and look where that got them."
 msgstr ""
-"মানুষকে বিস্ফোরিত করেছে এবং ফাল খাগ ব্লাস্ট করেছে!বোকা গোব্লিন কেবল সেই "
-"পুণ্য গ্রামকে স্কাউট করার কথা ছিল, এটি নিজেই লড়াই করে না।তারপরে এই জঘন্য "
-"মানুষ আমাদের সহায়তা প্রত্যাখ্যান করে এবং সেগুলি কোথায় পেয়েছে তা দেখুন।"
 
 #. [message]: speaker=Urk Delek
 #: data/campaigns/Liberty/scenarios/03_A_Strategy_Of_Hope.cfg:267
 msgid ""
-"“Don’t know why the Queen hired some stinkin’ orcs, we don’t need you here.”"
-" Yeah, well now they’re dead like a bunch of beasts."
+"“Don’t know why the Queen hired some stinkin’ orcs, we don’t need you here.” "
+"Yeah, well now they’re dead like a bunch of beasts."
 msgstr ""
-"\"কেন রানী কিছু দুর্গন্ধযুক্ত’ অর্কেস কেন জানেন না, আমাদের এখানে আপনার দরকার"
-" নেই। \"হ্যাঁ, ভাল এখন তারা একগুচ্ছ জন্তুদের মতো মারা গেছে।"
 
 #. [message]: speaker=Thhsthss
 #: data/campaigns/Liberty/scenarios/03_A_Strategy_Of_Hope.cfg:273
 msgid "Your ordersss mean nothing to usss, orc. You promissed uss gold."
 msgstr ""
-"আপনার আদেশগুলি ইউএসএসএস, অর্কের কাছে কিছুই বোঝায় না।আপনি আমাদের সোনার "
-"প্রতিশ্রুতি।"
 
 #. [message]: speaker=Urk Delek
 #: data/campaigns/Liberty/scenarios/03_A_Strategy_Of_Hope.cfg:277
@@ -1104,58 +973,53 @@ msgid ""
 "Shut your trap, lizard. You’ll get your gold as soon as my wolves get their "
 "meat."
 msgstr ""
-"আপনার ফাঁদ বন্ধ করুন, টিকটিকি।আমার নেকড়ে তাদের মাংস পাওয়ার সাথে সাথে আপনি "
-"আপনার সোনার পাবেন।"
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/03_A_Strategy_Of_Hope.cfg:286
 msgid ""
 "We gots to be headin’ for Elensefar soon before them Wesnothians come back."
 msgstr ""
-"ওয়েসনোথিয়ানরা ফিরে আসার আগেই আমরা এলেনসফারের পক্ষে হেডিন হয়ে উঠলাম।"
 
 #. [message]: speaker=unit
 #. fishperson is the same as merfolk
 #: data/campaigns/Liberty/scenarios/03_A_Strategy_Of_Hope.cfg:300
 msgid "Looks like some fishperson used to live here."
-msgstr "দেখে মনে হচ্ছে কিছু ফিশপারসন এখানে থাকতেন।"
+msgstr ""
 
 #. [message]: speaker=Harper
 #: data/campaigns/Liberty/scenarios/03_A_Strategy_Of_Hope.cfg:318
 msgid "Looks like they still do. Ick."
-msgstr "দেখে মনে হচ্ছে তারা এখনও করছে।আইক"
+msgstr ""
 
 #. [message]: speaker=Harper
 #: data/campaigns/Liberty/scenarios/03_A_Strategy_Of_Hope.cfg:330
-msgid ""
-"Ewww, I think it be smelling even worse now. Least it’s stopped moving."
+msgid "Ewww, I think it be smelling even worse now. Least it’s stopped moving."
 msgstr ""
-"Ewww, আমি মনে করি এটি এখন আরও খারাপ গন্ধ পাচ্ছে।কমপক্ষে এটি চলমান বন্ধ।"
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/03_A_Strategy_Of_Hope.cfg:358
 msgid "I don’t likes me the look of that water."
-msgstr "আমি আমাকে সেই জলের চেহারা পছন্দ করি না।"
+msgstr ""
 
 #. [message]: speaker=unit
 #: data/campaigns/Liberty/scenarios/03_A_Strategy_Of_Hope.cfg:391
 msgid "Ahh! Help, it’s a tentacle monster!"
-msgstr "আহ!সহায়তা, এটি একটি তাঁবু দৈত্য!"
+msgstr ""
 
 #. [message]: speaker=Harper
 #: data/campaigns/Liberty/scenarios/03_A_Strategy_Of_Hope.cfg:404
 msgid "That’s some fresh tasty water. Mmm!"
-msgstr "এটি কিছু তাজা সুস্বাদু জল।মিমি!"
+msgstr ""
 
 #. [message]: speaker=Urk Delek
 #: data/campaigns/Liberty/scenarios/03_A_Strategy_Of_Hope.cfg:435
 msgid "Blasted pinkskins..."
-msgstr "ব্লাস্টড পিনকিনস ..."
+msgstr ""
 
 #. [message]: speaker=Thhsthss
 #: data/campaigns/Liberty/scenarios/03_A_Strategy_Of_Hope.cfg:448
 msgid "Thissss was not part of the deal..."
-msgstr "থিওএসএসএস চুক্তির অংশ ছিল না ..."
+msgstr ""
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/03_A_Strategy_Of_Hope.cfg:457
@@ -1163,7 +1027,6 @@ msgid ""
 "Something be very wrong here. These orcs has weapons with army forge-"
 "markings."
 msgstr ""
-"এখানে খুব ভুল কিছু।এই orcs এর সেনা ফোরজ-মার্কিংসের সাথে অস্ত্র রয়েছে।"
 
 #. [message]: speaker=Relana
 #: data/campaigns/Liberty/scenarios/03_A_Strategy_Of_Hope.cfg:461
@@ -1171,27 +1034,20 @@ msgid ""
 "Aye, and the gold in their pouches looks new from mint. Could just be "
 "plunder, but..."
 msgstr ""
-"আয়ে, এবং তাদের পাউচে সোনা পুদিনা থেকে নতুন দেখাচ্ছে।শুধু লুণ্ঠন হতে পারে, "
-"কিন্তু ..."
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/03_A_Strategy_Of_Hope.cfg:465
 msgid ""
-"Don’t seem like it. I be thinking these orcs were hired to scout us. But for"
-" what? Of all the alliances to be making, why would Weldyn be hiring orcs?"
+"Don’t seem like it. I be thinking these orcs were hired to scout us. But for "
+"what? Of all the alliances to be making, why would Weldyn be hiring orcs?"
 msgstr ""
-"এটি মত মনে হয় না।আমি ভাবছি এই অর্কগুলি আমাদের স্কাউট করার জন্য নিয়োগ করা "
-"হয়েছিল।কিন্তু কিসের জন্য?সমস্ত জোট তৈরি করার মধ্যে, ওয়েলডিন কেন অর্ককে "
-"নিয়োগ দেবে?"
 
 #. [message]: speaker=Relana
 #: data/campaigns/Liberty/scenarios/03_A_Strategy_Of_Hope.cfg:469
 msgid ""
-"I thinks your mission to Lord Maddock just became even more urgent. We needs"
-" to know the Queen’s motives."
+"I thinks your mission to Lord Maddock just became even more urgent. We needs "
+"to know the Queen’s motives."
 msgstr ""
-"আমি মনে করি লর্ড ম্যাডককে আপনার মিশনটি আরও জরুরি হয়ে উঠেছে।আমাদের রানির "
-"উদ্দেশ্যগুলি জানতে হবে।"
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/03_A_Strategy_Of_Hope.cfg:473
@@ -1199,8 +1055,6 @@ msgid ""
 "I don’t like leaving our people here alone, but I sees your point. If we "
 "wait, more will be coming."
 msgstr ""
-"আমি আমাদের লোকদের এখানে একা রেখে পছন্দ করি না, তবে আমি আপনার বক্তব্যটি "
-"দেখি।আমরা যদি অপেক্ষা করি তবে আরও কিছু আসবে।"
 
 #. [message]: speaker=Relana
 #: data/campaigns/Liberty/scenarios/03_A_Strategy_Of_Hope.cfg:477
@@ -1209,27 +1063,19 @@ msgid ""
 "us directly, but I don’t thinks it will work forever. To survive this, we "
 "needs to act quick, Baldras."
 msgstr ""
-"আপাতত, আমি এখানে থাকতে পারি এবং সম্ভবত আমাদের সরাসরি আক্রমণ করার বাইরে "
-"ওয়েসোথিয়ানদের সাথে কথা বলতে পারি, তবে আমি মনে করি না যে এটি চিরতরে কাজ "
-"করবে।এটি বেঁচে থাকার জন্য, আমাদের দ্রুত, বালড্রা কাজ করা দরকার।"
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/03_A_Strategy_Of_Hope.cfg:481
 msgid "Then we’ll go to Elensefar as fast as we can. Luck be with ya, Relana."
 msgstr ""
-"তারপরে আমরা যত তাড়াতাড়ি সম্ভব এলেনসফারে যাব।ভাগ্য ইয়া, রিলানার সাথে "
-"থাকুক।"
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/03_A_Strategy_Of_Hope.cfg:499
 msgid ""
-"We gots no more time to be spending here nor to be traveling to Elensefar..."
-" them Wesnothians probably already be mobilizing against us. We’ve got to "
+"We gots no more time to be spending here nor to be traveling to Elensefar... "
+"them Wesnothians probably already be mobilizing against us. We’ve got to "
 "head back to Dallben!"
 msgstr ""
-"আমরা এখানে ব্যয় করার জন্য আর কোনও সময় পাইনি বা এলেনসফারে ভ্রমণ করার জন্য "
-"... তাদের ওয়েসনোথিয়ানরা সম্ভবত ইতিমধ্যে আমাদের বিরুদ্ধে জড়ো হচ্ছে।আমরা "
-"ডালবেনে ফিরে যেতে হবে!"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Liberty/scenarios/03_A_Strategy_Of_Hope.cfg:505
@@ -1238,54 +1084,48 @@ msgid ""
 "any survivors borne away to unknown fates. It was a bitter doom, and as "
 "Wesnoth descended into chaos, they would live to see worse."
 msgstr ""
-"বালড্রাস এবং রিলানা তাদের গ্রামে ফিরে এসেছিল যাতে তাদের ধ্বংস হয়ে যায়, যে "
-"কোনও বেঁচে থাকা ব্যক্তিরা অজানা ফেটে বহন করে।এটি একটি তিক্ত আযাব ছিল এবং "
-"ওয়েসোথ বিশৃঙ্খলার মধ্যে নেমে যাওয়ার সাথে সাথে তারা আরও খারাপ দেখতে বেঁচে "
-"থাকবে।"
 
 #. [scenario]: id=04_Unlawful_Orders
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:4
 msgid "Unlawful Orders"
-msgstr "বেআইনী আদেশ"
+msgstr ""
 
 #. [label]
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:18
 msgid "Elensefar"
-msgstr "বিদ্যুৎ বাবা"
+msgstr ""
 
 #. [label]
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:23
 msgid "Port of Elensefar"
-msgstr "এলেনসফার বন্দর"
+msgstr ""
 
-#. [side]: type=General, id=Lord Maddock
+#. [side]: type=Lord of Elensefar, id=Lord Maddock
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:45
 msgid "Lord Maddock"
-msgstr "লর্ড ম্যাডক"
+msgstr ""
 
 #. [objective]: condition=win
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:125
 msgid "Defeat the enemy general"
-msgstr "শত্রু জেনারেলকে পরাজিত করুন"
+msgstr ""
 
 #. [objective]: condition=lose
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:137
 msgid "Death of Maddock"
-msgstr "ম্যাডকের মৃত্যু"
+msgstr ""
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:212
 msgid "Maddock, I be coming to report—"
-msgstr "ম্যাডক, আমি রিপোর্ট করতে আসছি -"
+msgstr ""
 
 #. [message]: speaker=Lord Maddock
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:216
 msgid ""
-"I am already aware of your altercation in Dallben, Baldras. Your dissent was"
-" not wise."
+"I am already aware of your altercation in Dallben, Baldras. Your dissent was "
+"not wise."
 msgstr ""
-"বাল্ড্রাসের ডালবেনে আপনার বিক্ষোভ সম্পর্কে আমি ইতিমধ্যে অবগত।আপনার মতবিরোধ "
-"জ্ঞানী ছিল না।"
 
 #. [message]: speaker=Baldras
 #. pigdirt is slang for bullshit or hogwash
@@ -1294,42 +1134,29 @@ msgid ""
 "Dissent? Maddock, I’m not trusting no strange riders who show up out of "
 "nowhere claimin’ to be from the Queen. Seems like a bunch of pigdirt to me."
 msgstr ""
-"মতবিরোধ?ম্যাডক, আমি কোনও অদ্ভুত রাইডারকে বিশ্বাস করছি না যারা কোথাও দাবিদার "
-"থেকে দেখা যায় না ’রানির কাছ থেকে থাকতে পারে না।আমার কাছে একগুচ্ছ পিগডার্টের"
-" মতো মনে হচ্ছে।"
 
 #. [message]: speaker=Lord Maddock
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:225
 msgid ""
-"That was partially my fault, since I was not able to send a messenger to you"
-" in time. I shall have to inform you now. Five weeks ago, at the Ford of "
+"That was partially my fault, since I was not able to send a messenger to you "
+"in time. I shall have to inform you now. Five weeks ago, at the Ford of "
 "Abez, Queen Asheviere’s men allied themselves with the northern orcs and "
 "betrayed King Garard II."
 msgstr ""
-"এটি আংশিকভাবে আমার দোষ ছিল, যেহেতু আমি আপনাকে সময় মতো কোনও মেসেঞ্জার পাঠাতে"
-" সক্ষম হইনি।আমি এখন আপনাকে অবহিত করতে হবে।পাঁচ সপ্তাহ আগে, আবেজের ফোর্ডে, "
-"রানী আশেভেরের পুরুষরা উত্তর অর্কেসের সাথে নিজেকে জোটবদ্ধ করে এবং দ্বিতীয় "
-"রাজা গারার্ডকে বিশ্বাসঘাতকতা করেছিলেন।"
 
 #. [message]: speaker=Lord Maddock
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:229
 msgid ""
 "Since Prince Eldred died in the battle, the Queen took the throne and has "
-"been consolidating her power. Part of that has been bringing the elders from"
-" the local villages here, forcing them to swear allegiance to her. That was "
+"been consolidating her power. Part of that has been bringing the elders from "
+"the local villages here, forcing them to swear allegiance to her. That was "
 "the purpose of that patrol."
 msgstr ""
-"প্রিন্স এলড্রেড যুদ্ধে মারা যাওয়ার পর থেকে রানী সিংহাসন নিয়েছিলেন এবং তার "
-"ক্ষমতা একীকরণ করছেন।এর কিছু অংশ এখানে স্থানীয় গ্রামগুলি থেকে প্রবীণদের "
-"নিয়ে আসছে, তাদের প্রতি তার প্রতি আনুগত্যের শপথ করতে বাধ্য করেছে।এটাই ছিল "
-"সেই টহলটির উদ্দেশ্য।"
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:233
 msgid "Annuvin province be ruled by Elensefar! We has no duty to Weldyn."
 msgstr ""
-"আনুভিন প্রদেশটি এলেনসফার দ্বারা শাসিত হবে!আমাদের ওয়েলডিনের কোনও দায়িত্ব "
-"নেই।"
 
 #. [message]: speaker=Lord Maddock
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:237
@@ -1337,8 +1164,6 @@ msgid ""
 "You do now. I do not really need to tell you what will happen should you "
 "refuse Her Majesty’s offer."
 msgstr ""
-"আপনি এখন কি.আপনি তাঁর মহিমার অফারটি প্রত্যাখ্যান করতে পারলে কী হবে তা আপনাকে"
-" বলার দরকার নেই।"
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:241
@@ -1346,8 +1171,6 @@ msgid ""
 "Grow a spine, Maddock. If they come to ya and make you swear fealty to this "
 "Asheviere, would ya really give up that easy?"
 msgstr ""
-"একটি মেরুদণ্ড বাড়ান, ম্যাডক।যদি তারা ইয়ে এসে আপনাকে এই আশেভিয়েরের প্রতি "
-"শপথের শপথ করে তোলে তবে আপনি কি সত্যিই এত সহজ ছেড়ে দিতে পারেন?"
 
 #. [message]: speaker=Lord Maddock
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:245
@@ -1359,29 +1182,20 @@ msgid ""
 "of Abez, but unless we are attacked within the next few days, I shall be "
 "able to hold the city."
 msgstr ""
-"ঠিক আছে, তারা আমার শহরের দেয়ালের মধ্যে আসে না।হালস্টেডের দুর্দান্ত দুর্গে "
-"দক্ষিণে একটি বিশাল গ্যারিসন রয়েছে, তবে এমনকি তাদের সমস্ত সৈন্যকে একত্রিত "
-"করা উচিত, আমি সন্দেহ করি যে তারা এলেনসফার নিতে পারে।এটি সত্য যে আপাতত আমার "
-"বেশিরভাগ বাহিনী এখনও আবেেজের যুদ্ধ থেকে ফিরে আসছে, তবে যদি না আমাদের পরের "
-"কয়েক দিনের মধ্যে আক্রমণ করা হয় তবে আমি শহরটি ধরে রাখতে সক্ষম হব।"
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:249
 msgid "And what abouts us? Throw us like dogs to those Wesnothians?"
-msgstr "এবং আমাদের কি?আমাদের মাধ্যমে সেই ওয়েসনোথিয়ানদের কুকুরের মতো?"
+msgstr ""
 
 #. [message]: speaker=Lord Maddock
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:253
 msgid ""
 "We have an uneasy peace to maintain. The treaty between Elensefar and "
-"Wesnoth is ancient, and I do not think Her Majesty means to break it. At the"
-" same time, I have some concessions that I shall have to make. I cannot "
+"Wesnoth is ancient, and I do not think Her Majesty means to break it. At the "
+"same time, I have some concessions that I shall have to make. I cannot "
 "afford a war with Weldyn, as you can surely understand."
 msgstr ""
-"আমাদের বজায় রাখার জন্য একটি অস্বস্তিকর শান্তি রয়েছে।এলেনসফার এবং "
-"ওয়েসনোথের মধ্যে চুক্তি প্রাচীন, এবং আমি মনে করি না যে তাঁর মহিমা এটি ভাঙার "
-"অর্থ।একই সময়ে, আমার কিছু ছাড় রয়েছে যা আমাকে করতে হবে।আমি ওয়েলডিনের সাথে "
-"যুদ্ধের সামর্থ্য রাখতে পারি না, যেমন আপনি অবশ্যই বুঝতে পারেন।"
 
 #. [message]: speaker=Harper
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:257
@@ -1389,24 +1203,16 @@ msgid ""
 "But we can’t do nothing! The Queen even be sending them beast orcs against "
 "us, that’s how evil she is! Surely you can’t stand for this..."
 msgstr ""
-"তবে আমরা কিছুই করতে পারি না!রানী এমনকি তাদের আমাদের বিরুদ্ধে জানোয়ার অর্কেস"
-" পাঠিয়ে দিচ্ছেন, এটাই তিনি কতটা খারাপ!অবশ্যই আপনি এই জন্য দাঁড়াতে পারবেন "
-"না ..."
 
 #. [message]: speaker=Lord Maddock
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:261
 msgid ""
 "Yes, I am aware of Queen Asheviere’s propensity for hiring orcs to "
-"supplement her forces. That does not mean I could do anything about it, even"
-" if I were so inclined. The best advice I can give you is to just apologize."
-" Even if they may want your head, Baldras, you still have the chance to "
+"supplement her forces. That does not mean I could do anything about it, even "
+"if I were so inclined. The best advice I can give you is to just apologize. "
+"Even if they may want your head, Baldras, you still have the chance to "
 "preserve your village. Think of the bigger picture."
 msgstr ""
-"হ্যাঁ, আমি তার বাহিনীকে পরিপূরক করার জন্য ওআরসি নিয়োগের জন্য রানী আশেভেরের "
-"প্রবণতা সম্পর্কে অবগত।এর অর্থ এই নয় যে আমি এ সম্পর্কে কিছু করতে পারতাম, "
-"এমনকি যদি আমি খুব ঝোঁক থাকতাম।আমি আপনাকে যে সর্বোত্তম পরামর্শ দিতে পারি তা "
-"হ'ল কেবল ক্ষমা চাওয়া।এমনকি যদি তারা আপনার মাথা চাইতে পারে, বাল্ড্রাস, আপনার"
-" এখনও আপনার গ্রাম সংরক্ষণের সুযোগ রয়েছে।বড় ছবিটি ভাবুন।"
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:265
@@ -1414,15 +1220,11 @@ msgid ""
 "The bigger picture of you idly sittin’ here waiting till them Wesnothians "
 "come to take the city right from your hands."
 msgstr ""
-"আপনার বৃহত্তর ছবিটি আইডলি সিট্টিন ’এখানে অপেক্ষা করছে যতক্ষণ না তাদের "
-"ওয়েসোথিয়ানরা আপনার হাত থেকে শহরটি নিয়ে আসে।"
 
 #. [message]: speaker=Lord Maddock
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:269
 msgid "I very much doubt they would be bold enough to attack us outright—"
 msgstr ""
-"আমি খুব সন্দেহ করি যে তারা আমাদের পুরোপুরি আক্রমণ করার জন্য যথেষ্ট সাহসী হবে"
-" -"
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:273
@@ -1430,8 +1232,6 @@ msgid ""
 "Head out of your behind, Maddock. Open your eyes! Look south and tell me "
 "that again!"
 msgstr ""
-"আপনার পিছন থেকে বেরিয়ে যান, ম্যাডক।তোমার চোখ খোল!দক্ষিণে দেখুন এবং আমাকে "
-"আবার বলুন!"
 
 #. [message]: speaker=Lord Maddock
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:286
@@ -1439,18 +1239,16 @@ msgid ""
 "An invading army? No, something is not right with those soldiers... but I "
 "presume we have no time to ponder that. To arms!"
 msgstr ""
-"আক্রমণকারী সেনাবাহিনী?না, এই সৈন্যদের সাথে কিছু ঠিক নয় ... তবে আমি অনুমান "
-"করি যে আমাদের এটি চিন্তা করার কোনও সময় নেই।অস্ত্র!"
 
 #. [message]: speaker=unit
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:309
 msgid "Hey, look! Some buried treasure!"
-msgstr "অহে দেখ!কিছু কবর দেওয়া ধন!"
+msgstr ""
 
 #. [message]: speaker=unit
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:334
 msgid "Looks like someone left some supplies here."
-msgstr "দেখে মনে হচ্ছে কেউ এখানে কিছু সরবরাহ রেখে গেছে।"
+msgstr ""
 
 #. [message]: speaker=unit
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:359
@@ -1458,18 +1256,16 @@ msgid ""
 "It says, “Here lies Daneth, child of the Light, loyal defender of Lord and "
 "Land.” Whoever that was."
 msgstr ""
-"এতে বলা হয়েছে, \"এখানে আলোর সন্তান, প্রভু ও ভূমির অনুগত ডিফেন্ডার ডেনথ "
-"রয়েছে।\"যে যে ছিল।"
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:363
 msgid "Maddock’s firstborn son."
-msgstr "ম্যাডকের প্রথমজাত পুত্র।"
+msgstr ""
 
 #. [message]: speaker=unit
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:367
 msgid "Oh."
-msgstr "উহু."
+msgstr ""
 
 #. [message]: speaker=Harper
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:380
@@ -1477,8 +1273,6 @@ msgid ""
 "That’s a deep well! Wonder how far down it goes. Guess I’ll chuck a rock "
 "down and find out."
 msgstr ""
-"এটি একটি গভীর কূপ!অবাক হয়ে যায় যে এটি কতদূর যায়।অনুমান করুন আমি একটি শিলা"
-" নীচে ছুঁড়ে ফেলব এবং খুঁজে বের করব।"
 
 #. [message]: speaker=Harper
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:384
@@ -1487,19 +1281,16 @@ msgid ""
 "...\n"
 "..."
 msgstr ""
-"...\n"
-"...\n"
-"..."
 
 #. [message]: speaker=Harper
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:390
 msgid "Plunk!"
-msgstr "প্লাঙ্ক!"
+msgstr ""
 
 #. [message]: speaker=Lord Maddock
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:423
 msgid "Hold there, soldier! Can we not come to terms without bloodshed?"
-msgstr "সেখানে ধরো, সৈনিক!আমরা কি রক্তপাত ছাড়া শর্তে আসতে পারি না?"
+msgstr ""
 
 #. [message]: speaker=unit
 #. [message]: speaker=Lord Maddock
@@ -1508,17 +1299,17 @@ msgstr "সেখানে ধরো, সৈনিক!আমরা কি রক
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:871
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:885
 msgid "..."
-msgstr "..."
+msgstr ""
 
 #. [message]: speaker=Lord Maddock
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:431
 msgid "Hmm. Something is quite wrong indeed..."
-msgstr "হুম।কিছু সত্যিই ভুল ..."
+msgstr ""
 
 #. [message]: speaker=narrator
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:444
 msgid "<i>The sun sets...</i>"
-msgstr "<i> সূর্য অস্ত যায় ... </i>"
+msgstr ""
 
 #. [message]: speaker=narrator
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:449
@@ -1526,76 +1317,61 @@ msgid ""
 "Baldras and Harper watch, petrified, as the skin and flesh of their "
 "adversaries begin to rot away."
 msgstr ""
-"বালদরা এবং হার্পার ঘড়ি, পেট্রিফাইড, কারণ তাদের বিরোধীদের ত্বক এবং মাংস দূরে"
-" সরে যেতে শুরু করে।"
 
 #. [wml_message]
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:530
 msgid "Could not convert a $stored_changers[$i].type, please report!"
 msgstr ""
-"একটি $ সঞ্চিত_চ্যাঙ্গারকে রূপান্তর করতে পারেনি [$ i]। টাইপ, দয়া করে রিপোর্ট"
-" করুন!"
 
 #. [message]: speaker=Harper
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:793
 msgid ""
-"Them things look like evil spirits! Are they those undead you told me about,"
-" Uncle?"
+"Them things look like evil spirits! Are they those undead you told me about, "
+"Uncle?"
 msgstr ""
-"তাদের জিনিসগুলি মন্দ আত্মার মতো দেখাচ্ছে!চাচা, আপনি কি আমাকে বলেছিলেন?"
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:797
 msgid ""
-"They bears some likeness, but these men almost seem half alive. This be some"
-" kind of truly dreadful sorcery."
+"They bears some likeness, but these men almost seem half alive. This be some "
+"kind of truly dreadful sorcery."
 msgstr ""
-"তারা কিছুটা সদৃশতা বহন করে, তবে এই লোকেরা প্রায় অর্ধেক জীবিত বলে মনে "
-"হয়।এটি একরকম সত্যই ভয়ঙ্কর যাদুবিদ্যার হতে পারে।"
 
 #. [message]: speaker=Lord Maddock
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:806
 msgid ""
-"So, their human aspect returns. Whatever these creatures are, we shall crush"
-" them all under the light of the sun."
+"So, their human aspect returns. Whatever these creatures are, we shall crush "
+"them all under the light of the sun."
 msgstr ""
-"সুতরাং, তাদের মানবিক দিক ফিরে আসে।এই প্রাণীগুলি যাই হোক না কেন, আমরা তাদের "
-"সমস্তকে সূর্যের আলোকে চূর্ণ করব।"
 
 #. [modify_unit]
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:828
 msgid "General Kestrel"
-msgstr "জেনারেল কেস্ট্রেল"
+msgstr ""
 
 #. [message]: speaker=second_unit
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:835
 msgid "Who are you? What are you?"
-msgstr "তুমি কে? তুমি কি কর?"
+msgstr ""
 
 #. [message]: speaker=Kestrel
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:839
 msgid ""
 "We... are accursed. We were the soldiers of Prince Eldred, the King’s son "
-"and betrayer... when the Prince was slain at the hands of the mage Delfador,"
-" those of us who bore witness to it were warped into these twisted forms. "
+"and betrayer... when the Prince was slain at the hands of the mage Delfador, "
+"those of us who bore witness to it were warped into these twisted forms. "
 "Now, our mortal bodies pass... into another plane of hellish existence..."
 msgstr ""
-"আমরা ... অভিশপ্ত।আমরা রাজার পুত্র এবং বিশ্বাসঘাতক প্রিন্স এল্ডার্ডের সৈন্য "
-"ছিলাম ... যখন রাজপুত্রকে ম্যাজ ডেলফ্যাডোরের হাতে হত্যা করা হয়েছিল, তখন আমরা"
-" যারা এর সাক্ষ্য দিয়েছিলাম তারা এই বাঁকানো রূপগুলিতে ছড়িয়ে পড়েছিল।এখন, "
-"আমাদের মারাত্মক দেহগুলি ... নরকীয় অস্তিত্বের অন্য একটি বিমানে ..."
 
 #. [message]: speaker=Lord Maddock
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:862
 msgid "Such is the price for treachery."
-msgstr "বিশ্বাসঘাতকতার জন্য দাম যেমন।"
+msgstr ""
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:866
 msgid "Maddock, we helped you defend your city. Will you help us now?"
 msgstr ""
-"ম্যাডক, আমরা আপনাকে আপনার শহরকে রক্ষা করতে সহায়তা করেছি।আপনি কি এখন আমাদের "
-"সাহায্য করবেন?"
 
 #. [message]: speaker=Lord Maddock
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:876
@@ -1604,14 +1380,11 @@ msgid ""
 "some of her spies are in the city... however, rest assured, I certainly do "
 "not trust the Queen and her questionable tactics.</i>"
 msgstr ""
-"<i> সাবধানে শুনুন।আমি তার কিছু গুপ্তচর শহরে রয়েছেন বলে আশেভেরের বিরুদ্ধে "
-"আমি প্রকাশ্যে কথা বলব না ... তবে আশ্বাস দিন, আমি অবশ্যই রানী এবং তার "
-"প্রশ্নবিদ্ধ কৌশলগুলিতে বিশ্বাস করি না </</i>"
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:880
 msgid "<i>What can ya offer us then?</i>"
-msgstr "<i> আপনি তখন আমাদের কী অফার করতে পারেন? </i>"
+msgstr ""
 
 #. [message]: speaker=Lord Maddock
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:884
@@ -1623,13 +1396,6 @@ msgid ""
 "I can arrange for some roads to be closed to delay their patrols. That is "
 "the most I can do for you.</i>"
 msgstr ""
-"<i> ভাল, আমি সাধারণত তাদের সাথে আমার সম্পর্কটি পরিচিত করি না, তবে আমি একটি "
-"ব্যতিক্রম করতে পারি।এখানে দক্ষিণ -পূর্বে, কার্সিনে, আপনি আমার ... "
-"পরিচিতিগুলির একটির কাছ থেকে সহায়তা পেতে পারেন।তাদের পদ্ধতিগুলি আপনার "
-"প্রয়োজনের সাথে আরও উপযুক্ত হওয়া উচিত।আপনার বাড়িগুলির জন্য, আমি আপনাকে "
-"ওয়েলডিনের বিরুদ্ধে সুরক্ষা দিতে পারি না, তবে আমি কিছু রাস্তা তাদের টহল "
-"বিলম্বের জন্য বন্ধ করার ব্যবস্থা করতে পারি।এটি আপনার জন্য আমি সবচেয়ে বেশি "
-"করতে পারি </</i>"
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:888
@@ -1639,10 +1405,6 @@ msgid ""
 "ourselves a good plan. Hope that you’re not sending us to our deaths, "
 "Maddock.</i>"
 msgstr ""
-"<i> এইচএমপিএইচ।পরিষ্কার করুন যে আপনি আমাদের লড়াই করতে সহায়তা করবেন না, তবে"
-" আমি এখানে থাকার জন্য আর সময় পাইনি ’।আমরা যদি দ্বিতীয়বার মুকুট প্রতিরোধ "
-"করতে যাচ্ছি তবে আমাদের নিজের একটি ভাল পরিকল্পনা দরকার।আশা করি আপনি আমাদের "
-"মৃত্যুর দিকে পাঠাচ্ছেন না, ম্যাডক। </i>"
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:908
@@ -1650,8 +1412,6 @@ msgid ""
 "More troops be coming from the south! With all them reinforcements, we gots "
 "no chance to defend Elensefar!"
 msgstr ""
-"দক্ষিণ থেকে আরও সৈন্য আসবে!তাদের সমস্ত শক্তিবৃদ্ধি সহ, আমরা এলেনসফারকে "
-"রক্ষার কোনও সুযোগ পাইনি!"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:921
@@ -1660,80 +1420,69 @@ msgid ""
 "even be planned. Without the necessary forces, Annuvin soon fell under "
 "Weldyn’s absolute control."
 msgstr ""
-"অ্যাশেভিয়েরের সেনাবাহিনী একত্রিত হয়েও এই বিদ্রোহের পরিকল্পনা করার আগেই "
-"একত্রিত হয়েছিল এবং আঘাত করেছিল।প্রয়োজনীয় বাহিনী ব্যতীত, অনুভিন শীঘ্রই "
-"ওয়েলডিনের পরম নিয়ন্ত্রণে পড়ে গেল।"
 
 #. [scenario]: id=05_Hide_and_Seek
 #: data/campaigns/Liberty/scenarios/05_Hide_and_Seek.cfg:6
 msgid "Hide and Seek"
-msgstr "লুকোচুরি"
+msgstr ""
 
 #. [part]
 #: data/campaigns/Liberty/scenarios/05_Hide_and_Seek.cfg:46
 msgid ""
 "22 Deeproot, 501 YW\n"
 "\n"
-"Been a tough few days since we left Elensefar with all them patrols running around. Going by boat along the Great River, we has been managing to avoid them Wesnothians, but being constantly on the lookout be real taxing. I truly be starting to feel that tiredness in my bones... old men like me should be sitting back at home, resting our grey bodies and watchin’ over them younger folk growing up. I don’t got no business here, running around as some outlaw. Maybe if I was ten years younger..."
+"Been a tough few days since we left Elensefar with all them patrols running "
+"around. Going by boat along the Great River, we has been managing to avoid "
+"them Wesnothians, but being constantly on the lookout be real taxing. I "
+"truly be starting to feel that tiredness in my bones... old men like me "
+"should be sitting back at home, resting our grey bodies and watchin’ over "
+"them younger folk growing up. I don’t got no business here, running around "
+"as some outlaw. Maybe if I was ten years younger..."
 msgstr ""
-"22 ডিপ্রুট, 501 ওয়াইডাব্লুডাব্লু\n"
-"\n"
-"আমরা সমস্ত টহলগুলি প্রায় চলমান নিয়ে এলেনসফার ছেড়ে চলে যাওয়ার পরে বেশ কয়েক দিন হয়ে গেল।মহান নদীর তীরে নৌকায় করে আমরা তাদের ওয়েসোথিয়ানদের এড়ানোর জন্য পরিচালনা করছি, তবে ক্রমাগত নজরদারি করা সত্যিকারের করের দিকে।আমি সত্যিই আমার হাড়গুলিতে ক্লান্তি অনুভব করতে শুরু করছি ... আমার মতো বৃদ্ধ পুরুষদের বাড়িতে ফিরে বসে থাকা উচিত, আমাদের ধূসর দেহগুলি বিশ্রাম নেওয়া এবং তাদের উপরে বয়স্ক লোকগুলি বেড়ে ওঠা উচিত।আমি এখানে কোনও ব্যবসা পাই না, কিছু ছদ্মবেশী হিসাবে প্রায় দৌড়াদৌড়ি।আমি যদি দশ বছর ছোট ছিলাম ..."
 
 #. [part]
 #: data/campaigns/Liberty/scenarios/05_Hide_and_Seek.cfg:52
 msgid ""
 "Anyway, the messenger I sent back to Relana should be in Delwyn already. We "
-"should be arriving to Carcyn soon too, to where that coward Maddock said his"
-" ‘contact’ be. Truths be told, I don’t know how this’ll be turning out, "
-"especially since I don’t be no social butterfly like sis were. Don’t like me"
-" no city folk really. But I’ll deal with them if I gots to."
+"should be arriving to Carcyn soon too, to where that coward Maddock said his "
+"‘contact’ be. Truths be told, I don’t know how this’ll be turning out, "
+"especially since I don’t be no social butterfly like sis were. Don’t like me "
+"no city folk really. But I’ll deal with them if I gots to."
 msgstr ""
-"যাইহোক, আমি যে মেসেঞ্জারকে আমি রিলানায় ফেরত পাঠিয়েছি তা ইতিমধ্যে ডেলউইনে "
-"হওয়া উচিত।আমাদের খুব শীঘ্রই কার্সিনে পৌঁছানো উচিত, যেখানে সেই কাপুরুষ "
-"ম্যাডক তার ‘যোগাযোগ’ থাকতে বলেছিলেন।সত্য কথা বলা যায়, আমি জানি না যে এটি "
-"কীভাবে চালু হবে, বিশেষত যেহেতু আমি এসআইএসের মতো সামাজিক প্রজাপতি নই।আমাকে "
-"সত্যিই কোনও শহরের লোক পছন্দ করবেন না।তবে আমি যদি তাদের সাথে থাকি তবে আমি "
-"তাদের সাথে ডিল করব।"
 
 #. [side]: type=Master Bowman, id=Quentin
 #: data/campaigns/Liberty/scenarios/05_Hide_and_Seek.cfg:80
 msgid "Quentin"
-msgstr "কোয়ান্টিন"
+msgstr ""
 
 #. [side]: type=Rogue, id=Hans
 #: data/campaigns/Liberty/scenarios/05_Hide_and_Seek.cfg:118
 msgid "Hans"
-msgstr "হান্স"
+msgstr ""
 
 #. [objective]: condition=win
 #: data/campaigns/Liberty/scenarios/05_Hide_and_Seek.cfg:151
 msgid "Enter the Grey Woods with Hans"
-msgstr "হান্স সহ ধূসর উডস প্রবেশ করুন"
+msgstr ""
 
 #. [objective]: condition=lose
 #: data/campaigns/Liberty/scenarios/05_Hide_and_Seek.cfg:163
 msgid "Death of Hans"
-msgstr "হান্সের মৃত্যু"
+msgstr ""
 
 #. [note]
 #: data/campaigns/Liberty/scenarios/05_Hide_and_Seek.cfg:168
 msgid "In fog, units always see one hex further than they can move."
 msgstr ""
-"কুয়াশায়, ইউনিটগুলি সর্বদা একটি হেক্স তাদের সরানোর চেয়ে আরও দেখতে পায়।"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Liberty/scenarios/05_Hide_and_Seek.cfg:349
 msgid ""
-"Relentlessly pursued by riders patrolling the road to Elensefar, Baldras and"
-" the villagers traveled unseen along the swampy banks of the Great River to "
+"Relentlessly pursued by riders patrolling the road to Elensefar, Baldras and "
+"the villagers traveled unseen along the swampy banks of the Great River to "
 "the city of Carcyn. They hid until nightfall, then crept out to find the "
 "help Lord Maddock hinted was here."
 msgstr ""
-"রাইডারদের দ্বারা নিরলসভাবে অনুসরণ করা এলেনসফার, বাল্ড্রাস এবং গ্রামবাসীরা "
-"গ্রেট নদীর জলাবদ্ধ তীর ধরে কার্সিন শহরে অদেখা ভ্রমণ করেছিলেন।তারা রাতের বেলা"
-" অবধি লুকিয়ে ছিল, তারপরে লর্ড ম্যাডককে ইঙ্গিত দেওয়ার জন্য এখানে সাহায্য "
-"করার জন্য বেরিয়ে এসেছিল।"
 
 #. [message]: speaker=Harper
 #: data/campaigns/Liberty/scenarios/05_Hide_and_Seek.cfg:397
@@ -1741,8 +1490,6 @@ msgid ""
 "Wow, is that Carcyn in the distance? Look at how grand some of them spires "
 "be!"
 msgstr ""
-"বাহ, সেই কার্সিন কি দূরত্বে?তাদের মধ্যে কিছু স্পায়ার কতটা দুর্দান্ত তা "
-"দেখুন!"
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/05_Hide_and_Seek.cfg:402
@@ -1752,47 +1499,36 @@ msgid ""
 "folk be real impatient and mean. Always wantin’ some price for their help, "
 "too."
 msgstr ""
-"আমি যখন ছোট ছেলে ছিলাম তখন আমি এতটা দক্ষিণে এসেছি?সম্ভবত এটি এখন চিত্তাকর্ষক"
-" দেখাচ্ছে, তবে শহরের জীবন কখনও সত্যিকারের সুন্দর কিছু ছিল না।তাদের শহর "
-"লোকেরা প্রকৃত অধৈর্য এবং গড় হতে পারে।সর্বদা তাদের সহায়তার জন্য কিছু মূল্য "
-"চাই।"
 
 #. [message]: speaker=Harper
 #: data/campaigns/Liberty/scenarios/05_Hide_and_Seek.cfg:407
 msgid ""
-"Well, we need their help now, don’t we? So we got to figure out a way to get"
-" to Lord Maddock’s friend. But he didn’t say anything about who that was."
+"Well, we need their help now, don’t we? So we got to figure out a way to get "
+"to Lord Maddock’s friend. But he didn’t say anything about who that was."
 msgstr ""
-"ঠিক আছে, আমাদের এখন তাদের সহায়তা দরকার, তাই না?সুতরাং আমরা লর্ড ম্যাডকের "
-"বন্ধুর কাছে যাওয়ার একটি উপায় বের করতে পেরেছি।তবে সে কে সে সম্পর্কে কিছুই "
-"বলেনি।"
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/05_Hide_and_Seek.cfg:412
 msgid ""
 "Harper, when a noble lord says he don’t want some kind of relationship "
-"known, it means some kind o’ connection with the black market. We be looking"
-" for criminals, probably some thieves’ den. Or, maybe they be looking for "
-"us."
+"known, it means some kind o’ connection with the black market. We be looking "
+"for criminals, probably some thieves’ den. Or, maybe they be looking for us."
 msgstr ""
-"হার্পার, যখন একজন মহৎ প্রভু বলেন যে তিনি কোনও ধরণের সম্পর্কের সাথে পরিচিত "
-"চান না, এর অর্থ কালো বাজারের সাথে কোনও সদয় ও ’সংযোগ।আমরা অপরাধীদের সন্ধান "
-"করছি, সম্ভবত কিছু চোর ’ডেন।অথবা, সম্ভবত তারা আমাদের সন্ধান করবে।"
 
 #. [unit]: type=Thief, id=Link
 #: data/campaigns/Liberty/scenarios/05_Hide_and_Seek.cfg:428
 msgid "Link"
-msgstr "লিঙ্ক"
+msgstr ""
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/05_Hide_and_Seek.cfg:433
 msgid "Right on time."
-msgstr "সঠিক সময়ে."
+msgstr ""
 
 #. [message]: speaker=Harper
 #: data/campaigns/Liberty/scenarios/05_Hide_and_Seek.cfg:438
 msgid "How do we know we can trust him?"
-msgstr "আমরা কীভাবে জানি যে আমরা তাকে বিশ্বাস করতে পারি?"
+msgstr ""
 
 #. [message]: speaker=Link
 #: data/campaigns/Liberty/scenarios/05_Hide_and_Seek.cfg:443
@@ -1802,16 +1538,11 @@ msgid ""
 "contingent of heavy infantry here to supervise the city. They’re patrolling "
 "the streets and forests for us."
 msgstr ""
-"আপনি যদি আমার কোয়ারিগুলির মধ্যে একটি হন তবে এখনই আপনার গলা চেরা হবে।যেমনটি "
-"হ'ল, আপনি দুজন এখনও আসন্ন বিপদে রয়েছেন।মাত্র এক সপ্তাহ আগে, ক্রাউন শহরটি "
-"তদারকি করার জন্য এখানে ভারী পদাতিকের একটি দল পাঠিয়েছিল।তারা আমাদের জন্য "
-"রাস্তাগুলি এবং বনে টহল দিচ্ছে।"
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/05_Hide_and_Seek.cfg:448
 msgid "I be assuming they’ll also try to stop us if they see us."
 msgstr ""
-"আমি ধরে নিচ্ছি যে তারা যদি আমাদের দেখে তবে তারা আমাদের থামানোর চেষ্টা করবে।"
 
 #. [message]: speaker=Link
 #: data/campaigns/Liberty/scenarios/05_Hide_and_Seek.cfg:453
@@ -1821,10 +1552,6 @@ msgid ""
 "the signpost. My brother Hans will guide you from there. Avoid the soldiers "
 "if you can."
 msgstr ""
-"খুব সম্ভবত.এখন তাড়াতাড়ি, আপনাকে অবশ্যই এটিকে শহর পেরিয়ে ধূসর কাঠের মধ্যে "
-"তৈরি করতে হবে।দক্ষিণ -পূর্বে একটি ছোট্ট পথ রয়েছে যা বনের দিকে নিয়ে "
-"যায়।সাইনপোস্টের সন্ধান করুন।আমার ভাই হান্স আপনাকে সেখান থেকে গাইড করবে।আপনি"
-" যদি পারেন তবে সৈন্যদের এড়িয়ে চলুন।"
 
 #. [message]: speaker=second_unit
 #: data/campaigns/Liberty/scenarios/05_Hide_and_Seek.cfg:491
@@ -1832,51 +1559,45 @@ msgid ""
 "Looks like these guards be holding stationary posts. If we’re careful, we "
 "can get ourselves around them unnoticed."
 msgstr ""
-"দেখে মনে হচ্ছে এই রক্ষীরা স্টেশনারি পোস্টগুলি ধরে রাখছেন।যদি আমরা সাবধান "
-"থাকি তবে আমরা তাদের চারপাশে নজর রাখি।"
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/05_Hide_and_Seek.cfg:495
 msgid ""
 "Harper, you younger and faster folks needs to be our eyes. Scout ahead and "
-"find a way past them guards, but make sure ya don’t get yourselves "
-"spotted..."
+"find a way past them guards, but make sure ya don’t get yourselves spotted..."
 msgstr ""
-"হার্পার, আপনি আরও কম বয়সী এবং দ্রুত লোকদের আমাদের চোখ হওয়া দরকার।এগিয়ে "
-"স্কাউট করুন এবং তাদের প্রহরীদের পাশের একটি উপায় খুঁজে বের করুন, তবে নিশ্চিত"
-" করুন যে আপনি নিজেকে চিহ্নিত করবেন না ..."
 
 #. [message]: speaker=unit
 #: data/campaigns/Liberty/scenarios/05_Hide_and_Seek.cfg:566
 msgid "Who goes there? Halt!"
-msgstr "যারা সেখানে যায়?থাম!"
+msgstr ""
 
 #. [message]: speaker=Harper
 #: data/campaigns/Liberty/scenarios/05_Hide_and_Seek.cfg:570
 msgid "They’ve seen us! <i>Run</i>!"
-msgstr "তারা আমাদের দেখেছে!<i> চালান </i>!"
+msgstr ""
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/05_Hide_and_Seek.cfg:587
 msgid "Quick, back into the shadows! Maybe we can still lose them!"
-msgstr "দ্রুত, ছায়ায় ফিরে!আমরা এখনও তাদের হারাতে পারি!"
+msgstr ""
 
 #. [message]: speaker=Harper
 #. Harper defeats an Iron Mauler
 #: data/campaigns/Liberty/scenarios/05_Hide_and_Seek.cfg:605
 msgid "Uncle, we did it! We beat one of them iron monsters!"
-msgstr "চাচা, আমরা এটা করেছি!আমরা তাদের একজনকে আয়রন দানবকে মারলাম!"
+msgstr ""
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/05_Hide_and_Seek.cfg:609
 msgid "A fine job lass, but more sure gots to be coming. Let’s keep movin’."
-msgstr "একটি দুর্দান্ত কাজের লাস, তবে আরও নিশ্চিত হয়ে উঠবে।চলুন চলি চলুন ’।"
+msgstr ""
 
 #. [message]: speaker=unit
 #: data/campaigns/Liberty/scenarios/05_Hide_and_Seek.cfg:628
 msgid ""
 "This way, into the forest! We’ll be able to lose them in the Grey Woods."
-msgstr "এইভাবে, বনের মধ্যে!আমরা ধূসর বনে তাদের হারাতে সক্ষম হব।"
+msgstr ""
 
 #. [message]: speaker=Hans
 #: data/campaigns/Liberty/scenarios/05_Hide_and_Seek.cfg:653
@@ -1884,8 +1605,6 @@ msgid ""
 "You can come if you wish, but we are mostly interested in speaking to "
 "Baldras."
 msgstr ""
-"আপনি যদি চান তবে আপনি আসতে পারেন তবে আমরা বেশিরভাগ বালড্রাসের সাথে কথা বলতে "
-"আগ্রহী।"
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/05_Hide_and_Seek.cfg:673
@@ -1894,19 +1613,16 @@ msgid ""
 "infiltrating a heavily guarded city relyin’ on nothing but the cover of "
 "darkness and my wits."
 msgstr ""
-"আমি বছরের পর বছর এত বেশি দৌড়িনি।মনে হচ্ছে আমি এখন একজন সত্যিকারের আউটলাও "
-"হচ্ছি, একটি ভারী রক্ষিত শহর রিলিনকে অনুপ্রবেশ করে অন্ধকার এবং আমার "
-"বুদ্ধিমানদের প্রচ্ছদ ব্যতীত আর কিছুই নয়।"
 
 #. [message]: speaker=Harper
 #: data/campaigns/Liberty/scenarios/05_Hide_and_Seek.cfg:678
 msgid "It was fun, wasn’t it?"
-msgstr "মজা ছিল, তাই না?"
+msgstr ""
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/05_Hide_and_Seek.cfg:683
 msgid "Perhaps a little."
-msgstr "সম্ভবত একটু।"
+msgstr ""
 
 #. [message]: speaker=Hans
 #: data/campaigns/Liberty/scenarios/05_Hide_and_Seek.cfg:688
@@ -1914,13 +1630,11 @@ msgid ""
 "Enough chatter, you still have some guards on your tail. We need to head "
 "deeper into the Grey Woods to lose them."
 msgstr ""
-"যথেষ্ট বকবক, আপনার লেজে এখনও কিছু প্রহরী রয়েছে।সেগুলি হারাতে আমাদের ধূসর "
-"কাঠের আরও গভীর দিকে যেতে হবে।"
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/05_Hide_and_Seek.cfg:693
 msgid "Lead the way."
-msgstr "পথ দেখান."
+msgstr ""
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/05_Hide_and_Seek.cfg:717
@@ -1928,29 +1642,29 @@ msgid ""
 "Blast it, we was too slow! With the sun rising already, them guards will "
 "have no trouble spotting us now..."
 msgstr ""
-"বিস্ফোরণ, আমরা খুব ধীর ছিল!ইতিমধ্যে সূর্য উঠার সাথে সাথে তাদের প্রহরীদের এখন"
-" আমাদের স্পট করতে কোনও সমস্যা হবে না ..."
 
 #. [message]: speaker=Hans
 #: data/campaigns/Liberty/scenarios/05_Hide_and_Seek.cfg:734
 msgid "You fools! You weren’t supposed to lead them to me..."
-msgstr "তুমি বোকা!আপনি তাদের আমার কাছে নিয়ে যাওয়ার কথা ছিল না ..."
+msgstr ""
 
 #. [scenario]: id=06_The_Hunters
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:4
 msgid "The Hunters"
-msgstr "শিকারিরা"
+msgstr ""
 
 #. [part]
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:45
 msgid ""
 "24 Deeproot, 501 YW\n"
 "\n"
-"The sun don’t really shine at all in these Grey Woods, but truth be told, I has been getting used to it more and more. Lounging out in the warm daylight, talkin’ with Erwen while watching them kids play out in the fields... those times were so long ago. Our lives weren’t never real peaceful, but back then, we had our homes and our friends and our family... now we be creatures of the dark."
+"The sun don’t really shine at all in these Grey Woods, but truth be told, I "
+"has been getting used to it more and more. Lounging out in the warm "
+"daylight, talkin’ with Erwen while watching them kids play out in the "
+"fields... those times were so long ago. Our lives weren’t never real "
+"peaceful, but back then, we had our homes and our friends and our family... "
+"now we be creatures of the dark."
 msgstr ""
-"24 ডিপ্রুট, 501 ওয়াইডাব্লুডাব্লু\n"
-"\n"
-"এই ধূসর বনের মধ্যে সূর্য আসলেই জ্বলজ্বল করে না, তবে সত্য বলা যায়, আমি আরও বেশি করে অভ্যস্ত হয়ে আসছি।উষ্ণ দিবালোকের মধ্যে ঝাঁকুনি দেওয়া, টকিন ’এরওয়েনের সাথে বাচ্চাদের মাঠে খেলতে দেখলে ... সেই সময়গুলি এত দিন আগে ছিল।আমাদের জীবন কখনই সত্যিকারের শান্তিপূর্ণ ছিল না, তবে তারপরে, আমাদের বাড়িগুলি এবং আমাদের বন্ধুবান্ধব এবং আমাদের পরিবার ছিল ... এখন আমরা অন্ধকারের প্রাণী।"
 
 #. [part]
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:51
@@ -1963,13 +1677,6 @@ msgid ""
 "for fun... I never wanted to go, of course. I were always real lazy. Still "
 "am, even now."
 msgstr ""
-"এটি এভাবে বাস্তব একাকী।আমার এখনও হার্পার রয়েছে, এবং আমি লাসের জন্য কৃতজ্ঞ, "
-"তবে তিনি আমার মতো কোনও বৃদ্ধ লোককে সত্যই বুঝতে পারেন না।আমি অতীতকে অতীত হতে "
-"জানি, তবে আমি কেবল সাহায্য করতে পারি না তবে এই জাতীয় সময়ে এসআইএসের কথা "
-"ভাবতে পারি না।তিনি কীভাবে আমাকে কিছু নির্বোধ ছোট্ট দড়িতে টেনে নিয়ে যাবেন, "
-"এখানে এবং সেখানে কিছুটা সোনার বা লিল ট্রিনকেটের জন্য বা কখনও কখনও কেবল "
-"মজাদার জন্য ... অবশ্যই আমি কখনই যেতে চাইনি।আমি সবসময় সত্যই অলস ছিলাম।এখনও "
-"আমি এখন।"
 
 #. [part]
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:55
@@ -1978,104 +1685,88 @@ msgid ""
 "mopey, live a little!” I know she be trying to be cheery, but she really "
 "don’t know how much she be reminding me of Erwen sometimes..."
 msgstr ""
-"তারপরে, হার্পার আমাকে বলে, \"চাচা এসো, আমরা একটি অ্যাডভেঞ্চারে আছি!এতটা মোপি"
-" হবেন না, একটু বাঁচবেন! \"আমি জানি যে সে আনন্দদায়ক হওয়ার চেষ্টা করছে, তবে "
-"তিনি সত্যিই জানেন না যে তিনি আমাকে কখনও কখনও এরওয়েনের কথা স্মরণ করিয়ে "
-"দিচ্ছেন ..."
 
 #. [part]
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:59
 msgid ""
 "I must be strong. That’s what I tells myself. I should be strong, but... I "
-"don’t know what be keeping me going, if it be this misguided sense of pride,"
-" or my duties to the village, or Harper, or even just remembering the past, "
+"don’t know what be keeping me going, if it be this misguided sense of pride, "
+"or my duties to the village, or Harper, or even just remembering the past, "
 "making some futile attempts to go back to better times."
 msgstr ""
-"আমি অবশ্যই শক্তিশালী হতে হবে।এটাই আমি নিজেকে বলি।আমার শক্তিশালী হওয়া উচিত, "
-"তবে ... আমি জানি না যে আমাকে কী চালিয়ে যাচ্ছে, যদি এটি এই গর্বের এই "
-"বিভ্রান্তি বোধ হয়, বা গ্রামে আমার কর্তব্য, বা হার্পারে, বা এমনকি অতীতকে "
-"স্মরণ করে, কিছু নিরর্থক প্রচেষ্টা করেওআরও ভাল সময়ে ফিরে যেতে।"
 
 #. [part]
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:63
 msgid "Either way, I be here now, on this adventure."
-msgstr "যেভাবেই হোক, আমি এখন এখানে আছি, এই অ্যাডভেঞ্চারে।"
+msgstr ""
 
 #. [side]: type=Shadow Lord, id=Helicrom
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:90
 msgid "Helicrom"
-msgstr "হেলিক্রোম"
+msgstr ""
 
 #. [side]: type=Shock Trooper, id=Linneus
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:111
 msgid "Linneus"
-msgstr "লিনিয়াস"
+msgstr ""
 
 #. [side]: type=Lieutenant, id=Archarel
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:130
 msgid "Archarel"
-msgstr "আর্চারেল"
+msgstr ""
 
 #. [objective]: condition=win
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:182
 msgid "Kill all enemy patrols before they reach the outpost"
-msgstr "সমস্ত শত্রু টহলগুলি ফাঁড়ির কাছে পৌঁছানোর আগে হত্যা করুন"
+msgstr ""
 
 #. [objective]: condition=lose
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:194
 msgid "Death of Helicrom"
-msgstr "হেলিক্রোমের মৃত্যু"
+msgstr ""
 
 #. [objective]: condition=lose
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:198
 msgid "Any patrol units survive when turns run out"
-msgstr "যখন টার্নগুলি শেষ হয়ে যায় তখন কোনও টহল ইউনিট বেঁচে থাকে"
+msgstr ""
 
 #. [objective]: condition=lose
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:202
 msgid "Any allied unit is sighted by the outpost guards"
-msgstr "যে কোনও মিত্র ইউনিট আউটপোস্ট গার্ডদের দ্বারা নজর দেওয়া হয়"
+msgstr ""
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:255
 msgid "The leader, I presumes."
-msgstr "নেতা, আমি অনুমান করি।"
+msgstr ""
 
 #. [message]: speaker=Helicrom
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:259
 msgid ""
-"Indeed, I am Lord Helicrom, the Crow of the Grey Woods. We are acquaintances"
-" of Lord Maddock, who sent word to us of your predicament. I believe we can "
+"Indeed, I am Lord Helicrom, the Crow of the Grey Woods. We are acquaintances "
+"of Lord Maddock, who sent word to us of your predicament. I believe we can "
 "work something out for your situation."
 msgstr ""
-"প্রকৃতপক্ষে, আমি লর্ড হেলিক্রোম, ধূসর কাঠের কাক।আমরা লর্ড ম্যাডকের পরিচিত, "
-"যিনি আপনার দুর্দশা সম্পর্কে আমাদের কাছে কথা পাঠিয়েছিলেন।আমি বিশ্বাস করি "
-"আমরা আপনার পরিস্থিতির জন্য কিছু কাজ করতে পারি।"
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:263
 msgid "What be your pursuits?"
-msgstr "আপনার অনুসরণ কি?"
+msgstr ""
 
 #. [message]: speaker=Helicrom
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:267
 msgid ""
 "The former king’s magic ministry kept a tight control on the training and "
 "employment of mages in Wesnoth. Those of us who dared to... depart from the "
-"curriculum were dealt with harshly. Many of us were forced to escape here to"
-" continue our study of our brand of magic. Our security and secrecy are not "
+"curriculum were dealt with harshly. Many of us were forced to escape here to "
+"continue our study of our brand of magic. Our security and secrecy are not "
 "cheap."
 msgstr ""
-"প্রাক্তন কিং এর যাদু মন্ত্রক ওয়েসনোথে ম্যাজের প্রশিক্ষণ এবং কর্মসংস্থানের "
-"উপর কঠোর নিয়ন্ত্রণ রেখেছিল।আমাদের মধ্যে যারা সাহস করেছিলাম ... পাঠ্যক্রম "
-"থেকে বিদায় নিয়েছিলাম তাদের কঠোরভাবে মোকাবেলা করা হয়েছিল।আমাদের মধ্যে "
-"অনেকে আমাদের ব্র্যান্ডের ব্র্যান্ডের আমাদের অধ্যয়ন চালিয়ে যেতে এখানে "
-"পালাতে বাধ্য হয়েছিল।আমাদের সুরক্ষা এবং গোপনীয়তা সস্তা নয়।"
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:271
 msgid "Then you be fellow outlaws. But why do you wants to help us?"
-msgstr "তারপরে আপনি সহকর্মী হবেন।তবে আপনি কেন আমাদের সাহায্য করতে চান?"
+msgstr ""
 
 #. [message]: speaker=Helicrom
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:275
@@ -2083,13 +1774,11 @@ msgid ""
 "<i>Quid pro quo.</i> Our aid is never given freely. You have something that "
 "may be useful to us."
 msgstr ""
-"<i> কুইড প্রো কো। </i> আমাদের সহায়তা কখনও অবাধে দেওয়া হয় না।আপনার কাছে "
-"এমন কিছু রয়েছে যা আমাদের পক্ষে দরকারী হতে পারে।"
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:279
 msgid "Manpower. Mages be no good at fighting, I knows. But what for?"
-msgstr "জনশক্তিম্যাগেজ লড়াইয়ে ভাল হবে না, আমি জানি।তবে কিসের জন্য?"
+msgstr ""
 
 #. [message]: speaker=Helicrom
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:283
@@ -2098,14 +1787,11 @@ msgid ""
 "occupied by king or queen, aids us. To accomplish that, we must destabilize "
 "their forces in this region. The key is Halstead."
 msgstr ""
-"এটা বুঝতে।ওয়েসোথের সিংহাসনের কোনও দুর্বলতা, তা রাজা বা রানী দ্বারা দখল করা "
-"হোক না কেন, আমাদের সহায়তা করুন।এটি সম্পাদন করার জন্য, আমাদের অবশ্যই এই "
-"অঞ্চলে তাদের বাহিনীকে অস্থিতিশীল করতে হবে।কীটি হালস্টেড।"
 
 #. [message]: speaker=Harper
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:287
 msgid "That big ol’ fort between Aldril and Elensefar?"
-msgstr "অ্যালড্রিল এবং এলেনসফার মধ্যে সেই বড় ওল ’দুর্গ?"
+msgstr ""
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:291
@@ -2115,10 +1801,6 @@ msgid ""
 "gathering there. But we gots no way to fight a war with them, not since "
 "Maddock won’t send his soldiers to battle."
 msgstr ""
-"আয়ে, হার্পারম্যাজ যা বলে তা অবাক হওয়ার কিছু নেই।এটি কেন্দ্রীয় গুরুত্বের "
-"একটি ঘাঁটি হতে পারে, প্রতিদ্বন্দ্বী ’এলেনসফার এমনকি।ম্যাডক বলেছেন যে রানির "
-"সৈন্যরা সেখানে জড়ো হচ্ছে।তবে আমরা তাদের সাথে যুদ্ধের লড়াইয়ের কোনও উপায় "
-"পাইনি, যেহেতু ম্যাডক তার সৈন্যদের যুদ্ধে প্রেরণ করবে না।"
 
 #. [message]: speaker=Helicrom
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:295
@@ -2131,13 +1813,6 @@ msgid ""
 "villages will be able to resist them. Your only choice would be to flee "
 "farther north into orcish territory."
 msgstr ""
-"এটা জানুন, বালড্রস।গত সপ্তাহে, বেশ কয়েকটি টহল আবার গ্রেট নদীর ওপারে আনুভিনে"
-" প্রবেশ করেছে।রিলানা নামের এক মহিলা তাদের একটি ছোট মিলিশিয়ার সাথে বিরোধিতা "
-"করেছিলেন এবং তিনি বিজয়ী ছিলেন, তবে ভারী ক্ষতির সাথে ছিলেন।মুকুট অবশ্য এই "
-"বিদ্রোহের নজরে নেওয়া শুরু করেছে এবং হালস্টেডের মধ্যে বাহিনীকে ভর করছে।যখন "
-"এর সেনাবাহিনী উত্থাপিত হয়, আপনার ছোট্ট কোনও গ্রাম তাদের প্রতিরোধ করতে সক্ষম"
-" হবে না।আপনার একমাত্র পছন্দটি হ'ল আরও উত্তর দিকে উত্তর দিকে অর্কিশ অঞ্চলে "
-"পালিয়ে যাওয়া।"
 
 #. [message]: speaker=Harper
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:299
@@ -2145,52 +1820,42 @@ msgid ""
 "We’d never survive there. But would it be so bad if we just swore fealty to "
 "the Queen?"
 msgstr ""
-"আমরা সেখানে কখনও বেঁচে থাকতাম না।তবে আমরা যদি কেবল রানির কাছে ফ্যাল্টি কসম "
-"খেয়েছিলাম তবে কি এত খারাপ হবে?"
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:303
 msgid "Only if we gots no other choice. Let’s hear the mage’s plan first."
 msgstr ""
-"কেবলমাত্র যদি আমরা অন্য কোনও পছন্দ না পাই।আসুন প্রথমে ম্যাজের পরিকল্পনাটি "
-"শুনি।"
 
 #. [message]: speaker=Helicrom
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:307
 msgid ""
 "I’m not asking you to fight a war. A direct fight against Weldyn’s armies "
-"would be undoubtedly foolish. However, we have other means within our grasp."
-" From Dan’Tonk to Halstead, the fastest path lies through the pass between "
-"the Brown Hills and the Gryphon Mountains followed by the trek through these"
-" Grey Woods. We are in prime position to gnaw away at their troops, "
-"crippling their forces before they ever arrive at their destination."
+"would be undoubtedly foolish. However, we have other means within our grasp. "
+"From Dan’Tonk to Halstead, the fastest path lies through the pass between "
+"the Brown Hills and the Gryphon Mountains followed by the trek through these "
+"Grey Woods. We are in prime position to gnaw away at their troops, crippling "
+"their forces before they ever arrive at their destination."
 msgstr ""
-"আমি আপনাকে যুদ্ধে লড়াই করতে বলছি না।ওয়েলডিনের সেনাবাহিনীর বিরুদ্ধে সরাসরি "
-"লড়াই নিঃসন্দেহে বোকা হবে।যাইহোক, আমাদের উপলব্ধি মধ্যে আমাদের অন্যান্য উপায়"
-" আছে।ড্যানটোনক থেকে হালস্টেড পর্যন্ত, দ্রুততম পথটি ব্রাউন হিলস এবং গ্রিফন "
-"পর্বতমালার মধ্যবর্তী পাসের মধ্য দিয়ে অবস্থিত এবং তারপরে এই ধূসর কাঠগুলির "
-"মধ্য দিয়ে ট্রেকটি অনুসরণ করে।আমরা তাদের সেনাবাহিনীকে পঙ্গু করে তাদের "
-"গন্তব্যে পৌঁছানোর আগে তাদের বাহিনীকে পঙ্গু করে ফেলার প্রধান অবস্থানে রয়েছি।"
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:311
 msgid "Then what?"
-msgstr "তারপর কি?"
+msgstr ""
 
 #. [message]: speaker=Helicrom
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:315
 msgid "I am sure you can guess, magistrate."
-msgstr "আমি নিশ্চিত আপনি অনুমান করতে পারেন, ম্যাজিস্ট্রেট।"
+msgstr ""
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:319
 msgid "You means to sack Halstead itself."
-msgstr "আপনি নিজেই হালস্টেডকে বরখাস্ত করা মানে।"
+msgstr ""
 
 #. [message]: speaker=Harper
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:323
 msgid "There’s no way we can fight them all... can we?"
-msgstr "আমরা তাদের সবার সাথে লড়াই করার কোনও উপায় নেই ... আমরা কি পারি?"
+msgstr ""
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:327
@@ -2198,27 +1863,20 @@ msgid ""
 "I don’t know. But, for now, ambushing them patrols be easy enough. That’ll "
 "slow them Wesnothians down enough for us to figure out the next step."
 msgstr ""
-"আমি জানি না।তবে, আপাতত, তাদের টহলগুলি আক্রমণ করা যথেষ্ট সহজ।এটি তাদের "
-"পরবর্তী পদক্ষেপটি বের করার জন্য আমাদের যথেষ্ট পরিমাণে ওয়েসনোথিয়ানদের ধীর "
-"করে দেবে।"
 
 #. [message]: speaker=Helicrom
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:331
 msgid ""
 "In the last day, my scouts have counted five platoons of troops marching "
 "towards the garrison. We must eliminate them all before they reach the "
-"outpost at the end of the woods. The outpost also must not be alerted to our"
-" presence, or we will have the bulk of their forces upon us."
+"outpost at the end of the woods. The outpost also must not be alerted to our "
+"presence, or we will have the bulk of their forces upon us."
 msgstr ""
-"শেষ দিনে, আমার স্কাউটগুলি গ্যারিসনের দিকে যাত্রা করে পাঁচটি প্লাটুন সৈন্য "
-"গণনা করেছে।কাঠের শেষে ফাঁড়াতে পৌঁছানোর আগে আমাদের অবশ্যই এগুলি সবই মুছে "
-"ফেলতে হবে।ফাঁড়িটিও আমাদের উপস্থিতি সম্পর্কে সতর্ক করা উচিত নয়, বা আমাদের "
-"উপর তাদের বেশিরভাগ বাহিনী থাকবে।"
 
 #. [message]: speaker=Harper
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:342
 msgid "The first platoon approaches..."
-msgstr "প্রথম প্লাটুনের কাছে এসেছে ..."
+msgstr ""
 
 #. [message]: speaker=Helicrom
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:386
@@ -2227,62 +1885,57 @@ msgid ""
 "one shall fear the open roads and night sky more than the armies of Weldyn. "
 "Strike quickly, strike silently... and leave no one alive."
 msgstr ""
-"আমরা তাদের এই পথের অন্য দিক থেকে পিন্স করব।যখন আমাদের কাজ করা হয়, তখন কেউ "
-"ওয়েলডিনের সেনাবাহিনীর চেয়ে খোলা রাস্তা এবং রাতের আকাশকে ভয় পাবে না।দ্রুত "
-"আঘাত করুন, নিঃশব্দে আঘাত করুন ... এবং কাউকে জীবিত রাখবেন না।"
 
 #. [message]: speaker=Linneus
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:508
 msgid "It’s an ambush! Run!"
-msgstr "এটি একটি আক্রমণ!দৌড়!"
+msgstr ""
 
 #. [message]: speaker=Helicrom
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:523
 msgid ""
 "Ah, here it is. I was wondering where I had misplaced my favorite blade."
 msgstr ""
-"আহ, এখানে।আমি ভাবছিলাম যে আমি আমার প্রিয় ব্লেডটি কোথায় ভুল জায়গায় "
-"রেখেছি।"
 
 #. [message]: speaker=unit
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:557
 msgid "Hey, I found some old coins in this shack."
-msgstr "আরে, আমি এই ঝাঁকুনিতে কিছু পুরানো কয়েন পেয়েছি।"
+msgstr ""
 
 #. [message]: speaker=unit
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:593
 msgid "Bleagh, a slimy tentacle. Why’s it so big?"
-msgstr "ব্লিঘ, একটি পাতলা তাঁবু।এটা এত বড় কেন?"
+msgstr ""
 
 #. [message]: speaker=unit
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:606
 msgid "There’s a rusty key here. I wonder if it could be useful?"
-msgstr "এখানে একটি মরিচা কী আছে।আমি ভাবছি যদি এটি কার্যকর হতে পারে?"
+msgstr ""
 
 #. [message]: speaker=unit
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:633
 msgid "There is a waterlogged coffin here."
-msgstr "এখানে একটি জলাবদ্ধ কফিন আছে।"
+msgstr ""
 
 #. [message]: speaker=unit
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:646
 msgid "Hey, that key fits in this coffin. Should I open it?"
-msgstr "আরে, এই কীটি এই কফিনে ফিট করে।আমি এটা খুলতে হবে?"
+msgstr ""
 
 #. [option]
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:651
 msgid "No, that be a terrible idea."
-msgstr "না, এটি একটি ভয়ানক ধারণা।"
+msgstr ""
 
 #. [option]
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:658
 msgid "Fine, do it."
-msgstr "ভাল, এটা করুন।"
+msgstr ""
 
 #. [message]: speaker=unit
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:673
 msgid "What is this disgusting monster?"
-msgstr "এই ঘৃণ্য দৈত্যটি কী?"
+msgstr ""
 
 #. [message]: speaker=Helicrom
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:678
@@ -2290,30 +1943,27 @@ msgid ""
 "A ghoul, a creature of disease and pestilence. Kill the putrid thing. Its "
 "stench is making me sick."
 msgstr ""
-"একটি ঘোল, রোগ এবং মহামারী একটি প্রাণী।পুত্রিড জিনিস হত্যা।এর দুর্গন্ধ আমাকে "
-"অসুস্থ করে তুলছে।"
 
 #. [message]: speaker=Helicrom
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:703
 msgid ""
 "Disgusting though it may be, perhaps that creature’s corpse could be useful."
 msgstr ""
-"জঘন্য যদিও এটি হতে পারে তবে সম্ভবত সেই প্রাণীর মৃতদেহ কার্যকর হতে পারে।"
 
 #. [message]: speaker=unit
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:718
 msgid "Should I use this potion?"
-msgstr "আমি কি এই পশন ব্যবহার করব?"
+msgstr ""
 
 #. [option]
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:720
 msgid "Yes, I’ll use it."
-msgstr "হ্যাঁ, আমি এটি ব্যবহার করব।"
+msgstr ""
 
 #. [object]: id=poison_weapon
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:728
 msgid "Vile Concoction"
-msgstr "জঘন্য কনককশন"
+msgstr ""
 
 #. [object]: id=poison_weapon
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:730
@@ -2321,42 +1971,38 @@ msgid ""
 "This unit’s melee weapons gain the poison special and this unit gains a "
 "small number of hitpoints."
 msgstr ""
-"এই ইউনিটের মেলি অস্ত্রগুলি বিষকে বিশেষ করে এবং এই ইউনিটটি অল্প সংখ্যক "
-"হিটপয়েন্ট অর্জন করে।"
 
 #. [option]
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:764
 msgid "No, I’ll leave it for someone else."
-msgstr "না, আমি এটি অন্য কারও জন্য রেখে দেব।"
+msgstr ""
 
 #. [message]: type=Spearman
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:877
 msgid "Doesn’t something about these woods feel weird to you, sir?"
-msgstr "এই কাঠ সম্পর্কে কিছু কি আপনার কাছে অদ্ভুত লাগে না, স্যার?"
+msgstr ""
 
 #. [message]: type=Pikeman
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:881
 msgid "Afraid of ghosts, soldier?"
-msgstr "ভূতের ভয়, সৈনিক?"
+msgstr ""
 
 #. [message]: type=Master at Arms
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:991
 msgid ""
-"Woods, woods, woods and more woods! Bah, that general had better have a good"
-" reason for dragging me out to Halstead with all these oafs."
+"Woods, woods, woods and more woods! Bah, that general had better have a good "
+"reason for dragging me out to Halstead with all these oafs."
 msgstr ""
-"কাঠ, কাঠ, কাঠ এবং আরও কাঠ!বাহ, এই সমস্ত ওএফএস দিয়ে আমাকে হালস্টেডে টেনে "
-"আনার জন্য জেনারেলের আরও ভাল কারণ ছিল।"
 
 #. [message]: type=Duelist
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:995
 msgid "But cap’n, we’re your loyal troops..."
-msgstr "তবে ক্যাপ, আমরা আপনার অনুগত বাহিনী ..."
+msgstr ""
 
 #. [message]: type=Master at Arms
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:999
 msgid "Shut it and keep moving."
-msgstr "এটি বন্ধ করুন এবং চলতে থাকুন।"
+msgstr ""
 
 #. [message]: speaker=Archarel
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:1020
@@ -2364,8 +2010,6 @@ msgid ""
 "Several platoons of troops were supposed to arrive today. I wonder if "
 "something happened to them."
 msgstr ""
-"বেশ কয়েকটি প্লাটুন সেনা আজ পৌঁছানোর কথা ছিল।আমি ভাবছি তাদের সাথে কিছু ঘটেছে"
-" কিনা।"
 
 #. [message]: speaker=Archarel
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:1037
@@ -2373,14 +2017,12 @@ msgid ""
 "Something about these woods seems quite unnatural. Perhaps we should stop "
 "sending our soldiers this way."
 msgstr ""
-"এই কাঠগুলি সম্পর্কে কিছু বেশ অপ্রাকৃত বলে মনে হচ্ছে।সম্ভবত আমাদের এইভাবে "
-"আমাদের সৈন্যদের পাঠানো বন্ধ করা উচিত।"
 
 #. [message]: speaker=Archarel
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:1053
 msgid ""
 "Troops, to arms! Show these fugitive scum the meaning of the Queen’s law!"
-msgstr "সৈন্য, অস্ত্র!এই পলাতক স্কামটি রানির আইনের অর্থ দেখান!"
+msgstr ""
 
 #. [message]: speaker=Helicrom
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:1057
@@ -2388,9 +2030,6 @@ msgid ""
 "With the outpost aware of our presence, we can no longer harry their "
 "reinforcements. Their forces will soon grow too powerful for us to resist."
 msgstr ""
-"আউটপোস্ট আমাদের উপস্থিতি সম্পর্কে সচেতন হওয়ার সাথে সাথে আমরা আর তাদের "
-"শক্তিবৃদ্ধিগুলি হ্যারি করতে পারি না।তাদের বাহিনী শীঘ্রই আমাদের প্রতিরোধ করার"
-" জন্য খুব শক্তিশালী হয়ে উঠবে।"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:1073
@@ -2399,25 +2038,19 @@ msgid ""
 "They were surprised to see their fellow soldiers engaged in combat with the "
 "band of thugs of which they had heard so much."
 msgstr ""
-"পরের দিন সকালে, স্থানীয় রাতের টহলটি নিকটবর্তী ফাঁড়িতে ফিরে আসে।তারা তাদের "
-"সহকর্মী সৈন্যরা যে ঠগদের ব্যান্ডের সাথে এত কিছু শুনেছিল তার সাথে যুদ্ধে "
-"লিপ্ত হয়েছিল দেখে তারা অবাক হয়েছিল।"
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:1133
 msgid "It be done. Their patrols be shattered and broken."
-msgstr "এটা করা হবে।তাদের টহলগুলি ছিন্নভিন্ন এবং ভাঙা হবে।"
+msgstr ""
 
 #. [message]: speaker=Helicrom
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:1138
 msgid ""
 "Well done, but the fight is far from over. We will not be able to employ "
-"these tactics when more platoons arrive. You must make your choice. Will you"
-" fight? Or will you return to your village and beg for amnesty?"
+"these tactics when more platoons arrive. You must make your choice. Will you "
+"fight? Or will you return to your village and beg for amnesty?"
 msgstr ""
-"ভাল হয়েছে, তবে লড়াই শেষ নয়।আরও প্লাটুনগুলি এলে আমরা এই কৌশলগুলি নিয়োগ "
-"করতে সক্ষম হব না।তোমাকে অবশ্যই তোমার পছন্দ তৈরি করতে হবে।তুমি কি লড়াই "
-"করবে?নাকি আপনি আপনার গ্রামে ফিরে আসবেন এবং সাধারণ ক্ষমা প্রার্থনা করবেন?"
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:1143
@@ -2425,13 +2058,11 @@ msgid ""
 "Amnesty? Knowing these Wesnothians, they’ll have my head. Then again, if I "
 "could gives my life to save my whole village, I would."
 msgstr ""
-"অ্যামনেস্টি?এই ওয়েসনোথিয়ানদের জেনে তাদের মাথা থাকবে।তারপরে আবার, আমি যদি "
-"আমার পুরো গ্রামটি বাঁচাতে আমার জীবন দিতে পারি তবে আমি করতাম।"
 
 #. [message]: speaker=Harper
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:1148
 msgid "We need you! Uncle..."
-msgstr "তোমাকে আমাদের দরকার!চাচা ..."
+msgstr ""
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:1153
@@ -2440,9 +2071,6 @@ msgid ""
 "homes, just like we do against them orcs. But we be risking everything on "
 "this, lass."
 msgstr ""
-"আমি জানি আপনি কী বলতে যাচ্ছেন, হার্পার।আমাদের বাড়ির জন্য লড়াই করা উচিত, "
-"ঠিক যেমন আমরা তাদের অর্কেসের বিরুদ্ধে করি।তবে আমরা এই বিষয়ে সমস্ত কিছু "
-"ঝুঁকিপূর্ণ করছি, লাস।"
 
 #. [message]: speaker=Harper
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:1158
@@ -2451,20 +2079,14 @@ msgid ""
 "live our whole lives in oppression. You saw how they were sending so many "
 "soldiers and even orcs against us."
 msgstr ""
-"যদি আমরা এভাবে ফিরে যাই তবে এর অর্থ আমরা ওয়েসোথিয়ানদের কাছে আত্মসমর্পণ করব"
-" এবং আমাদের পুরো জীবনকে নিপীড়নে বাস করব।আপনি দেখেছেন যে তারা কীভাবে আমাদের "
-"বিরুদ্ধে এত সৈন্য এবং এমনকি অর্কস পাঠাচ্ছে।"
 
 #. [message]: speaker=Helicrom
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:1163
 msgid ""
-"The girl is naive, but her spirit is in the right place. You risk your homes"
-" and the lives of your people, yes, but what good will they be if you live "
-"in tyranny? Believe me, I have been there. I would rather die than go back."
+"The girl is naive, but her spirit is in the right place. You risk your homes "
+"and the lives of your people, yes, but what good will they be if you live in "
+"tyranny? Believe me, I have been there. I would rather die than go back."
 msgstr ""
-"মেয়েটি নির্বোধ, তবে তার আত্মা সঠিক জায়গায়।আপনি আপনার বাড়িগুলি এবং আপনার "
-"লোকদের জীবনকে ঝুঁকিপূর্ণ, হ্যাঁ, তবে আপনি যদি অত্যাচারে থাকেন তবে তারা কী "
-"ভাল হবে?বিশ্বাস করুন, আমি সেখানে ছিলাম।আমি বরং ফিরে যাওয়ার চেয়ে মরে যাব।"
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:1168
@@ -2473,9 +2095,6 @@ msgid ""
 "burn it to the ground before the Queen’s forces rally. If we does that, "
 "Weldyn won’t have no foothold in Annuvin no more."
 msgstr ""
-"হ্যাঁ ... এরওয়েনও একই কথা বলত।যদি আমরা হালস্টেডে পদযাত্রা করি তবে আমরা "
-"রানির বাহিনী সমাবেশের আগে এটিকে মাটিতে পুড়িয়ে ফেলতে পারি।আমরা যদি এটি করি "
-"তবে ওয়েলডিনের আনুভিনে আর কোনও পা রাখবে না।"
 
 #. [message]: speaker=Helicrom
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:1173
@@ -2483,119 +2102,101 @@ msgid ""
 "It would be months before they could reassemble their forces here. Enough "
 "time for you to secure your homes, or relocate."
 msgstr ""
-"তারা এখানে তাদের বাহিনীকে পুনরায় সংযুক্ত করতে পারার কয়েক মাস আগে হবে।আপনার"
-" বাড়িগুলি সুরক্ষিত করার জন্য বা স্থানান্তরিত করার জন্য পর্যাপ্ত সময়।"
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:1178
 msgid "Then it be decided. We’ll attack the fort together. Luck be with us."
 msgstr ""
-"তাহলে সিদ্ধান্ত নেওয়া হবে।আমরা একসাথে দুর্গ আক্রমণ করব।ভাগ্য আমাদের সাথে "
-"থাকতে।"
 
 #. [message]: speaker=unit
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:1219
 msgid ""
 "Lieutenant, we were assaulted by a band of outlaws en route to the outpost. "
 "We were barely able to evade them and make it here!"
-msgstr "লে।আমরা সবেমাত্র তাদের এড়াতে এবং এটি এখানে তৈরি করতে সক্ষম হয়েছি!"
+msgstr ""
 
 #. [message]: speaker=second_unit
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:1239
-msgid ""
-"Look there! Outlaws and bandits roam these woods, harrying our patrols!"
+msgid "Look there! Outlaws and bandits roam these woods, harrying our patrols!"
 msgstr ""
-"ও দিক দেখ!আউটলজ এবং দস্যুরা আমাদের টহলগুলি হ্যারি করে এই বনে ঘুরে বেড়ায়!"
 
 #. [message]: speaker=Helicrom
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:1256
 msgid "This is the end for me..."
-msgstr "এটি আমার জন্য শেষ ..."
+msgstr ""
 
 #. [scenario]: id=07_Glory
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:4
 msgid "Glory"
-msgstr "গৌরব"
+msgstr ""
 
 #. [part]
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:20
 msgid ""
 "From the Annals of Alduin, 98 YW\n"
 "\n"
-"One score and eight years ago, in 70 YW, the King of Wesnoth and the Lord of Elensefar signed a treaty of trade and alliance in order to further the security of humankind. The realization of this treaty required the creation of a safe path between Weldyn and Elensefar, with all manner of hostile creature or beast scoured from these civilized lands. From Dan’Tonk, the establishment of Aldril and Carcyn secured the once hazardous passage alongside the Grey Woods, completing the way between the two cities. With this, the alliance can truly be deemed a coalition of men."
+"One score and eight years ago, in 70 YW, the King of Wesnoth and the Lord of "
+"Elensefar signed a treaty of trade and alliance in order to further the "
+"security of humankind. The realization of this treaty required the creation "
+"of a safe path between Weldyn and Elensefar, with all manner of hostile "
+"creature or beast scoured from these civilized lands. From Dan’Tonk, the "
+"establishment of Aldril and Carcyn secured the once hazardous passage "
+"alongside the Grey Woods, completing the way between the two cities. With "
+"this, the alliance can truly be deemed a coalition of men."
 msgstr ""
-"অ্যালডুইনের অ্যানালস থেকে, 98 ওয়াইডাব্লু\n"
-"\n"
-"এক স্কোর এবং আট বছর আগে, 70 ওয়াইডাব্লুতে ওয়েসনোথের রাজা এবং এলেনসফারের প্রভু মানবজাতির সুরক্ষা আরও বাড়ানোর জন্য বাণিজ্য ও জোটের একটি চুক্তিতে স্বাক্ষর করেছিলেন।এই চুক্তির বাস্তবায়নের জন্য ওয়েলডিন এবং এলেনসফার মধ্যে একটি নিরাপদ পথ তৈরির প্রয়োজন ছিল, এই সভ্য জমিগুলি থেকে সমস্ত বৈরী প্রাণী বা জন্তু ছড়িয়ে পড়ে।ড্যানটোনকের কাছ থেকে, অ্যালড্রিল এবং কার্সিন প্রতিষ্ঠা দুটি শহরের মধ্যবর্তী পথটি সম্পূর্ণ করে ধূসর কাঠের পাশাপাশি একসময় বিপজ্জনক প্যাসেজটি সুরক্ষিত করেছিল।এটির সাথে, জোটকে সত্যই পুরুষদের জোট হিসাবে বিবেচনা করা যেতে পারে।"
 
 #. [part]
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:26
 msgid ""
 "To commemorate the concordat, six years ago, the Lords of Weldyn and "
 "Elensefar decreed that a monument be erected in the heart of these once "
-"wildlands. We, the magi of Alduin, lent our services to demonstrate the full"
-" prowess and might of human magic. Above a series of old catacombs in a "
-"scant hill, we spent these years raising an immense stronghold from the "
-"earth’s living rock."
+"wildlands. We, the magi of Alduin, lent our services to demonstrate the full "
+"prowess and might of human magic. Above a series of old catacombs in a scant "
+"hill, we spent these years raising an immense stronghold from the earth’s "
+"living rock."
 msgstr ""
-"ছয় বছর আগে কনকর্ড্যাট স্মরণে রাখার জন্য, ওয়েলডিন এবং এলেনসফার লর্ডস আদেশ "
-"দিয়েছিলেন যে এই একসময় বন্যভূমির হৃদয়ে একটি স্মৃতিস্তম্ভ তৈরি করা "
-"হবে।আমরা, অ্যালডুইনের মাগি, মানব যাদুবিদ্যার সম্পূর্ণ দক্ষতা এবং শক্তি "
-"প্রদর্শনের জন্য আমাদের পরিষেবাগুলিকে ধার দিয়েছি।একটি অল্প পাহাড়ে পুরানো "
-"ক্যাটাকম্বসের একটি সিরিজের উপরে, আমরা এই বছরগুলি পৃথিবীর জীবন্ত শিলা থেকে এক"
-" বিশাল দুর্গ বাড়িয়ে কাটিয়েছি।"
 
 #. [part]
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:30
 msgid ""
 "Completed, as it is on this day, this sentinel of the west now towers "
-"hundreds of paces tall, a great monolith looming sheer above the plains. The"
-" sight of these colossal walls, to even us magi, is both awe-inspiring and "
+"hundreds of paces tall, a great monolith looming sheer above the plains. The "
+"sight of these colossal walls, to even us magi, is both awe-inspiring and "
 "terrifying. So tall these towers peak and so mighty these walls arise that "
 "such a feat seems more like a force of nature than a work of man. That we "
 "have fashioned this mountain as insignificant humans is almost "
 "inconceivable. Halstead, as we have named it, is impenetrable. No one shall "
 "ever overcome these tidal waves of stone."
 msgstr ""
-"সম্পন্ন হয়েছে, যেমনটি এই দিনটিতে রয়েছে, পশ্চিমের এই সেন্ডিনেলটি এখন "
-"কয়েকশো গতি লম্বা হয়েছে, সমভূমির উপরে একটি দুর্দান্ত একচেটিয়া নিচু নিছক "
-"নিচু।এই বিশাল দেয়ালগুলির দৃশ্য, এমনকি আমাদের মাগির কাছেও বিস্ময়কর এবং "
-"ভয়াবহ উভয়ই।এই টাওয়ারগুলি এত লম্বা এবং এত শক্তিশালী এই দেয়ালগুলি উত্থিত "
-"হয় যে এই জাতীয় কীর্তি মানুষের কাজের চেয়ে প্রকৃতির শক্তির মতো বলে মনে "
-"হয়।যে আমরা এই পর্বতটিকে তুচ্ছ মানুষ হিসাবে তৈরি করেছি প্রায় "
-"অকল্পনীয়।হালস্টেড, যেমনটি আমরা নাম দিয়েছি, এটি দুর্ভেদ্য।পাথরের এই জোয়ার "
-"তরঙ্গগুলি কেউ কখনও কাটিয়ে উঠবে না।"
 
 #. [side]: type=General, id=Dommel
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:56
 msgid "Dommel"
-msgstr "ডোমেল"
+msgstr ""
 
 #. [side]: type=Orcish Warlord, id=Vashna
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:99
 msgid "Vashna"
-msgstr "ব্যারিশ"
+msgstr ""
 
 #. [objective]: condition=win
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:152
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:221
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:416
 msgid "Destroy the stronghold of Halstead"
-msgstr "হালস্টেডের দুর্গটি ধ্বংস করুন"
+msgstr ""
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:252
 msgid "There be it. The stronghold of Halstead."
-msgstr "এটা আছে।হালস্টেডের দুর্গ।"
+msgstr ""
 
 #. [message]: speaker=Harper
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:265
 msgid ""
-"Look at how tall it is! Those towers be so sheer and smooth, it almost looks"
-" like magic called them up out of the earth!"
+"Look at how tall it is! Those towers be so sheer and smooth, it almost looks "
+"like magic called them up out of the earth!"
 msgstr ""
-"দেখুন কত লম্বা!এই টাওয়ারগুলি এত নিখুঁত এবং মসৃণ হতে পারে, এটি প্রায় মনে "
-"হয় যাদু তাদের পৃথিবী থেকে ডেকে আনে!"
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:270
@@ -2606,23 +2207,16 @@ msgid ""
 "between the cities and forged the walls of Halstead itself to honor the "
 "alliance."
 msgstr ""
-"হ্যাঁ, এতে কিছু সত্য থাকতে পারে।পুরানো গল্পগুলি আমাদের জানায় যে অতীতে, "
-"এলেনসফার এবং ওয়েলডিনের কিছু সত্যিকারের শক্তিশালী ম্যাজ ছিল, তাদের চেয়ে "
-"অনেক বেশি পারদর্শী যারা আজকাল কেবল রাজনীতি করছেন।তারা শহরগুলির মধ্যে জমিগুলি"
-" নিয়ন্ত্রণে সহায়তা করেছিল এবং জোটকে সম্মান জানাতে হালস্টেডের দেয়াল তৈরি "
-"করেছিল।"
 
 #. [message]: speaker=Harper
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:275
 msgid "I don’t see how we can bring it down. They seem invincible in there!"
 msgstr ""
-"আমরা কীভাবে এটি নামিয়ে আনতে পারি তা আমি দেখতে পাচ্ছি না।তারা সেখানে অজেয় "
-"বলে মনে হচ্ছে!"
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:279
 msgid "Indeed..."
-msgstr "প্রকৃতপক্ষে..."
+msgstr ""
 
 #. [message]: speaker=Helicrom
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:283
@@ -2631,9 +2225,6 @@ msgid ""
 "Previous orders of magi did help erect the fortress. What is not made known "
 "to most is that the original construction of the castle was flawed."
 msgstr ""
-"চিন্তা করবেন না, হালস্টেডের দুর্বলতা রয়েছে।বাল্ড্রাস যা বলেছিল তা আংশিক "
-"সত্য ছিল।মাগির পূর্ববর্তী আদেশগুলি দুর্গ তৈরি করতে সহায়তা করেছিল।সবচেয়ে "
-"বেশি যা জানা যায়নি তা হ'ল দুর্গের মূল নির্মাণ ত্রুটিযুক্ত ছিল।"
 
 #. [message]: speaker=Helicrom
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:287
@@ -2645,12 +2236,6 @@ msgid ""
 "Naturally, this was made secret by the magi, who did not want others to "
 "learn of their error."
 msgstr ""
-"এই দেয়ালগুলি ক্যাটাকম্বসের একটি সিস্টেমের উপরে উত্থাপিত হয়েছিল, যা চারটি "
-"টাওয়ারকে কেন্দ্রীয় রাখার সাথে সংযুক্ত করে।যদিও এগুলি চিত্তাকর্ষক প্রদর্শিত"
-" হয়, টানেলগুলি কখনই এইরকম অসাধারণ ওজন ধরে রাখতে বোঝায় না।মাঝখানে ধরে রাখতে"
-" পরে সমর্থনগুলি যুক্ত করা হয়েছিল, যা শেষ পর্যন্ত সেগুলি ছাড়াই ভেঙে পড়তে "
-"শুরু করে।স্বাভাবিকভাবেই, এটি মাগি দ্বারা গোপন করা হয়েছিল, যারা অন্যরা তাদের"
-" ত্রুটি শিখতে চায় না।"
 
 #. [message]: speaker=Harper
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:291
@@ -2658,8 +2243,6 @@ msgid ""
 "So... we can knock out the supports and bring down the main keep. Would it "
 "really work?"
 msgstr ""
-"সুতরাং ... আমরা সমর্থনগুলি ছিটকে দিতে পারি এবং মূল কীপটি নামিয়ে আনতে "
-"পারি।এটা কি সত্যিই কাজ করবে?"
 
 #. [message]: speaker=Helicrom
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:295
@@ -2668,14 +2251,11 @@ msgid ""
 "enter the tunnels and demolish all four supports, then the fortress should "
 "crumble."
 msgstr ""
-"আমি বিশ্বাস করি এটা হবে।প্রতিটি টাওয়ারের ক্যাটাকম্বস পর্যন্ত একটি প্যাসেজ "
-"রয়েছে।আমাদের অবশ্যই টানেলগুলিতে প্রবেশ করতে হবে এবং চারটি সমর্থন ধ্বংস করতে"
-" হবে, তারপরে দুর্গটি ভেঙে ফেলা উচিত।"
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:299
 msgid "Let’s hope you be right. Everything be hinging on this battle."
-msgstr "আসুন আশা করি আপনি ঠিক আছেন।এই যুদ্ধে সবকিছু হিং করা হবে।"
+msgstr ""
 
 #. [message]: speaker=Vashna
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:308
@@ -2683,18 +2263,16 @@ msgid ""
 "Dommel! The Queen has sent me and my warriors to support your forces. We "
 "come to squash the puny peasant rebellion."
 msgstr ""
-"ডমমেল!রানী আমাকে এবং আমার যোদ্ধাদের আপনার বাহিনীকে সমর্থন করার জন্য প্রেরণ "
-"করেছে।আমরা শাস্তি কৃষক বিদ্রোহ স্কোয়াশ করতে এসেছি।"
 
 #. [message]: speaker=Dommel
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:312
 msgid "I received no word from Her Majesty of your arrival, orc."
-msgstr "আমি আপনার আগমনের মহিমা, অর্কের কাছ থেকে কোনও শব্দ পাইনি।"
+msgstr ""
 
 #. [message]: speaker=Vashna
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:316
 msgid "I have the orders right here."
-msgstr "আমার এখানে অর্ডার আছে।"
+msgstr ""
 
 #. [message]: speaker=Dommel
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:320
@@ -2702,8 +2280,6 @@ msgid ""
 "As if those could possibly be real. I would be a fool and an oaf to let a "
 "band of stinky raider orcs into Halstead without a fight."
 msgstr ""
-"যেন এগুলি সম্ভবত বাস্তব হতে পারে।আমি একজন বোকা এবং ওএএফ হব যে দুর্গন্ধযুক্ত "
-"রাইডার অর্কেসের একটি ব্যান্ডকে কোনও লড়াই ছাড়াই হালস্টেডে প্রবেশ করতে দিন।"
 
 #. [message]: speaker=Vashna
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:324
@@ -2713,10 +2289,6 @@ msgid ""
 "useless as you are pink. The Queen sent us here to clean up the mess that "
 "you are clearly too stupid to fix on your own."
 msgstr ""
-"কি?এখন এখানে দেখুন, আপনি পিঙ্কসকিন কোডড করেছেন।আপনার অসহায় ‘সৈনিকরা’ এক "
-"নোংরা গুচ্ছ দস্যুদের দ্বারা বেস্ট হয়ে গেছে।আপনার সেনাবাহিনী যেমন গোলাপী "
-"তেমনি অকেজো।রানী আমাদের এখানে এই জগাখিচুড়ি পরিষ্কার করার জন্য এখানে "
-"পাঠিয়েছিলেন যে আপনি নিজেরাই ঠিক করতে স্পষ্টভাবে খুব বোকা।"
 
 #. [message]: speaker=Dommel
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:328
@@ -2726,24 +2298,18 @@ msgid ""
 "have no need for the help of you uncouth orcs. We have always managed just "
 "fine without you."
 msgstr ""
-"একটি দুর্দান্ত গল্প।সম্ভবত, আমাদের অস্ত্রাগারটি লুণ্ঠনের জন্য আমাদের দুর্গে "
-"প্রবেশের জন্য এটি একটি করুণ অজুহাত।এমনকি যদি তাঁর মহিমা আপনাকে এখানে অর্ডার "
-"করে, তবে আপনার কাছে আপনার অনিচ্ছাকৃত অর্কেসের সাহায্যের দরকার নেই।আমরা "
-"আপনাকে ছাড়া সর্বদা ঠিকঠাক পরিচালনা করেছি।"
 
 #. [message]: speaker=Vashna
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:332
 msgid ""
-"Yeah? Well, we will see how fine you manage <i>against</i> us. I’ll show you"
-" just how weak you pinkskins are."
+"Yeah? Well, we will see how fine you manage <i>against</i> us. I’ll show you "
+"just how weak you pinkskins are."
 msgstr ""
-"হ্যাঁ?ঠিক আছে, আমরা দেখব যে আপনি </i> আমাদের বিরুদ্ধে <i> কতটা জরিমানা "
-"পরিচালনা করছেন।আমি আপনাকে দেখাব যে আপনি পিনকিনসগুলি কতটা দুর্বল।"
 
 #. [message]: speaker=Dommel
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:336
 msgid "Come try it, cretin."
-msgstr "আসুন চেষ্টা করুন, ক্রিটিন।"
+msgstr ""
 
 #. [message]: speaker=Helicrom
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:340
@@ -2751,28 +2317,26 @@ msgid ""
 "Infighting among the forces of Weldyn does not bode well for the new queen, "
 "but is awfully convenient for us..."
 msgstr ""
-"ওয়েলডিনের বাহিনীর মধ্যে লড়াই করা নতুন রানির পক্ষে ভাল নয়, তবে আমাদের "
-"পক্ষে অত্যন্ত সুবিধাজনক ..."
 
 #. [message]: role=farseer
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:358
 msgid "Look in the distance... riders approach!"
-msgstr "দূরত্বে দেখুন ... রাইডার্স অ্যাপ্রোচ!"
+msgstr ""
 
 #. [unit]: type=Paladin, id=Sir Gwydion
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:365
 msgid "Sir Gwydion"
-msgstr "GWYD এর কাউন্টি"
+msgstr ""
 
 #. [message]: type=Lancer
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:380
 msgid "Sound the advance!"
-msgstr "অগ্রিম শব্দ!"
+msgstr ""
 
 #. [message]: type=Lancer
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:384
 msgid "At your order, my liege."
-msgstr "আপনার আদেশে, আমার মিথ্যা।"
+msgstr ""
 
 #. [message]: speaker=Sir Gwydion
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:388
@@ -2780,16 +2344,12 @@ msgid ""
 "Lo, Knights of Elensefar, the battle hath begun ere our arrival. Though I "
 "disobey my father in this endeavor, our presence surely is much needed."
 msgstr ""
-"লো, নাইটস অফ এলেনসফার, যুদ্ধটি আমাদের আগমনের আগে শুরু হয়েছিল।যদিও আমি এই "
-"প্রয়াসে আমার পিতাকে অমান্য করি, আমাদের উপস্থিতি অবশ্যই অনেক প্রয়োজন।"
 
 #. [message]: speaker=Sir Gwydion
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:392
 msgid ""
 "Ready thy lances! Let us trample the armies of Weldyn beneath our steeds!"
 msgstr ""
-"আপনার লেন্স প্রস্তুত!আসুন আমরা আমাদের স্টিডের নীচে ওয়েলডিনের সেনাবাহিনীকে "
-"পদদলিত করি!"
 
 #. [message]: role=farseer
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:405
@@ -2797,8 +2357,6 @@ msgid ""
 "A horde of knights, bearing the emblem of Elensefar! Amazing. I’ve never "
 "seen me so many riders in one place."
 msgstr ""
-"নাইটসের একটি দল, এলেনসফারের প্রতীক বহন করে!আশ্চর্যজনক।আমি আমাকে এক জায়গায় "
-"এত বেশি চালককে কখনও দেখিনি।"
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:410
@@ -2806,8 +2364,6 @@ msgid ""
 "Gwydion be Lord Maddock’s son... more be hinging on victory than I thought. "
 "This battle don’t just be about our little villages no more."
 msgstr ""
-"গুইডিয়ন হোন লর্ড ম্যাডকের পুত্র ... আমার ভাবার চেয়ে জয়ের উপর আরও বেশি "
-"কিছু করা উচিত।এই যুদ্ধটি কেবল আমাদের ছোট গ্রামগুলির বিষয়ে আর কিছু নয়।"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:447
@@ -2815,57 +2371,53 @@ msgid ""
 "Not even a full day had passed before the first advance elements of "
 "Wesnoth’s main army began to arrive..."
 msgstr ""
-"ওয়েসোথের মূল সেনাবাহিনীর প্রথম অগ্রিম উপাদানগুলি আগত হতে শুরু করার আগেও "
-"পুরো দিনটিও শেষ হয়নি ..."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:454
 msgid ""
 "That morning, another advance element of the main Wesnoth army arrived..."
-msgstr "সেই সকালে, মূল ওয়েসনথ সেনাবাহিনীর আরও একটি অগ্রিম উপাদান এসেছিল ..."
+msgstr ""
 
 #. [message]: speaker=Dommel
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:519
 msgid ""
 "I think... I think they’re trying to storm Halstead itself... the fools!"
 msgstr ""
-"আমি মনে করি ... আমি মনে করি তারা নিজেই হালস্টেডে ঝড় তোলার চেষ্টা করছে ... "
-"বোকা!"
 
 #. [message]: speaker=Dommel
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:538
 msgid "They have breached the fortress gate! Repulse them!"
-msgstr "তারা দুর্গের গেটটি লঙ্ঘন করেছে!তাদের পিছনে ফেলুন!"
+msgstr ""
 
 #. [message]: speaker=unit
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:560
 msgid "I’m inside! I’m heading down to the catacombs."
-msgstr "আমি ভিতরে!আমি ক্যাটাকম্বসের দিকে যাচ্ছি।"
+msgstr ""
 
 #. [message]: speaker=narrator
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:578
 msgid "After some time..."
-msgstr "কিছু সময় পর..."
+msgstr ""
 
 #. [message]: speaker=unit
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:598
 msgid "It’s done."
-msgstr "এটা হয়ে গেছে।"
+msgstr ""
 
 #. [message]: speaker=narrator
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:625
 msgid "The stronghold of Halstead began to shake..."
-msgstr "হালস্টেডের দুর্গটি কাঁপতে লাগল ..."
+msgstr ""
 
 #. [message]: speaker=unit
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:631
 msgid "We can’t stay here. The fortress is starting to collapse!"
-msgstr "আমরা এখানে থাকতে পারি না।দুর্গটি ভেঙে পড়তে শুরু করছে!"
+msgstr ""
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:666
 msgid "I think it be working! Everybody get clear!"
-msgstr "আমি মনে করি এটি কাজ করছে!সবাই পরিষ্কার হয়ে যায়!"
+msgstr ""
 
 #. [message]: speaker=narrator
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:707
@@ -2875,33 +2427,24 @@ msgid ""
 "steep sides, while the remainder came to rest several hundred feet below "
 "ground, in the bowels of the hollowed-out mountain."
 msgstr ""
-"একটি বজ্র গর্জন এবং ধুলার বিশাল বিলিংয়ের সাথে, হাজার হাজার টন পাথর এবং কাঠ "
-"নিজেই ক্র্যাশ হয়ে গেছে।কিছু ধ্বংসস্তূপ খাড়া দিকগুলি নীচে নেমে গেল, যখন "
-"বাকী অংশটি ফাঁকা-আউট পর্বতের অন্ত্রগুলিতে মাটির নীচে কয়েকশ ফুট নীচে বিশ্রাম"
-" নিতে এসেছিল।"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:715
 msgid "No one inside the fortress would make it out alive."
-msgstr "দুর্গের ভিতরে কেউ এটিকে জীবিত করে তুলবে না।"
+msgstr ""
 
 #. [message]: speaker=narrator
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:800
 msgid ""
 "After several days of fierce fighting, the main body of Weldyn’s host "
-"arrived. The battle was soon finished. Every last man from the rebellion was"
-" executed."
+"arrived. The battle was soon finished. Every last man from the rebellion was "
+"executed."
 msgstr ""
-"বেশ কয়েক দিন তীব্র লড়াইয়ের পরে, ওয়েলডিনের হোস্টের মূল সংস্থাটি উপস্থিত "
-"হয়েছিল।যুদ্ধ শীঘ্রই শেষ হয়ে গেল।বিদ্রোহের প্রত্যেক শেষ মানুষকে মৃত্যুদন্ড "
-"কার্যকর করা হয়েছিল।"
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:829
 msgid "The fort be done with... but I be crushed... under this rubble..."
 msgstr ""
-"দুর্গটি দিয়ে করা হবে ... তবে আমি চূর্ণবিচূর্ণ হয়ে যাব ... এই ধ্বংসস্তূপের "
-"নীচে ..."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:833
@@ -2909,13 +2452,11 @@ msgid ""
 "No one was able to get to Baldras in time. He and many of his companions "
 "died that day beneath the stronghold of Halstead."
 msgstr ""
-"কেউ সময় মতো বাল্ড্রাসে যেতে সক্ষম হয় নি।তিনি এবং তাঁর অনেক সঙ্গী সেদিন "
-"হালস্টেডের দুর্গের নীচে মারা গিয়েছিলেন।"
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:840
 msgid "I knew... this wouldn’t work..."
-msgstr "আমি জানতাম ... এটি কাজ করবে না ..."
+msgstr ""
 
 #. [message]: speaker=narrator
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:845
@@ -2923,30 +2464,28 @@ msgid ""
 "The rebellion had staked its all on victory at Halstead, but win or lose, "
 "there would be no help for the doomed villagers."
 msgstr ""
-"এই বিদ্রোহটি হালস্টেডে জয়ের উপর সমস্ত কিছু স্থির করেছিল, তবে জিতেছে বা হেরে"
-" গেছে, ডুমড গ্রামবাসীদের জন্য কোনও সাহায্য হবে না।"
 
 #. [message]: speaker=Harper
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:864
 #: data/campaigns/Liberty/utils/utils.cfg:34
 msgid "Unngh..."
-msgstr "Ungh ..."
+msgstr ""
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:868
 #: data/campaigns/Liberty/utils/utils.cfg:38
 msgid "Harper, no!"
-msgstr "হার্পার, না!"
+msgstr ""
 
 #. [message]: speaker=Helicrom
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:884
 msgid "Ended... like this? Fight on without me..."
-msgstr "শেষ ... এই মত?আমাকে ছাড়া লড়াই করুন ..."
+msgstr ""
 
 #. [message]: speaker=second_unit
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:931
 msgid "Your time is over, General."
-msgstr "আপনার সময় শেষ, সাধারণ।"
+msgstr ""
 
 #. [message]: speaker=Dommel
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:936
@@ -2954,34 +2493,30 @@ msgid ""
 "I may be done... but my death shall only bring the full wrath of the Crown "
 "upon you... relish your small victory, peasants, while you still can..."
 msgstr ""
-"আমি হয়ে যেতে পারি ... তবে আমার মৃত্যু কেবল আপনার উপর মুকুটটির পুরো ক্রোধ "
-"নিয়ে আসবে ... আপনার ছোট্ট বিজয়, কৃষকরা উপভোগ করুন, আপনি এখনও পারেন ..."
 
 #. [message]: speaker=Vashna
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:956
 msgid "Grrarrghh... you... fools..."
-msgstr "গ্রার্গহ ... তুমি ... বোকা ..."
+msgstr ""
 
 #. [message]: speaker=Dommel
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:961
 msgid "Idiot orc. Know your place."
-msgstr "বোকা অর্ক।আপনার জায়গা জানুন।"
+msgstr ""
 
 #. [scenario]: id=08_Epilogue
 #: data/campaigns/Liberty/scenarios/08_Epilogue.cfg:4
 msgid "Liberty — Epilogue"
-msgstr "লিবার্টি - এপিলোগ"
+msgstr ""
 
 #. [part]
 #: data/campaigns/Liberty/scenarios/08_Epilogue.cfg:14
 msgid ""
 "03 Scryer’s Bloom, 501 YW\n"
 "\n"
-"It were a real shock. I were so stunned, I barely even remember what happened after."
+"It were a real shock. I were so stunned, I barely even remember what "
+"happened after."
 msgstr ""
-"03 স্ক্রায়ারের ব্লুম, 501 yw\n"
-"\n"
-"এটি একটি বাস্তব ধাক্কা ছিল।আমি খুব হতবাক হয়ে গিয়েছিলাম, আমার পরে কী ঘটেছিল তা সবেমাত্র মনে আছে।"
 
 #. [part]
 #: data/campaigns/Liberty/scenarios/08_Epilogue.cfg:19
@@ -2989,73 +2524,53 @@ msgid ""
 "Helicrom, I don’t know what happened to him, didn’t see what happened to "
 "Maddock’s son either. Me and Harper and the few of us who survived got up "
 "and ran. We be heading back north now, toward Carcyn and Elensefar. Them "
-"patrols seems to be in real disarray, mostly seeming to be riding back south"
-" to regroup. It be looking like we really did disrupt Weldyn’s chain of "
+"patrols seems to be in real disarray, mostly seeming to be riding back south "
+"to regroup. It be looking like we really did disrupt Weldyn’s chain of "
 "command."
 msgstr ""
-"হেলিক্রোম, আমি জানি না তার কী হয়েছে, ম্যাডকের ছেলের কী হয়েছিল তা "
-"দেখেনি।আমি এবং হার্পার এবং আমাদের মধ্যে কয়েকজন যারা বেঁচে গিয়েছিলাম তারা "
-"উঠে দৌড়ে গেল।আমরা এখন উত্তরে ফিরে যাচ্ছি, কার্সিন এবং এলেনসফারের দিকে।তাদের"
-" টহলগুলি সত্যিকারের বিড়ম্বনায় রয়েছে বলে মনে হচ্ছে, বেশিরভাগই মনে হয় "
-"দক্ষিণে ফিরে এসে পুনরায় দলবদ্ধ হয়ে।দেখে মনে হচ্ছে আমরা ওয়েলডিনের কমান্ডের"
-" কমান্ডকে সত্যই ব্যাহত করেছি।"
 
 #. [part]
 #: data/campaigns/Liberty/scenarios/08_Epilogue.cfg:22
 msgid ""
 "I’m sure them Wesnothians will come back in time and with Maddock holed up "
-"in his stupid tower, they’ll eventually siege Elensefar and take the city..."
-" but that don’t be my problem anymore. I has me a village to worry about. I "
-"need to get back, consult myself with Relana and figure out what to do next."
-" We gots some more time now, but we can’t wait forever."
+"in his stupid tower, they’ll eventually siege Elensefar and take the city... "
+"but that don’t be my problem anymore. I has me a village to worry about. I "
+"need to get back, consult myself with Relana and figure out what to do next. "
+"We gots some more time now, but we can’t wait forever."
 msgstr ""
-"আমি নিশ্চিত যে তাদের ওয়েসনোথিয়ানরা সময়মতো ফিরে আসবে এবং ম্যাডক তার বোকা "
-"টাওয়ারে জড়িয়ে পড়ার সাথে সাথে তারা শেষ পর্যন্ত এলেনসফারকে অবরোধ করবে এবং "
-"শহরটি নিয়ে যাবে ... তবে এটাই আমার সমস্যা হবে না।আমার চিন্তার জন্য আমার একটি"
-" গ্রাম আছে।আমার ফিরে আসা, রিলানার সাথে নিজেকে পরামর্শ করা এবং পরবর্তী কী করা"
-" উচিত তা নির্ধারণ করা দরকার।আমরা এখন আরও কিছু সময় পেয়েছি, তবে আমরা চিরকাল "
-"অপেক্ষা করতে পারি না।"
 
 #. [part]
 #: data/campaigns/Liberty/scenarios/08_Epilogue.cfg:25
 msgid ""
 "10 Scryer’s Bloom, 501 YW\n"
 "\n"
-"We got back to Dallben today, but the village were empty. There were a few bodies and some burned houses, but it weren’t raided or nothing. Must’ve been one of them Wesnoth patrols, curse those damned stinkers! When I first saw the scene with my eyes, I thoughts that we failed, that we was too late... but now that I thinks of it, it be real weird that so few died. The others must’ve escaped to somewhere. But I didn’t see any clues here."
+"We got back to Dallben today, but the village were empty. There were a few "
+"bodies and some burned houses, but it weren’t raided or nothing. Must’ve "
+"been one of them Wesnoth patrols, curse those damned stinkers! When I first "
+"saw the scene with my eyes, I thoughts that we failed, that we was too "
+"late... but now that I thinks of it, it be real weird that so few died. The "
+"others must’ve escaped to somewhere. But I didn’t see any clues here."
 msgstr ""
-"10 স্ক্রায়ারের ব্লুম, 501 yw\n"
-"\n"
-"আমরা আজ ডালবেনে ফিরে এসেছি, তবে গ্রামটি খালি ছিল।কয়েকটি দেহ এবং কিছু পোড়া ঘর ছিল, তবে এটি আক্রমণ করা হয়নি বা কিছুই ছিল না।ওয়েসোথ টহলগুলির মধ্যে অবশ্যই তাদের মধ্যে একজন হতে হবে, সেই নিন্দিত দুর্গন্ধগুলি অভিশাপ দিন!আমি যখন প্রথম চোখ দিয়ে দৃশ্যটি দেখলাম, তখন আমি ভেবেছিলাম যে আমরা ব্যর্থ হয়েছি, আমরা অনেক দেরি করেছিলাম ... তবে এখন আমি এটি সম্পর্কে ভাবি, এটি সত্যই অদ্ভুত যে খুব কম লোক মারা গিয়েছিল।অন্যরা অবশ্যই কোথাও পালিয়ে গেছে।তবে আমি এখানে কোনও সূত্র দেখতে পাইনি।"
 
 #. [part]
 #: data/campaigns/Liberty/scenarios/08_Epilogue.cfg:31
 msgid ""
 "I sended Harper off to Delwyn. Hope she’ll find something there. In the "
-"meantimes, I’ll rest this tired body for a little and go see sis, maybe pick"
-" her up some lilies. Seems like this’ll probably be the last time I gets to "
+"meantimes, I’ll rest this tired body for a little and go see sis, maybe pick "
+"her up some lilies. Seems like this’ll probably be the last time I gets to "
 "see her..."
 msgstr ""
-"আমি হার্পারকে ডেলউইনকে পাঠিয়েছি।আশা করি সে সেখানে কিছু খুঁজে "
-"পাবে।মেন্ডটাইমসে, আমি এই ক্লান্ত শরীরটি কিছুটা বিশ্রাম নেব এবং সিস দেখতে "
-"যাব, সম্ভবত তাকে কিছু লিলি তুলে নিন।দেখে মনে হচ্ছে এটি সম্ভবত শেষবারের মতো "
-"আমি তাকে দেখতে পেলাম ..."
 
 #. [part]
 #: data/campaigns/Liberty/scenarios/08_Epilogue.cfg:34
 msgid ""
 "She’ll tell me not to be sad, of course. That life just be a big adventure "
-"and filled with fun, that I shouldn’t think about stuffs I can’t change. The"
-" world be huge and vast, much bigger than small little people like me. I "
+"and filled with fun, that I shouldn’t think about stuffs I can’t change. The "
+"world be huge and vast, much bigger than small little people like me. I "
 "don’t got the power to change it, so why not try to live as best I can? "
-"Besides, she’ll say that I still gots me a little piece of her in Harper, so"
-" I should cherish the lass."
+"Besides, she’ll say that I still gots me a little piece of her in Harper, so "
+"I should cherish the lass."
 msgstr ""
-"তিনি আমাকে অবশ্যই দু: খিত হতে বলবেন না।সেই জীবনটি কেবল একটি বড় অ্যাডভেঞ্চার"
-" এবং মজাদার ভরা, যা আমি পরিবর্তন করতে পারি না এমন স্টাফগুলি সম্পর্কে আমার "
-"ভাবা উচিত নয়।পৃথিবী বিশাল এবং বিশাল, আমার মতো ছোট ছোট লোকের চেয়ে অনেক "
-"বড়।আমি এটি পরিবর্তন করার ক্ষমতা পাই না, তবে কেন আমি যথাসাধ্য চেষ্টা করতে "
-"চেষ্টা করবেন না?তদুপরি, তিনি বলবেন যে আমি এখনও আমাকে হার্পারে তার একটি ছোট্ট"
-" টুকরো পেয়েছি, তাই আমার লাসকে লালন করা উচিত।"
 
 #. [part]
 #: data/campaigns/Liberty/scenarios/08_Epilogue.cfg:37
@@ -3065,21 +2580,15 @@ msgid ""
 "all them good times we had together ― somehow, some way, they keeps me "
 "going. Me and Harper, we won’t give up till the very end."
 msgstr ""
-"আমি করি, এরওয়েন, আমি সত্যিই করি।এই সব সত্যই কঠিন।আমি কোনও সাহসী আত্মা, না "
-"কোনও মহান যোদ্ধা নই, তবে আমি আমার সেরাটা করি।এবং আমি তাদের একসাথে ভাল "
-"সময়গুলি সম্পর্কে ভুলে যাইনি - একরকম, কোনওভাবে, তারা আমাকে চালিয়ে যায়।আমি "
-"এবং হার্পার, আমরা একেবারে শেষ অবধি হাল ছাড়ব না।"
 
 #. [part]
 #: data/campaigns/Liberty/scenarios/08_Epilogue.cfg:40
 msgid ""
 "14 Scryer’s Bloom, 501 YW\n"
 "\n"
-"Harper got back today from Delwyn. Said she didn’t find no one alive there, but she did bring back a note she found. Let’s see what it says."
+"Harper got back today from Delwyn. Said she didn’t find no one alive there, "
+"but she did bring back a note she found. Let’s see what it says."
 msgstr ""
-"14 স্ক্রায়ারের ব্লুম, 501 yw\n"
-"\n"
-"হার্পার আজ ডেলউইন থেকে ফিরে এসেছেন।বলেছিলেন যে তিনি সেখানে কাউকে জীবিত খুঁজে পেলেন না, তবে তিনি খুঁজে পাওয়া একটি নোট ফিরিয়ে এনেছিলেন।আসুন দেখুন এটি কি বলে।"
 
 #. [part]
 #: data/campaigns/Liberty/scenarios/08_Epilogue.cfg:47
@@ -3088,10 +2597,6 @@ msgid ""
 "gave them a good ol’ thrashing they won’t ever forget. But in the end, it "
 "weren’t enough. We had to run like criminals before they killed us all.”</i>"
 msgstr ""
-"<i> \"বালড্রাস, আপনি গর্বিত হতেন।আমরা তাদের দু'বার সৈন্যদের সাথে লড়াই "
-"করেছি, তাদের একটি ভাল ওল ’ছুঁড়ে ফেলেছি তারা কখনও ভুলে যাবে না।তবে শেষ "
-"পর্যন্ত, এটি যথেষ্ট ছিল না।তারা আমাদের সকলকে হত্যা করার আগে আমাদের অপরাধীদের"
-" মতো দৌড়াতে হয়েছিল। ”</i>"
 
 #. [part]
 #: data/campaigns/Liberty/scenarios/08_Epilogue.cfg:51
@@ -3099,14 +2604,9 @@ msgid ""
 "<i>“I don’t know if you and Harper will see this note, but if you do, I’m "
 "expecting ya to come find us. Remember them ol’ pirate islands we used to "
 "hear some of them Elensefar sailors talk about? We be heading there, "
-"southwest of the city and past the land’s end. See you in the Three Sisters,"
-" old friend. ― Relana”</i>"
+"southwest of the city and past the land’s end. See you in the Three Sisters, "
+"old friend. ― Relana”</i>"
 msgstr ""
-"<i> \"আপনি এবং হার্পার এই নোটটি দেখতে পাবেন কিনা তা আমি জানি না, তবে আপনি "
-"যদি তা করেন তবে আমি আশা করছি যে আপনি আমাদের খুঁজে পাবেন।তাদের মনে রাখবেন ওল "
-"’জলদস্যু দ্বীপপুঞ্জ আমরা তাদের মধ্যে কিছু এলেনসফার নাবিকদের কথা শুনে "
-"শুনতাম?আমরা সেখানে যাচ্ছি, শহরের দক্ষিণ -পশ্চিমে এবং জমির শেষ পেরিয়ে।পুরানো"
-" বন্ধু, তিন বোনের মধ্যে দেখা হবে।- রিলানা \"</i>"
 
 #. [part]
 #: data/campaigns/Liberty/scenarios/08_Epilogue.cfg:55
@@ -3114,40 +2614,48 @@ msgid ""
 "So they survived! Them islands be a bit far, but I suppose this sack of old "
 "bones has one more adventure left in it..."
 msgstr ""
-"তাই তারা বেঁচে গেল!তাদের দ্বীপগুলি কিছুটা দূরে হতে পারে তবে আমি মনে করি এই "
-"পুরানো হাড়ের এই বস্তাটি এতে আরও একটি অ্যাডভেঞ্চার বাকি রয়েছে ..."
+
+#. [unit_type]: id=Lord of Elensefar, race=human
+#: data/campaigns/Liberty/units/Maddock.cfg:4
+msgid "Lord of Elensefar"
+msgstr ""
+
+#. [unit_type]: id=Lord of Elensefar, race=human
+#: data/campaigns/Liberty/units/Maddock.cfg:7
+msgid ""
+"The grand city-state of Elensefar is the wealthiest human settlement on the "
+"Great Continent, commanding a reputation and power that belies its "
+"relatively small population. Unlike the more war-minded inland nobles, "
+"Elensefar’s governors master the art of commerce and the skill of sailing, "
+"and are known to be particularly agreeable. Yet behind that merchant charm "
+"lies a fierce independence, a trait that sometimes puts them at odds with "
+"the aristocrats of other regions."
+msgstr ""
 
 #. [unit_type]: id=Rogue Mage, race=human
 #: data/campaigns/Liberty/units/Rogue_Mage.cfg:5
 msgid "Rogue Mage"
-msgstr "দুর্বৃত্ত ম্যাজ"
+msgstr ""
 
 #. [unit_type]: id=Rogue Mage, race=human
 #: data/campaigns/Liberty/units/Rogue_Mage.cfg:17
 msgid ""
 "Some mages are thrown out of the mages’ guild for attempting to practice "
 "forbidden arts. Now completely outside the law, these rogue mages do "
-"whatever is necessary to support their study of black magic. Although not as"
-" skilled as mages with more formal training, their magic can be quite "
-"lethal, while their banditry has resulted in moderate skill with the short "
-"sword."
+"whatever is necessary to support their study of black magic. Although not as "
+"skilled as mages with more formal training, their magic can be quite lethal, "
+"while their banditry has resulted in moderate skill with the short sword."
 msgstr ""
-"নিষিদ্ধ শিল্পকলা অনুশীলনের চেষ্টা করার জন্য কিছু ম্যাজকে ম্যাগেজের গিল্ডের "
-"বাইরে ফেলে দেওয়া হয়।এখন সম্পূর্ণ আইনের বাইরে, এই দুর্বৃত্ত ম্যাজগুলি তাদের"
-" কালো যাদু সম্পর্কে তাদের অধ্যয়নকে সমর্থন করার জন্য যা কিছু প্রয়োজন তা "
-"করে।যদিও আরও আনুষ্ঠানিক প্রশিক্ষণের সাথে ম্যাগেজের মতো দক্ষ না হলেও তাদের "
-"যাদু বেশ মারাত্মক হতে পারে, অন্যদিকে তাদের দস্যু সংক্ষিপ্ত তরোয়াল দিয়ে "
-"মাঝারি দক্ষতা অর্জন করেছে।"
 
 #. [attack]: type=cold
 #: data/campaigns/Liberty/units/Rogue_Mage.cfg:33
 msgid "ice blast"
-msgstr "আইস বিস্ফোরণে"
+msgstr ""
 
 #. [unit_type]: id=Shadow Lord, race=human
 #: data/campaigns/Liberty/units/Shadow_Lord.cfg:5
 msgid "Shadow Lord"
-msgstr "ছায়া প্রভু"
+msgstr ""
 
 #. [unit_type]: id=Shadow Lord, race=human
 #: data/campaigns/Liberty/units/Shadow_Lord.cfg:21
@@ -3158,32 +2666,27 @@ msgid ""
 "needing physical weapons, they are fearsome to both their enemies and those "
 "they lord over."
 msgstr ""
-"অল্প কিছু মানুষ হালকা এবং অন্ধকার যাদুবিদ্যার গোপনীয়তা অর্জন করে এবং তাদের "
-"বিচক্ষণতা বজায় রাখে।যারা এই ভারসাম্যকে আয়ত্ত করতে পারে তারা ছায়া প্রভু "
-"হয়ে উঠতে পারে, সম্পূর্ণরূপে আলোর জগতে বা অন্ধকারের বিশ্বে বিদ্যমান।আর "
-"শারীরিক অস্ত্রের প্রয়োজন নেই, তারা তাদের শত্রু এবং তারা উভয়কেই লর্ড করে "
-"তাদের পক্ষে ভয়ঙ্কর।"
 
 #. [attack]: type=blade
 #: data/campaigns/Liberty/units/Shadow_Lord.cfg:33
 msgid "astral blade"
-msgstr "অ্যাস্ট্রাল ব্লেড"
+msgstr ""
 
 #. [attack]: type=cold
 #: data/campaigns/Liberty/units/Shadow_Lord.cfg:44
 #: data/campaigns/Liberty/units/Shadow_Mage.cfg:45
 msgid "shadow bolt"
-msgstr "ছায়া বল্ট"
+msgstr ""
 
 #. [attack]: type=impact
 #: data/campaigns/Liberty/units/Shadow_Lord.cfg:56
 msgid "shadow blast"
-msgstr "ছায়া বিস্ফোরণ"
+msgstr ""
 
 #. [unit_type]: id=Shadow Mage, race=human
 #: data/campaigns/Liberty/units/Shadow_Mage.cfg:5
 msgid "Shadow Mage"
-msgstr "ছায়া ম্যাজ"
+msgstr ""
 
 #. [unit_type]: id=Shadow Mage, race=human
 #: data/campaigns/Liberty/units/Shadow_Mage.cfg:20
@@ -3196,32 +2699,23 @@ msgid ""
 "attacks. Despite their offensive power, the corruption in their souls has "
 "begun to adversely affect their health."
 msgstr ""
-"নিষিদ্ধ যাদুকরী শিল্পের অধ্যয়নকে সমর্থন করার জন্য বছরের পর বছর সহিংসতা এবং "
-"বর্বরতা ছায়া ম্যাজকে ভয়ঙ্কর যোদ্ধাদের মধ্যে পরিণত করেছে।এখন সম্পূর্ণরূপে "
-"ক্ষমতার সাথে মুগ্ধ হয়েছে, তারা হেনচমেনের ছোট ছোট অনুসরণকে আদেশ দেওয়ার জন্য"
-" পরিচিত।তারা তাদের যাদু-ব্যবহারকারী সমবয়সীদের সাথে সরাসরি যাদুকরী লড়াইয়ের"
-" সাথে লড়াই করে, পরিবর্তে তাদের শক্তিগুলিকে ধ্বংসাত্মক মারাত্মক আক্রমণে "
-"চ্যানেল করে।তাদের আক্রমণাত্মক শক্তি সত্ত্বেও, তাদের আত্মায় দুর্নীতি তাদের "
-"স্বাস্থ্যের বিরূপ প্রভাবিত করতে শুরু করেছে।"
 
 #. [unit_type]: id=Thug_Peasant
 #: data/campaigns/Liberty/units/Villagers.cfg:20
 msgid "Villager"
-msgstr "গ্রামবাসী"
+msgstr ""
 
 #. [unit_type]: id=Thug_Peasant
 #: data/campaigns/Liberty/units/Villagers.cfg:23
 msgid ""
-"Peasants live in the small hamlets and villages scattered across the Wesnoth"
-" countryside."
+"Peasants live in the small hamlets and villages scattered across the Wesnoth "
+"countryside."
 msgstr ""
-"কৃষকরা ওয়েসোথ গ্রামাঞ্চলে ছড়িয়ে ছিটিয়ে থাকা ছোট ছোট গ্রাম এবং "
-"গ্রামগুলিতে বাস করে।"
 
 #. [unit_type]: id=Bandit_Peasant
 #: data/campaigns/Liberty/units/Villagers.cfg:36
 msgid "Village Elder"
-msgstr "ভিলেজ এল্ডার"
+msgstr ""
 
 #. [unit_type]: id=Bandit_Peasant
 #: data/campaigns/Liberty/units/Villagers.cfg:39
@@ -3230,14 +2724,11 @@ msgid ""
 "guided by a group of elders, who are the village’s wisest and most "
 "experienced residents."
 msgstr ""
-"ওয়েসোথ গ্রামাঞ্চলে ছড়িয়ে ছিটিয়ে থাকা প্রতিটি গ্রাম সাধারণত একদল "
-"প্রবীণদের দ্বারা পরিচালিত হয়, যারা গ্রামের বুদ্ধিমান এবং সবচেয়ে অভিজ্ঞ "
-"বাসিন্দা।"
 
 #. [unit_type]: id=Highwayman_Peasant, gender=male,female
 #: data/campaigns/Liberty/units/Villagers.cfg:53
 msgid "Senior Village Elder"
-msgstr "সিনিয়র ভিলেজ এল্ডার"
+msgstr ""
 
 #. [unit_type]: id=Highwayman_Peasant, gender=male,female
 #: data/campaigns/Liberty/units/Villagers.cfg:57
@@ -3247,20 +2738,16 @@ msgid ""
 "their shoulders. Provincial officials tend to choose senior village elders "
 "as magistrates so that legal and customary authority will coincide."
 msgstr ""
-"পুরো গ্রাম গাইডেন্সের জন্য সিনিয়র প্রবীণদের দিকে তাকাচ্ছে।শক্তিশালী এবং "
-"জ্ঞানী, প্রবীণ প্রবীণরা তাদের কাঁধে সম্প্রদায়ের সুস্থতার জন্য দায়িত্ব "
-"নেন।প্রাদেশিক আধিকারিকরা প্রবীণ গ্রামের প্রবীণদের ম্যাজিস্ট্রেট হিসাবে বেছে "
-"নেওয়ার প্রবণতা পোষণ করেন যাতে আইনী ও প্রথাগত কর্তৃপক্ষের সাথে মিল থাকে।"
 
 #. [female]: gender=female
 #: data/campaigns/Liberty/units/Villagers.cfg:59
 msgid "female^Senior Village Elder"
-msgstr "মহিলা^সিনিয়র ভিলেজ এল্ডার"
+msgstr ""
 
 #. [unit_type]: id=Footpad_Peasant
 #: data/campaigns/Liberty/units/Villagers.cfg:92
 msgid "Peasant Youth"
-msgstr "কৃষক যুবক"
+msgstr ""
 
 #. [unit_type]: id=Footpad_Peasant
 #: data/campaigns/Liberty/units/Villagers.cfg:96
@@ -3268,60 +2755,52 @@ msgid ""
 "The scruffy-haired peasant youth are much like the young people living "
 "elsewhere in Wesnoth: reckless, cocky, and eager to explore."
 msgstr ""
-"কৃপণ কেশিক কৃষক যুবকরা অনেকটা ওয়েসনোথের অন্য কোথাও বসবাসকারী তরুণদের মতো: "
-"বেপরোয়া, কৌতুকপূর্ণ এবং অন্বেষণে আগ্রহী।"
 
 #. [female]
 #: data/campaigns/Liberty/units/Villagers.cfg:102
 msgid "female^Peasant Youth"
-msgstr "মহিলা^কৃষক যুবক"
+msgstr ""
 
 #. [unit_type]: id=Outlaw_Peasant
 #: data/campaigns/Liberty/units/Villagers.cfg:116
 msgid "Watchman"
-msgstr "প্রহরী"
+msgstr ""
 
 #. [unit_type]: id=Outlaw_Peasant
 #: data/campaigns/Liberty/units/Villagers.cfg:121
 msgid ""
-"The watchmen are men and women who protect the villages from marauders, both"
-" human and otherwise, that prowl the Wesnoth countryside at night."
+"The watchmen are men and women who protect the villages from marauders, both "
+"human and otherwise, that prowl the Wesnoth countryside at night."
 msgstr ""
-"ওয়াচম্যান হলেন পুরুষ এবং মহিলা যারা গ্রামগুলিকে ম্যারাডারদের হাত থেকে রক্ষা"
-" করেন, উভয়ই মানুষ এবং অন্যথায়, যে রাতে ওয়েসোথ গ্রামাঞ্চলে ছড়িয়ে পড়ে।"
 
 #. [female]
 #: data/campaigns/Liberty/units/Villagers.cfg:123
 msgid "female^Watchwoman"
-msgstr "মহিলা^প্রহরী মহিলা"
+msgstr ""
 
 #. [unit_type]: id=Fugitive_Peasant
 #: data/campaigns/Liberty/units/Villagers.cfg:137
 msgid "Borderer"
-msgstr "বর্ডারার"
+msgstr ""
 
 #. [unit_type]: id=Fugitive_Peasant
 #: data/campaigns/Liberty/units/Villagers.cfg:142
 msgid ""
 "Border villages maintain militias dedicated to fending off hostiles. While "
-"these borderers are not trained and armed to up to military standards, their"
-" native toughness and knowledge of local conditions make them formidable on "
+"these borderers are not trained and armed to up to military standards, their "
+"native toughness and knowledge of local conditions make them formidable on "
 "their home ground."
 msgstr ""
-"সীমান্ত গ্রামগুলি শত্রুদের প্রতিরোধে উত্সর্গীকৃত মিলিশিয়াদের বজায় "
-"রাখে।যদিও এই বর্ডারারদের প্রশিক্ষিত এবং সামরিক মানদণ্ডের জন্য সশস্ত্র নয়, "
-"তাদের স্থানীয় দৃ ness ়তা এবং স্থানীয় অবস্থার জ্ঞান তাদের তাদের বাড়ির "
-"মাঠে শক্তিশালী করে তোলে।"
 
 #. [female]
 #: data/campaigns/Liberty/units/Villagers.cfg:144
 msgid "female^Borderer"
-msgstr "মহিলা^বর্ডারার"
+msgstr ""
 
 #. [unit_type]: id=Poacher_Peasant
 #: data/campaigns/Liberty/units/Villagers.cfg:163
 msgid "Peasant Hunter"
-msgstr "কৃষক শিকারি"
+msgstr ""
 
 #. [unit_type]: id=Poacher_Peasant
 #: data/campaigns/Liberty/units/Villagers.cfg:166
@@ -3330,14 +2809,11 @@ msgid ""
 "bring in much of their food supply. Their stealth and intimate knowledge of "
 "local terrain can be valuable assets in combat."
 msgstr ""
-"গ্রামগুলি, বিশেষত সীমান্তের নিকটবর্তী ওয়াইল্ডার অঞ্চলে, তাদের খাদ্য "
-"সরবরাহের বেশিরভাগ অংশ আনতে শিকারীদের উপর নির্ভর করে।তাদের স্টিলথ এবং "
-"স্থানীয় ভূখণ্ড সম্পর্কে অন্তরঙ্গ জ্ঞান যুদ্ধে মূল্যবান সম্পদ হতে পারে।"
 
 #. [unit_type]: id=Trapper_Peasant
 #: data/campaigns/Liberty/units/Villagers.cfg:179
 msgid "Peasant Trapper"
-msgstr "কৃষক ট্র্যাপার"
+msgstr ""
 
 #. [unit_type]: id=Trapper_Peasant
 #: data/campaigns/Liberty/units/Villagers.cfg:183
@@ -3346,14 +2822,11 @@ msgid ""
 "Their hunting experience makes them most valuable at night and in forests "
 "and swamps."
 msgstr ""
-"ট্র্যাপাররা দক্ষ শিকারি যারা বেশ কয়েকটি গ্রামে খাবার এবং ফার সরবরাহ "
-"করে।তাদের শিকারের অভিজ্ঞতা তাদের রাতে এবং বন এবং জলাভূমিতে সবচেয়ে মূল্যবান "
-"করে তোলে।"
 
 #. [unit_type]: id=Huntsman_Peasant
 #: data/campaigns/Liberty/units/Villagers.cfg:196
 msgid "Peasant Huntsman"
-msgstr "কৃষক শিকারী"
+msgstr ""
 
 #. [unit_type]: id=Huntsman_Peasant
 #: data/campaigns/Liberty/units/Villagers.cfg:201
@@ -3362,21 +2835,18 @@ msgid ""
 "wilderness homes. They can bullseye ferocious swamp rats and track anything "
 "that moves in their territory."
 msgstr ""
-"হান্টসম্যানরা তাদের প্রান্তরের বাড়ির ব্যাকউডস এবং জলাভূমিতে তাদের জীবন "
-"কাটিয়েছেন।তারা হিংস্র জলাবদ্ধ ইঁদুরগুলিকে বুলসিয়ে করতে পারে এবং তাদের "
-"অঞ্চলে চলাচল করে এমন কোনও কিছু ট্র্যাক করতে পারে।"
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/utils/utils.cfg:19
 msgid "I’m coming... Erwen..."
-msgstr "আমি আসছি ... এরওয়েন ..."
+msgstr ""
 
 #. [message]: speaker=Relana
 #: data/campaigns/Liberty/utils/utils.cfg:52
 msgid "I’m finished..."
-msgstr "আমি শেষ..."
+msgstr ""
 
 #. [message]: speaker=Lord Maddock
 #: data/campaigns/Liberty/utils/utils.cfg:66
 msgid "How can this be?"
-msgstr "এটা কিভাবে হতে পারে?"
+msgstr ""
