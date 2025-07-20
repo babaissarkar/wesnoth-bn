@@ -1,7 +1,7 @@
-#
 # #-#-#-#-#  wesnoth-wof  #-#-#-#-#
 # Bengali translation of Wesnoth.
 # Copyright (C) 2025 Wesnoth development team
+# Tahsin J Khalid (Lord-Knightmare), 2024
 # Subhraman Sarkar <suvrax@gmail.com>, 2025.
 #
 msgid ""
@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: bn\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-02-19 21:05 UTC\n"
-"PO-Revision-Date: 2025-07-20 17:10+0530\n"
+"PO-Revision-Date: 2025-07-20 17:18+0530\n"
 "Last-Translator: Subhraman Sarkar <suvrax@gmail.com>\n"
 "Language-Team: Bengali < >\n"
 "Language: bn\n"
@@ -24,7 +24,7 @@ msgstr ""
 #: data/campaigns/Winds_of_Fate/_main.cfg:10
 #: data/campaigns/Winds_of_Fate/scenarios/06x_Winds_of_Fate.cfg:5
 msgid "Winds of Fate"
-msgstr "উইন্ডস অফ ফেট"
+msgstr "ভাগ্যের বাতাস"
 
 #. [campaign]: id=Winds_of_Fate
 #: data/campaigns/Winds_of_Fate/_main.cfg:11
@@ -59,7 +59,7 @@ msgstr "(হার্ড স্তর, 11 পরিস্থিতি।)"
 #. [campaign]: id=Winds_of_Fate
 #: data/campaigns/Winds_of_Fate/_main.cfg:25
 msgid "Aspirant"
-msgstr "পদপ্রার্থী"
+msgstr "উচ্চাঃকাঙ্খী"
 
 #. [campaign]: id=Winds_of_Fate
 #: data/campaigns/Winds_of_Fate/_main.cfg:25
@@ -69,7 +69,7 @@ msgstr "সহজ"
 #. [campaign]: id=Winds_of_Fate
 #: data/campaigns/Winds_of_Fate/_main.cfg:26
 msgid "Intendant"
-msgstr "স্টুয়ার্ড"
+msgstr "পদপ্রার্থী"
 
 #. [campaign]: id=Winds_of_Fate
 #: data/campaigns/Winds_of_Fate/_main.cfg:26
@@ -101,7 +101,7 @@ msgstr "দুঃস্বপ্ন"
 #. [about]
 #: data/campaigns/Winds_of_Fate/about.cfg:4
 msgid "Authors"
-msgstr "লেখক"
+msgstr "লেখকেরা"
 
 #. [about]
 #: data/campaigns/Winds_of_Fate/about.cfg:14

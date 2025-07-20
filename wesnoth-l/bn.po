@@ -1,6 +1,7 @@
 # #-#-#-#-#  wesnoth-l  #-#-#-#-#
 # Bengali translation of Wesnoth.
 # Copyright (C) 2025 Wesnoth development team
+# Tahsin J Khalid (Lord-Knightmare), 2024
 # Subhraman Sarkar <suvrax@gmail.com>, 2025.
 #
 msgid ""
