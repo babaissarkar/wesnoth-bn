@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: bn\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-07-21 03:54 UTC\n"
-"PO-Revision-Date: 2025-09-05 09:11+0530\n"
+"PO-Revision-Date: 2025-09-18 22:39+0530\n"
 "Last-Translator: Subhraman Sarkar <suvrax@gmail.com>\n"
 "Language-Team: Bengali < >\n"
 "Language: bn\n"
@@ -785,6 +785,10 @@ msgid ""
 "kith and kin! You shall learn to fear the wrath of Eloh and the Quenoth "
 "Elves!"
 msgstr ""
+"আমি তোমাদের সম্পর্কে শুনেছি, দুষ্ট শব-জাদুকর । তোমরা মরুতে ঘুরে বেড়াও, আর যারা চলে "
+"গিয়েছে তাদের ফিরিয়ে এনে দাস বানাবার সাহস দেখাও । কিন্তু আমরা প্রমাণ করে দেব যে "
+"মৃত্যু সর্বশক্তিমান নয় । তুমি আমার আত্মীয়-পরিচিতদের দেহকে অপমান করবে না! এলোহ্ আর "
+"কুয়েনথ এল্ফদের রোষে ভয় পাবে তুমি!"
 
 #. [message]: speaker=unit
 #: data/campaigns/Under_the_Burning_Suns/scenarios/01_The_Morning_After.cfg:1229
@@ -793,16 +797,19 @@ msgid ""
 "the open sands. They thought they could flee to the safety of our walls if "
 "danger came. I shudder to imagine what may have become of them."
 msgstr ""
+"আমাদের অনেকে গ্রামকে অতিরিক্ত ভিড় মনে করেছিল, তাই তারা মুক্ত মরুভূমিতে বসবাস করতে "
+"চেয়েছিল । তাদের বিশ্বাস ছিল, বিপদ এলে আমাদের প্রাচীরের সুরক্ষার ভেতরে পালিয়ে "
+"আসতে পারবে । তাদের ভাগ্যে কী ভয়াবহতা নেমে এসেছে সেই ভেবে আমি কাঁপছি ।"
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/01_The_Morning_After.cfg:1258
 msgid "The necromancer is finally vanquished."
-msgstr ""
+msgstr "শব-জাদুবিদ শেষপর্যন্ত পরাজিত ।"
 
 #. [message]: speaker=Zhul
 #: data/campaigns/Under_the_Burning_Suns/scenarios/01_The_Morning_After.cfg:1263
 msgid "And at last the dead shall have their rest."
-msgstr ""
+msgstr "এবং শেষপর্যন্ত মৃতরা তাদের বিশ্রাম পাবে ।"
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/01_The_Morning_After.cfg:1274
@@ -811,6 +818,8 @@ msgid ""
 "village. There may still be elves that need rescuing. We should go back and "
 "check."
 msgstr ""
+"শব-জাদুবিদ মৃত, কিন্তু আমার মনে হয় না যে আমরা সম্পূর্ণ গ্রামটা খুঁজে দেখেছি । এখনও এমন "
+"এল্ফেরা থাকতে পারে যাদের উদ্ধারের প্রয়োজন । আমাদের ফিরে গিয়ে দেখা উচিত ।"
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/01_The_Morning_After.cfg:1291
@@ -818,6 +827,8 @@ msgid ""
 "We’ve explored the village, and I think we’ve rescued the last of the "
 "survivors."
 msgstr ""
+"আমরা গ্রামটা খুঁজে দেখেছি, এবং আমার মনে হয় আমরা বেঁচে থাকা সবাইকে উদ্ধার করতে "
+"পেরেছি ।"
 
 #. [event]
 #: data/campaigns/Under_the_Burning_Suns/scenarios/01_The_Morning_After.cfg:1328
@@ -856,6 +867,9 @@ msgid ""
 "us, he intends to use our fallen comrades as fodder for his evil magics. "
 "Where have you been?"
 msgstr ""
+"হ্যাঁ, তোমাদের সাহায্যের খুব প্রয়োজন । এক শব-জাদুবিদ আমাদের ওপর আক্রমণ চালাচ্ছে, সে "
+"আমাদের মৃত সঙ্গীদের তার অশুভ জাদুর খোরাক হিসেবে ব্যবহার করতে চায়। তোমরা কোথায় "
+"ছিলে?"
 
 #. [message]: speaker=Pythos
 #: data/campaigns/Under_the_Burning_Suns/scenarios/01_The_Morning_After.cfg:1354
@@ -864,16 +878,18 @@ msgid ""
 "as we saw the rock storm we raced back as fast as we could. I only wish we "
 "could have come sooner."
 msgstr ""
+"আমরা মরুতে বহুদূরে গিয়েছিলাম, শিকার আর ঘুরে বেড়ানো ওর্কদের খোঁজে । পাথরের ঝড়টা "
+"দেখেই আমরা তৎক্ষণাৎ ফিরে আসি । যদি আমরা আর একটু আগে আসতে পারতাম ।"
 
 #. [message]: speaker=Nym
 #: data/campaigns/Under_the_Burning_Suns/scenarios/01_The_Morning_After.cfg:1359
 msgid "No use crying over spilt water. But we’re sure glad you’re here now."
-msgstr ""
+msgstr "অতীতের কথা ভেবে লাভ নেই । কিন্তু আমরা খুশি যে তুমি এখন এখানে ।"
 
 #. [message]: speaker=Nym
 #: data/campaigns/Under_the_Burning_Suns/scenarios/01_The_Morning_After.cfg:1373
 msgid "It seems that we finally have some peace. But what do we do now?"
-msgstr ""
+msgstr "মনে হচ্ছে শেষপর্যন্ত আমরা শান্তি পেয়েছি । কিন্তু এবারে আমরা কী করব?"
 
 #. [message]: speaker=Garak
 #: data/campaigns/Under_the_Burning_Suns/scenarios/01_The_Morning_After.cfg:1378
@@ -883,7 +899,7 @@ msgstr "টানুইল আর তার পরিবার কোথায়?"
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/01_The_Morning_After.cfg:1383
 msgid "The keep has been crushed by the rocks. We could find no survivors."
-msgstr ""
+msgstr "দূর্গ পাথরে চাপা পড়ে গিয়েছে । আমরা বেঁচে থাকা কাউকে খুঁজে পাইনি ।"
 
 #. [message]: speaker=Zhul
 #: data/campaigns/Under_the_Burning_Suns/scenarios/01_The_Morning_After.cfg:1388
@@ -919,12 +935,12 @@ msgstr ""
 #: data/campaigns/Under_the_Burning_Suns/scenarios/01_The_Morning_After.cfg:1410
 msgid ""
 "Impudent girl, you should not speak so to your elders, or to your betters."
-msgstr ""
+msgstr "অভদ্র মেয়ে, তুমি তোমার গুরুজনদের, বা উচ্চতনদের সঙ্গে এরকমভাবে কথা বলবে না ।"
 
 #. [message]: speaker=Nym
 #: data/campaigns/Under_the_Burning_Suns/scenarios/01_The_Morning_After.cfg:1415
 msgid "I have a right to speak my mind!"
-msgstr ""
+msgstr "আমরা নিজের মনে কথা জানাবার একটা অধিকার আছে!"
 
 #. [message]: speaker=Zhul
 #: data/campaigns/Under_the_Burning_Suns/scenarios/01_The_Morning_After.cfg:1421
@@ -1059,7 +1075,7 @@ msgstr ""
 #. [label]
 #: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:265
 msgid "Pinnacle Rock"
-msgstr ""
+msgstr "সর্বোচ্চ প্রস্তর"
 
 #. [message]: speaker=Garak
 #: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:288
@@ -1074,7 +1090,7 @@ msgstr ""
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:293
 msgid "Do you remember anything about these sands?"
-msgstr ""
+msgstr "তোমার কী এই মরুর সম্পর্কে কিছু মনে পড়ে?"
 
 #. [message]: speaker=narrator
 #. [modify_unit]
@@ -1168,7 +1184,7 @@ msgstr ""
 #. [message]: speaker=unit
 #: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:393
 msgid "Wait. I think I spotted something ahead of us..."
-msgstr ""
+msgstr "দাঁড়াও । মনে হচ্ছে আমি সামনে কিছু দেখতে পাচ্ছি..."
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:397
@@ -1332,7 +1348,7 @@ msgstr "এটা একটা ধুলো দানব, কিন্তু আ
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:836
 msgid "It seems to like you, looks like you just got yourself a pet."
-msgstr ""
+msgstr "মনে হচ্ছে এটা তোমাকে পছন্দ করেছে, তুমি একটা পোষ্য পেয়ে গিয়েছ ।"
 
 #. [message]: speaker=Zhul
 #: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:841
@@ -1340,6 +1356,8 @@ msgid ""
 "Girl, I told you not to open it. Let’s go, I’d really like to get to an "
 "oasis soon."
 msgstr ""
+"এই মেয়ে, আমি তোমাকে ওটা খুলতে বারণ করেছিলাম না । চলো, আমি তাড়াতাড়ি একটা "
+"মরুদ্যানে পৌঁছতে চাইব ।"
 
 #. [event]
 #: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:947
@@ -1395,7 +1413,7 @@ msgstr "না-মৃত আরোহী"
 #. [message]: speaker=Elyssa
 #: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1092
 msgid "Back, you fiends! Or I’ll kill you a second time!"
-msgstr ""
+msgstr "পেছিয়ে যাও, শয়তানের দল! নয়তো আমি তোমাদের আরও একবার মেরে ফেলব!"
 
 #. [message]: speaker=Go'hag
 #: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1099
@@ -1423,17 +1441,17 @@ msgstr ""
 #. [message]: speaker=Nym
 #: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1142
 msgid "Whew! Looks like that’s the last of them."
-msgstr ""
+msgstr "যাক! ওটাই মনে হচ্ছে ওদের শেষ ছিল ।"
 
 #. [message]: speaker=Elyssa
 #: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1147
 msgid "Thanks for the help! That was a little too close for comfort."
-msgstr ""
+msgstr "সাহায্যের জন্য ধন্যবাদ! আর একটু হলেই বিপদ হয়েছিল আর কী ।"
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1152
 msgid "That was a lot of undead. Why were they coming after you?"
-msgstr ""
+msgstr "না-মৃতদের পরিমাণটা নেহাত কম ছিল না । ওরা তোমাকে তাড়া করছিল কেন?"
 
 #. [message]: speaker=Elyssa
 #: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1157
@@ -1448,6 +1466,8 @@ msgid ""
 "We are, we’re the Quenoth Elves and we are traveling north. You look like "
 "you’re a mage, but I thought your kind were all gone."
 msgstr ""
+"হ্যাঁ, আমরা কুয়েনথ এল্ফরা আর আমরা উত্তরে' যাচ্ছি । তোমাকে দেখে জাদুবিদ বলে মনে "
+"হচ্ছি, কিন্তু আমি জানতাম তোমার মতো জাদুবিদরা আর নেই ।"
 
 #. [message]: speaker=Elyssa
 #: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1167
@@ -1473,7 +1493,7 @@ msgstr ""
 #. [unit]: type=Wraith, id=Vengeful Lord
 #: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1223
 msgid "Vengeful Lord"
-msgstr ""
+msgstr "প্রতিহিংসাপরায়ণ লর্ড"
 
 #. [then]
 #: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1232
@@ -1481,7 +1501,7 @@ msgstr ""
 #: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1236
 #: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1237
 msgid "Honor Guard"
-msgstr ""
+msgstr "সাম্মানিক প্রহরী"
 
 #. [message]: speaker=Vengeful Lord
 #: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1242
@@ -1522,7 +1542,7 @@ msgstr ""
 #. [message]: type=Ogre
 #: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1312
 msgid "Elves! Kill them all!"
-msgstr ""
+msgstr "এল্ফরা! ওদের সবাইকে মেরে ফেলো !"
 
 #. [message]: speaker=Garak
 #: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1317
@@ -1540,7 +1560,7 @@ msgstr ""
 #. [message]: speaker=Garak
 #: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1343
 msgid "This ruin looks oddly familiar."
-msgstr ""
+msgstr "এই ধ্বংসস্তুপ বেশ চেনা লাগছে ।"
 
 #. [message]: speaker=Nym
 #: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1348
@@ -1575,7 +1595,7 @@ msgstr ""
 #. [unit]: id=Thorn, type=Outlaw, gender=female
 #: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1400
 msgid "Thorn"
-msgstr ""
+msgstr "থর্ন"
 
 #. [message]: speaker=$explorer.id
 #: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1442
@@ -1595,6 +1615,7 @@ msgstr ""
 #: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1484
 msgid "I surrender! I mean we surrender. Just please don’t kill me."
 msgstr ""
+"আত্মসমর্পণ করছি! মানে আমরা আত্মসমর্পণ করছি । অনুগ্রহ করে আমাদের প্রাণে মেরো না ।"
 
 #. [message]: speaker=unit
 #: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1489
@@ -1634,12 +1655,12 @@ msgstr ""
 #. [message]: speaker=unit
 #: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1542
 msgid "Should I take the holy water?"
-msgstr ""
+msgstr "আমি কী পবিত্র জলটা নেব?"
 
 #. [object]: id=PureWater
 #: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1549
 msgid "Holy Water"
-msgstr ""
+msgstr "পবিত্র জল"
 
 #. [object]: id=PureWater
 #: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1551
@@ -1651,7 +1672,7 @@ msgstr ""
 #. [option]
 #: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1575
 msgid "No, I think someone else should take it."
-msgstr ""
+msgstr "আমার মনে হয় অন্য কারোর এটা নেওয়া উচিত ।"
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1619
@@ -1741,7 +1762,7 @@ msgstr ""
 #. [do]: role=LostSoul
 #: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1815
 msgid "Lost Soul"
-msgstr ""
+msgstr "হারানো আত্মা"
 
 #. [message]: speaker=Garak
 #: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1839
