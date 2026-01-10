@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: bn\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-12-22 03:09 UTC\n"
-"PO-Revision-Date: 2026-01-02 11:01+0530\n"
+"PO-Revision-Date: 2026-01-10 18:44+0530\n"
 "Last-Translator: Subhraman Sarkar <suvrax@gmail.com>\n"
 "Language-Team: Bengali < >\n"
 "Language: bn\n"
@@ -976,6 +976,11 @@ msgid ""
 "The deafening noise of these ‘thundersticks’ is terrifying to behold, and is "
 "made more so by the secrecy which dwarves wrap about their workings."
 msgstr ""
+"ওয়েসনথের মানুষেরা যখন প্রথমবার বামনদের মুখোমুখি হয়েছিল, তখন বামন বজ্রযোদ্ধাদের "
+"শক্তি তাদের সম্পূর্ণভাবে বিস্মিত করেছিল। এই যোদ্ধারা তাদের সঙ্গে যুদ্ধক্ষেত্রে বহন করা "
+"অদ্ভুত লাঠির মতো যন্ত্র ব্যবহার করে দূর থেকে শত্রুর ওপর মৃত্যু ছুড়ে দিত । এই ‘বজ্রদন্ড’-এর "
+"বজ্রধ্বনির মতো ভয়ংকর শব্দ শুনতেও ভয়ানক, আর তার ওপর বামনরা যেভাবে এর কার্যপ্রণালী "
+"কঠোর গোপনীয়তার আড়ালে রাখে, তা একে আরও ভীতিকর করে তোলে।"
 
 #. [attack]: type=pierce
 #: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Thunderer.cfg:38
@@ -999,6 +1004,15 @@ msgid ""
 "Though a single shot from these ‘thundersticks’ can take several minutes to "
 "prepare, the results are seen by the dwarves as being well worth the wait."
 msgstr ""
+"বামন বজ্রপ্রহরীরা তাদের অদ্ভুত অস্ত্রশস্ত্রের জন্য বিখ্যাত—কাঠ ও লোহার তৈরি এই বিচিত্র "
+"দণ্ডগুলি ক্রোধে ফেটে পড়লে বজ্রনিনাদের মতো শব্দ তোলে। এই অস্ত্রগুলোর অন্তর্নিহিত "
+"যান্ত্রিক কৌশল এক গভীর রহস্য; নালগার যে বামনরা এগুলো ব্যবহার করে, তারা সেই গোপন "
+"কথা কবর পর্যন্ত সঙ্গে নিয়ে যায়, এবং ধারণা করা হয় যে তারাই এগুলো গড়ে তুলেছিল। এ "
+"সম্পর্কে যা সামান্য জানা যায়, তা হলো বামনরা তাদের অস্ত্রের মুখে এক ধরনের অদ্ভুত কালো "
+"গুঁড়ো ঢালে—যা কেউ কেউ বলে, ভেতরে বন্দী কোনো জন্তুকে শক্তি জোগানোর খাদ্য।\n"
+"\n"
+"যদিও এই ‘বজ্রদন্ড’ থেকে একটি মাত্র গুলি ছোড়ার প্রস্তুতি নিতেই কয়েক মিনিট লেগে যেতে "
+"পারে, তবু বামনদের চোখে এর ফলাফল অপেক্ষার সম্পূর্ণ যোগ্য।"
 
 #. [unit_type]: id=Dwarvish Masked Ulfserker, race=dwarf
 #. [unit_type]: id=Dwarvish Ulfserker, race=dwarf
@@ -1035,6 +1049,11 @@ msgid ""
 "their runes cause the physical blows of their enemies to deal less damage "
 "than would be expected."
 msgstr ""
+"প্রায় অতিপ্রাকৃত দক্ষতা যাদের রয়েছে, তাদের বাদ দিলে একজন জাদুচিহ্নশিল্পী সর্বোচ্চ যে "
+"মর্যাদায় পৌঁছাতে পারে তা হলো বামন জাদুচিহ্ন বিশারদের পদ। সেরা যোদ্ধাদের আঘাতের "
+"কাছাকাছি শক্তিশালী আঘাত হানতে সক্ষম হওয়ায়, তাদের শিল্প না থাকলেও তারা ভয়ংকর "
+"হতো; কিন্তু সেই জাদুচিহ্নশিল্প তাদের প্রায় অজেয়ই করে তোলে, কারণ তাদের খোদাই করা "
+"জাদুচিহ্ন শত্রুদের শারীরিক আঘাতকে স্বাভাবিকের তুলনায় অনেকগুণ দূর্বল করে তোলে।"
 
 #. [unit_type]: id=Grounded Gryphon, race=gryphon
 #. [unit_type]: id=Gryphon, race=gryphon
@@ -1106,6 +1125,8 @@ msgid ""
 "This unit can burrow under loose dirt, sand, or leaves, concealing itself if "
 "it does not change location."
 msgstr ""
+"এই ইউনিটটি হালকা ধুলো, বালি, বা পাতার নীচে গর্ত খনন করার মাধ্যমে নিজেকে লুকিয়ে "
+"ফেলতে পারে, যতক্ষণ না সে স্থান পরিবর্তন করছে ।"
 
 #. [unit_type]: id=Wandering Scarab, race=monster
 #: data/campaigns/Under_the_Burning_Suns/units/monsters/Scarab.cfg:22
@@ -1115,6 +1136,10 @@ msgid ""
 "of attack is the large, sharp horn growing from their head. Because of their "
 "large size, armor, and horn, they cannot fly."
 msgstr ""
+"ভ্রামমান গুবরেপোকারা বড় ও শক্তপোক্ত কীট, যারা আকারে অত্যন্ত বড় হতে পারে—আর "
+"আক্রমণাত্মক হয়ে উঠলে তারা ভয়ংকর বিপদে পরিণত হয়। তাদের প্রধান আক্রমণের উপায় হলো "
+"মাথা থেকে বেরিয়ে থাকা বড় ও ধারালো শিং। বিশাল দেহ, কঠিন খোলস এবং এই শিংয়ের "
+"কারণে তারা উড়তে পারে না।"
 
 #. [attack]: type=pierce
 #: data/campaigns/Under_the_Burning_Suns/units/monsters/Scarab.cfg:50
@@ -1157,7 +1182,7 @@ msgstr "কণ্টক"
 #: data/core/units/drakes/Enforcer.cfg:44
 #: data/core/units/drakes/Thrasher.cfg:41
 msgid "ram"
-msgstr ""
+msgstr "ধাক্কা"
 
 #. [attack]: type=impact
 #: data/campaigns/Under_the_Burning_Suns/units/quenoth/Pathfinder.cfg:42
@@ -1179,7 +1204,7 @@ msgstr "তীরের বৃষ্টি"
 #. [effect]: type=pierce
 #: data/campaigns/Under_the_Burning_Suns/units/quenoth/Youth.cfg:570
 msgid "Snipe"
-msgstr ""
+msgstr "নিপুণ আঘাত"
 
 #. [unit_type]: id=Blood Bat, race=bats
 #: data/core/units/bats/Bat_Blood.cfg:4
@@ -3065,6 +3090,10 @@ msgid ""
 "armor, these dwarves are masters of the melee and can hold a patch of earth "
 "with the single-minded tenacity of an oak."
 msgstr ""
+"তাদের সহযোদ্ধাদের মধ্যে শ্রেষ্ঠ, বামন অতন্দ্র প্রহরীরা তাদের যুদ্ধরেখার প্রকৃত দূর্গস্বরূপ। "
+"তারা যে রেখাকে সুরক্ষিত করে, সেই রেখারর বিরুদ্ধে সরাসরি আক্রমণ চালানো সাধারণত "
+"প্রশ্নের বাইরে; তা শুধু নিস্ফল নয়, আত্মঘাতী হওয়ারই সম্ভাবনা বেশি। এই বামনরা "
+"নিকটযুদ্ধে পারদর্শী, এবং এক টুকরো জমিকে ওকের মতো একরোধাভাবে ধরে রাখতে পারে।"
 
 #. [unit_type]: id=Dwarvish Stalwart, race=dwarf
 #: data/core/units/dwarves/Stalwart.cfg:4
@@ -3112,6 +3141,15 @@ msgid ""
 "Though a single shot from these ‘thundersticks’ can take several minutes to "
 "prepare, the results are seen by the Dwarves as being well worth the wait."
 msgstr ""
+"বামন বজ্রপ্রহরীরা তাদের অদ্ভুত অস্ত্রশস্ত্রের জন্য বিখ্যাত—কাঠ ও লোহার তৈরি এই বিচিত্র "
+"দণ্ডগুলি ক্রোধে ফেটে পড়লে বজ্রনিনাদের মতো শব্দ তোলে। এই অস্ত্রগুলোর অন্তর্নিহিত "
+"যান্ত্রিক কৌশল এক গভীর রহস্য; নালগার যে বামনরা এগুলো ব্যবহার করে, তারা সেই গোপন "
+"কথা কবর পর্যন্ত সঙ্গে নিয়ে যায়, এবং ধারণা করা হয় যে তারাই এগুলো গড়ে তুলেছিল। এ "
+"সম্পর্কে যা সামান্য জানা যায়, তা হলো বামনরা তাদের অস্ত্রের মুখে এক ধরনের অদ্ভুত কালো "
+"গুঁড়ো ঢালে—যা কেউ কেউ বলে, ভেতরে বন্দী কোনো জন্তুকে শক্তি জোগানোর খাদ্য।\n"
+"\n"
+"যদিও এই ‘বজ্রদন্ড’ থেকে একটি মাত্র গুলি ছোড়ার প্রস্তুতি নিতেই কয়েক মিনিট লেগে যেতে "
+"পারে, তবু বামনদের চোখে এর ফলাফল অপেক্ষার সম্পূর্ণ যোগ্য।"
 
 #. [unit_type]: id=Dwarvish Ulfserker, race=dwarf
 #: data/core/units/dwarves/Ulfserker.cfg:4
@@ -3163,6 +3201,12 @@ msgid ""
 "vengeance for their brethren lost earlier in the battle. While not so base "
 "in design, it is not at all inaccurate."
 msgstr ""
+"এল্ফ ‘প্রতিশোধকারী’দের এই কৌতূহলোদ্দীপক নামটি এসেছে এমন এক কৌশল থেকে, যা এই দক্ষ "
+"রেঞ্জাররা প্রায়ই ব্যবহার করে। শত্রুকে একটি নকল প্রতিরক্ষা ভেদ করতে দেওয়া হয়, এবং "
+"সামনের সারির পেছনে থাকা দুর্বল সৈন্যরা এগিয়ে এলে, এই তীরন্দাজরা আড়াল থেকে বেরিয়ে "
+"এসে আক্রমণ করে, সরবরাহ পথ ছিন্ন করে একবারেই শত্রুকে ঘিরে ফেলে। কখনো কখনো এটিকে "
+"যুদ্ধে আগে নিহত স্বজাতিদের জন্য প্রতিশোধের নেওয়া হিসেবে ব্যাখ্যা করা হয়েছে। যদিও "
+"এটি ততটা সরল উদ্দেশ্যপ্রণোদিত নয়, তবু এই ব্যাখ্যাটি সম্পূর্ণ ভুল নয়।"
 
 #. [special_note]
 #: data/core/units/elves/Avenger.cfg:22
@@ -3170,6 +3214,8 @@ msgid ""
 "Elvish Avengers are well-traveled and adept at traversing harsh terrains "
 "like sand, water, and mountains."
 msgstr ""
+"এল্ফ প্রতিশোধকারীরা বহু ভ্রমণকারী এবং বালি, জল ও পাহাড়ের মতো কঠিন ভূখণ্ড অতিক্রমে "
+"দক্ষ।"
 
 #. [female]: gender=female
 #: data/core/units/elves/Avenger.cfg:96
@@ -3193,6 +3239,13 @@ msgid ""
 "often observed to lead through camaraderie and amicability, but still "
 "command great respect from their kin."
 msgstr ""
+"এল্ফ কাপ্তেনরা সাধারণত টহলদল ও দুর্গের দায়িত্বে থাকে, যারা এল্ফদের ভূখণ্ডের বিস্তীর্ণ "
+"বনভূমি পাহারা দেয়। অন্যান্য জাতির নেতাদের তুলনায় তারা বৃহৎ যুদ্ধে নয়, বরং ছোটখাটো "
+"সংঘর্ষ পরিচালনায় বেশি দক্ষ, এবং প্রতিরক্ষামূলক কৌশলে বিশেষ পারদর্শী। কাপ্তেনরা "
+"সাধারণত ছোট দল পরিচালনা করে, যারা দীর্ঘ সময় একসঙ্গে থাকে, ফলে তারা ব্যক্তিগতভাবে "
+"নিজেদের সৈন্যদের প্রশিক্ষণ দিতে ও ঘনিষ্ঠ সম্পর্ক গড়ে তুলতে পারে। তারা প্রায়ই "
+"বন্ধুত্বপূর্ণতা ও সৌহার্দ্যের মাধ্যমে নেতৃত্ব দেয়, তবুও স্বজাতিদের কাছ থেকে গভীর সম্মান "
+"আদায় করে।"
 
 #. [unit_type]: id=Elvish Champion, race=elf
 #: data/core/units/elves/Champion.cfg:4
@@ -3213,6 +3266,14 @@ msgid ""
 "their whole lives refining their prowess with the blade, these elves are "
 "exceptionally dangerous and should never be underestimated."
 msgstr ""
+"এল্ফরা স্বভাবতই শান্তিপ্রিয়, এবং অধিকাংশই কেবল তাদের ওপর সংঘটিত অন্যায়ের প্রতিশোধ "
+"হিসেবেই আক্রমণ করে। তবে কিছু এল্ফ আছে যারা ইচ্ছাকৃতভাবে—উদ্দেশ্যপ্রণোদিত হোক বা না "
+"হোক—নিজেদের আনন্দের জন্য যুদ্ধ খোঁজে। অবিরাম সংঘর্ষের মধ্য দিয়ে এই যোদ্ধারা হয় তাদের "
+"তলোয়ার চালনার দক্ষতাকে সমসাময়িকদের অনেক ঊর্ধ্বে নিয়ে যায়, নয়তো নিকট সংঘর্ষের "
+"উন্মত্ততায় প্রাণ হারায়। যারা টিকে থাকতে পারে, তারা শেষ পর্যন্ত এমন দক্ষতায় পৌঁছায় "
+"যে পুরো যুদ্ধক্ষেত্রই জয় করতে সক্ষম হয়, নির্মমভাবে শত্রুদের কেটে ফেলে সত্যিকারের "
+"যোদ্ধাশ্রেষ্ঠে পরিণত হয়। সারাজীবন তলোয়ারের দক্ষতা শাণিত করেছে, তাই এই এল্ফরা "
+"অত্যন্ত বিপজ্জনক এবং কখনোই তাদের কম ভাবা উচিত নয়।"
 
 #. [unit_type]: id=Elvish Druid, race=elf, gender=female
 #: data/core/units/elves/Druid.cfg:4
