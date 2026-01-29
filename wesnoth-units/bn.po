@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: bn\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-12-22 03:09 UTC\n"
-"PO-Revision-Date: 2026-01-10 18:44+0530\n"
+"PO-Revision-Date: 2026-01-16 21:40+0530\n"
 "Last-Translator: Subhraman Sarkar <suvrax@gmail.com>\n"
 "Language-Team: Bengali < >\n"
 "Language: bn\n"
@@ -1284,6 +1284,9 @@ msgid ""
 "platform, and their spacious holds can carry both medical supplies and "
 "repair equipment."
 msgstr ""
+"ব্যাবসায়ী ক্যারাকগুলি বেশী মালবহনের ক্ষমতাসম্পন্ন দ্রুতগামী জাহাজ। যদিও এগুলি যুদ্ধের "
+"জন্য তৈরী নয়, তাদের বড় ও স্থিতিশীল ডেক তীরন্দাজির জন্য ভালো এলাকা, এবং তাদের "
+"প্রশস্ত হোল্ডে চিকিৎসা সরঞ্জাম ও মেরামত উপকরণ উভয়ই বহন করা যায়।"
 
 #. [attack]: type=pierce
 #: data/core/units/boats/Carrack_Merchant.cfg:43
@@ -1306,6 +1309,9 @@ msgid ""
 "who crew them are more than happy to help relieve other ships of their "
 "weighty cargo, or to fight as privateers in return for coin."
 msgstr ""
+"জলদস্যু জাহাজগুলোর মালবাহী জাহাজগুলোর সঙ্গে নেকড়ে আর ভেড়ার সম্পর্ক। এগুলো "
+"পরিচালনাকারী জলদস্যুরা আনন্দের সঙ্গে অন্য জাহাজের ভারী মালপত্র লুটে করে, অথবা "
+"পারিশ্রমিকের বিনিময়ে প্রাইভেটিয়ার হিসেবে যুদ্ধ করতেও রাজি থাকে।"
 
 #. [attack]: type=pierce
 #: data/core/units/boats/Carrack_Pirate.cfg:39
@@ -1331,6 +1337,9 @@ msgid ""
 "are merely ruined ships that will soon sink, but there are tales of others "
 "that haunt certain waterways for generations."
 msgstr ""
+"পরিত্যক্ত জাহাজ হল অব্যবহৃত জাহাজের ধ্বংসাবশেষ, যা সমুদ্রে ভেসে বেড়াতে থাকে। "
+"অধিকাংশই ক্ষতিগ্রস্ত জাহাজ, যা শিগগিরই ডুবে যাবে, তবে কিছু এমন জাহাজের কথাও শোনা "
+"যায় যারা প্রজন্মের পর প্রজন্ম ধরে নির্দিষ্ট জলপথে ভূতের মতো ঘুরে বেড়ায়।"
 
 #. [unit_type]: id=Elvish Cutter, race=ship
 #: data/core/units/boats/Elf_Cutter.cfg:5
@@ -1346,6 +1355,11 @@ msgid ""
 "Artfully grafted together from still-living trees, these sleek ships can "
 "recover from minor injuries without their crews’ intervention."
 msgstr ""
+"এলফরা স্বভাবতই সমুদ্রপ্রিয় জাতি নয়; তারা বরং বনভূমির নীরব নিঃসঙ্গতাকেই বেশি পছন্দ "
+"করে। তবুও নদীপথে বাণিজ্য ও পরিবহনের কিছুটা চাহিদা রয়েছে, বিশেষ করে ওয়েসমেয়ার ও "
+"লিন্টানিরের বসতিগুলোর মধ্যে। জীবিত গাছ থেকে নিপুণভাবে সংযোজন করে তৈরি এই হালকা "
+"জাহাজগুলো তাদের নাবিকদের হস্তক্ষেপ ছাড়াই সামান্য ক্ষতি থেকে নিজে নিজেই সেরে উঠতে "
+"পারে।"
 
 #. [attack]: type=pierce
 #: data/core/units/boats/Elf_Cutter.cfg:39
@@ -1353,7 +1367,7 @@ msgstr ""
 #: data/core/units/boats/Elf_Sloop.cfg:40
 #: data/core/units/boats/Elf_Sloop.cfg:49
 msgid "marksmen"
-msgstr ""
+msgstr "লক্ষ্যবিদেরা"
 
 #. [unit_type]: id=Elvish Sloop, race=ship
 #: data/core/units/boats/Elf_Sloop.cfg:5
@@ -1368,6 +1382,9 @@ msgid ""
 "times of crisis, for their living timber can survive only a handful of years "
 "after being launched."
 msgstr ""
+"জলে মসৃণভাবে ভেসে চলা এবং সবুজে সজ্জিত এই শক্তিশালী এল্ফ জাহাজগুলোর নির্বিঘ্নে ঢেউ ও "
+"ঝড় মোকাবিলা করতে পারে। এমন বিশাল জাহাজ কেবল সংকটের সময়েই দেখা যায়, কারণ "
+"ছাড়ার পর তাদের জীবন্ত কাঠ মাত্র কয়েক বছরই টিকে থাকতে পারে।"
 
 #. [unit_type]: id=Fireship, race=ship
 #: data/core/units/boats/Fireship.cfg:4
@@ -1382,11 +1399,15 @@ msgid ""
 "they also shed burning embers. Sometimes they have a skeleton crew to guide "
 "them, but often they just drift along on unseen winds and currents."
 msgstr ""
+"অগ্নিজাহাজ সাধারণত পরিত্যক্ত বা বিনষ্ট জাহাজ যাদের লড়াইয়ের শেষ উপায় হিসেবে "
+"জ্বালিয়ে দেওয়া হল । তাদের সঙ্গে জ্বলন্ত সংঘর্ষ মুখ্য বিপদ হলেও, তারা জ্বলন্ত অংগারও "
+"ছড়ায়। কখনও কখনও কঙ্কালদের একটি দল থাকে যারা জাহাজটিকে নিয়ন্ত্রণ করে, কিন্তু "
+"প্রায়শই তারা অদৃশ্য বাতাস এবং প্রবাহের কারণে ইতস্তত ভাসতে থাকে।"
 
 #. [dummy]: id=deteriorate
 #: data/core/units/boats/Fireship.cfg:26
 msgid "deteriorate"
-msgstr ""
+msgstr "অবক্ষয়"
 
 #. [dummy]: id=deteriorate
 #: data/core/units/boats/Fireship.cfg:27
@@ -1426,11 +1447,13 @@ msgid ""
 "Propelled by oars or small sails, Boats are used to travel short distances "
 "and in shallows where large ships cannot navigate."
 msgstr ""
+"দাঁড় বা ছোট পাল দিয়ে চালিত নৌকাগুলি স্বল্প দূরত্বে যাতায়াত করার জন্য এবং অগভীর জলে "
+"ব্যবহৃত হয়, যেখানে বড় জাহাজ চলাচল করতে পারে না।"
 
 #. [unit_type]: id=Galleon, race=mechanical
 #: data/core/units/boats/Legacy_Galleon.cfg:6
 msgid "Galleon"
-msgstr "জাহাজ"
+msgstr "গ্যালিয়ন"
 
 #. [unit_type]: id=Galleon, race=mechanical
 #: data/core/units/boats/Legacy_Galleon.cfg:21
@@ -1441,11 +1464,15 @@ msgid ""
 "Isle, before even the times of Haldric. Centuries later, their skillfully-"
 "crafted designs continue to be used by many Wesnothian sailors."
 msgstr ""
+"গ্যালিয়নগুলি বড় এবং মজবুত কাঠের জাহাজ যা মূলত বেশী পরিমাণে পণ্য নদী এবং মহাসাগরে "
+"দ্রুত পরিবহনের জন্য ব্যবহৃত হয়। প্রাচীনতম গ্যালিয়নগুলি হালড্রিকের যুগের অনেক আগে সবুজ "
+"দ্বীপের প্রাচীন নাবিকদের দ্বারা নির্মিত হয়েছিল। শতাব্দীর পর শতাব্দী, তাদের দক্ষতার "
+"সাথে তৈরি করা গঠনগগুলি ওয়েসনথের নাবিকদের দ্বারা এখনও ব্যবহৃত হয়।"
 
 #. [unit_type]: id=Pirate Galleon, race=mechanical
 #: data/core/units/boats/Legacy_Pirate_Galleon.cfg:7
 msgid "Pirate Galleon"
-msgstr "জলদস্যু জাহাজ"
+msgstr "জলদস্যু গ্যালিয়ন"
 
 #. [unit_type]: id=Pirate Galleon, race=mechanical
 #: data/core/units/boats/Legacy_Pirate_Galleon.cfg:23
@@ -1454,6 +1481,8 @@ msgid ""
 "who crew them are more than happy to help relieve other ships of their "
 "weighty cargo."
 msgstr ""
+"জলদস্যু গ্যালিয়নগুলোর পরিবহন গ্যালিয়নগুলোর সঙ্গে নেকড়ে আর ভেড়ার সম্পর্ক। এগুলো "
+"পরিচালনাকারী জলদস্যুরা আনন্দের সঙ্গে অন্য জাহাজের ভারী মালপত্র লুঠ করে।"
 
 #. [attack]: type=pierce
 #: data/core/units/boats/Legacy_Pirate_Galleon.cfg:26
@@ -1464,7 +1493,7 @@ msgstr "প্রস্তর নিক্ষেপক যন্ত্র"
 #. [unit_type]: id=Transport Galleon, race=mechanical
 #: data/core/units/boats/Legacy_Transport_Galleon.cfg:7
 msgid "Transport Galleon"
-msgstr "পরিবহন জাহাজ"
+msgstr "পরিবহন গ্যালিয়ন"
 
 #. [unit_type]: id=Transport Galleon, race=mechanical
 #: data/core/units/boats/Legacy_Transport_Galleon.cfg:22
@@ -1472,6 +1501,8 @@ msgid ""
 "Transport Galleons are well-armed ships that carry troops. If they reach the "
 "shore, they can land the troops to attack."
 msgstr ""
+"পরিবহন গ্যালিয়নগুলি সৈন্য পরিবহনকারী সুসজ্জিত জাহাজ । সমুদ্রতীরে পৌঁছালে তারা "
+"সৈন্যদের আক্রমণের জন্য নামাতে পারে।"
 
 #. [unit_type]: id=Orcish Barge, race=ship
 #: data/core/units/boats/Orc_Barge.cfg:5
@@ -1519,7 +1550,7 @@ msgstr ""
 #. [attack]: type=impact
 #: data/core/units/boats/Orc_Battle-Barge.cfg:45
 msgid "catapult"
-msgstr ""
+msgstr "ক্যাটাপুল্ট"
 
 #. [unit_type]: id=Orcish Rigship, race=ship
 #: data/core/units/boats/Orc_Rigship.cfg:5
@@ -2513,7 +2544,7 @@ msgstr "মশাল"
 #. [attack]: type=pierce
 #: data/core/units/dunefolk/Marauder.cfg:71
 msgid "rope dart"
-msgstr ""
+msgstr "দড়িবাঁধা তীর"
 
 #. [unit_type]: id=Dune Paragon, race=dunefolk
 #: data/core/units/dunefolk/Paragon.cfg:8
@@ -2572,7 +2603,7 @@ msgstr ""
 #. [attack]: type=pierce
 #: data/core/units/dunefolk/Raider.cfg:68
 msgid "dart"
-msgstr ""
+msgstr "ছোটো তীর"
 
 #. [unit_type]: id=Dune Rider, race=dunefolk
 #: data/core/units/dunefolk/Rider.cfg:8
@@ -2746,7 +2777,7 @@ msgstr ""
 #. [unit_type]: id=Dune Strider, race=dunefolk, gender=female
 #: data/core/units/dunefolk/Strider.cfg:8
 msgid "female^Dune Strider"
-msgstr ""
+msgstr "মরু ধাবক"
 
 #. [unit_type]: id=Dune Strider, race=dunefolk, gender=female
 #: data/core/units/dunefolk/Strider.cfg:21
@@ -3730,7 +3761,7 @@ msgstr ""
 #. [unit_type]: id=Fog Clearer, race=monster
 #: data/core/units/fake/Fog_Clearer.cfg:13
 msgid "dummy_unit^Fog Clearer"
-msgstr ""
+msgstr "কুয়াশা পরিষ্কারক"
 
 #. [unit_type]: id=Direwolf Rider, race=wolf
 #: data/core/units/goblins/Direwolf_Rider.cfg:4
