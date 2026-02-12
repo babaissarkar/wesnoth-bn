@@ -1,7 +1,7 @@
 # #-#-#-#-#  wesnoth-ei  #-#-#-#-#
 # Bengali translation of Wesnoth.
 # Copyright (C) 2025 Wesnoth development team
-# Subhraman Sarkar <suvrax@gmail.com>, 2025.
+# Subhraman Sarkar <sbmskmm@protonmail.com>, 2025.
 #
 msgid ""
 msgstr ""
@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-04-28 03:22 UTC\n"
 "PO-Revision-Date: 2025-08-08 13:13+0530\n"
-"Last-Translator: Subhraman Sarkar <suvrax@gmail.com>\n"
+"Last-Translator: Subhraman Sarkar <sbmskmm@protonmail.com>\n"
 "Language-Team: Bengali < >\n"
 "Language: bn\n"
 "MIME-Version: 1.0\n"

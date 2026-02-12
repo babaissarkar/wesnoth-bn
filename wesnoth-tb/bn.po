@@ -1,6 +1,6 @@
 #
 # Tahsin J Khalid <>, 2024.
-# Subhraman Sarkar <suvrax@gmail.com>, 2025.
+# Subhraman Sarkar <sbmskmm@protonmail.com>, 2025.
 #
 msgid ""
 msgstr ""
@@ -8,7 +8,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-03-03 07:38+0530\n"
 "PO-Revision-Date: 2025-07-17 16:59+0530\n"
-"Last-Translator: Subhraman Sarkar <suvrax@gmail.com>\n"
+"Last-Translator: Subhraman Sarkar <sbmskmm@protonmail.com>\n"
 "Language-Team: Bengali < >\n"
 "Language: bn\n"
 "MIME-Version: 1.0\n"

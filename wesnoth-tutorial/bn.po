@@ -1,14 +1,14 @@
 # #-#-#-#-#  wesnoth-tutorial  #-#-#-#-#
 # Bengali translation of Wesnoth.
 # Copyright (C) 2024 Wesnoth development team
-# Subhraman Sarkar <suvrax@gmail.com>, 2024.
+# Subhraman Sarkar <sbmskmm@protonmail.com>, 2024.
 msgid ""
 msgstr ""
 "Project-Id-Version: bn\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-05-26 20:07 UTC\n"
 "PO-Revision-Date: 2024-02-21 09:49+0530\n"
-"Last-Translator: Subhraman Sarkar <suvrax@gmail.com>\n"
+"Last-Translator: Subhraman Sarkar <sbmskmm@protonmail.com>\n"
 "Language-Team: Bengali < >\n"
 "Language: bn\n"
 "MIME-Version: 1.0\n"
