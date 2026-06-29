@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: bn\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-03-23 23:10 UTC\n"
-"PO-Revision-Date: 2026-06-27 19:43+0530\n"
+"PO-Revision-Date: 2026-06-29 20:25+0530\n"
 "Last-Translator: Subhraman Sarkar <suvrax@gmail.com>\n"
 "Language-Team: Bengali < >\n"
 "Language: bn\n"
@@ -8917,6 +8917,11 @@ msgid ""
 "nor caring what their purpose or foes might be. They are driven only by a "
 "malice born of their empty and tortured existence."
 msgstr ""
+"না-মৃত তীরন্দাজদের মধ্যে সবচেয়ে শক্তিশালী প্রায়শই তারাই হয়, যারা আগের জীবনেও "
+"নিজেরা তীরন্দাজ ছিল। তারা যুদ্ধক্ষেত্রে ঘুরে বেড়ায়, নিজেদের পূর্বকার দক্ষতার ক্ষীণ হয়ে "
+"যাওয়া স্মৃতি দ্বারা চালিত হয়ে; তাদের উদ্দেশ্য কী, বা শত্রুই-বা কারা, তা তারা জানেও "
+"না, আর গুরুত্বও দেয় না। তারা কেবল তাদের শূন্য ও যন্ত্রণাময় অস্তিত্ব থেকে জন্ম নেওয়া এক "
+"বিদ্বেষ দ্বারা চালিত হয়।"
 
 #. [unit_type]: id=Bone Knight, race=undead
 #: data/core/units/undead/Skele_Bone_Knight.cfg:5
@@ -8932,6 +8937,9 @@ msgid ""
 "their skeletal horses were raised from the grave by unholy magic to spread "
 "fear and destruction."
 msgstr ""
+"একসময় তারা ছিল মহান যোদ্ধা, সমতলভূমি জুড়ে বজ্রগতিতে ছুটে বেড়াত। এখন কঙ্কালঘোড়ার "
+"পিঠে চড়া এই অশ্বারোহীদের অপবিত্র জাদুতে কবর থেকে তুলে আনা হয়েছে, যাতে তারা ভয় আর "
+"ধ্বংস ছড়াতে পারে।"
 
 #. [unit_type]: id=Bone Shooter, race=undead
 #: data/core/units/undead/Skele_Bone_Shooter.cfg:4
@@ -8948,6 +8956,11 @@ msgid ""
 "victims. It follows that they are dubbed simply ‘Bone-Shooters’ by their "
 "unfortunate enemies."
 msgstr ""
+"একজন কালো জাদুকরের সৃষ্টিদের মধ্যে কিছু কিছু এই দেওয়া মিথ্যা জীবনের সঙ্গে আরও "
+"ভালোভাবে মানিয়ে নেয়। তাদের না-মৃত জীবনের শক্তির সঙ্গে মানানসই করে তাদের অস্ত্র-"
+"সামগ্রী দেওয়া হয়; বিশেষ করে তীরন্দাজদের প্রায়ই একেবারে ঘৃণ্য অস্ত্রভাণ্ডারে সজ্জিত "
+"করা হয়। তাদের তূণে থাকা তীরের দণ্ড কাঠের নয়, বরং তাদের শিকারের হাড় দিয়ে তৈরি। "
+"তাই তাদের দুর্ভাগা শত্রুরা তাদের স্রেফ ‘অস্থি নিক্ষেপক’ বলেই ডাকে।"
 
 #. [unit_type]: id=Chocobone, race=undead
 #: data/core/units/undead/Skele_Chocobone.cfg:4
@@ -8961,6 +8974,9 @@ msgid ""
 "civilization, the skeletal Chocobones can move faster than most cavalry "
 "units."
 msgstr ""
+"একসময় হারিয়ে যাওয়া এক সভ্যতা যেসব উটপাখির মতো বিশাল পাখিকে বাহন হিসেবে ব্যবহার "
+"করত, তাদের কঙ্কালের ওপর চড়ে অস্থিসার পক্ষীআরোহীরা অধিকাংশ অশ্বারোহী বাহিনীর "
+"চেয়েও দ্রুত চলতে পারে।"
 
 #. [unit_type]: id=Death Knight, race=undead
 #: data/core/units/undead/Skele_Death_Knight.cfg:4
@@ -8975,6 +8991,9 @@ msgid ""
 "Wielding the same weapons as in life, they command the Undead in their quest "
 "for revenge."
 msgstr ""
+"কথিত আছে, সর্বশ্রেষ্ঠ যোদ্ধা ও সেনাপতিরা, যারা ঘৃণার অভিশাপে এবং বিশ্বাসঘাতকতার "
+"আঘাতে জর্জরিত হয় তারা মৃত্যুর নাইট হিসেবে এই জগতে ফিরে আসে। জীবনে যেমন অস্ত্র "
+"ব্যবহার করত, তেমনি অস্ত্রই তারা বহন করে, আর প্রতিশোধের সন্ধানে না-মৃতদের নেতৃত্ব দেয়।"
 
 #. [unit_type]: id=Death Squire, race=undead
 #: data/core/units/undead/Skele_Death_Squire.cfg:5
@@ -8990,6 +9009,10 @@ msgid ""
 "pick up a good deal of the Knight’s power, including the ability to command "
 "underlings."
 msgstr ""
+"কখনও কখনও, ঘৃণা ও যন্ত্রণায় অভিশপ্ত মহাশক্তিশালী যোদ্ধা ও সেনাপতিরা মৃত্যুর নাইট "
+"হিসেবে এই জগতে ফিরে আসে। মৃত্যুর স্কোয়ার-রা যথেষ্ট অপবিত্র শক্তি সঞ্চয় করে মৃত্যুর নাইট "
+"হতে হতে তাদের সেবা করে। এই প্রক্রিয়ায় তারা নাইটদের শক্তির অনেকটাই অর্জন করে, "
+"এমনকি অধীনস্থদের নির্দেশ দেওয়ার ক্ষমতাও।"
 
 #. [unit_type]: id=Deathblade, race=undead
 #: data/core/units/undead/Skele_Deathblade.cfg:4
@@ -9005,6 +9028,10 @@ msgid ""
 "monsters are much faster than the rest of their kind, both on foot and with "
 "their blades."
 msgstr ""
+"জীবিত অবস্থায়, ‘মৃত্যুতরবারি’ নামে পরিচিত এই বিকৃত সত্তাগুলো ছিল যুদ্ধের দক্ষ কারিগর, "
+"চটপটে এবং প্রাণঘাতী সৈনিক। তাদের নতুন প্রভুরা এটি বুঝে, তাদের একসময়ের দক্ষতার সঙ্গে "
+"মানানসই করে বর্মে তাদের সাজিয়ে দেয়। যদিও তারা দুর্বল, এই দানবগুলো তাদের প্রজাতির "
+"অন্যদের তুলনায় অনেক দ্রুত, পায়ে হেঁটে চলার ক্ষেত্রেও, আর তাদের তরবারির চালানোতেও।"
 
 #. [unit_type]: id=Draug, race=undead
 #: data/core/units/undead/Skele_Draug.cfg:4
@@ -9020,6 +9047,10 @@ msgid ""
 "for a peace bought only by strength of arms. And so they struggle; both "
 "unthinking, and unrelenting."
 msgstr ""
+"এই সুউচ্চ ধ্বংসাবশেষ দেহে, একসময়ের মানুষদের আর বেশি কিছু অবশিষ্ট নেই। হৃদয়ে তারা "
+"যোদ্ধা, কিন্তু এখন তারা না-মৃত জীবনের স্বপ্নে হারিয়ে গেছে; স্মৃতির যুদ্ধক্ষেত্রে ঘুরে "
+"বেড়ায় এবং মুক্তির জন্য মরিয়া হয়ে লড়াই করে, শুধু বাহুবলের জোরে কেনা যায় এমন শান্তির "
+"জন্য। আর তাই তারা সংগ্রাম করে; নির্বিচার, এবং অপ্রতিরোধ্যভাবে।"
 
 #. [unit_type]: id=Revenant, race=undead
 #: data/core/units/undead/Skele_Revenant.cfg:4
@@ -9036,6 +9067,12 @@ msgid ""
 "powerful tool in combat: a fearless warrior that feels no pain and will "
 "fight to the bitter end."
 msgstr ""
+"আবারও যুদ্ধ করার জন্য মিথ্যা জীবন দেওয়া হয়েছে, রেভেন্যান্ট নামে পরিচিত এই সত্তাগুলো "
+"নিঃসন্দেহে তাদের সময়ে মহান যোদ্ধা ছিল, যদিও সেই সময়ের স্মৃতি তাদের না-মৃত দেহে "
+"প্রায় সম্পূর্ণ হারিয়ে গেছে। এমনকি যারা তাদের জাগিয়েছে, সেই জাদুকররাও তাদের অতীত "
+"নিয়ে কেবল অনুমানই করতে পারে। এসব প্রশ্ন বাদ দিলে, যুদ্ধক্ষেত্রে এক রেভেন্যান্ট এক "
+"শক্তিশালী অস্ত্র: এক নির্ভীক যোদ্ধা, যে কোনো ব্যথা অনুভব করে না এবং শেষ নিঃশ্বাস "
+"পর্যন্ত লড়াই করবে।"
 
 #. [unit_type]: id=Skeleton, race=undead
 #: data/core/units/undead/Skeleton.cfg:4
@@ -9050,6 +9087,10 @@ msgid ""
 "neither pain, nor death, and their mere presence will often frighten away "
 "any who would challenge their master."
 msgstr ""
+"কঙ্কালরা হলো এমন যোদ্ধা, যাদের যুদ্ধে নিহত হওয়ার পর কালো জাদুর মাধ্যমে আবার জীবিত "
+"করা হয়েছে। প্রায় নির্বুদ্ধি, এবং উদ্দেশ্যে অটল, তারা না ব্যথাকে ভয় পায়, না মৃত্যুকে; "
+"আর শুধু তাদের উপস্থিতিই প্রায়ই এমন সকলকে ভয় দেখিয়ে তাড়িয়ে দেয়, যারা তাদের প্রভুকে "
+"বাধা দিতে আসতে পারত।"
 
 #. [unit_type]: id=Skeleton Archer, race=undead
 #: data/core/units/undead/Skeleton_Archer.cfg:4
@@ -9065,6 +9106,10 @@ msgid ""
 "to achieve the tasks laid before them, for death holds no fear for one who "
 "is already dead."
 msgstr ""
+"এক কঙ্কাল ধনুর্ধর তার সঙ্গে প্রায়ই থাকা ‘কঙ্কাল’-দের থেকে খুব একটা আলাদা নয় — এটি "
+"প্রকৃতির বিরুদ্ধে পাপ, একজন যোদ্ধা যাকে মৃত থেকে তুলে এনে আবারও যুদ্ধ করানো হচ্ছে। "
+"তাদের প্রভুদের হাতে, এই সৈনিকরা সামনে রাখা কাজগুলো সম্পন্ন করতে সবকিছুই করবে, কারণ "
+"যে ইতিমধ্যেই মৃত, তার কাছে মৃত্যুর আর কোনো ভয় নেই।"
 
 #. [unit_type]: id=Skeleton Rider, race=undead
 #: data/core/units/undead/Skeleton_Rider.cfg:5
@@ -9196,6 +9241,13 @@ msgid ""
 "Such encounters are all that is known of what are presumably the most "
 "ancient of woses."
 msgstr ""
+"এক কৃষকের একটি কৌতূহলোদ্দীপক গল্প জানা যায়, যার জমিতে একটি বিশাল ওক গাছ ছিল—যে "
+"গাছটি তখনও দাঁড়িয়ে ছিল যখন তাঁর বাবা প্রথম ওই জমিতে চাষ শুরু করেন, আর যার নিচে "
+"তাঁদের পরিবারের অনেক স্মৃতি জমে ছিল। তাই এক সকালে ঘুম থেকে উঠে তিনি যখন দেখেন, "
+"গাছটির জায়গায় শুধু একটি ফাঁকা মাটির টুকরো পড়ে আছে, তখন তাঁর জন্য তা ছিল এক বিরাট "
+"ধাক্কা, যেন রাতের আঁধারে কেউ সেটিকে উধাও করে নিয়ে গেছে।\n"
+"\n"
+"বৃক্ষাত্মাদের মধ্যে সবচেয়ে প্রাচীন যারা, শুধু এইসব সাক্ষাতের তথ্যই তাদের সম্পর্কে জানা ।"
 
 #. [attack]: type=impact
 #: data/core/units/wose/Ancient.cfg:31 data/core/units/wose/Elder.cfg:46
