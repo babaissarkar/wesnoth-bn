@@ -1,0 +1,27 @@
+name: Validate PO files
+
+on:
+  push:
+    paths:
+      - '**/*.po'
+  pull_request:
+    paths:
+      - '**/*.po'
+
+jobs:
+  msgfmt-check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install gettext
+        run: sudo apt-get update && sudo apt-get install -y gettext
+
+      - name: Validate PO files
+        run: |
+          fail=0
+          for f in $(find . -name '*.po'); do
+            echo "Checking $f"
+            msgfmt --check -o /dev/null "$f" || fail=1
+          done
+          exit $fail
