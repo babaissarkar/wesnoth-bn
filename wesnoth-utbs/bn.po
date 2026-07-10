@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: bn\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-06-23 03:15 UTC\n"
-"PO-Revision-Date: 2026-07-09 18:16+0530\n"
+"PO-Revision-Date: 2026-07-10 10:38+0530\n"
 "Last-Translator: Subhraman Sarkar <sbmskmm@protonmail.com>\n"
 "Language-Team: Bengali < >\n"
 "Language: bn\n"
@@ -3055,6 +3055,7 @@ msgid ""
 "Those mountains are huge! I never thought they would be so big. And what’s "
 "that white stuff on the tops of the peaks?"
 msgstr ""
+"ওই পর্বতগুলো কত বড়! আমি কখনও ভাবিনি ওগুলো এত বড় হবে। আর চুড়ায় ওই সাদা ওগুলো কী?"
 
 #. [message]: speaker=Zhul
 #: data/campaigns/Under_the_Burning_Suns/scenarios/04_Descending_into_Darkness.cfg:370
@@ -3161,12 +3162,12 @@ msgstr "গবলিন চর"
 #. [message]: speaker=Goblin Scout
 #: data/campaigns/Under_the_Burning_Suns/scenarios/04_Descending_into_Darkness.cfg:506
 msgid "Attack!"
-msgstr ""
+msgstr "আক্রমণ!"
 
 #. [message]: speaker=Goblin Coward
 #: data/campaigns/Under_the_Burning_Suns/scenarios/04_Descending_into_Darkness.cfg:511
 msgid "Run away!"
-msgstr ""
+msgstr "পালাও!"
 
 #. [message]: speaker=Zhul
 #: data/campaigns/Under_the_Burning_Suns/scenarios/04_Descending_into_Darkness.cfg:516
@@ -3184,13 +3185,13 @@ msgstr ""
 #: data/campaigns/Under_the_Burning_Suns/scenarios/04_Descending_into_Darkness.cfg:553
 #: data/campaigns/Under_the_Burning_Suns/scenarios/04_Descending_into_Darkness.cfg:555
 msgid "Orac"
-msgstr ""
+msgstr "ওরাক"
 
 #. [event]
 #: data/campaigns/Under_the_Burning_Suns/scenarios/04_Descending_into_Darkness.cfg:561
 #: data/campaigns/Under_the_Burning_Suns/scenarios/04_Descending_into_Darkness.cfg:563
 msgid "Scylla"
-msgstr ""
+msgstr "স্কাইলা"
 
 #. [event]
 #. name of an enemy unit in water, not a geographic feature
@@ -3199,7 +3200,7 @@ msgstr ""
 #: data/campaigns/Under_the_Burning_Suns/scenarios/04_Descending_into_Darkness.cfg:579
 #: data/campaigns/Under_the_Burning_Suns/scenarios/04_Descending_into_Darkness.cfg:580
 msgid "Lake Naga"
-msgstr ""
+msgstr "হ্রদের নাগ"
 
 #. [event]
 #. name of an enemy unit in water, not a geographic feature
@@ -3208,7 +3209,7 @@ msgstr ""
 #: data/campaigns/Under_the_Burning_Suns/scenarios/04_Descending_into_Darkness.cfg:579
 #: data/campaigns/Under_the_Burning_Suns/scenarios/04_Descending_into_Darkness.cfg:580
 msgid "female^Lake Naga"
-msgstr ""
+msgstr "হ্রদের নাগিনী"
 
 #. [message]: speaker=Orac
 #: data/campaigns/Under_the_Burning_Suns/scenarios/04_Descending_into_Darkness.cfg:616
@@ -3238,7 +3239,7 @@ msgstr ""
 #. [message]: speaker=Panok
 #: data/campaigns/Under_the_Burning_Suns/scenarios/04_Descending_into_Darkness.cfg:662
 msgid "Gaaghh!!"
-msgstr ""
+msgstr "গাহ্!!"
 
 #. [message]: speaker=$speaking_unit.id
 #: data/campaigns/Under_the_Burning_Suns/scenarios/04_Descending_into_Darkness.cfg:675
@@ -3255,7 +3256,7 @@ msgstr ""
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/04_Descending_into_Darkness.cfg:688
 msgid "Why me?"
-msgstr ""
+msgstr "আমিই কেন?"
 
 #. [message]: speaker=Nym
 #: data/campaigns/Under_the_Burning_Suns/scenarios/04_Descending_into_Darkness.cfg:693
@@ -3269,7 +3270,7 @@ msgstr ""
 #. [object]: id=SpeedyRing
 #: data/campaigns/Under_the_Burning_Suns/scenarios/04_Descending_into_Darkness.cfg:723
 msgid "Ring of Speed"
-msgstr ""
+msgstr "গতির আংটি"
 
 #. [object]: id=SpeedyRing
 #: data/campaigns/Under_the_Burning_Suns/scenarios/04_Descending_into_Darkness.cfg:725
@@ -3318,7 +3319,7 @@ msgstr ""
 #. [event]
 #: data/campaigns/Under_the_Burning_Suns/scenarios/04_Descending_into_Darkness.cfg:840
 msgid "Greebo"
-msgstr ""
+msgstr "গ্রিবো"
 
 #. [message]: speaker=Greebo
 #: data/campaigns/Under_the_Burning_Suns/scenarios/04_Descending_into_Darkness.cfg:846
@@ -3360,7 +3361,7 @@ msgstr ""
 #. [object]: id=ColdBlade
 #: data/campaigns/Under_the_Burning_Suns/scenarios/04_Descending_into_Darkness.cfg:915
 msgid "Cold Blade"
-msgstr ""
+msgstr "ঠান্ডা তরবারি"
 
 #. [object]: id=ColdBlade
 #: data/campaigns/Under_the_Burning_Suns/scenarios/04_Descending_into_Darkness.cfg:917
@@ -3371,7 +3372,7 @@ msgstr ""
 #. [command]
 #: data/campaigns/Under_the_Burning_Suns/scenarios/04_Descending_into_Darkness.cfg:931
 msgid "Purple Abomination"
-msgstr ""
+msgstr "বেগুনী ঘৃণ্যজীব"
 
 #. [message]: speaker=Purple Abomination
 #: data/campaigns/Under_the_Burning_Suns/scenarios/04_Descending_into_Darkness.cfg:935
@@ -3488,7 +3489,7 @@ msgstr ""
 #. [scenario]: id=05_A_Subterranean_Struggle
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:5
 msgid "A Subterranean Struggle"
-msgstr ""
+msgstr "ভুগর্ভের সংগ্রাম"
 
 #. [side]
 #. [modify_side]
@@ -3504,7 +3505,7 @@ msgstr "ট্রোলরা"
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:193
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:1153
 msgid "team_name^Dwarves"
-msgstr ""
+msgstr "বামনরা"
 
 #. [objective]: condition=win
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:311
@@ -3519,7 +3520,7 @@ msgstr ""
 #. [objective]: condition=win
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:332
 msgid "Defeat dwarf leaders"
-msgstr ""
+msgstr "বামন নেতাদের পরাজয়"
 
 #. [objective]: condition=win
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:343
@@ -3529,32 +3530,32 @@ msgstr ""
 #. [objective]: condition=lose
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:364
 msgid "Death of Fundin"
-msgstr ""
+msgstr "ফুন্ডিনের মৃত্যু"
 
 #. [objective]: condition=lose
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:371
 msgid "Death of Nori"
-msgstr ""
+msgstr "নোরির মৃত্যু"
 
 #. [objective]: condition=lose
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:378
 msgid "Death of Thungar"
-msgstr ""
+msgstr "থুন্গারের মৃত্যু"
 
 #. [objective]: condition=lose
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:385
 msgid "Death of Gnarl"
-msgstr ""
+msgstr "গ্নার্লের মৃত্যু"
 
 #. [unit]: type=Quenoth Flanker
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:436
 msgid "Rygar"
-msgstr ""
+msgstr "রাইগার"
 
 #. [unit]: type=Quenoth Fighter
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:447
 msgid "Nantheos"
-msgstr ""
+msgstr "নানথিওস"
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:477
@@ -3575,7 +3576,7 @@ msgstr ""
 #. [message]: speaker=Nym
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:487
 msgid "What are dwarves like?"
-msgstr ""
+msgstr "বামনরা কেমন?"
 
 #. [message]: speaker=Elyssa
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:492
@@ -3654,7 +3655,7 @@ msgstr ""
 #. [message]: speaker=Nym
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:539
 msgid "What are they like?"
-msgstr ""
+msgstr "তারা কেমন?"
 
 #. [message]: speaker=Zhul
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:544
@@ -3669,7 +3670,7 @@ msgstr ""
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:549
 msgid "What are trolls?"
-msgstr ""
+msgstr "ট্রোলরা কী?"
 
 #. [message]: speaker=Zhul
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:554
@@ -3785,7 +3786,7 @@ msgstr ""
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:898
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:901
 msgid "Dwarf Defender"
-msgstr ""
+msgstr "বামন রক্ষক"
 
 #. [event]
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:842
@@ -3801,17 +3802,17 @@ msgstr ""
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:909
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:910
 msgid "Troll Defender"
-msgstr ""
+msgstr "ট্রোল রক্ষক"
 
 #. [event]
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:850
 msgid "Dwarf Leader"
-msgstr ""
+msgstr "বামন দলপতি"
 
 #. [event]
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:870
 msgid "Troll Leader"
-msgstr ""
+msgstr "ট্রোল দলপতি"
 
 #. [message]: speaker=$explorer.id
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:936
@@ -3856,7 +3857,7 @@ msgstr ""
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:1074
 msgid "Uh..."
-msgstr ""
+msgstr "উহ..."
 
 #. [message]: speaker=Dwarf Leader
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:1079
@@ -3938,7 +3939,7 @@ msgstr ""
 #. [option]
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:1142
 msgid "Let’s aid the dwarves."
-msgstr ""
+msgstr "বামনদের সাহায্য করি চলো।"
 
 #. [message]: speaker=Troll Leader
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:1158
@@ -3950,7 +3951,7 @@ msgstr ""
 #. [option]
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:1164
 msgid "Let’s aid the trolls."
-msgstr ""
+msgstr "ট্রোলদের সাহায্য করি চলো।"
 
 #. [message]: speaker=Dwarf Leader
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:1180
@@ -3975,7 +3976,7 @@ msgstr ""
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:1217
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:1281
 msgid "Troll Skirmisher"
-msgstr ""
+msgstr "লড়াকু ট্রোল"
 
 #. [else]
 #. [modify_unit]
@@ -3985,32 +3986,32 @@ msgstr ""
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:1235
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:1336
 msgid "Dwarf Skirmisher"
-msgstr ""
+msgstr "লড়াকু বামন"
 
 #. [else]
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:1232
 msgid "Dwarf Thunderer"
-msgstr ""
+msgstr "বামন বজ্রযোদ্ধা"
 
 #. [unit]: type=Dwarvish Explorer, id=Fundin
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:1345
 msgid "Fundin"
-msgstr ""
+msgstr "ফুন্ডিন"
 
 #. [unit]: type=Dwarvish Explorer, id=Nori
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:1358
 msgid "Nori"
-msgstr ""
+msgstr "নোরি"
 
 #. [unit]: type=Troll Warrior, id=Thungar
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:1373
 msgid "Thungar"
-msgstr ""
+msgstr "থুন্গার"
 
 #. [unit]: type=Troll Warrior, id=Gnarl
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:1386
 msgid "Gnarl"
-msgstr ""
+msgstr "গ্নার্ল"
 
 #. [then]
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:1513
@@ -4018,7 +4019,7 @@ msgstr ""
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:1536
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:1547
 msgid "Troll Flamecaster"
-msgstr ""
+msgstr "ট্রোল অগ্নিবিদ"
 
 #. [message]: speaker=Troll Flamecaster
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:1552
@@ -4046,12 +4047,12 @@ msgstr "আগঘ্!"
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:1616
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:1791
 msgid "No...!"
-msgstr ""
+msgstr "না...!"
 
 #. [message]: id=$casualty
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:1625
 msgid "Help me!!"
-msgstr ""
+msgstr "বাঁচাও আমাকে!!"
 
 #. [message]: speaker=Dwarf Leader
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:1654
@@ -4073,7 +4074,7 @@ msgstr ""
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:1711
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:1722
 msgid "Dwarf Grenadier"
-msgstr ""
+msgstr "বামন গ্রেনেড-প্রক্ষেপক"
 
 #. [message]: speaker=Dwarf Grenadier
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:1727
@@ -4102,7 +4103,7 @@ msgstr "আঘ্!"
 #. [message]: id=$casualty
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:1800
 msgid "Gaaghh!"
-msgstr ""
+msgstr "গাহ!"
 
 #. [message]: speaker=Troll Leader
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:1829
@@ -4114,27 +4115,27 @@ msgstr ""
 #. [unit]: type=Troll Shaman, id=Thu'lok, role=ally
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:1862
 msgid "Thu’lok"
-msgstr ""
+msgstr "থু’লোক"
 
 #. [unit]: type=Troll Whelp, id=Harpo, role=ally
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:1877
 msgid "Harpo"
-msgstr ""
+msgstr "হার্পো"
 
 #. [unit]: type=Troll Whelp, id=Groucho, role=ally
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:1892
 msgid "Groucho"
-msgstr ""
+msgstr "গ্রাউচো"
 
 #. [unit]: type=Troll Whelp, id=Chico, role=ally
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:1907
 msgid "Chico"
-msgstr ""
+msgstr "চিকো"
 
 #. [unit]: type=Troll Rocklobber, id=Groo, role=ally
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:1923
 msgid "Groo"
-msgstr ""
+msgstr "গ্রু"
 
 #. [message]: speaker=Thu'lok
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:1938
@@ -4153,27 +4154,27 @@ msgstr ""
 #. [unit]: type=Dwarvish Fighter, id=Dwalim, role=ally
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:1972
 msgid "Dwalim"
-msgstr ""
+msgstr "ড্ওয়ালিম"
 
 #. [unit]: type=Dwarvish Pathfinder, id=Moin, role=ally
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:1989
 msgid "Moin"
-msgstr ""
+msgstr "মোইন"
 
 #. [unit]: type=Dwarvish Thunderer, id=Nordi, role=ally
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:2006
 msgid "Nordi"
-msgstr ""
+msgstr "নর্ডি"
 
 #. [unit]: type=Dwarvish Berserker, id=Byorn, role=ally
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:2023
 msgid "Byorn"
-msgstr ""
+msgstr "বিওর্ন"
 
 #. [unit]: type=Dwarvish Fighter, id=Runin, role=ally
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:2042
 msgid "Runin"
-msgstr ""
+msgstr "রুনিন"
 
 #. [message]: speaker=Dwalim
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:2059
@@ -4249,7 +4250,7 @@ msgstr ""
 #. [message]: speaker=Fundin
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:2292
 msgid "The rest is silence..."
-msgstr ""
+msgstr "অবশিষ্ট থাকল নৈশব্দ্য..."
 
 #. [message]: speaker=Nori
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:2305
@@ -4259,7 +4260,7 @@ msgstr ""
 #. [message]: speaker=Thungar
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:2318
 msgid "Arrghh!!"
-msgstr ""
+msgstr "আর্ঘ!!"
 
 #. [message]: speaker=Gnarl
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:2331
@@ -4312,7 +4313,7 @@ msgstr ""
 #. [message]: speaker=Nym
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:2468
 msgid "How do you mean?"
-msgstr ""
+msgstr "তুমি কী বলতে চাও?"
 
 #. [message]: speaker=Zurg
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:2473
@@ -4355,7 +4356,7 @@ msgstr ""
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06a_In_the_Tunnels_of_Trolls.cfg:283
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06a_In_the_Tunnels_of_Trolls.cfg:1499
 msgid "Grimnir"
-msgstr ""
+msgstr "গ্রিমনির"
 
 #. [message]: speaker=Grimnir
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:2539
@@ -4465,7 +4466,7 @@ msgstr ""
 #. [side]
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06a_In_the_Tunnels_of_Trolls.cfg:53
 msgid "Dwarf Ally"
-msgstr ""
+msgstr "মিত্র বামন"
 
 #. [objectives]
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06a_In_the_Tunnels_of_Trolls.cfg:198
@@ -4478,24 +4479,24 @@ msgstr ""
 #. [objective]: condition=win
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06a_In_the_Tunnels_of_Trolls.cfg:200
 msgid "Kill troll leader"
-msgstr ""
+msgstr "ট্রোল দলপতির পরাজয়"
 
 #. [unit]: type=Troll, id=Troll Interrogator
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06a_In_the_Tunnels_of_Trolls.cfg:300
 msgid "Troll Interrogator"
-msgstr ""
+msgstr "ট্রোল জিজ্ঞাসক"
 
 #. [unit]: type=Troll Whelp, id=Troll Assistant
 #. [unit]: type=Troll Whelp
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06a_In_the_Tunnels_of_Trolls.cfg:315
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06a_In_the_Tunnels_of_Trolls.cfg:343
 msgid "Troll Assistant"
-msgstr ""
+msgstr "সহায়ক ট্রোল"
 
 #. [unit]: type=Troll Whelp, id=Ulg
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06a_In_the_Tunnels_of_Trolls.cfg:329
 msgid "Ulg"
-msgstr ""
+msgstr "উল্গ"
 
 #. [unit]: type=Troll Shaman, role=Troll High Shaman
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06a_In_the_Tunnels_of_Trolls.cfg:360
@@ -4503,7 +4504,7 @@ msgstr ""
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06a_In_the_Tunnels_of_Trolls.cfg:1260
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06a_In_the_Tunnels_of_Trolls.cfg:1294
 msgid "Troll High Shaman"
-msgstr ""
+msgstr "ট্রোল শীর্ষ শামান"
 
 #. [message]: speaker=Grimnir
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06a_In_the_Tunnels_of_Trolls.cfg:423
@@ -4547,7 +4548,7 @@ msgstr ""
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06a_In_the_Tunnels_of_Trolls.cfg:443
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06b_In_the_Domain_of_Dwarves.cfg:471
 msgid "It shall be done."
-msgstr ""
+msgstr "করা হয়ে যাবে।"
 
 #. [message]: speaker=Grimnir
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06a_In_the_Tunnels_of_Trolls.cfg:460
@@ -4583,12 +4584,12 @@ msgstr ""
 #: data/campaigns/Under_the_Burning_Suns/scenarios/07b_Talking_with_Trolls.cfg:291
 #: data/campaigns/Under_the_Burning_Suns/scenarios/07b_Talking_with_Trolls.cfg:305
 msgid "Troll Guard"
-msgstr ""
+msgstr "ট্রোল প্রহরী"
 
 #. [message]: speaker=Grimnir
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06a_In_the_Tunnels_of_Trolls.cfg:517
 msgid "Fire in the hole!"
-msgstr ""
+msgstr "গর্তে আগুন!"
 
 #. [message]: speaker=Grimnir
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06a_In_the_Tunnels_of_Trolls.cfg:561
@@ -4606,24 +4607,24 @@ msgstr ""
 #. [unit]: type=Dwarvish Fighter, id=Wounded Dwarf
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06a_In_the_Tunnels_of_Trolls.cfg:625
 msgid "Wounded Dwarf"
-msgstr ""
+msgstr "আহত বামন"
 
 #. [message]: speaker=Troll Interrogator
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06a_In_the_Tunnels_of_Trolls.cfg:634
 msgid "Tell us where your leader is hiding!"
-msgstr ""
+msgstr "বলো তোমাদের দলপতি কোথায়!"
 
 #. [message]: speaker=Wounded Dwarf
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06a_In_the_Tunnels_of_Trolls.cfg:639
 #: data/campaigns/Under_the_Burning_Suns/scenarios/12_The_Final_Confrontation.cfg:595
 msgid "Never!"
-msgstr ""
+msgstr "কখনও না!"
 
 #. [message]: speaker=Troll Assistant
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06a_In_the_Tunnels_of_Trolls.cfg:644
 msgid "Master, look!"
-msgstr ""
+msgstr "প্রভু, দেখুন!"
 
 #. [message]: speaker=Troll Interrogator
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06a_In_the_Tunnels_of_Trolls.cfg:649
@@ -4652,7 +4653,7 @@ msgstr ""
 #. [unit]: type=Dwarvish Sentinel, type=Dwarvish Stalwart, id=Rogrimir
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06a_In_the_Tunnels_of_Trolls.cfg:718
 msgid "Rogrimir"
-msgstr ""
+msgstr "রোগ্রিমির"
 
 #. [message]: speaker=Ulg
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06a_In_the_Tunnels_of_Trolls.cfg:739
@@ -4749,7 +4750,7 @@ msgstr ""
 #. [unit]: type={ON_DIFFICULTY4 (Fire Guardian) (Fire Guardian2) (Fire Guardian3) (Fire Guardian2)}, role=Guardian Phoenix
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06a_In_the_Tunnels_of_Trolls.cfg:1037
 msgid "Guardian Phoenix"
-msgstr ""
+msgstr "রক্ষক ফিনিক্স"
 
 #. [message]
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06a_In_the_Tunnels_of_Trolls.cfg:1081
@@ -4772,7 +4773,7 @@ msgstr ""
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06a_In_the_Tunnels_of_Trolls.cfg:1212
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06a_In_the_Tunnels_of_Trolls.cfg:1214
 msgid "Fire Guardian"
-msgstr ""
+msgstr "অগ্নি রক্ষক"
 
 #. [message]: speaker=$explorer.id
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06a_In_the_Tunnels_of_Trolls.cfg:1144
@@ -4829,12 +4830,12 @@ msgstr ""
 #. [unit]: type=Great Troll, id=Troll Chieftain
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06a_In_the_Tunnels_of_Trolls.cfg:1322
 msgid "Troll Chieftain"
-msgstr ""
+msgstr "ট্রোল দলনেতা"
 
 #. [unit]: type=Troll Shaman, id=High Advisor
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06a_In_the_Tunnels_of_Trolls.cfg:1379
 msgid "High Advisor"
-msgstr ""
+msgstr "শীর্ষ পরামর্শদাতা"
 
 #. [message]: speaker=High Advisor
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06a_In_the_Tunnels_of_Trolls.cfg:1392
@@ -4863,7 +4864,7 @@ msgstr ""
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06a_In_the_Tunnels_of_Trolls.cfg:1472
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06b_In_the_Domain_of_Dwarves.cfg:1630
 msgid "And so, at last, it ends."
-msgstr ""
+msgstr "এবং তবে, শেষপর্যন্ত, এটা শেষ হল।"
 
 #. [message]
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06a_In_the_Tunnels_of_Trolls.cfg:1478
@@ -4937,7 +4938,7 @@ msgstr ""
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06a_In_the_Tunnels_of_Trolls.cfg:1581
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06a_In_the_Tunnels_of_Trolls.cfg:1652
 msgid "Dwarf Ghost"
-msgstr ""
+msgstr "বামন ভুত"
 
 #. [message]: speaker=Dwarf Ghost
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06a_In_the_Tunnels_of_Trolls.cfg:1591
@@ -5041,7 +5042,7 @@ msgstr ""
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06b_In_the_Domain_of_Dwarves.cfg:133
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06b_In_the_Domain_of_Dwarves.cfg:165
 msgid "Enemies"
-msgstr ""
+msgstr "শত্রুরা"
 
 #. [side]
 #. [side]: id=King Thurongar, type=Dwarvish Lord
@@ -5054,41 +5055,41 @@ msgstr ""
 #: data/campaigns/Under_the_Burning_Suns/scenarios/10_Speaking_with_the_Fishes.cfg:50
 #: data/campaigns/Under_the_Burning_Suns/scenarios/11_Battle_for_Zocthanol_Isle.cfg:1205
 msgid "Allies"
-msgstr ""
+msgstr "মিত্ররা"
 
 #. [side]: type=Dwarvish Lord, id=Dwarf Chieftain
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06b_In_the_Domain_of_Dwarves.cfg:147
 msgid "Dwarf Chieftain"
-msgstr ""
+msgstr "বামন দলপতি"
 
 #. [objective]: condition=win
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06b_In_the_Domain_of_Dwarves.cfg:237
 msgid "Kill dwarf chieftain"
-msgstr ""
+msgstr "বামন দলপতির হত্যা"
 
 #. [unit]: type=Dwarvish Steelclad, id=Dwarf Sergeant
 #. [event]
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06b_In_the_Domain_of_Dwarves.cfg:332
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06b_In_the_Domain_of_Dwarves.cfg:504
 msgid "Dwarf Sergeant"
-msgstr ""
+msgstr "বামন সার্জেন্ট"
 
 #. [unit]: type=Dwarvish Fighter, id=Vengeful Dwarf
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06b_In_the_Domain_of_Dwarves.cfg:350
 msgid "Vengeful Dwarf"
-msgstr ""
+msgstr "বামন প্রতিশোধকারী"
 
 #. [unit]: type=Dwarvish Stalwart, id=East Scout
 #. [unit]: type=Dwarvish Stalwart, id=West Scout
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06b_In_the_Domain_of_Dwarves.cfg:369
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06b_In_the_Domain_of_Dwarves.cfg:394
 msgid "Dwarf Scout"
-msgstr ""
+msgstr "বামন সন্ধানী"
 
 #. [unit]: type=Troll, id=Grog
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06b_In_the_Domain_of_Dwarves.cfg:432
 msgid "Grog"
-msgstr ""
+msgstr "গ্রগ"
 
 #. [message]: speaker=Zurg
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06b_In_the_Domain_of_Dwarves.cfg:456
@@ -5164,7 +5165,7 @@ msgstr ""
 #: data/campaigns/Under_the_Burning_Suns/scenarios/07a_Dealing_with_Dwarves.cfg:293
 #: data/campaigns/Under_the_Burning_Suns/scenarios/07a_Dealing_with_Dwarves.cfg:307
 msgid "Dwarf Guard"
-msgstr ""
+msgstr "বামন প্রহরী"
 
 #. [message]: speaker=Zurg
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06b_In_the_Domain_of_Dwarves.cfg:531
@@ -5207,7 +5208,7 @@ msgstr ""
 #. [message]
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06b_In_the_Domain_of_Dwarves.cfg:661
 msgid "Sir?"
-msgstr ""
+msgstr "স্যার?"
 
 #. [message]: speaker=Dwarf Sergeant
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06b_In_the_Domain_of_Dwarves.cfg:666
@@ -5347,7 +5348,7 @@ msgstr ""
 #. [event]
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06b_In_the_Domain_of_Dwarves.cfg:1168
 msgid "Jorgi"
-msgstr ""
+msgstr "জর্গি"
 
 #. [message]: speaker=Jorgi
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06b_In_the_Domain_of_Dwarves.cfg:1195
@@ -5404,7 +5405,7 @@ msgstr ""
 #. [message]: speaker=unit
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06b_In_the_Domain_of_Dwarves.cfg:1402
 msgid "Graaawk!"
-msgstr ""
+msgstr "গ্রাওক!"
 
 #. [message]: speaker=$speaking_unit.id
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06b_In_the_Domain_of_Dwarves.cfg:1408
@@ -5422,7 +5423,7 @@ msgstr ""
 #. [message]
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06b_In_the_Domain_of_Dwarves.cfg:1496
 msgid "What are those?!"
-msgstr ""
+msgstr "এগুলো কী?!"
 
 #. [message]
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06b_In_the_Domain_of_Dwarves.cfg:1504
@@ -5443,7 +5444,7 @@ msgstr ""
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06b_In_the_Domain_of_Dwarves.cfg:1587
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06b_In_the_Domain_of_Dwarves.cfg:1588
 msgid "Dwarf High Guard"
-msgstr ""
+msgstr "বামন শীর্ষ প্রহরী"
 
 #. [message]: speaker=Dwarf Chieftain
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06b_In_the_Domain_of_Dwarves.cfg:1606
