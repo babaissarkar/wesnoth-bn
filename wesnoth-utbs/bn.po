@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: bn\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-06-23 03:15 UTC\n"
-"PO-Revision-Date: 2026-07-24 09:18+0530\n"
+"PO-Revision-Date: 2026-08-05 20:56+0530\n"
 "Last-Translator: Subhraman Sarkar <sbmskmm@protonmail.com>\n"
 "Language-Team: Bengali < >\n"
 "Language: bn\n"
@@ -3357,6 +3357,8 @@ msgid ""
 "Remember, Kaleh, it’s nasty fighting underground. We will be at a "
 "disadvantage against orcs and other things that prefer the darkness."
 msgstr ""
+"মনে রেখো, কালেহ, মাটির নিচে যুদ্ধ খুবই কঠিন। ওর্ক আর অন্ধকার ভালোবাসে সেসব অন্য "
+"সত্তাদের বিরুদ্ধে আমরা অসুবিধায় পড়ব।"
 
 #. [message]: speaker=Elyssa
 #: data/campaigns/Under_the_Burning_Suns/scenarios/04_Descending_into_Darkness.cfg:825
@@ -3364,6 +3366,8 @@ msgid ""
 "Also, any time you find a particularly tough orc blocking a passage, my "
 "fireballs can blast him quick enough."
 msgstr ""
+"আরও একটা কথা, বিশেষভাবে বলিষ্ঠ কোনো ওর্ক যদি পথ আটকে দাঁড়ায়, আমার আগুনের গোলা "
+"তাকে খুব দ্রুত উড়িয়ে দিতে পারে।"
 
 #. [event]
 #: data/campaigns/Under_the_Burning_Suns/scenarios/04_Descending_into_Darkness.cfg:840
@@ -3375,6 +3379,8 @@ msgstr "গ্রিবো"
 msgid ""
 "Greebo keeps shinies safe from nasty orcses. And ’specially stinking elves."
 msgstr ""
+"গ্রিবো চকচকে জিনিসপত্র নোংরা অর্কদের হাত থেকে বাঁচিয়ে রাখে। আর বিশেষ করে দুর্গন্ধময় "
+"এলফদের হাত থেকে।"
 
 #. [message]: speaker=$explorer.id
 #: data/campaigns/Under_the_Burning_Suns/scenarios/04_Descending_into_Darkness.cfg:870
@@ -3382,6 +3388,8 @@ msgid ""
 "Looks like he’s been squirreling away his stolen loot in this cave. Not that "
 "he had much. Must be hard times."
 msgstr ""
+"দেখে তো মনে হচ্ছে, সে তার চুরি করা সামগ্রী এই গুহায় লুকিয়ে রেখেছিল। যদিও খুব বেশি "
+"কিছু নয়। নিশ্চয়ই ওর কঠিন সময় চলছে।"
 
 #. [message]: speaker=unit
 #: data/campaigns/Under_the_Burning_Suns/scenarios/04_Descending_into_Darkness.cfg:898
@@ -3394,18 +3402,24 @@ msgid ""
 "dare to take this blade here, your greatest fear will surely appear.”</i> It "
 "looks like a nice sword, but do I dare chance it?"
 msgstr ""
+"অদ্ভুত। কেউ একজন পথের শেষে পাথর কেটে একেবারে সাদামাটা একটি ঝরনা বানিয়েছে। বরফ-"
+"ঠান্ডা জল একটি বড় পুকুরে গিয়ে পড়ছে। পুকুরের তলায় আমি একটি কঙ্কাল দেখতে পাচ্ছি, যা "
+"এখনো একটি তলোয়ার আঁকড়ে ধরে আছে। ফলাটি মৃদু নীল আলোয় জ্বলছে মনে হচ্ছে। পুকুরটা খুব "
+"গভীর নয়, আমি সহজেই নেমে ওটা তুলে নিতে পারি। কিন্তু কেউ দেয়ালে অস্পষ্ট একটা বার্তা "
+"খোদাই করেছে।  <i>“যদি সাহস করে এখানে এই তরবারিটি নাও, তবে তোমার সবচেয়ে বড় ভয় "
+"নিশ্চয়ই প্রকাশ পাবে।”</i> দেখতে তো বেশ ভালো তলোয়ার, কিন্তু নেওয়ার ঝুঁকি কি নেব?"
 
 #. [option]
 #: data/campaigns/Under_the_Burning_Suns/scenarios/04_Descending_into_Darkness.cfg:900
 msgid "I fear no creature, I will take the blade!"
-msgstr ""
+msgstr "আমি কোনো জীবকে ভয় করি না, আমি এই তরবারিটা নেব!"
 
 #. [message]: speaker=unit
 #: data/campaigns/Under_the_Burning_Suns/scenarios/04_Descending_into_Darkness.cfg:904
 msgid ""
 "The blade is chill to the touch and gives off a cold glow. I wonder how it "
 "came to be here."
-msgstr ""
+msgstr "তরবারিটি স্পর্শে শীতল, আর ঠান্ডা আলো ছড়াচ্ছে। ভাবছি, এটা এখানে এল কীভাবে।"
 
 #. [object]: id=ColdBlade
 #: data/campaigns/Under_the_Burning_Suns/scenarios/04_Descending_into_Darkness.cfg:915
@@ -3416,7 +3430,7 @@ msgstr "ঠান্ডা তরবারি"
 #: data/campaigns/Under_the_Burning_Suns/scenarios/04_Descending_into_Darkness.cfg:917
 msgid ""
 "The unit who wields this blade will deal cold damage with its melee attack."
-msgstr ""
+msgstr "এই তরবারি যে ইউনিট বহন করবে, তার নিকট আক্রমণে শীতল প্রকারের ক্ষতি হবে।"
 
 #. [command]
 #: data/campaigns/Under_the_Burning_Suns/scenarios/04_Descending_into_Darkness.cfg:931
@@ -3426,22 +3440,22 @@ msgstr "বেগুনী ঘৃণ্যজীব"
 #. [message]: speaker=Purple Abomination
 #: data/campaigns/Under_the_Burning_Suns/scenarios/04_Descending_into_Darkness.cfg:935
 msgid "I am an abomination, please kill me."
-msgstr ""
+msgstr "আমি একটা ঘৃণ্য জীব, আমাকে দয়া করে হত্যা করো।"
 
 #. [message]: speaker=unit
 #: data/campaigns/Under_the_Burning_Suns/scenarios/04_Descending_into_Darkness.cfg:940
 msgid "I’ve seen some ugly creatures in my day, but that thing is just wrong."
-msgstr ""
+msgstr "আমার সময়ে আমি অনেক কুৎসিত জীব দেখছি, কিন্তু ওইটা একেবারেই ঠিক নয়।"
 
 #. [message]: speaker=Purple Abomination
 #: data/campaigns/Under_the_Burning_Suns/scenarios/04_Descending_into_Darkness.cfg:945
 msgid "The voices say I have no choice, I must attack!"
-msgstr ""
+msgstr "কণ্ঠস্বরগুলো বলছে আমার কোনো পছন্দ নেই, আমাকে আক্রমণ করতেই হবে!"
 
 #. [option]
 #: data/campaigns/Under_the_Burning_Suns/scenarios/04_Descending_into_Darkness.cfg:955
 msgid "I don’t like the sound of this. I’m out of here."
-msgstr ""
+msgstr "আমার এটা শুনে ঠিক মনে হচ্ছে না। আমি এখান থেকে যাচ্ছি।"
 
 #. [message]: speaker=$unit.id
 #: data/campaigns/Under_the_Burning_Suns/scenarios/04_Descending_into_Darkness.cfg:981
@@ -3451,6 +3465,10 @@ msgid ""
 "sure what I’m doing up here. Some strange influence made me want to come up "
 "here, but I don’t know what made me think it could be of any good."
 msgstr ""
+"পথ এখানেই শেষ। আর এগোনো আমার পক্ষে সম্ভব নয়, জল খুবই গভীর। হাড়কাঁপানো ঠান্ডা, "
+"ভিজে গেছি, আর কিছুই দেখতে পাচ্ছি না। ঠিক বুঝতে পারছি না, আমি এখানে কী করছি। "
+"কোনো অদ্ভুত প্রভাব আমাকে এখানে আসতে প্ররোচিত করেছিল, কিন্তু কেন ভেবেছিলাম এটা কোনো "
+"কাজে লাগবে, তা বুঝতে পারছি না।"
 
 #. [unit]: type=Dark Assassin Cloaked, id=Cloaked Figure
 #: data/campaigns/Under_the_Burning_Suns/scenarios/04_Descending_into_Darkness.cfg:1016
@@ -3486,6 +3504,8 @@ msgid ""
 "and smooth and leads sharply downwards. I bet this was the way that Eloh was "
 "talking about."
 msgstr ""
+"এই পথটা অন্য সুড়ঙ্গ আর গুহাগুলোর থেকে আলাদা মনে হচ্ছে। এটা চওড়া, মসৃণ, আর হঠাৎ করেই "
+"নিচের দিকে নেমে গেছে। আমার ধারণা, এটাই সেই পথ যেটার কথা এলোহ বলছিলেন।"
 
 #. [message]: speaker=Elyssa
 #: data/campaigns/Under_the_Burning_Suns/scenarios/04_Descending_into_Darkness.cfg:1115
@@ -3494,6 +3514,9 @@ msgid ""
 "be made by orcs. I wouldn’t be surprised if this was once carved out by "
 "dwarves. I wonder if there are any still left in these mountains..."
 msgstr ""
+"এটা কোনো প্রাকৃতিক পথ নয়, আর দেয়ালগুলোও এত সুন্দরভাবে খোদাই করা ও মসৃণ যে, ওর্করা "
+"এটা বানিয়েছে বলে মনে হয় না। আমার ধারণা, একসময় এটা বামনরাই খুঁড়েছিল। ভাবছি, এই "
+"পাহাড়ে এখনও কি কোনো ডোয়ার্ফ বেঁচে আছে..."
 
 #. [message]: speaker=Zhul
 #: data/campaigns/Under_the_Burning_Suns/scenarios/04_Descending_into_Darkness.cfg:1129
@@ -3504,6 +3527,11 @@ msgid ""
 "dangers we don’t. We really are putting our lives in Eloh’s palm; may she "
 "guide us as well as she has before."
 msgstr ""
+"নিকটবর্তী সব ওর্ক ও গবলিন নেতাকে হত্যা করার পর, এখন আমরা নিশ্চিন্তে সময় নিয়ে "
+"এগোতে পারি এবং আমাদের লোকদের এই পথেই নামিয়ে আনতে কোনো অসুবিধা হবে না। অদ্ভুত "
+"লাগছে—মনে হচ্ছে আমরা পরিচিত বিপদের বদলে অচেনা বিপদকে বেছে নিচ্ছি। সত্যিই আমরা "
+"আমাদের জীবন ইলোহর হাতে তুলে দিচ্ছি; আগে যেমন তিনি পথ দেখিয়েছেন, এবারও যেন "
+"তেমনই পথ দেখান।"
 
 #. [message]: speaker=Zhul
 #: data/campaigns/Under_the_Burning_Suns/scenarios/04_Descending_into_Darkness.cfg:1136
@@ -3513,6 +3541,10 @@ msgid ""
 "for the dangers we don’t. We really are putting our lives in Eloh’s palm, "
 "may she guide as well as she has before."
 msgstr ""
+"এখন যেহেতু তুমি পথটা খুঁজে পেয়েছ, আমরা আমাদের বাকি লোকদের অর্কদের পাশ দিয়ে নিয়ে "
+"যেতে পারব। অদ্ভুত লাগছে—মনে হচ্ছে আমরা পরিচিত বিপদের বদলে অচেনা বিপদকে বেছে "
+"নিচ্ছি। সত্যিই আমরা আমাদের জীবন এলোহর হাতে তুলে দিচ্ছি; আগে যেমন তিনি পথ "
+"দেখিয়েছেন, এবারও যেন তেমনই পথ দেখান।"
 
 #. [message]: speaker=Nym
 #: data/campaigns/Under_the_Burning_Suns/scenarios/04_Descending_into_Darkness.cfg:1143
@@ -3520,11 +3552,13 @@ msgid ""
 "I’ll just be happy when I can breathe fresh air again and see the suns and "
 "stars. Still, who knows what we’ll encounter deep under the earth?"
 msgstr ""
+"আমি খুশি হব, আবার যখন খোলা হাওয়ায় শ্বাস নিতে পারব আর সূর্য-তারাদের দেখতে পাব। "
+"তবু, মাটির গভীরে আমরা কীসের যে মুখোমুখি হব, কে জানে?"
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/04_Descending_into_Darkness.cfg:1148
 msgid "Well, there’s only one way to find out."
-msgstr ""
+msgstr "বেশ, জানার একটাই পথ।"
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/04_Descending_into_Darkness.cfg:1159
@@ -3534,6 +3568,9 @@ msgid ""
 "no way we can kill all these orcs and goblins. We’ll never make it to safety "
 "now."
 msgstr ""
+"আমাদের লোকদের সুড়ঙ্গে ঢোকাতে আমরা খুব বেশি দেরি করে ফেলেছি! পূর্ব আর পশ্চিম দিকের "
+"পাদদেশ পেরিয়ে আরও ওর্ক চলে আসছে, আর তারা আমাদের ঘিরে ফেলছে। এত ওর্ক আর গবলিনকে "
+"মেরে শেষ করার কোনো উপায় নেই। এখন আমরা আর নিরাপদে পৌঁছাতে পারব না।"
 
 #. [scenario]: id=05_A_Subterranean_Struggle
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:5
@@ -3612,6 +3649,8 @@ msgid ""
 "You mentioned that dwarves and trolls often lived underground, Elyssa. I’ve "
 "only heard myths, have you ever met a dwarf or a troll?"
 msgstr ""
+"বামন আর ট্রোলরা যে প্রায়ই মাটির নিচে থাকে, সেটা তুমি বলেছিলে, এলিসা। আমি তো শুধু "
+"গল্পই শুনেছি, তুমি কি কখনও কোনো বামন বা ট্রোল দেখছ?"
 
 #. [message]: speaker=Elyssa
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:482
@@ -3621,6 +3660,9 @@ msgid ""
 "read a bit about them, and have even met a few people who had dealings with "
 "dwarves."
 msgstr ""
+"না, পাইনি। খুব দরকার না হলে আমি সাধারণত মাটির নিচে ঘুরি না। সূর্যের আলো থেকে "
+"অনেক দূরে অনেক নোংরা জিনিস ওত পেতে থাকে। তবে আমি ওদের সম্পর্কে একটু পড়েছি, আর "
+"এমন কিছু লোকের সঙ্গেও দেখা হয়েছে, যারা বামনদের সঙ্গে লেনদেন করত।"
 
 #. [message]: speaker=Nym
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:487
@@ -3635,11 +3677,14 @@ msgid ""
 "little liking for elves. There was some betrayal many years ago, though I "
 "don’t know what happened."
 msgstr ""
+"তারা গর্বিত এক জাতি, আর কেউ কেউ বলে লোভীও। তারা সোনা আর মূল্যবান ধাতু ভালোবাসে, "
+"আর অনেক সুন্দর জিনিস গড়ে তোলে। তবে সাবধান, এল্ফদের তারা খুব একটা পছন্দ করে না। "
+"অনেক বছর আগে কোনো এক বিশ্বাসঘাতকতা হয়েছিল, যদিও ঠিক কী ঘটেছিল আমি জানি না।"
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:497
 msgid "And what about trolls? I’m not sure I’d want to meet one face to face."
-msgstr ""
+msgstr "আর ট্রোলরা? আমি নিশ্চিত নই আমি তাদের একজনে মুখোমুখি হতে চাইব।"
 
 #. [message]: speaker=Elyssa
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:502
@@ -3650,6 +3695,11 @@ msgid ""
 "knew one man long ago who traded with a group of trolls and said they were "
 "quite honorable, as long as you didn’t try to cheat them."
 msgstr ""
+"ট্রোল আর বামনরা স্বাভাবিক শত্রু, এত কাছাকাছি থাকে বলে। আর অনেকেই বলবে, ট্রোলরা "
+"নেহাতই বর্বর আর জংলি। ট্রোলরা বিশালাকায় আর খুব শক্তিশালী, তাদের চামড়া পাথরের মতো "
+"কঠিন, তাই তারা ভয়ংকর শত্রু হতে পারে। কিন্তু বহু আগে আমি এক লোককে চিনতাম, যে একদল "
+"ট্রোলের সঙ্গে বাণিজ্য করত, আর সে বলেছিল—তুমি যদি তাদের ঠকানোর চেষ্টা না করো, তবে "
+"তারা কথার মান রাখে।"
 
 #. [message]: speaker=Zhul
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:507
@@ -3658,6 +3708,9 @@ msgid ""
 "happy if our biggest problem is not getting lost. I have little wish to meet "
 "either dwarves or trolls. But Eloh will watch over us."
 msgstr ""
+"এলোহ-এর সাহায্যে, আমি আশা করছি এই সুড়ঙ্গগুলো খালি থাকবে। আমাদের সবচেয়ে বড় সমস্যা "
+"যদি পথ হারিয়ে না যাওয়া হয়, তাহলেই আমি খুশি থাকব। বামন বা ট্রোল, কারোরই মুখোমুখি "
+"হওয়ার আমার বিশেষ ইচ্ছা নেই। তবে এলোহ আমাদের ওপর নজর রাখছেন।"
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:512
