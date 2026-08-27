@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: bn\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-06-23 03:15 UTC\n"
-"PO-Revision-Date: 2026-08-05 20:56+0530\n"
+"PO-Revision-Date: 2026-08-27 14:21+0530\n"
 "Last-Translator: Subhraman Sarkar <sbmskmm@protonmail.com>\n"
 "Language-Team: Bengali < >\n"
 "Language: bn\n"
@@ -84,7 +84,7 @@ msgstr "যোদ্ধা"
 #. [campaign]: id=Under_the_Burning_Suns
 #: data/campaigns/Under_the_Burning_Suns/_main.cfg:31
 msgid "Apocalyptic"
-msgstr "বিধ্বংসী"
+msgstr "প্রলয়াত্নক"
 
 #. [campaign]: id=Under_the_Burning_Suns
 #: data/campaigns/Under_the_Burning_Suns/_main.cfg:31
@@ -3716,7 +3716,7 @@ msgstr ""
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:512
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:564
 msgid "Will she? I got the impression she was powerless underground."
-msgstr ""
+msgstr "তিনি কী পারবেন? আমি জানতাম তাঁর ক্ষমতা মাটির নীচে কাজ করে না।"
 
 #. [message]: speaker=Zhul
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:517
@@ -3731,6 +3731,13 @@ msgid ""
 "do to unduly worry our people. Eloh will always protect us, if we follow her "
 "path."
 msgstr ""
+"এই ধারণা তুমি কোথায় পেলে? নিশ্চয়ই দিনের বেলায় যখন সূর্যের আলো আমাদের উপর পড়ে "
+"এলোহ তখন সবচেয়ে শক্তিশালী। কিন্তু বলা হয়, রাতের অন্ধকারতম সময়েও তিনি তাঁর "
+"বিশ্বাসীদের রক্ষা করেন। আর স্বর্ণযুগে পবিত্র এল্ফ যোদ্ধারা এলোহের সহায়তায় ওর্ক আর "
+"ভূগর্ভে লুকিয়ে থাকা অন্য জঘন্য সত্তাদের বিরুদ্ধে বড় বড় অভিযান চালাত, আর তাদের হত্যা "
+"করত। বিশ্বাসই আমাদের ঢাল, কালেহ। আমার মনে হয়, তোমার সন্দেহগুলো নিজের মনেই রাখা "
+"উচিত; আমাদের লোকদের অযথা দুশ্চিন্তায় ফেলা ঠিক হবে না। আমরা যদি তাঁর পথ অনুসরণ "
+"করি, এলোহ সবসময়ই আমাদের রক্ষা করবেন।"
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:522
@@ -3739,6 +3746,7 @@ msgid ""
 "Then let us hope the rest of our journey may be as uneventful as it has been "
 "this far."
 msgstr ""
+"তাহলে আশা করি আমাদের বাকি পথটাও ততটাই নির্ঝঞ্ঝাট থাকবে, যতটা এখন পর্যন্ত ছিল।"
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:529
@@ -3746,6 +3754,8 @@ msgid ""
 "I’ve heard of dwarves, but do you have any idea, Zhul, what kinds of "
 "creatures we might encounter underground?"
 msgstr ""
+"আমি বামনদের কথা শুনেছি, কিন্তু ঝুল, আপনি ক‌ী জানেন মাটির নিচে আমরা কী ধরনের "
+"সত্তাদের মুখোমুখি হতে পারি?"
 
 #. [message]: speaker=Zhul
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:534
@@ -3753,6 +3763,8 @@ msgid ""
 "These tunnels are foreign to me; I know little more than you do. All I know "
 "about dwarves is from the few tales from the Golden Age."
 msgstr ""
+"এই সুড়ঙ্গগুলো আমার অজানা; আমি তোমার থেকে সামান্যই বেশী জানি। বামনদের সম্পর্কে আমি "
+"যেটুকু জানি তা স্বর্ণযুগের সামান্য কয়েকটা কাহিনী থেকে।"
 
 #. [message]: speaker=Nym
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:539
@@ -3768,6 +3780,10 @@ msgid ""
 "survived. But in the golden age they were very helpful in our wars against "
 "the orcs and trolls."
 msgstr ""
+"তারা মাটির গভীরে বাস করত, সোনা আর মূল্যবান ধাতু খনন করত, আর অনেক সুন্দর জিনিস গড়ে "
+"তুলত। সোনালি যুগে আমরা একসময় মিত্র ছিলাম, কিন্তু পতনের সংঘাত আর বিশৃঙ্খলায় তাদের "
+"সঙ্গে সব যোগাযোগ হারিয়ে ফেলি। এখনো কেউ বেঁচে আছে কি না, আমি জানি না। তবে "
+"স্বর্ণযুগে ওর্ক আর ট্রোলেদের বিরুদ্ধে আমাদের যুদ্ধে তারা অনেক সাহায্য করেছিল।"
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:549
@@ -3783,6 +3799,11 @@ msgid ""
 "warriors. I’m sure they have all died off; I certainly would never want to "
 "meet one face to face."
 msgstr ""
+"ট্রোলরা ছিল বিশালাকায় ধূসর জীব, দানবদের মতোই বড় এবং ভীষণ শক্তিশালী। তারা "
+"নির্জনতাপ্রিয়, ভূগর্ভে লুকিয়ে থাকত। আমাদের তাদের সঙ্গে তেমন কোনো যোগাযোগ ছিল না, "
+"যদিও মহাযুদ্ধে কেউ কেউ ওর্কদের পাশে লড়েছিল। তারা ছিল পরাক্রমশালী যোদ্ধা। আমি "
+"নিশ্চিত, তারা সবাই নিশ্চিহ্ন হয়ে গেছে; আমি তো কখনোই একটি ট্রোলের সম্মুখীন হতে চাইব "
+"না।"
 
 #. [message]: speaker=Zhul
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:559
@@ -3791,16 +3812,19 @@ msgid ""
 "happy if our biggest problem is not getting lost. Still, even underground "
 "Eloh will watch over us."
 msgstr ""
+"কিন্তু এলোহর পথনির্দেশে চললে, আমি আশা করি এই সুড়ঙ্গগুলো ফাঁকা পাব। পথ হারানোই যদি "
+"আমাদের সবচেয়ে বড় সমস্যা হয়, আমি খুশি হব। তবুও, ভূগর্ভেও এলোহ আমাদের ওপর নজর "
+"রাখবেন।"
 
 #. [message]: speaker=Nym
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:593
 msgid "All I’m saying is that these tunnels aren’t as bad as I expected."
-msgstr ""
+msgstr "আমি শুধু বলতে চাইছি যে আমি যতটা ভেবেছিলাম এই সুড়ঙ্গগুলো ততটা খারাপ নয়।"
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:598
 msgid "Shhh! Did you hear something?"
-msgstr ""
+msgstr "শ্শ্শ! তুমি কিছু শুনতে পাচ্ছ?"
 
 #. [message]: speaker=Zhul
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:641
@@ -3810,12 +3834,12 @@ msgstr "পিঁপড়ে। বিরাট বড় আকারের পি�
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:654
 msgid "On the other hand, that spider probably is."
-msgstr ""
+msgstr "অপরপক্ষে, ওই মাকড়সাটা নিশ্চয়ই হবে।"
 
 #. [message]: speaker=Nym
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:659
 msgid "Caught between a spider and its prey. Not a good place to be."
-msgstr ""
+msgstr "একটা মাকড়সা আর তার ‌শিকারের মাঝে আটকে পড়েছি। খুব একটা ভালো জায়গা নয়।"
 
 #. [message]: speaker=Nym
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:693
@@ -3823,18 +3847,20 @@ msgid ""
 "Whoa! Did you see that? That huge stalactite just fell and crushed the "
 "spider. Aren’t we lucky!"
 msgstr ""
+"বাপরে! তুমি দেখলে? ওই বিরাট স্ট্যালকটাইট পড়ে মাকড়সাটাকে পিষ্ট করে দিয়েছে। ভাগ্য "
+"আমাদের ওপর সদয়!"
 
 #. [message]: speaker=Zhul
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:698
 msgid "Eloh must indeed be watching over us."
-msgstr ""
+msgstr "এলোহ্ নিশ্চয়ই আমাদের ওপর নজর রাখছেন।"
 
 #. [message]: speaker=Nym
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:705
 msgid ""
 "You know, if all we discover down here are insects, I’ll be very "
 "disappointed."
-msgstr ""
+msgstr "তুমি জানো, এই নীচে যদি আমি শুধুই পিঁপড়ে খুঁজে পাই, তাহলে আমি বেশ নিরাশ হব।"
 
 #. [message]: speaker=Elyssa
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:716
@@ -3854,17 +3880,17 @@ msgstr "সাহায্য করো! ওরা সর্বত্র!"
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:751
 msgid "Nym, your timing is impeccable."
-msgstr ""
+msgstr "নিম, তোমার সময়জ্ঞান নির্ভূল।"
 
 #. [message]: speaker=Elyssa
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:762
 msgid "That’s a dwarf, but it looks like he’s been beaten to a pulp."
-msgstr ""
+msgstr "দেখে বামন বলে মনে হচ্ছে, কিন্তু ওকে ভয়ানকভাবে পেটানো হয়েছে।"
 
 #. [message]: speaker=Zhul
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:769
 msgid "Short and hairy, he must be a dwarf. But he’s been beaten to a pulp."
-msgstr ""
+msgstr "ছোট এবং লোমশ, নিশ্চয়ই একজন বামন। কিন্তু ওকে ভয়ানকভাবে পেটানো হয়েছে।"
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:776
@@ -3872,6 +3898,8 @@ msgid ""
 "I don’t know what ‘they’ are, but we can’t go back. Prepare yourselves for "
 "anything, everyone."
 msgstr ""
+"আমি জানি না ‘তারা’ কারা, তবে আমরা পিছিয়ে যেতে পারব না। সবাই যেকোনো পরিস্থিতির "
+"জন্য প্রস্তুত হও।"
 
 #. [event]
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:837
@@ -3930,12 +3958,12 @@ msgstr "বাপরে। কালেহ, এটা এসে দেখে য
 #. [message]: speaker=Nym
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:1049
 msgid "I think I preferred the spider and the ants..."
-msgstr ""
+msgstr "আমার মনে হচ্ছে মাকড়সাটা আর পিঁপড়েগুলোই ভালো ছিল..."
 
 #. [message]: speaker=Dwarf Leader
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:1054
 msgid "Stand firm, boys, here they come!"
-msgstr ""
+msgstr "শক্ত হয়ে দাঁড়াও, ছেলেরা, এই ওরা আসছে!"
 
 #. [message]: speaker=Troll Leader
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:1059
@@ -3943,6 +3971,8 @@ msgid ""
 "You invade our tunnels, you slaughter our people, by Griknagh we will make "
 "you pay!"
 msgstr ""
+"তোমরা আমাদের সুড়ঙ্গে ঢুকেছ, তোমরা আমাদের লোকদের হত্যা করেছে, গ্রিকনাঘের শপথ করে "
+"বলছি তোমাদের এর মাসুল গুনতে হবে।"
 
 #. [message]: speaker=Dwarf Leader
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:1064
@@ -3950,6 +3980,8 @@ msgid ""
 "Tenacious savages, aren’t they? But these tunnels are rich in ore, and we "
 "won’t let a couple of trolls keep them from us."
 msgstr ""
+"এরা জেদী বর্বর, তাই না? কিন্তু এই সুড়ঙ্গগুলোয় প্রচুর আকরিক আছে, আর কয়েকটা ট্রোল "
+"আমাদের সেগুলোর থেকে দূরে রাখতে পারবে না।"
 
 #. [message]: speaker=Troll Leader
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:1069
@@ -3969,17 +4001,17 @@ msgstr "পূর্বপুরুষদের দিব্যি, ওরা �
 #. [message]: speaker=first_dwarf
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:1084
 msgid "Wait a minute... Vacuous eyes, pointy ears — they must be elves."
-msgstr ""
+msgstr "একমিনিট... ফাঁকা চোখ, সূচাগ্র কান — ওরা নিশ্চয়ই এল্ফ।"
 
 #. [message]: speaker=second_dwarf
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:1089
 msgid "Elves?! What in the nine hells are elves doing down here?"
-msgstr ""
+msgstr "এল্ফ?! নটা নরক ছেড়ে ‌দিয়ে ওরা এখানেই আসতে পেল?"
 
 #. [message]: speaker=Dwarf Leader
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:1094
 msgid "Never mind that, who are you?"
-msgstr ""
+msgstr "বাদ দাও ওসব, তোমাদের পরিচয় কী?"
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:1099
@@ -3994,6 +4026,8 @@ msgid ""
 "They invade our land and kill our young. Dwarves always want more, always "
 "greedy for glittery rocks."
 msgstr ""
+"ওরা আমাদের এলাকায় অনাধিকার প্রবেশ করে। বামনেরা সবসময়েই আরও আরও বেশী চায়, "
+"চকচকে পাথরের লোভীগুলো।"
 
 #. [message]: speaker=Dwarf Leader
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:1109
