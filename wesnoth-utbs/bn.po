@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: bn\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-06-23 03:15 UTC\n"
-"PO-Revision-Date: 2026-09-08 20:42+0530\n"
+"PO-Revision-Date: 2026-09-12 09:18+0530\n"
 "Last-Translator: Subhraman Sarkar <sbmskmm@protonmail.com>\n"
 "Language-Team: Bengali < >\n"
 "Language: bn\n"
@@ -4524,6 +4524,14 @@ msgid ""
 "do this and we can drive them back. Then troll leader can help show you how "
 "to return to surface. You come with Zurg, he show you way to secret passage."
 msgstr ""
+"যুদ্ধের ঠিক আগে, আমরা উত্তরে একটি গোপন পথ পাঔ, যা সরাসরি বড় একটি বামন দুর্গের "
+"দিকে নিয়ে যায়। দুর্গের মধ্যে লুকিয়ে আছে একজন গুরুত্বপূর্ণ বামন, যে যুদ্ধের নির্দেশ "
+"দিচ্ছে। বামনরা সবসময়ই নিজেদের সবচেয়ে ভাল যোদ্ধা বলে মনে করে, তাই তারা তাদের "
+"দুর্গে কেবল কয়েকজন বামনই রক্ষক হিসেবে রেখে যায়। যদি তোমরা এল্ফরা বামনর প্রতিরক্ষা "
+"ভেঙে বামন নেতাকেকে হত্যা করতে পারো, তবে বামনদের বড় ক্ষতি হবে, তারা ভয় ও "
+"বিভ্রান্তিতে পড়বে, যারা ট্রোলদের জন্য সহজ শিকার হয়ে পড়বে। তুমি যদি এটি করো, আমরা "
+"তাদের পিছনে ধাক্কা দিতে পারবো। তারপর ট্রোল নেতা তোমাকে উপরভাগে ফিরে যাওয়ার পথ "
+"দেখাতে সাহায্য করবে। তুমি জুর্গের সঙ্গে যাও, সে তোমাকে গোপন পথের দিকে নিয়ে যাবে।"
 
 #. [message]: speaker=Elyssa
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:2478
@@ -4541,6 +4549,8 @@ msgid ""
 "Wait a moment, Zurg, we must deal with this mysterious cloaked figure before "
 "we can follow you."
 msgstr ""
+"একমিনিট, জুর্গ, তোমার সঙ্গে যাওয়ার আগে আমাদের এই রহস্যময় অবগুণ্ঠিত মূর্তির কিছু একটা "
+"ব্যবস্থা করতে হবে।"
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:2499
@@ -4563,7 +4573,7 @@ msgstr "গ্রিমনির"
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:2539
 msgid ""
 "Congratulations, some of me boys didn’t think you could beat the trolls."
-msgstr ""
+msgstr "অভিনন্দন, আমার কয়েকজন ভাবছিল তুমি ট্রোলদের হারাতে পারবে না।"
 
 #. [message]: speaker=Grimnir
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:2549
@@ -4572,11 +4582,13 @@ msgid ""
 "caves, elf. I would have killed him myself, but I was just sent back from "
 "the main front of the battle."
 msgstr ""
+"ভেবো না তুমি এখানের সব প্যাঁচানো সুড়ঙ্গ আর পথ জানো, এল্ফ। আমি ওকে নিজেই মেরে ফেলতে "
+"পারতাম, কিন্তু আমাকে মূল যুদ্ধক্ষেত্র থেকে ফিরে আসতে হয়।"
 
 #. [message]: speaker=Zhul
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:2554
 msgid "The front? I thought this was the front."
-msgstr ""
+msgstr "মূল যুদ্ধক্ষেত্র? আমি ভাবছিলাম এটাই সেই যুদ্ধক্ষেত্র।"
 
 #. [message]: speaker=Grimnir
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:2559
@@ -4588,6 +4600,12 @@ msgid ""
 "in these caves to reinforce the back lines. But your victory here has "
 "produced a unexpected opportunity."
 msgstr ""
+"যখন তুমি লড়াই করছিলে, তখন ট্রোলদের আরেকটা আলাদা দল আমাদের প্রহরীদের এড়িয়ে "
+"চারদিক ঘুরে এসে আমাদের ওপর পাশ থেকে আক্রমণ করেছে, আর আমাদের সরবরাহ কেন্দ্রগুলোতে "
+"হামলা চালিয়েছে। ওই দুর্গন্ধময় বদমাশগুলোর সংখ্যা আমরা যতটা ভেবেছিলাম, তার চেয়েও "
+"বেশি। সত্যি বলতে, আমরা খুব চাপে পড়ে গেছি। পেছনের প্রতিরক্ষা জোরদার করতে আমাদের "
+"এই গুহাগুলোতে থাকা সব বাহিনীই ফিরিয়ে নিতে হবে। কিন্তু এখানে তোমার জয় এক "
+"অপ্রত্যাশিত সুযোগ এনে দিয়েছে।"
 
 #. [message]: speaker=Nym
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:2564
@@ -4608,6 +4626,16 @@ msgid ""
 "you return your people to the sunlit lands. When you’re ready I’ll show you "
 "the way. It’s not far."
 msgstr ""
+"ট্রোলগুলো যখন এই খনির এই অংশ দখল করতে যাচ্ছিল, আমাদের সন্ধানীরা এখানে থেকে "
+"দক্ষিণে একটি পুরনো সুড়ঙ্গ খুঁজে পেয়েছিল, যা প্রায় সরাসরি এই ট্রোল উপজাতির প্রধান গুহার "
+"দিকে নিয়ে যায়। আমরা বিশ্বাস করি, গুহার মধ্যে তাদের প্রধান নেতাদের একজন লুকিয়ে "
+"আছে, যিনি যুদ্ধের দিকনির্দেশনা দিচ্ছেন। আমরা চুপচাপ ঢুকে অপ্রত্যাশিত আক্রমণ করার "
+"পরিকল্পনা করছিলাম, তবে তা করার জন্য পর্যাপ্ত বামন আমাদের কাছে নেই। যদি তুমি এই "
+"পথটি ব্যবহার করে তাদের সামনের সেনাদের পেরিয়ে গিয়ে সে নেতাকে মেরে ফেলতে পারো, "
+"তবে ট্রোলদের মধ্যে বিশৃঙ্খলা ছড়িয়ে পড়বে এবং আমাদের সামনের কিস্তিতে চাপ কমবে। তুমি "
+"যদি এ কাজটি সম্পন্ন করো, আমাদের রাজা তোমাদের লোকজনকে সূর্যালোকিত ভূমিতে ফেরাতে "
+"সাহায্য করার প্রতিশ্রুতি দিয়েছেন। যখন তুমি প্রস্তুত, আমি তোমাকে পথ দেখাব। সেটা খুব "
+"দূরে নয়।"
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:2585
@@ -4633,6 +4661,8 @@ msgid ""
 "Where did he go? How does he disappear like that? And what in Uria’s name "
 "was he ranting about? Whoever that is is starting to make me get edgy."
 msgstr ""
+"সে কোথায় গেল? সে কীভাবে এভাবে হঠাৎ উধাও হয়ে যায়? আর উরিয়ার নামে সে কী নিয়ে "
+"বকবক করছিল? যেই-ই হোক, সে আমাকে ধীরে ধীরে অস্থির করে তুলছে।"
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:2647
@@ -4737,11 +4767,13 @@ msgid ""
 "I thought that’s what all the trolls looked like. I suppose we’ll just try "
 "to find the one that shouts the loudest."
 msgstr ""
+"আমি তো ভেবেছিলাম সব ট্রলই দেখতে তেমন। মনে হয় আমাদের শুধু যে সবচেয়ে জোরে চেঁচায়, "
+"তাকেই খুঁজে বের করার চেষ্টা করতে হবে।"
 
 #. [message]: speaker=Zhul
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06a_In_the_Tunnels_of_Trolls.cfg:433
 msgid "So you dug these tunnels all by yourselves?"
-msgstr ""
+msgstr "তাহলে তোমরা কি এই সুড়ঙ্গগুলো নিজেরাই খুঁড়েছিলে?"
 
 #. [message]: speaker=Grimnir
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06a_In_the_Tunnels_of_Trolls.cfg:438
@@ -4767,7 +4799,7 @@ msgstr "করা হয়ে যাবে।"
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06a_In_the_Tunnels_of_Trolls.cfg:460
 msgid ""
 "Once you are done moving your people into position, I will blow the charges."
-msgstr ""
+msgstr "তোমার লোকদের সঠিক অবস্থানে সরানো শেষ হলে, আমি বিস্ফোরকগুলো ফাটাব।"
 
 #. [unit]: id=Troll Brute, type=Troll
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06a_In_the_Tunnels_of_Trolls.cfg:486
