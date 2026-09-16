@@ -8,16 +8,16 @@ msgstr ""
 "Project-Id-Version: bn\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-02 22:45-0500\n"
-"PO-Revision-Date: 2026-09-15 15:17+0530\n"
+"PO-Revision-Date: 2026-09-16 16:09+0530\n"
 "Last-Translator: Subhraman Sarkar <sbmskmm@protonmail.com>\n"
-"Language-Team: Bengali < >\n"
+"Language-Team: Bangla <>\n"
 "Language: bn\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "#-#-#-#-#  wesnoth-help  #-#-#-#-#\n"
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"
-"X-Generator: Gtranslator 48.0\n"
+"X-Generator: Lokalize 25.04.0\n"
 
 #. [time]: id=underground
 #. [editor_times]: id=underground
@@ -61,7 +61,8 @@ msgid ""
 "Walking Corpse on the same side as the unit with the Plague attack. This "
 "doesn’t work on Undead or units in villages."
 msgstr ""
-"যখন একটি ইউনিট প্লেগ আক্রমণের দ্বারা নিহত হয়, তখন সেই ইউনিটটি প্লেগ আক্রমণকারী "
+"যখন একটি ইউনিট প্লেগ আক্রমণের দ্বারা নিহত হয়, তখন সেই ইউনিটটি প্লেগ আক্রমণকারী"
+" "
 "পক্ষের একটি চলমান শব ইউনিটে পাল্টে যায় । এটি না-মৃত বা গ্রামে দাঁড়িয়ে থাকা "
 "ইউনিটদের ওপর কার্যকরী নয় ।"
 
@@ -138,9 +139,12 @@ msgid ""
 "This ability will not cure an affected unit of poison, however, only delay "
 "its effect."
 msgstr ""
-"ইউনিটটিকে দানের শুরুতে মিত্র ইউনিটগুলিকে চিকিৎসা করার সামর্থ দেয়। এই চিকিৎসকের "
-"সাহায্যপ্রাপ্ত একটি ইউনিট দানের শুরুতে 4 জীবন সংখ্যা ফিরে পাবে, বা তার ওপর সেই "
-"দানের জন্য বিষের প্রভাব হবে না। তবে এই দক্ষতা কোনো ইউনিটকে বিষের প্রভাবমুক্ত করতে "
+"ইউনিটটিকে দানের শুরুতে মিত্র ইউনিটগুলিকে চিকিৎসা করার সামর্থ দেয়। এই চিকিৎসকের"
+" "
+"সাহায্যপ্রাপ্ত একটি ইউনিট দানের শুরুতে 4 জীবন সংখ্যা ফিরে পাবে, বা তার ওপর সেই"
+" "
+"দানের জন্য বিষের প্রভাব হবে না। তবে এই দক্ষতা কোনো ইউনিটকে বিষের প্রভাবমুক্ত ক"
+"রতে "
 "পারে না, শুধু সেই প্রভাবকে পিছিয়ে দিতে পারে।"
 
 #. [heals]: id=healing
@@ -177,10 +181,13 @@ msgid ""
 "This ability will not cure an affected unit of poison, however, only delay "
 "its effect."
 msgstr ""
-"এই ইউনিটটি ভেষজ চিকিৎসার সঙ্গে জাদু প্রয়োগ করে যুদ্ধক্ষেত্রে যতটা স্বাভাবিক তার থেকে "
-"দ্রুত ইউনিটদের সুস্থ করতে পারে।এই চিকিৎসকের সাহায্যপ্রাপ্ত একটি ইউনিট দানের শুরুতে 8 "
+"এই ইউনিটটি ভেষজ চিকিৎসার সঙ্গে জাদু প্রয়োগ করে যুদ্ধক্ষেত্রে যতটা স্বাভাবিক তা"
+"র থেকে "
+"দ্রুত ইউনিটদের সুস্থ করতে পারে।এই চিকিৎসকের সাহায্যপ্রাপ্ত একটি ইউনিট দানের শু"
+"রুতে 8 "
 "জীবন সংখ্যা ফিরে পাবে, বা তার ওপর সেই দানের জন্য বিষের প্রভাব হবে না। তবে এই "
-"দক্ষতা কোনো ইউনিটকে বিষের প্রভাবমুক্ত করতে পারে না, শুধু সেই প্রভাবকে পিছিয়ে দিতে "
+"দক্ষতা কোনো ইউনিটকে বিষের প্রভাবমুক্ত করতে পারে না, শুধু সেই প্রভাবকে পিছিয়ে দ"
+"িতে "
 "পারে।"
 
 #. [heals]: id=healing
@@ -205,10 +212,13 @@ msgid ""
 "This ability will not cure an affected unit of poison, however, only delay "
 "its effect."
 msgstr ""
-"এই ইউনিটটি ভেষজ চিকিৎসার সঙ্গে জাদু প্রয়োগ করে যুদ্ধক্ষেত্রে যতটা স্বাভাবিক তার থেকে "
-"দ্রুত ইউনিটদের সুস্থ করতে পারে।এই চিকিৎসকের সাহায্যপ্রাপ্ত একটি ইউনিট দানের শুরুতে 12 "
+"এই ইউনিটটি ভেষজ চিকিৎসার সঙ্গে জাদু প্রয়োগ করে যুদ্ধক্ষেত্রে যতটা স্বাভাবিক তা"
+"র থেকে "
+"দ্রুত ইউনিটদের সুস্থ করতে পারে।এই চিকিৎসকের সাহায্যপ্রাপ্ত একটি ইউনিট দানের শু"
+"রুতে 12 "
 "জীবন সংখ্যা ফিরে পাবে, বা তার ওপর সেই দানের জন্য বিষের প্রভাব হবে না। তবে এই "
-"দক্ষতা কোনো ইউনিটকে বিষের প্রভাবমুক্ত করতে পারে না, শুধু সেই প্রভাবকে পিছিয়ে দিতে "
+"দক্ষতা কোনো ইউনিটকে বিষের প্রভাবমুক্ত করতে পারে না, শুধু সেই প্রভাবকে পিছিয়ে দ"
+"িতে "
 "পারে।"
 
 #. [heals]
@@ -424,11 +434,16 @@ msgid ""
 "The selected brush changes the size of the tool:"
 msgstr ""
 "ভূমি টাইল ম্যাপে আঁকুন।পেইন্ট টুলটি ব্রাশের আকার এবং ভূমি প্যালেট ব্যবহার করে।"
-"<header>কীবোর্ড মডিফায়ার</header>• শিফট+মাউস ক্লিক: যদি একটি বেস ভূমি নির্বাচিত "
-"থাকে, তাহলে ওভারলে পরিবর্তন না করে বেস পরিবর্তন করুন। যদি একটি ওভারলে নির্বাচিত "
-"থাকে, তাহলে বেস পরিবর্তন না করে ওভারলে পরিবর্তন করুন।• কন্ট্রোল+মাউস ক্লিক: মাউস "
-"কার্সারের নিচে থাকা ভূমি নির্বাচন করুন, ঠিক যেন এটিকে টেরেন প্যালেটে নির্বাচিত করা "
-"হয়েছিল (বেস এবং ওভারলে উভয়ই তুলে নেয়)।<header>ব্রাশের আকার</header>নির্বাচিত "
+"<header>কীবোর্ড মডিফায়ার</header>• শিফট+মাউস ক্লিক: যদি একটি বেস ভূমি নির্বাচ"
+"িত "
+"থাকে, তাহলে ওভারলে পরিবর্তন না করে বেস পরিবর্তন করুন। যদি একটি ওভারলে নির্বাচি"
+"ত "
+"থাকে, তাহলে বেস পরিবর্তন না করে ওভারলে পরিবর্তন করুন।• কন্ট্রোল+মাউস ক্লিক: মা"
+"উস "
+"কার্সারের নিচে থাকা ভূমি নির্বাচন করুন, ঠিক যেন এটিকে টেরেন প্যালেটে নির্বাচিত"
+" করা "
+"হয়েছিল (বেস এবং ওভারলে উভয়ই তুলে নেয়)।<header>ব্রাশের আকার</header>নির্বাচি"
+"ত "
 "ব্রাশ টুলের আকার পরিবর্তন করে:"
 
 #. [topic]: id=editor_tool_paint
@@ -469,11 +484,15 @@ msgid ""
 "• Control+mouse click: Select the terrain under the mouse cursor, as if it "
 "had been selected on the terrain palette (picks up both base and overlay)."
 msgstr ""
-"সংলগ্ন ভূমিঅঞ্চলগুলো ভিন্ন একটি ভূমি টাইল দিয়ে পূরণ করুন।ফিল টুলটি ভূমি প্যালেট ব্যবহার "
+"সংলগ্ন ভূমিঅঞ্চলগুলো ভিন্ন একটি ভূমি টাইল দিয়ে পূরণ করুন।ফিল টুলটি ভূমি প্যাল"
+"েট ব্যবহার "
 "করে।<header>কীবোর্ড মডিফায়ার</header>• শিফট+মাউস ক্লিক: যদি একটি বেস ভূমি "
-"নির্বাচিত থাকে, তাহলে ওভারলে পরিবর্তন না করে বেস পরিবর্তন করুন। যদি একটি ওভারলে "
-"নির্বাচিত থাকে, তাহলে বেস পরিবর্তন না করে ওভারলে পরিবর্তন করুন।• কন্ট্রোল+মাউস "
-"ক্লিক: মাউস কার্সারের নিচে থাকা ভূমি নির্বাচন করুন, , ঠিক যেন এটিকে টেরেন প্যালেটে "
+"নির্বাচিত থাকে, তাহলে ওভারলে পরিবর্তন না করে বেস পরিবর্তন করুন। যদি একটি ওভারল"
+"ে "
+"নির্বাচিত থাকে, তাহলে বেস পরিবর্তন না করে ওভারলে পরিবর্তন করুন।• কন্ট্রোল+মাউস"
+" "
+"ক্লিক: মাউস কার্সারের নিচে থাকা ভূমি নির্বাচন করুন, , ঠিক যেন এটিকে টেরেন প্যা"
+"লেটে "
 "নির্বাচিত করা হয়েছিল (বেস এবং ওভারলে উভয়ই তুলে নেয়)।"
 
 #. [topic]: id=editor_tool_select
@@ -495,10 +514,13 @@ msgid ""
 "<b>Brush Sizes</b>\n"
 "The selected brush changes the size of the tool:"
 msgstr ""
-"ষড়ভূজে ফিল্ডের একটি অঞ্চল নির্বাচন করুন, যা মেনু বারের নিচে থাকা কাট, কপি এবং ফিল-"
+"ষড়ভূজে ফিল্ডের একটি অঞ্চল নির্বাচন করুন, যা মেনু বারের নিচে থাকা কাট, কপি এবং "
+"ফিল-"
 "সিলেকশন বাটনগুলোর সাথে ব্যবহার করা যাবে।<header>কীবোর্ড মডিফায়ার</header>• "
-"শিফট+মাউস ক্লিক: ‘ম্যাজিক ওয়ান্ড’ মোড, মাউস কার্সারের নিচে থাকা ষড়ভূজ এবং একই ভূমি "
-"প্রকারের সংলগ্ন ষড়ভূজগুলি নির্বাচন করে।• কন্ট্রোল+মাউস ক্লিক: ষড়ভূজগুলির নির্বাচন বাতিল "
+"শিফট+মাউস ক্লিক: ‘ম্যাজিক ওয়ান্ড’ মোড, মাউস কার্সারের নিচে থাকা ষড়ভূজ এবং একই"
+" ভূমি "
+"প্রকারের সংলগ্ন ষড়ভূজগুলি নির্বাচন করে।• কন্ট্রোল+মাউস ক্লিক: ষড়ভূজগুলির নির্ব"
+"াচন বাতিল "
 "করুন।<b>ব্রাশের আকার</b>নির্বাচিত ব্রাশ টুলের আকার পরিবর্তন করে:"
 
 #. [topic]: id=editor_tool_select
@@ -541,10 +563,14 @@ msgid ""
 "The paste tool also has some clipboard-manipulation functions:"
 msgstr ""
 "ক্লিপবোর্ডে থাকা ভূমি ঘুরান, উল্টান এবং পেস্ট করুন<ref "
-"dst='editor_tool_select'>সিলেক্ট টুল</ref> ব্যবহার করে ষড়ভূজগুলো কাট বা কপি করে "
-"ক্লিপবোর্ডে রাখা যায়।পেস্ট টুলটি ক্লিপবোর্ডের একটি রূপরেখা দেখায়, যা মাউস-ক্লিকের "
-"মাধ্যমে পেস্ট করা যায়। শুধুমাত্র রূপরেখাই দেখানো হয়, তবে ভুলগুলো আনডু ফাংশন দিয়ে "
-"সংশোধন করা যায়, যা কন্ট্রোল+জেড এবং গেমের ভেতরে থাকা আনডু ফাংশনের মতো একই কী-তে "
+"dst='editor_tool_select'>সিলেক্ট টুল</ref> ব্যবহার করে ষড়ভূজগুলো কাট বা কপি কর"
+"ে "
+"ক্লিপবোর্ডে রাখা যায়।পেস্ট টুলটি ক্লিপবোর্ডের একটি রূপরেখা দেখায়, যা মাউস-ক্"
+"লিকের "
+"মাধ্যমে পেস্ট করা যায়। শুধুমাত্র রূপরেখাই দেখানো হয়, তবে ভুলগুলো আনডু ফাংশন "
+"দিয়ে "
+"সংশোধন করা যায়, যা কন্ট্রোল+জেড এবং গেমের ভেতরে থাকা আনডু ফাংশনের মতো একই কী-"
+"তে "
 "যুক্ত করা আছে।পেস্ট টুলে ক্লিপবোর্ড-পরিচালনার কিছু ফাংশনও রয়েছে:"
 
 #. [topic]: id=editor_tool_paste
@@ -942,7 +968,8 @@ msgid ""
 "_main.cfg file. Any other place will need to be updated manually."
 msgstr ""
 "অ্যাড অনের আইডি পাল্টাতে সাহায্য করে, যা সাধারণভাবে সেটির ফোল্ডারের নাম । এটি "
-"শুধুমাত্র ওই ফোল্ডারটির নাম এবং _main.cfg ফাইলে হওয়া এর উল্লেখগুলিকে পাল্টে দেবে । "
+"শুধুমাত্র ওই ফোল্ডারটির নাম এবং _main.cfg ফাইলে হওয়া এর উল্লেখগুলিকে পাল্টে দে"
+"বে । "
 "এছাড়া অন্যান্য স্থানে থাকা নাম বা উল্লেখগুলি আপনাকে নিজে পাল্টাতে হবে ।"
 
 #. [topic]: id=editor_pbl_editor
@@ -958,7 +985,8 @@ msgid ""
 "The Validate button will check whether all required fields have valid values."
 msgstr ""
 "একটি অ্যাড অনকে অন্য খেলোয়াড়দের খেলার জন্য অ্যাড অন সার্ভারে প্রকাশনার জন্য "
-"প্রয়োজনীয় _server.pbl ফাইলটিকে বানাতে সাহায্য করে । পরীক্ষা বাটনটি পরীক্ষা করে "
+"প্রয়োজনীয় _server.pbl ফাইলটিকে বানাতে সাহায্য করে । পরীক্ষা বাটনটি পরীক্ষা করে"
+" "
 "দেখবে সকল ফিল্ডে সঠিক মান বসানো হয়েছে কী না ।"
 
 #. [topic]: id=..editor
@@ -1343,10 +1371,14 @@ msgid ""
 "(Before the Fall)."
 msgstr ""
 "ওয়েসনথীয় ক্যালেন্ডারের প্রতিটি বছর ১২টি মাস নিয়ে গঠিত। এগুলো হলো, "
-"ক্রমানুসারে:হোয়াইটফায়ারব্লিডিং মুনস্ক্যাটারসিডডিপরুটস্ক্রায়ারস ব্লুমথর্নট্রেসসামিট "
-"স্টারকিন্ডলফায়ারস্টিলসিডরিপার্স মুনভার্গলাস ব্লুমব্ল্যাকফায়ারওয়েসনথিয়ান ক্যালেন্ডার শুরু "
-"হয় ওয়েসনথ প্রতিষ্ঠার বছর, অর্থাৎ ১ YW (Year of Wesnoth) থেকে। এর আগের বছরগুলো "
-"ওয়েসনথ প্রতিষ্ঠার কত বছর আগে তার ভিত্তিতে BW (Before Wesnoth) ব্যবহার করে গণনা "
+"ক্রমানুসারে:হোয়াইটফায়ারব্লিডিং মুনস্ক্যাটারসিডডিপরুটস্ক্রায়ারস ব্লুমথর্নট্র"
+"েসসামিট "
+"স্টারকিন্ডলফায়ারস্টিলসিডরিপার্স মুনভার্গলাস ব্লুমব্ল্যাকফায়ারওয়েসনথিয়ান ক্"
+"যালেন্ডার শুরু "
+"হয় ওয়েসনথ প্রতিষ্ঠার বছর, অর্থাৎ ১ YW (Year of Wesnoth) থেকে। এর আগের বছরগুল"
+"ো "
+"ওয়েসনথ প্রতিষ্ঠার কত বছর আগে তার ভিত্তিতে BW (Before Wesnoth) ব্যবহার করে গণন"
+"া "
 "করা হয়।ওয়েসনথের পতনের পর অনেকে AF (After the Fall) এবং BF (Before the Fall) "
 "ব্যবহার করতে শুরু করেন।"
 
@@ -1368,7 +1400,8 @@ msgid ""
 "A river rising in the <ref dst='heart_mountains'>Heart Mountains</ref> and "
 "running east to the Listra."
 msgstr ""
-"<ref dst='heart_mountains'>হৃদয় পর্বতমালা</ref> থেকে বেরিয়ে পূর্বে লিস্ট্রার দিকে "
+"<ref dst='heart_mountains'>হৃদয় পর্বতমালা</ref> থেকে বেরিয়ে পূর্বে লিস্ট্রার দ"
+"িকে "
 "প্রবাহিত হওয়া একটি নদী ।"
 
 #. [topic]: id=great_river
@@ -1395,7 +1428,8 @@ msgid ""
 "The Ford of Abez is a crossing between Wesnoth and the Northlands, and is "
 "the westernmost point where the Great River can be crossed without ships."
 msgstr ""
-"অ্যাবেজের ফোর্ড হলো ওয়েসনথ এবং উত্তরে ভূমির মধ্যবর্তী একটি পারাপার স্থল, এবং এটি "
+"অ্যাবেজের ফোর্ড হলো ওয়েসনথ এবং উত্তরে ভূমির মধ্যবর্তী একটি পারাপার স্থল, এবং "
+"এটি "
 "বিরাট নদীর পশ্চিমতম বিন্দু যেখানে জাহাজ ছাড়াই নদী পার হওয়া যায়।"
 
 #. [topic]: id=great_ocean
@@ -1411,7 +1445,8 @@ msgid ""
 "archipelago called <ref dst='morogor'>Morogor</ref>."
 msgstr ""
 "<ref dst='great_continent'>মহাদেশের</ref> পশ্চিমে রয়েছে এবং সকল নদীগুলি শেষে "
-"এখানে এসে মেশে । বিরাট সমুদ্রের বহু পশ্চিমে একটি সুবিশাল দ্বীপপুঞ্জ রয়েছে যা <ref "
+"এখানে এসে মেশে । বিরাট সমুদ্রের বহু পশ্চিমে একটি সুবিশাল দ্বীপপুঞ্জ রয়েছে যা <"
+"ref "
 "dst='morogor'>মোরোগোর</ref> নামে পরিচিত ।"
 
 #. [topic]: id=great_ocean
@@ -1423,7 +1458,8 @@ msgid ""
 "an immense waterfall at the edge of the world."
 msgstr ""
 "ড্রেকরা এক সময় এই মহাসাগরকে বিশ্বমহাসাগর বলে ডাকত। তারা বিশ্বাস করত যে এটি "
-"মোরোগর থেকে প্রতিটি দিকে বিস্তৃত হয়ে অবশেষে পৃথিবীর প্রান্তে এক বিশাল জলপ্রপাত "
+"মোরোগর থেকে প্রতিটি দিকে বিস্তৃত হয়ে অবশেষে পৃথিবীর প্রান্তে এক বিশাল জলপ্রপা"
+"ত "
 "হিসেবে গভীর অতলে গিয়ে মিশেছে।"
 
 #. [topic]: id=morogor
@@ -1440,10 +1476,12 @@ msgid ""
 "It is mostly inhabited by <ref dst='..race_drake'>drakes</ref>.\n"
 "The central island of the archipelago is also called ‘Morogor’."
 msgstr ""
-"দ্বীপপুঞ্জ, <ref dst='great_ocean'>বিরাট সাগরের</ref>-এর কোথাও অবস্থিত, যা <ref "
+"দ্বীপপুঞ্জ, <ref dst='great_ocean'>বিরাট সাগরের</ref>-এর কোথাও অবস্থিত, যা <re"
+"f "
 "dst='green_isle'>সবুজ দ্বীপের</ref>-এর পূর্বে এবং <ref "
 "dst='great_continent'>বিরাট মহাদেশের</ref>-এর পশ্চিমে।এটি মূলত <ref "
-"dst='..race_drake'>ড্রেক</ref>দের দ্বারা অধ্যুষিত।আর্কিপেলাগোর কেন্দ্রীয় দ্বীপটিকেও "
+"dst='..race_drake'>ড্রেক</ref>দের দ্বারা অধ্যুষিত।আর্কিপেলাগোর কেন্দ্রীয় দ্বী"
+"পটিকেও "
 "‘মোরোগোর’ বলা হয়।"
 
 #. [topic]: id=morogor
@@ -1459,11 +1497,16 @@ msgid ""
 "    • Isle of Omarath: A major drakish island northwest of the main Isle of "
 "Morogor. It is the northernmost island of the Morogor Archipelago."
 msgstr ""
-"<header>উল্লেখযোগ্য ভূমি বৈশিষ্ট্য:</header>    • মাউন্ট মোরোগর: মোরোগরের কেন্দ্রীয় "
-"দ্বীপের সর্বোচ্চ সক্রিয় আগ্নেয়গিরি পর্বত।    • গাল দ্বীপ: কেন্দ্রীয় মোরোগর দ্বীপের "
-"সামান্য উত্তরে অবস্থিত একটি বিপজ্জনক দ্বীপ, যা মূলত ড্রেকদের শিকারভূমি হিসেবে ব্যবহৃত "
-"হয়, যারা এই দ্বীপে মাত্র দুটি ছোট গ্রামে বসবাস করে।    • ওমারাথ দ্বীপ: প্রধান "
-"মোরোগর দ্বীপের উত্তর-পশ্চিমে অবস্থিত একটি প্রধান ড্রেক দ্বীপ। এটি মরোগর দ্বীপপুঞ্জের "
+"<header>উল্লেখযোগ্য ভূমি বৈশিষ্ট্য:</header>    • মাউন্ট মোরোগর: মোরোগরের কেন্"
+"দ্রীয় "
+"দ্বীপের সর্বোচ্চ সক্রিয় আগ্নেয়গিরি পর্বত।    • গাল দ্বীপ: কেন্দ্রীয় মোরোগর "
+"দ্বীপের "
+"সামান্য উত্তরে অবস্থিত একটি বিপজ্জনক দ্বীপ, যা মূলত ড্রেকদের শিকারভূমি হিসেবে "
+"ব্যবহৃত "
+"হয়, যারা এই দ্বীপে মাত্র দুটি ছোট গ্রামে বসবাস করে।    • ওমারাথ দ্বীপ: প্রধান"
+" "
+"মোরোগর দ্বীপের উত্তর-পশ্চিমে অবস্থিত একটি প্রধান ড্রেক দ্বীপ। এটি মরোগর দ্বীপপ"
+"ুঞ্জের "
 "সবচেয়ে উত্তরের দ্বীপ।"
 
 #. [topic]: id=green_isle
@@ -1496,11 +1539,14 @@ msgid ""
 msgstr ""
 "<header>গুরুত্বপূর্ণ শহর:</header>\n"
 "    • সাউথবে: সর্ববৃহৎ দ্বীপবাসী রাজ্যের রাজধানী ।\n"
-"    • ক্লিয়ারওয়াটার বন্দর: দ্বীপবাসী রাজ্যের দ্বিতীয় বৃহত্তম শহর এবং এখানে একটি "
+"    • ক্লিয়ারওয়াটার বন্দর: দ্বীপবাসী রাজ্যের দ্বিতীয় বৃহত্তম শহর এবং এখানে একট"
+"ি "
 "গুরুত্বপূর্ণ বন্দর রয়েছে ।\n"
-"    • স্টর্মভেল: একটি বড় দ্বীপবাসী রাজ্য যা একসময় প্রথম হ্যালড্রিকের পূর্বপুরুষেরা শাসন "
+"    • স্টর্মভেল: একটি বড় দ্বীপবাসী রাজ্য যা একসময় প্রথম হ্যালড্রিকের পূর্বপুরু"
+"ষেরা শাসন "
 "করতেন ।\n"
-"    • জেভইয়ান’স্ হ্যাভেন: পশ্চিমাবাসীদের রাজধানী এবং জনপ্রিয় লিচ-লর্ড জেভইয়ানের "
+"    • জেভইয়ান’স্ হ্যাভেন: পশ্চিমাবাসীদের রাজধানী এবং জনপ্রিয় লিচ-লর্ড জেভইয়ানে"
+"র "
 "বাড়ি ।\n"
 "    • ব্ল্যাকমোর: ওল্ডউডের উত্তরে থাকা একটি ছোটো বসতি ।"
 
@@ -1519,13 +1565,20 @@ msgid ""
 "once home to Wesfolk-imitating cultists. The swamp was defiled in wars "
 "between Wesfolk and Islefolk long ago."
 msgstr ""
-"<header>উল্লেখযোগ্য ভূমি বৈশিষ্ট্য:</header>    • ভগ্ন পর্বত: একটি বিশাল পর্বতমালা "
-"যা সবুজ দ্বীপের মধ্য দিয়ে বিস্তৃত।    • মধ্যভূমি: এস্টেন জলাভূমির দক্ষিণে অবস্থিত একটি "
-"পাহাড়ি এবং বিরলবনাঞ্চল, যা এক সময় সমৃদ্ধ দ্বীপবাসী রাজ্যগুলোর আবাসস্থল ছিল।    • "
-"ওল্ডউড: প্রাচীন কিছু বৃক্ষাত্মার বসবাসস্থল একটি রহস্যময় বন। বনের কেন্দ্রস্থলে একটি "
-"মন্দিরের নিচে অন্ধকার প্রাচীন সমাধিস্থল অবস্থিত।    • এস্টেন জলাভূমি: ভগ্ন পর্বতের "
-"পূর্বে অবস্থিত একটি ছোট জলাভূমি, যা এক সময় ওয়েসফোক-অনুকরণকারী সম্প্রদায়ের আবাসস্থল "
-"ছিল। বহু বছর আগে ওয়েসফোক এবং দ্বীপবাসীদের মধ্যকার যুদ্ধে জলাভূমিটি কলুষিত হয়েছিল।"
+"<header>উল্লেখযোগ্য ভূমি বৈশিষ্ট্য:</header>    • ভগ্ন পর্বত: একটি বিশাল পর্বত"
+"মালা "
+"যা সবুজ দ্বীপের মধ্য দিয়ে বিস্তৃত।    • মধ্যভূমি: এস্টেন জলাভূমির দক্ষিণে অবস"
+"্থিত একটি "
+"পাহাড়ি এবং বিরলবনাঞ্চল, যা এক সময় সমৃদ্ধ দ্বীপবাসী রাজ্যগুলোর আবাসস্থল ছিল। "
+"   • "
+"ওল্ডউড: প্রাচীন কিছু বৃক্ষাত্মার বসবাসস্থল একটি রহস্যময় বন। বনের কেন্দ্রস্থলে"
+" একটি "
+"মন্দিরের নিচে অন্ধকার প্রাচীন সমাধিস্থল অবস্থিত।    • এস্টেন জলাভূমি: ভগ্ন পর্"
+"বতের "
+"পূর্বে অবস্থিত একটি ছোট জলাভূমি, যা এক সময় ওয়েসফোক-অনুকরণকারী সম্প্রদায়ের আ"
+"বাসস্থল "
+"ছিল। বহু বছর আগে ওয়েসফোক এবং দ্বীপবাসীদের মধ্যকার যুদ্ধে জলাভূমিটি কলুষিত হয়"
+"েছিল।"
 
 #. [topic]: id=old_continent
 #: data/core/encyclopedia/geography.cfg:81
@@ -1539,8 +1592,10 @@ msgid ""
 "dst='green_isle'>Green Isle</ref> across the <ref dst='great_ocean'>Great "
 "Ocean</ref>. It is the original homeland of both humans and orcs."
 msgstr ""
-"<ref dst='morogor'>মোরোগোর</ref> এবং <ref dst='green_isle'>সবুজ দ্বীপ</ref>-এর "
-"পশ্চিমে <ref dst='great_ocean'>বিরাট সমুদ্রের</ref>-এর ওপারে অবস্থিত। এটি মানুষ "
+"<ref dst='morogor'>মোরোগোর</ref> এবং <ref dst='green_isle'>সবুজ দ্বীপ</ref>-এর"
+" "
+"পশ্চিমে <ref dst='great_ocean'>বিরাট সমুদ্রের</ref>-এর ওপারে অবস্থিত। এটি মানু"
+"ষ "
 "এবং ওর্ক উভয়েরই আদি জন্মভূমি।"
 
 #. [topic]: id=great_continent
@@ -1572,7 +1627,8 @@ msgid ""
 "normally just say “the world” or, poetically, “the wide green world”."
 msgstr ""
 "‘ইরডিয়া’ হলো সেই জগতের নাম যেখানে <ref dst='kingdom_wesnoth'>ওয়েসনথ</ref> "
-"রাজ্যটি অবস্থিত। তবে মূল মানচিত্রে চিত্রিত যুগে এই শব্দটি খুব কমই ব্যবহৃত হয়। মানুষ "
+"রাজ্যটি অবস্থিত। তবে মূল মানচিত্রে চিত্রিত যুগে এই শব্দটি খুব কমই ব্যবহৃত হয়।"
+" মানুষ "
 "সাধারণত শুধু “পৃথিবী” বলে, অথবা কাব্যিকভাবে, “বিস্তৃত সবুজ পৃথিবী” বলে।"
 
 #. [topic]: id=kingdom_wesnoth
@@ -1889,6 +1945,8 @@ msgid ""
 "A vast region south of Kerlath home to many mysterious races, including jinn "
 "and wyverns. Very little is known for certain about what lies here."
 msgstr ""
+"কেরলাথের দক্ষিণে বিস্তৃত এক অঞ্চল, যেখানে জিন ও ওয়াইভার্নসহ অনেক রহস্যময় জাত"
+"ির বাস। এখানে কী আছে, খুব কমই সুনিশ্চিতভাবে জানা যায়।"
 
 #. [topic]: id=far_south
 #. Geography of the Far South
@@ -1995,6 +2053,10 @@ msgid ""
 "new aspects of the game. For more detailed information on special situations "
 "and exceptions, follow the included links."
 msgstr ""
+"নিচের পৃষ্ঠাগুলোতে ওয়েসনথ খেলার জন্য আপনার যা জানা দরকার, সবই বর্ণনা করা আছে। "
+"আপনি খেলতে খেলতে, খেলার নতুন নতুন দিকের সঙ্গে পরিচিত হলে, বিভিন্ন বিভাগে নতুন "
+"তথ্য যোগ হতে থাকবে। বিশেষ পরিস্থিতি ও ব্যতিক্রম সম্পর্কে আরও বিস্তারিত জানতে, "
+"দেওয়া লিঙ্কগুলো অনুসরণ করুন।"
 
 #. [topic]: id=about_game
 #: data/core/help.cfg:105
@@ -2033,6 +2095,12 @@ msgid ""
 "its statistics, attacks, resistances, and movement and defense values.\n"
 "\n"
 msgstr ""
+"আপনি ওয়েসনথের বিশ্ব ঘুরে দেখার সময় যে সব ইউনিট আবিষ্কার করবেন, এই বিভাগে সেগুল"
+"োর তালিকা থাকবে। কোনো অভিযান বা মাল্টিপ্লেয়ার ঘটনাক্রমে নতুন কোনো ইউনিট দেখলে,"
+" সেটি তার জাতির উপবিভাগে যোগ হবে; এরপর আপনি চাইলে যেকোনো সময় তার পৃষ্ঠা দেখতে "
+"পারবেন। কোনো ইউনিটের পৃষ্ঠায় থাকবে তার সাধারণ বিবরণ, পরিসংখ্যান, আক্রমণ, প্রতি"
+"রোধক্ষমতা, আর চলাচল ও প্রতিরক্ষা মান।\n"
+"\n"
 
 #. [topic]: id=..eras_section
 #: data/core/help.cfg:127
@@ -2080,7 +2148,6 @@ msgstr "অজানা ইউনিট"
 
 #. [topic]: id=.unknown_unit
 #: data/core/help.cfg:158
-#, fuzzy
 #| msgid ""
 #| "\n"
 #| "\n"
@@ -2090,9 +2157,8 @@ msgid ""
 "This unit is unknown for the moment. You must discover it in the game to be "
 "allowed to see its description."
 msgstr ""
-"\n"
-"\n"
-"এই ইউনিটটি এই মুহূর্তে অজানা । এটির বর্ণনা দেখার জন্য আগে আগে আপনাকে এটিকে খেলার "
+"এই ইউনিটটি এই মুহূর্তে অজানা । এটির বর্ণনা দেখার জন্য আগে আগে আপনাকে এটিকে খেল"
+"ার "
 "মধ্যে দেখতে পেতে হবে ।"
 
 #. [topic]: id=..gameplay
@@ -2145,12 +2211,12 @@ msgstr ""
 #. [topic]: id=..gameplay
 #: data/core/help.cfg:177
 msgid "Fundamentals of Gameplay"
-msgstr ""
+msgstr "খেলার মূল নিয়মগুলি"
 
 #. [topic]: id=victory_and_defeat
 #: data/core/help.cfg:187
 msgid "Victory and Defeat"
-msgstr ""
+msgstr "জয় এবং পরাজয়"
 
 #. [topic]: id=victory_and_defeat
 #: data/core/help.cfg:188
@@ -2176,7 +2242,7 @@ msgstr ""
 #. [topic]: id=recruit_and_recall
 #: data/core/help.cfg:197
 msgid "Recruiting and Recalling"
-msgstr ""
+msgstr "নিয়োগ এবং পুনরায় ডাকা"
 
 #. [topic]: id=recruit_and_recall
 #: data/core/help.cfg:198
@@ -2218,7 +2284,6 @@ msgstr ""
 
 #. [topic]: id=recruit_and_recall
 #: data/core/help.cfg:206
-#, fuzzy
 #| msgid ""
 #| "\n"
 #| "\n"
@@ -2230,15 +2295,14 @@ msgid ""
 "support. See <ref dst='income_and_upkeep'>income and upkeep</ref> for more "
 "information."
 msgstr ""
-"\n"
-"\n"
-"শুধু নিয়োগ বা পুনরায় ডাকার জন্য নয়, ইউনিটদের ভারবহন করার জন্যও টাকার প্রয়োজন হয় । "
+"শুধু নিয়োগ বা পুনরায় ডাকার জন্য নয়, ইউনিটদের ভারবহন করার জন্যও টাকার প্রয়োজন হ"
+"য় । "
 "আরও তথ্যের জন্য <ref dst='income_and_upkeep'>আয় ও খরচ</ref> দেখুন ।"
 
 #. [topic]: id=income_and_upkeep
 #: data/core/help.cfg:213
 msgid "Income and Upkeep"
-msgstr ""
+msgstr "আয় এবং ব্যয়"
 
 #. [topic]: id=income_and_upkeep
 #: data/core/help.cfg:214
@@ -2301,7 +2365,7 @@ msgstr ""
 #. [topic]: id=hitpoints
 #: data/core/help.cfg:233
 msgid "Hitpoints and Experience"
-msgstr ""
+msgstr "জীবনসংখ্যা ও অভিজ্ঞতা"
 
 #. [topic]: id=hitpoints
 #: data/core/help.cfg:234
@@ -2332,7 +2396,7 @@ msgstr ""
 #. [topic]: id=advancement
 #: data/core/help.cfg:247
 msgid "Advancement"
-msgstr ""
+msgstr "উন্নয়ণ"
 
 #. [topic]: id=advancement
 #: data/core/help.cfg:248
@@ -2345,7 +2409,6 @@ msgstr ""
 
 #. [topic]: id=advancement
 #: data/core/help.cfg:250
-#, fuzzy
 #| msgid ""
 #| "\n"
 #| "\n"
@@ -2359,11 +2422,11 @@ msgid ""
 "they immediately advance to the next level, healing fully in the process. In "
 "some cases, you will be given a choice of advancement options."
 msgstr ""
-"\n"
-"\n"
-"উন্নয়ণের জন্য ইউনিটদের সাধারণত কিছু পরিমাণ অভিজ্ঞতার প্রয়োজন হয় (বুদ্ধিমান দক্ষতাযুক্ত "
+"উন্নয়ণের জন্য ইউনিটদের সাধারণত কিছু পরিমাণ অভিজ্ঞতার প্রয়োজন হয় (বুদ্ধিমান দক্"
+"ষতাযুক্ত "
 "ইউনিটদের জন্য 20% কম) । একবার এই পরিমাণ অভিজ্ঞতা অর্জন করলেই তারা তৎক্ষণাৎ "
-"পরবর্তী পর্যায়ে উন্নীত হয় । কিছু ক্ষেত্রে, আপনাকে উন্নয়ণের জন্য একাধিক বিকল্প দেওয়া "
+"পরবর্তী পর্যায়ে উন্নীত হয় । কিছু ক্ষেত্রে, আপনাকে উন্নয়ণের জন্য একাধিক বিকল্প "
+"দেওয়া "
 "হতে পারে ।"
 
 #. [topic]: id=advancement
@@ -2384,7 +2447,7 @@ msgstr ""
 #. [topic]: id=movement
 #: data/core/help.cfg:259
 msgid "Movement"
-msgstr ""
+msgstr "স্থানান্তর"
 
 #. [topic]: id=movement
 #: data/core/help.cfg:260
@@ -2430,7 +2493,6 @@ msgstr ""
 
 #. [topic]: id=movement
 #: data/core/help.cfg:266
-#, fuzzy
 #| msgid ""
 #| "\n"
 #| "\n"
@@ -2442,18 +2504,17 @@ msgid ""
 "Cmd-v. Ctrl-b or Cmd-b shows where the enemy could move, if your units were "
 "not on the map to block their progress."
 msgstr ""
-"\n"
-"\n"
-"শত্রুপক্ষ পরবর্তী দানে কোথায় যেতে পারবে তা দেখাবার জন্য, Ctrl-v বা Cmd-v টিপুন । "
-"Ctrl-b বা Cmd-b দেখায় আপনার ইউনিটগুলি মানচিত্রে তাদের পথরোধ না করলে তারা কোথায় "
+"শত্রুপক্ষ পরবর্তী দানে কোথায় যেতে পারবে তা দেখাবার জন্য, Ctrl-v বা Cmd-v টিপুন"
+" । "
+"Ctrl-b বা Cmd-b দেখায় আপনার ইউনিটগুলি মানচিত্রে তাদের পথরোধ না করলে তারা কোথায়"
+" "
 "যেতে পারত ।"
 
 #. [topic]: id=vision
 #: data/core/help.cfg:273
-#, fuzzy
 #| msgid "Vision:"
 msgid "Vision"
-msgstr "দৃষ্টি:"
+msgstr "দৃষ্টি"
 
 #. [topic]: id=vision
 #: data/core/help.cfg:274
@@ -2710,7 +2771,7 @@ msgstr ""
 #. [topic]: id=combat
 #: data/core/help.cfg:350
 msgid "Combat"
-msgstr ""
+msgstr "লড়াই"
 
 #. [topic]: id=combat
 #: data/core/help.cfg:351
@@ -2747,7 +2808,7 @@ msgstr ""
 #. [topic]: id=combat
 #: data/core/help.cfg:357
 msgid "Chance to Hit"
-msgstr ""
+msgstr "আঘাতের সম্ভাবনা"
 
 #. [topic]: id=combat
 #: data/core/help.cfg:359
@@ -2774,7 +2835,7 @@ msgstr ""
 #. [topic]: id=combat
 #: data/core/help.cfg:363
 msgid "Damage"
-msgstr ""
+msgstr "ক্ষতি"
 
 #. [topic]: id=combat
 #: data/core/help.cfg:365
@@ -2880,7 +2941,7 @@ msgstr ""
 #. [topic]: id=orbs
 #: data/core/help.cfg:410
 msgid "<header>Ellipses</header>"
-msgstr ""
+msgstr "<header>উপবৃত্ত</header>"
 
 #. [topic]: id=orbs
 #: data/core/help.cfg:413
@@ -2906,7 +2967,7 @@ msgstr ""
 #. [topic]: id=crowns
 #: data/core/help.cfg:434
 msgid "Crowns and loyal markers"
-msgstr "মুকুট এবং বিশ্বস্তরা নির্দেশকগুলি"
+msgstr "মুকুট এবং বিশ্বস্ততার নির্দেশকগুলি"
 
 #. [topic]: id=crowns
 #: data/core/help.cfg:435
@@ -2949,6 +3010,8 @@ msgstr "দিনের সময়"
 #: data/core/help.cfg:467
 msgid "The time of day affects the damage of certain units as follows:"
 msgstr ""
+"দিনের সময় নিম্নলিখিতভাবে কিছু ইউনিটদের করা ক্ষতির পরিমাণ নিম্নলিখিতভাবে পরিবর্"
+"তন করে:"
 
 #. [topic]: id=time_of_day
 #: data/core/help.cfg:469
@@ -2956,6 +3019,8 @@ msgid ""
 "• <span weight='heavy' size='15'>LAWFUL</span> units get +25% damage in "
 "daytime, and −25% damage at night."
 msgstr ""
+"• <span weight='heavy' size='15'>নৈতিক</span> ইউনিটেরা দিনে +25% ক্ষতি "
+", এবং রাত্রে −25% ক্ষতি করে।"
 
 #. [topic]: id=time_of_day
 #: data/core/help.cfg:470
@@ -2963,6 +3028,8 @@ msgid ""
 "• <span weight='heavy' size='15'>CHAOTIC</span> units get +25% damage at "
 "night, and −25% in daytime."
 msgstr ""
+"• <span weight='heavy' size='15'>বিশৃঙ্খল</span> ইউনিটেরা রাত্রে +25% ক্ষতি "
+", এবং দিনে −25% ক্ষতি করে।"
 
 #. [topic]: id=time_of_day
 #: data/core/help.cfg:471
@@ -2970,6 +3037,9 @@ msgid ""
 "• <span weight='heavy' size='15'>NEUTRAL</span> units are unaffected by the "
 "time of day."
 msgstr ""
+"• <span weight='heavy' size='15'>নিরপেক্ষ</span> ইউনিটেরা দিনের সময়ের দ্বারা প"
+"্রভাবিত "
+"হয় না।"
 
 #. [topic]: id=time_of_day
 #: data/core/help.cfg:472
@@ -2977,6 +3047,8 @@ msgid ""
 "• <span weight='heavy' size='15'>LIMINAL</span> units get +25% damage during "
 "twilight."
 msgstr ""
+"• <span weight='heavy' size='15'>মধ্যবর্তী</span> ইউনিটরা গোধুলির সময় +25% ক্ষ"
+"তি করে।"
 
 #. [topic]: id=time_of_day
 #: data/core/help.cfg:474
@@ -2985,6 +3057,10 @@ msgid ""
 "pane. For the usual day/night cycle, morning and afternoon count as day, "
 "first and second watch count as night:"
 msgstr ""
+"স্ট্যাটাস প্যানের মিনিম্যাপে দিনের বর্তমান সময় দেখা যেতে পারে। স্বাভাবিক দিন/র"
+"াতের চক্রের "
+"ক্ষেত্রে, ভোর এবং বিকেল দিন, এবং রাত্রির প্রথম ও দ্বিতীয়ার্ধ রাত হিসেবে বিবেচি"
+"ত হয়।"
 
 #. [topic]: id=time_of_day
 #. [time]: id=dawn
@@ -3031,7 +3107,7 @@ msgstr "রাত্রির দ্বিতীয়ার্ধ"
 msgid ""
 "Keep in mind that some scenarios take place underground, where it is "
 "perpetually night!"
-msgstr ""
+msgstr "মনে রাখবেন কিছু ঘটনাক্রম ভুঅভ্যন্তরে ঘটে থাকে, যেখানে সবসময়েই রাত্রি!"
 
 #. [topic]: id=time_of_day
 #: data/core/help.cfg:497
@@ -3039,6 +3115,8 @@ msgid ""
 "Some underground locations are illuminated. They are perpetually "
 "intermediate between day and night."
 msgstr ""
+"কিছু ভুগর্ভস্থ অবস্থান আলোকিত। সেগুলি সর্বদাই দিন এবং রাত্রের মাঝামাঝি "
+"অবস্থায় থাকে।"
 
 #. [topic]: id=time_of_day
 #: data/core/help.cfg:499
@@ -3046,6 +3124,8 @@ msgid ""
 "Some role-playing scenarios take place indoors — these regions are similarly "
 "intermediate."
 msgstr ""
+"কিছু রোল-প্লেয়িং ঘটনাক্রম বাড়ির ভেতরে ঘটে থাকে — এইগুলিও একইরকমভাবে মাঝামাঝি আ"
+"লোকিত।"
 
 #. [topic]: id=time_of_day
 #: data/core/help.cfg:501
@@ -3054,6 +3134,10 @@ msgid ""
 "ability and terrain features such as <ref dst='terrain_lava'>lava</ref> "
 "change the time of day bonus around them."
 msgstr ""
+"সবশেষে, <ref dst='ability_illumination'>আলোকিত করে</ref> দক্ষতাবিশিষ্ট ইউনিটগু"
+"লি "
+"এবং <ref dst='terrain_lava'>লাভার</ref> মতো ভূমিরূপ তাদের চারপাশে দিনের সময়ের "
+"জন্য অতিরিক্ত ক্ষতির পরিমাণ পাল্টে দিতে পারে।"
 
 #. [topic]: id=healing
 #: data/core/help.cfg:508
@@ -3123,10 +3207,13 @@ msgid ""
 "regeneration, healing and curing cannot combine with each other: the best "
 "option will be used. Finally, units heal fully between scenarios."
 msgstr ""
+"বিশ্রাম অন্য ধরনের আরোগ্যের সঙ্গে একসাথে কাজ করতে পারে, কিন্তু গ্রাম, পুনরুদ্ধ"
+"ার, চিকিৎসা এবং বিষক্ষয়, এগুলো একে অন্যের সঙ্গে মিলিত হয় না: সবচেয়ে ভালো বিক"
+"ল্পটিই ব্যবহৃত হবে। আর শেষে, ইউনিটগুলো দৃশ্যপটগুলোর মাঝে সম্পূর্ণভাবে সেরে ওঠে"
+"।"
 
 #. [topic]: id=healing
 #: data/core/help.cfg:520
-#, fuzzy
 #| msgid "Advances to: "
 msgid "Advanced"
 msgstr "উন্নীত হবে: "
@@ -3140,6 +3227,11 @@ msgid ""
 "from one healer per turn, a unit surrounded by healers from several allied "
 "sides will be healed once on each of said allied sides’ turns."
 msgstr ""
+"অন্যান্য ধরনের আরোগ্যের বিপরীতে, চিকিৎসা করার দক্ষতাটি আরোগ্যপ্রাপ্ত ইউনিটের ন"
+"িজের দানে কার্যকর হবে না, বরং যে ইউনিট চিকিৎসা করছে তার দানে হবে। এর মানে হলো,"
+" একই পক্ষের একাধিক আরোগ্যকারক-এর মাঝে ঘেরা কোনো ইউনিট প্রতি দানে শুধু একজন আরো"
+"গ্যকারকের-এর কাছ থেকেই চিকিৎসা পাবে; কিন্তু একাধিক মিত্র পক্ষের আরোগ্যকারক-দের"
+" মাঝে থাকলে, সেই মিত্র পক্ষগুলোর প্রত্যেকের দানে একবার করে চিকিৎসা পাবে।"
 
 #. [topic]: id=wrap_up
 #: data/core/help.cfg:528
@@ -3169,6 +3261,9 @@ msgid ""
 "usually randomly assigned to a unit when it is recruited. The traits "
 "available to a unit are largely determined by its <i>race</i>."
 msgstr ""
+"যুদ্ধে আপনার ইউনিটগুলি অবশ্যই ক্ষতিগ্রস্ত হবে। ইউনিটগুলিকে সুস্থ করার কয়েকটি "
+"উপায় আছে। তবে বিশ্রাম ছাড়া অন্য সব ক্ষেত্রে এগুলো একসাথে কাজ করে না; প্রতি দ"
+"ানে মাত্র একটি পদ্ধতি কার্যকর হতে পারে।"
 
 #. [topic]: id=..traits_section
 #: data/core/help.cfg:547
@@ -3212,7 +3307,6 @@ msgstr ""
 
 #. [topic]: id=..terrains_section
 #: data/core/help.cfg:563 data/core/help.cfg:596
-#, fuzzy
 #| msgid "Basic terrain type: $types"
 #| msgid_plural "Basic terrain types: $types"
 msgid "Basic Terrain Types"
@@ -3776,7 +3870,8 @@ msgid ""
 "The unit will heal itself 4 HP per turn. If it is poisoned, it will remove "
 "the poison instead of healing."
 msgstr ""
-"এই ইউনিটটি প্রত্যেক দানে নিজের 4 সংখ্যক জীবন পুনরুদ্ধার করবে । বিষে আক্রান্ত হয়ে "
+"এই ইউনিটটি প্রত্যেক দানে নিজের 4 সংখ্যক জীবন পুনরুদ্ধার করবে । বিষে আক্রান্ত হ"
+"য়ে "
 "পড়লে, এটি জীবনসংখ্যা পুনরুদ্ধার না করে নিজেকে বিষক্রিয়ামুক্ত করবে ।"
 
 #. [regenerate]: id=regenerates
@@ -3845,7 +3940,8 @@ msgid ""
 msgstr ""
 "এই ইউনিটটি অন্যান্য ইউনিটগুলিকে যুদ্ধে নেতৃত্ব দিতে পারে ।\n"
 "\n"
-"সকল নিকটস্থ একই দলের কম পর্যায়ের ইউনিট পর্যায়ে প্রত্যেক একক পার্থক্যের জন্য 25% বেশী "
+"সকল নিকটস্থ একই দলের কম পর্যায়ের ইউনিট পর্যায়ে প্রত্যেক একক পার্থক্যের জন্য 25"
+"% বেশী "
 "ক্ষতি করবে ।"
 
 #. [skirmisher]: id=skirmisher
@@ -3859,7 +3955,8 @@ msgid ""
 "This unit is skilled in moving past enemies quickly, and ignores all enemy "
 "Zones of Control."
 msgstr ""
-"এই ইউনিটটি শত্রুদের অতিক্রম করে যাওয়ায় দক্ষ, এবং প্রতিপক্ষের নিয়ন্ত্রণের ক্ষেত্রের "
+"এই ইউনিটটি শত্রুদের অতিক্রম করে যাওয়ায় দক্ষ, এবং প্রতিপক্ষের নিয়ন্ত্রণের ক্ষেত"
+"্রের "
 "দ্বারা প্রভাবিত হয় না ।"
 
 #. [illuminates]: id=illumination
@@ -3888,7 +3985,8 @@ msgid ""
 "This unit may teleport between any two empty villages owned by its side "
 "using one of its moves."
 msgstr ""
-"এই ইউনিটটি নিজের পক্ষের যেকোনো দুটি ফাঁকা গ্রামের মধ্যে একটি মাত্র স্থানান্তর সংখ্যা "
+"এই ইউনিটটি নিজের পক্ষের যেকোনো দুটি ফাঁকা গ্রামের মধ্যে একটি মাত্র স্থানান্তর "
+"সংখ্যা "
 "খরচ করে দূরস্থানান্তর করতে পারে ।"
 
 #. [hides]: id=ambush
@@ -4218,7 +4316,8 @@ msgid ""
 "Spirits have very unusual resistances to damage, and move quite slowly over "
 "open water."
 msgstr ""
-"আত্মাদের ক্ষতির থেকে সুরক্ষা সাধারণের তুলনায় অনেকটাই আলাদা, এবং তারা জলের ওপর খুবই "
+"আত্মাদের ক্ষতির থেকে সুরক্ষা সাধারণের তুলনায় অনেকটাই আলাদা, এবং তারা জলের ওপর "
+"খুবই "
 "ধীরে চলে ।"
 
 #: data/core/macros/special-notes.cfg:12
@@ -4259,7 +4358,8 @@ msgid ""
 "The leadership of this unit enables adjacent units of the same side to deal "
 "more damage in combat, though this only applies to units of lower level."
 msgstr ""
-"এই ইউনিটটির নেতৃত্ব পাশাপাশি থাকা একই দলের ইউনিটদের লড়াইয়ে অতিরিক্ত ক্ষতি করতে "
+"এই ইউনিটটির নেতৃত্ব পাশাপাশি থাকা একই দলের ইউনিটদের লড়াইয়ে অতিরিক্ত ক্ষতি করতে"
+" "
 "সাহায্য করে,যদিও এটি শুধুমাত্র কমপর্যায়ের ইউনিটদের ওপরেই কার্যকরী ।"
 
 #: data/core/macros/special-notes.cfg:33
@@ -4267,7 +4367,8 @@ msgid ""
 "This unit’s skill at skirmishing allows it to ignore enemies’ zones of "
 "control and thus move unhindered around them."
 msgstr ""
-"এই ইউনিটটির লড়াইয়ের দক্ষতা এটিকে প্রতিপক্ষের নিয়ন্ত্রণের ক্ষেত্রকে উপেক্ষা করে তাদের "
+"এই ইউনিটটির লড়াইয়ের দক্ষতা এটিকে প্রতিপক্ষের নিয়ন্ত্রণের ক্ষেত্রকে উপেক্ষা করে"
+" তাদের "
 "চারপাশে অবাধে চলাফেরা করতে দেয় ।"
 
 #: data/core/macros/special-notes.cfg:36
@@ -4279,7 +4380,8 @@ msgid ""
 "This unit can use one move to teleport between any two empty villages "
 "controlled by its side."
 msgstr ""
-"এই ইউনিটটি একটি দান খরচ করে নিজের দলের যেকোনো দুটি গ্রামের মধ্যে টেলিপোর্ট করতে "
+"এই ইউনিটটি একটি দান খরচ করে নিজের দলের যেকোনো দুটি গ্রামের মধ্যে টেলিপোর্ট করত"
+"ে "
 "পারে ।"
 
 #: data/core/macros/special-notes.cfg:42
@@ -4287,19 +4389,22 @@ msgid ""
 "In woodlands, this unit’s ambush skill renders it invisible to enemies "
 "unless it is immediately adjacent or has revealed itself by attacking."
 msgstr ""
-"প্রতিপক্ষের কাছে না থাকলে বা আক্রমণ না করলে, বনাঞ্চলে এই ইউনিটটি নিজের অতর্কিত "
+"প্রতিপক্ষের কাছে না থাকলে বা আক্রমণ না করলে, বনাঞ্চলে এই ইউনিটটি নিজের অতর্কিত"
+" "
 "আক্রমণের দক্ষতার জন্য শত্রুদের কাছে দৃষ্টিতে অদৃশ্য হয়ে থাকতে পারে"
 
 #: data/core/macros/special-notes.cfg:45
 msgid "This unit is able to hide at night, leaving no trace of its presence."
-msgstr "এই ইউনিটটি নিজের উপস্থিতির কোনও চিহ্ন না রেখে, রাত্রে লুকিয়ে থাকতে পারে ।"
+msgstr ""
+"এই ইউনিটটি নিজের উপস্থিতির কোনও চিহ্ন না রেখে, রাত্রে লুকিয়ে থাকতে পারে ।"
 
 #: data/core/macros/special-notes.cfg:48
 msgid ""
 "This unit can hide in villages (with the exception of water villages), and "
 "remain undetected by its enemies, except by those standing next to it."
 msgstr ""
-"এই ইউনিটটি জলমগ্ন গ্রাম ব্যতীত অন্য সকল গ্রামে শত্রুদের চোখের আড়াল থেকে লুকিয়ে থাকতে "
+"এই ইউনিটটি জলমগ্ন গ্রাম ব্যতীত অন্য সকল গ্রামে শত্রুদের চোখের আড়াল থেকে লুকিয়ে"
+" থাকতে "
 "পারে, শুধুমাত্র ঠিক পাশে থাকা শত্রু ছাড়া ।"
 
 #: data/core/macros/special-notes.cfg:51
@@ -4311,7 +4416,8 @@ msgstr "এই ইউনিটটি গভীর জলে লুকিয়ে �
 msgid ""
 "This unit gains 1 hitpoint added to its maximum whenever it kills a living "
 "unit."
-msgstr "কোনো জীবন্ত ইউনিটকে মারলে এই ইউনিটটির সর্বোচ্চ জীবনসংখ্য 1 বৃদ্ধি পায় ।"
+msgstr ""
+"কোনো জীবন্ত ইউনিটকে মারলে এই ইউনিটটির সর্বোচ্চ জীবনসংখ্য 1 বৃদ্ধি পায় ।"
 
 #: data/core/macros/special-notes.cfg:57
 msgid ""
@@ -4469,9 +4575,12 @@ msgid ""
 msgstr ""
 "\n"
 "\n"
-"সাধারণত না-মৃত ইউনিটদের একমাত্র দক্ষতা হল না-মৃত । যেহেতু না-মৃতরা প্রকৃতপক্ষে "
-"লড়াইয়ের জন্য পুনরায় উঠে দাঁড়ানো মৃতদেহ, তাদের ওপর বিষের কোনো প্রভাব নেই । তাই যে "
-"সকল শত্রুরা তাদের আক্রমণে বিষ ব্যবহার করে, তাদের বিরুদ্ধে এরা অত্যন্ত গুরুত্বপূর্ণ হতে "
+"সাধারণত না-মৃত ইউনিটদের একমাত্র দক্ষতা হল না-মৃত । যেহেতু না-মৃতরা প্রকৃতপক্ষে"
+" "
+"লড়াইয়ের জন্য পুনরায় উঠে দাঁড়ানো মৃতদেহ, তাদের ওপর বিষের কোনো প্রভাব নেই । তাই "
+"যে "
+"সকল শত্রুরা তাদের আক্রমণে বিষ ব্যবহার করে, তাদের বিরুদ্ধে এরা অত্যন্ত গুরুত্বপ"
+"ূর্ণ হতে "
 "পারে ।"
 
 #. [trait]: id=mechanical
@@ -4733,7 +4842,8 @@ msgid ""
 "Units with the <i>weak</i> trait receive a 1 point decrease in hitpoints and "
 "melee damage."
 msgstr ""
-"<italic>দূর্বল</italic> বৈশিষ্ট্যযুক্ত ইউনিটদের জীবনসংখ্যা এবং নিকট আক্রমণের ক্ষতি "
+"<italic>দূর্বল</italic> বৈশিষ্ট্যযুক্ত ইউনিটদের জীবনসংখ্যা এবং নিকট আক্রমণের ক"
+"্ষতি "
 "সাধারণের থেকে 1 কম হয় ।"
 
 #. [trait]: id=slow
@@ -4779,7 +4889,8 @@ msgid ""
 "Units with trait <i>dim</i> suffer a 20% increase in experience required to "
 "advance."
 msgstr ""
-"<italic>অল্পবুদ্ধি</italic> ইউনিটেদের পরবর্তী পর্যায়ে উন্নীত হতে 20% বেশী অভিজ্ঞতা "
+"<italic>অল্পবুদ্ধি</italic> ইউনিটেদের পরবর্তী পর্যায়ে উন্নীত হতে 20% বেশী অভিজ"
+"্ঞতা "
 "লাগে ।"
 
 #. [trait]: id=dim
@@ -4809,7 +4920,8 @@ msgid ""
 "Units with the <i>aged</i> trait have 8 hitpoints less and suffer from a 1 "
 "point decrease in movement and melee damage."
 msgstr ""
-"<italic>বয়স্ক</italic> বৈশিষ্ট্যযুক্ত ইউনিটগুলির জীবনসংখ্যা 8 কম এবং তাদের স্থানান্তর "
+"<italic>বয়স্ক</italic> বৈশিষ্ট্যযুক্ত ইউনিটগুলির জীবনসংখ্যা 8 কম এবং তাদের স্থ"
+"ানান্তর "
 "সংখ্যা ও নিকট আক্রমণের ক্ষতি 1 কম হয় ।"
 
 #. [trait]: id=oceangoing
@@ -4887,8 +4999,10 @@ msgid ""
 "on the same side as the unit with the Plague attack. This doesn’t work on "
 "Undead or units in villages."
 msgstr ""
-"যখন একটি ইউনিট প্লেগ আক্রমণের দ্বারা নিহত হয়, তখন সেই ইউনিটটি প্লেগ আক্রমণকারী "
-"পক্ষের একটি $type ইউনিটে পাল্টে যায় । এটি না-মৃত বা গ্রামে দাঁড়িয়ে থাকা ইউনিটদের "
+"যখন একটি ইউনিট প্লেগ আক্রমণের দ্বারা নিহত হয়, তখন সেই ইউনিটটি প্লেগ আক্রমণকারী"
+" "
+"পক্ষের একটি $type ইউনিটে পাল্টে যায় । এটি না-মৃত বা গ্রামে দাঁড়িয়ে থাকা ইউনিটদ"
+"ের "
 "ওপর কার্যকরী নয় ।"
 
 #. [slow]: id=slow
@@ -4929,7 +5043,8 @@ msgid ""
 "This attack always has a 70% chance to hit regardless of the defensive "
 "ability of the unit being attacked."
 msgstr ""
-"আক্রান্ত ইউনিটের রক্ষণাত্মক দক্ষতা নির্বিশেষে এই আক্রমণের সবসময়েই 70% আঘাত করার "
+"আক্রান্ত ইউনিটের রক্ষণাত্মক দক্ষতা নির্বিশেষে এই আক্রমণের সবসময়েই 70% আঘাত করা"
+"র "
 "সম্ভবনা রয়েছে ।"
 
 #. [chance_to_hit]: id=honed
@@ -4973,7 +5088,8 @@ msgid ""
 "When used offensively, this attack deals double damage to the target. It "
 "also causes this unit to take double damage from the target’s counterattack."
 msgstr ""
-"আক্রমণের জন্য ব্যবহার করা হলে, এই আক্রমণটি প্রতিপক্ষকে দ্বিগুণ ক্ষতি করে । তবে "
+"আক্রমণের জন্য ব্যবহার করা হলে, এই আক্রমণটি প্রতিপক্ষকে দ্বিগুণ ক্ষতি করে । তবে"
+" "
 "ব্যবহারকারী ইউনিটও প্রতিপক্ষের আক্রমণ থেকে দ্বিগুণ পরিমাণ ক্ষতিগ্রস্ত হয় ।"
 
 #. [damage]: id=guard
@@ -5036,7 +5152,8 @@ msgstr ""
 msgid ""
 "This unit is able to stun its enemies, disrupting their zones of control."
 msgstr ""
-"এই ইউনিটটি প্রতিপক্ষকে হতচকিত করে তাদের নিয়ন্ত্রণের ক্ষেত্রকে নিস্ক্রিয় করে দিতে "
+"এই ইউনিটটি প্রতিপক্ষকে হতচকিত করে তাদের নিয়ন্ত্রণের ক্ষেত্রকে নিস্ক্রিয় করে দি"
+"তে "
 "পারে ।"
 
 #. [damage_type]: id=arcane_damage
@@ -6112,11 +6229,15 @@ msgid ""
 "civilization, though, only occasionally venturing close to prey upon "
 "livestock."
 msgstr ""
-"নেকড়ে হল শ্বাদন্ত বিশিষ্ট শিকারী প্রাণী যাদের প্রায়শই বন্য এলাকায় দেখতে পাওয়া যায় "
-"। দ্রুত, শক্ত এবং দৃঢ়, একটি নিঃসঙ্গ নেকড়ে সহজেই বেসামরিক এবং অপ্রশিক্ষিত সৈন্যদের "
-"পঙ্গু বা হত্যা করার জন্য যথেষ্ট, তবে তাদের দলে ভ্রমণ করার এবং একটি সংগঠিত পদ্ধতিতে "
+"নেকড়ে হল শ্বাদন্ত বিশিষ্ট শিকারী প্রাণী যাদের প্রায়শই বন্য এলাকায় দেখতে পাওয়"
+"া যায় "
+"। দ্রুত, শক্ত এবং দৃঢ়, একটি নিঃসঙ্গ নেকড়ে সহজেই বেসামরিক এবং অপ্রশিক্ষিত সৈন্"
+"যদের "
+"পঙ্গু বা হত্যা করার জন্য যথেষ্ট, তবে তাদের দলে ভ্রমণ করার এবং একটি সংগঠিত পদ্ধ"
+"তিতে "
 "আক্রমণ করার প্রবণতা তাদের ভ্রমণকারীদের কাছে বিশেষভাবে ভয়ঙ্কর করে তোলে । তারা "
-"সভ্যতা থেকে দূরে থাকার প্রবণতা রাখে, তবু, মাঝে মাঝে গবাদি পশুর শিকার করার চেষ্টা "
+"সভ্যতা থেকে দূরে থাকার প্রবণতা রাখে, তবু, মাঝে মাঝে গবাদি পশুর শিকার করার চেষ্"
+"টা "
 "করে ।"
 
 #. [race]: id=wose
@@ -6177,7 +6298,8 @@ msgid ""
 "This unit’s arcane attack deals tremendous damage to magical creatures, and "
 "even some to mundane creatures."
 msgstr ""
-"এই ইউনিটটির অলৌকিক আক্রমণ জাদুনির্ভর জীবেদের প্রচন্ড ক্ষতি করে, এবং সাধারণ জীবদেরও "
+"এই ইউনিটটির অলৌকিক আক্রমণ জাদুনির্ভর জীবেদের প্রচন্ড ক্ষতি করে, এবং সাধারণ জীব"
+"দেরও "
 "কিছুটা ক্ষতি করে থাকে ।"
 
 #. [lua]: action
@@ -6189,7 +6311,8 @@ msgstr "সর্বোচ্চ জীবন +1"
 #: data/lua/stun.lua:14
 msgid "stunned: This unit is stunned. It cannot enforce its Zone of Control."
 msgstr ""
-"হতচকিত: এই ইউনিটটি হতচকিত হয়ে পড়েছে । এটি নিজের নিয়ন্ত্রণের ক্ষেত্র ব্যবহার করতে "
+"হতচকিত: এই ইউনিটটি হতচকিত হয়ে পড়েছে । এটি নিজের নিয়ন্ত্রণের ক্ষেত্র ব্যবহার কর"
+"তে "
 "পারবে না ।"
 
 #. [lua]: on_hit
