@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: bn\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-02 22:45-0500\n"
-"PO-Revision-Date: 2026-09-16 16:09+0530\n"
+"PO-Revision-Date: 2026-09-17 15:37+0530\n"
 "Last-Translator: Subhraman Sarkar <sbmskmm@protonmail.com>\n"
 "Language-Team: Bangla <>\n"
 "Language: bn\n"
@@ -630,6 +630,26 @@ msgid ""
 "location for placing with a subsequent mouse click, as if it was selected in "
 "the editor palette."
 msgstr ""
+"দলনেতার শুরুর অবস্থান নির্ধারণ করে।  "
+"এই টুলটি সাইড লিডারদের ডিফল্ট শুরুর অবস্থান এবং নামযুক্ত বিশেষ অবস্থানগুলো সেট"
+" করে। উভয় ধরনের অবস্থানই <ref dst='..editor_mode_terrain'>ভূমি পরিমার্জক</ref>"
+" এবং <ref dst='..editor_mode_scenario'>ঘটনাক্রম পরিমার্জক</ref>—দুই মোডেই সক্র"
+"িয় থাকে। অবস্থানের নামগুলো এডিটর প্যালেটের তালিকায় দেখানো হয়; মানচিত্রে ক্লিক "
+"করলে ওই নামটি একটি ষড়ভূজে বসবে। প্রতিটি অবস্থান কেবল একটি ষড়ভূজেই বসানো যায়, এ"
+"বং এডিটর প্রতি ষড়ভূজে একটিই অবস্থান অনুমোদন করবে।  "
+"নামযুক্ত বিশেষ অবস্থান যোগ করতে, এডিটর প্যালেটের নিচে “যোগ” এ ক্লিক করুন এবং ন"
+"াম লিখুন। এই নামগুলোর শুরু একটি অক্ষর দিয়ে হতে হবে এবং এতে সংখ্যা ও আন্ডারস্কো"
+"র থাকতে পারে। "
+"নয়টির বেশি দল মানচিত্রে যোগ করা যায় “যোগ” এ ক্লিক করে একটি সংখ্যা লিখে; যেমন “"
+"10”। ইউআই স্বয়ংক্রিয়ভাবে এটিকে “খেলোয়াড় 10” হিসেবে দেখাবে।  "
+"নামযুক্ত অবস্থানগুলো ডব্লুএমএল থেকে Standard Location Filter-এর <i>location_id"
+"=</i> ব্যবহার করে পাওয়া যায়। খেলোয়াড়দের শুরু অবস্থানও ডব্লুএমএল থেকে <i>locati"
+"on_id=1</i>, <i>location_id=2</i> ইত্যাদি দিয়ে পাওয়া যায় — শুধু সংখ্যা ব্যবহার"
+" করুন, সামনে “খেলোয়াড় ” যোগ করবেন না। "
+"<b>Keyboard Modifiers</b>  "
+"• যে ষড়ভূজে ইতিমধ্যে একটি অবস্থান আছে, সেখানে কন্টোল + মাউস ক্লিক করলে: এডিটর "
+"প্যালেটে নির্বাচিত অবস্থানের মতো, পরবর্তী মাউস ক্লিক-এর জন্য সেই অবস্থানটি নির"
+"্বাচন করা হবে।"
 
 #. [topic]: id=editor_terrain_overlays
 #: data/core/editor/help.cfg:125
@@ -644,6 +664,9 @@ msgid ""
 "editor; all the overlays described here are found in the terrain palette’s "
 "“special” group."
 msgstr ""
+"মানচিত্রগুলো সাধারণত খেলায় যেমন দেখায়, তেমনই এডিটরেও দেখায়। কয়েকটি ব্যতিক্রম আ"
+"ছে, যেখানে এডিটরে ভিন্ন গ্রাফিক্স ব্যবহার করা হয়; এখানে বর্ণিত সব ওভারলে ভূমি "
+"প্যালেটের-এর “বিশেষ” বিভাগ-এ পাওয়া যায়।"
 
 #. [topic]: id=editor_terrain_overlays
 #. The images here have text, while they could be translated I assume editor-only images won’t be.
@@ -661,6 +684,14 @@ msgid ""
 "mixed terrain with the movement costs set to “impassable” or “unwalkable” "
 "respectively."
 msgstr ""
+"<header>স্থানান্তর অভিলেপন</header>"
+"<img src='terrain/grass/green.png~BLIT(terrain/impassable-editor.png~O(0.5))'/"
+"><img src='terrain/grass/green.png~BLIT(terrain/unwalkable-editor.png~O(0.5))'"
+"/>"
+"<b>অনতিক্রম্য এবং হাঁটার অযোগ্য</b>"
+"এগুলো পরিমার্জকে-এ সহজেই চোখে পড়ে, কিন্তু খেলায় অদৃশ্য, তাই এগুলোর মাধ্যমে তৈর"
+"ি মিশ্র ভূমি মূল ভূমির মতোই দেখায়। এগুলো মিশ্র ভূমি তৈরি করে, যেখানে স্থানান্ত"
+"রের মূল্য যথাক্রমে “অনতিক্রম্য” বা “হাঁটার অযোগ্য” হিসেবে সেট থাকে।"
 
 #. [topic]: id=editor_terrain_overlays
 #. The images here have text, while they could be translated I assume editor-only images won’t be.
@@ -680,6 +711,17 @@ msgid ""
 "this requires the connecting hexes to be occupied or blocked to prevent "
 "units being recruited onto them."
 msgstr ""
+"<header>প্রাসাদ অভিলেপন</header>"
+"<img src='terrain/grass/green.png~BLIT(terrain/castle/castle-overlay-editor.pn"
+"g~O(0.5))'/><img src='terrain/grass/green.png~BLIT(terrain/castle/keep-overlay"
+"-editor.png~O(0.5))'/>"
+"এই দুই ওভারলের যেকোনোটি কোনো হাঁটার যোগ্য ষড়ভূজে-এ যোগ করলে ইউনিটগুলোকে ওই ষড়ভ"
+"ূজ-এ নিয়োগ করা যায়। দূর্গটি নেতাকে সেখান থেকে নিয়োগ করতেও দেয়।"
+"এগুলো অনতিক্রম্য ষড়ভূজেও যোগ করা যায়, যাতে অনতিক্রম্য দেওয়ালের মাধ্যমে একটি প্"
+"রাসাদকে দৃষ্টিগতভাবে পৃথক দূর্গের সঙ্গে যুক্ত করা যায়। এমন একটি প্রাসাদও তৈরি "
+"করা সম্ভব, যেখানে দূর্গ এবং মিনারগুলোর মাঝে তৃণভূমি আছে বলে মনে হয়; তবে এর জন্"
+"য সংযুক্ত ষড়ভূজগুলো দখলে বা বন্ধ থাকতে হবে, যাতে সেখানে ইউনিট নিয়োগ করা না যায়"
+"।"
 
 #. [topic]: id=editor_terrain_overlays
 #. The image here has text, while it could be translated I assume editor-only images won’t be.
@@ -691,6 +733,10 @@ msgid ""
 "editor.png~O(0.5))'/>\n"
 "This turns any base terrain into a village, providing income and healing."
 msgstr ""
+"<header>গ্রাম অভিলেপন</header>\n"
+"<img src='terrain/grass/green.png~BLIT(terrain/village/village-overlay-"
+"editor.png~O(0.5))'/>\n"
+"যেক‌োনো মূল ভূমিকে গ্রামে পরিণত করে, যেখান থেকে আয় এবং চিকিৎসা পাওয়া যাবে।"
 
 #. [topic]: id=editor_terrain_overlays
 #. The image is an “S” on a solid black background.
@@ -701,6 +747,10 @@ msgid ""
 "Fake Shroud looks like an unexplored area, even in scenarios that have "
 "shroud disabled and even when the player’s units can see the hex."
 msgstr ""
+"<header>নকল ছায়া</header>"
+"<img src=terrain/void/shroud-editor.png align=left/>"
+"নকল ছায়া একটি অনাবিষ্কৃত এলাকার মতো দেখায়, এমনকি সেই সব ঘটনাক্রমেও যেখানে ছায়া"
+" বন্ধ আছে, এবং এমনকি যখন খেলোয়াড়ের ইউনিটগুলো ওই ষড়ভূজ দেখতে পারে তখনও।"
 
 #. [topic]: id=editor_terrain_elevation
 #: data/core/editor/help.cfg:163
@@ -714,10 +764,12 @@ msgid ""
 "in the game due to visual aids in the editor; all the overlays described "
 "here are found in the terrain palette’s “elevation” group."
 msgstr ""
+"এটি একটি দৃষ্টিনন্দন উচ্চতা এফেক্ট, যা পরিমার্জক-এ খেলার-এর তুলনায় একটু ভিন্ন "
+"দেখায়, কারণ পরিমার্জকে-এ বোঝার সুবিধা হয় এমন চিহ্ন ব্যবহার করা হয়; এখানে বর্ণি"
+"ত সব অভিলেপন ভূমি প্যালেটের-এর “উচ্চতা” বিভাগ-এ পাওয়া যাবে।"
 
 #. [topic]: id=editor_terrain_elevation
 #: data/core/editor/help.cfg:166
-#, fuzzy
 #| msgid "editor^<header>Direct Overlays</header>"
 msgid "editor^Direct Overlays"
 msgstr "প্রত্যক্ষ অভিলেপনগুলি"
@@ -725,7 +777,7 @@ msgstr "প্রত্যক্ষ অভিলেপনগুলি"
 #. [topic]: id=editor_terrain_elevation
 #: data/core/editor/help.cfg:170
 msgid "Bluffs and Gulch"
-msgstr ""
+msgstr "উচ্চভূমি ও খাত"
 
 #. [topic]: id=editor_terrain_elevation
 #: data/core/editor/help.cfg:172
@@ -735,10 +787,13 @@ msgid ""
 "map, where you will want to allow the use of other overlay terrains, you "
 "will want to combine these with the “markers” described in the next section."
 msgstr ""
+"উচ্চভূমি, খাত, এবং অনুরূপ ভ্যারিয়েশনগুলো সাধারণ ভূমি অভিলেপনগুলির মতোই, এবং সে"
+"ভাবেই ব্যবহার করা যায়। তবে মানচিত্রের বড় এলাকায়, যেখানে আপনি অন্য অভিলেপন ভূমি"
+" ব্যবহারের সুযোগ রাখতে চান, সেখানে এগুলোকে পরের অংশে বর্ণিত “নির্দেশক”-এর সঙ্গ"
+"ে মিলিয়ে ব্যবহার করতে হবে।"
 
 #. [topic]: id=editor_terrain_elevation
 #: data/core/editor/help.cfg:174
-#, fuzzy
 #| msgid "editor^<header>Elevation Floodfill</header>"
 msgid "editor^Elevation Floodfill"
 msgstr "উচ্চতা ফ্লাডফিল"
@@ -763,6 +818,11 @@ msgid ""
 "will have a border ledge, making it look higher or lower than the adjacent "
 "tiles."
 msgstr ""
+"কোনো ভূমির অংশকে বেশি উঁচু বা নিচু দেখাতে, এবং একই সঙ্গে গাছের মতো অন্য অভিলেপ"
+"ন ভূমিও ব্যবহার করতে চাইলে, এই নির্দেশক ব্যবহার করতে হবে। মানচিত্রে এদের একটি "
+"তীর বসালে পুরো মানচিত্রে রঙীন আভা ছড়িয়ে যাবে; না সেই আভা, না তীরটি খেলা-তে দেখ"
+"া যাবে। আভা-ঢাকা অংশটির চারপাশে কিনারায় ধাপ থাকবে, ফলে এটি পাশের টালিগুলোর তুল"
+"নায় বেশি উঁচু বা নিচু দেখাবে।"
 
 #. [topic]: id=editor_terrain_elevation
 #: data/core/editor/help.cfg:182
@@ -771,11 +831,14 @@ msgid ""
 "terraces of up to five levels (lowest, lower, normal, higher, highest). "
 "Placing a high region next to a low region does not result in larger cliffs."
 msgstr ""
+"দুটি উচ্চ নির্দেশক এবং দুটি নিম্ন নির্দেশক আছে, তাই সর্বোচ্চ পাঁচ স্তরের ভূমি "
+"বানানো সম্ভব (সবচেয়ে নিচু, নিচু, স্বাভাবিক, উঁচু, সবচেয়ে উঁচু)। উচ্চ এলাকার পা"
+"শে নিচু এলাকা বসালে আরও বড় খাড়াই তৈরি হয় না।"
 
 #. [topic]: id=editor_terrain_elevation
 #: data/core/editor/help.cfg:184
 msgid "editor^How to Use"
-msgstr ""
+msgstr "কীভাবে ব্যবহার করবেন"
 
 #. [topic]: id=editor_terrain_elevation
 #: data/core/editor/help.cfg:186
@@ -783,6 +846,8 @@ msgid ""
 "The marker arrows are not very useful by themselves, but the bluffs/gulch-"
 "type terrains can be used to contain the floodfilled area."
 msgstr ""
+"নির্দেশক তীর একা খুব বেশি কাজে লাগে না, কিন্তু উচ্চভূমি/খাত ধরনের ভূমি ভর্তি ক"
+"রা এলাকাকে ঘিরে রাখতে ব্যবহার করা যায়।"
 
 #. [topic]: id=editor_terrain_elevation
 #: data/core/editor/help.cfg:188
