@@ -390,7 +390,7 @@ msgstr "অভিযান পরিকল্পনা"
 #. [about]
 #: data/core/about.cfg:975
 msgid "Multiplayer Maps and Balancing"
-msgstr "বহুখেলোয়াড় মানচিত্র এবং ভারসাম্য"
+msgstr "মাল্টিপ্লেয়ার মানচিত্র এবং ভারসাম্য"
 
 #. [about]
 #: data/core/about.cfg:1024
@@ -4315,7 +4315,7 @@ msgid ""
 "Scenarios saved from the editor in their default folder can be selected in "
 "the <i>Custom Scenarios</i> section of the Multiplayer “Create Game” screen."
 msgstr ""
-"পরিমার্জকের স্বাভাবিক ফোল্ডারে সঞ্চিত ঘটনাক্রমগুলি বহুখেলোয়াড় “খেলা সৃষ্টি” স্ক্রিনের "
+"পরিমার্জকের স্বাভাবিক ফোল্ডারে সঞ্চিত ঘটনাক্রমগুলি মাল্টিপ্লেয়ার “খেলা সৃষ্টি” স্ক্রিনের "
 "<i>নিজস্ব ঘটনাক্রম</i> অংশে নির্বাচন করা যেতে পারে ।"
 
 #. [tip]
@@ -6409,7 +6409,7 @@ msgstr "যুগ ‘$era’ খুঁজে পাওয়া যাচ্ছে 
 
 #: src/game_initialization/multiplayer.cpp:254
 msgid "Invalid address specified for multiplayer server"
-msgstr "বহুখেলোয়াড় সার্ভারের জন্য অবৈধ অ্যাড্রেস দেওয়া হয়েছে ।"
+msgstr "মাল্টিপ্লেয়ার সার্ভারের জন্য অবৈধ অ্যাড্রেস দেওয়া হয়েছে ।"
 
 #: src/game_initialization/multiplayer.cpp:289
 msgid ""
@@ -7310,7 +7310,7 @@ msgstr "নিজস্ব কমান্ড হটকির মাধ্যম
 
 #: src/menu_events.cpp:1298
 msgid "Invoke a dialog allowing changing control of MP sides."
-msgstr "বহুখেলোয়াড় দলগুলির নিয়ন্ত্রণ পাল্টানো যাবে এমন একটি ডায়ালগ খুলুন ।"
+msgstr "মাল্টিপ্লেয়ার দলগুলির নিয়ন্ত্রণ পাল্টানো যাবে এমন একটি ডায়ালগ খুলুন ।"
 
 #: src/menu_events.cpp:1299
 msgid "Launch the gamestate inspector"
@@ -7816,7 +7816,7 @@ msgid ""
 "what this message means, then most likely someone is cheating or someone "
 "reloaded a corrupt game."
 msgstr ""
-"এই বহুখেলোয়াড় খেলাটি একটি অন্য ইতস্তত সংখ্যায়ণ ব্যবহার করছে, যদি আপনি না জানেন এই "
+"এই মাল্টিপ্লেয়ার খেলাটি একটি অন্য ইতস্তত সংখ্যায়ণ ব্যবহার করছে, যদি আপনি না জানেন এই "
 "বার্তার অর্থ কী, তাহলে কেউ অসৎ উপায় অবলম্বন করছে বা কারাপ্ট খেলা খুলেছে ।"
 
 #: src/playsingle_controller.cpp:384
@@ -8290,11 +8290,11 @@ msgstr "খেলা খুলুন"
 
 #: src/savegame.cpp:239
 msgid "Replays are not supported in multiplayer mode."
-msgstr "বহুখেলোয়াড় মোডে রিপ্লে ব্যবহার করা সম্ভব নয় ।"
+msgstr "মাল্টিপ্লেয়ার মোডে রিপ্লে ব্যবহার করা সম্ভব নয় ।"
 
 #: src/savegame.cpp:246
 msgid "This is not a multiplayer save."
-msgstr "এটি একটি বহুখেলোয়াড় সঞ্চয় নয় ।"
+msgstr "এটি একটি মাল্টিপ্লেয়ার সঞ্চয় নয় ।"
 
 #: src/savegame.cpp:268
 msgid "The game could not be saved: "

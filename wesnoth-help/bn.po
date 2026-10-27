@@ -3820,7 +3820,7 @@ msgstr ""
 #, fuzzy
 #| msgid "Multiplayer Commands"
 msgid "Multiplayer Eras and Factions"
-msgstr "বহুখেলোয়াড় কমান্ডসমূহ"
+msgstr "মাল্টিপ্লেয়ার কমান্ডসমূহ"
 
 #. [topic]: id=using_addons
 #: data/core/help.cfg:630
@@ -4040,7 +4040,7 @@ msgstr ""
 #. [topic]: id=mp_commands
 #: data/core/help.cfg:732
 msgid "Multiplayer Commands"
-msgstr "বহুখেলোয়াড় কমান্ডসমূহ"
+msgstr "মাল্টিপ্লেয়ার কমান্ডসমূহ"
 
 #. [topic]: id=mp_commands
 #: data/core/help.cfg:736
