@@ -5,12 +5,12 @@ on:
     paths:
       - '**/*.po'
       - 'check_inner_newlines.py'
-      - '.github/workflows/check-translations.yml'
+      - '.github/workflows/po-check.yml'
   pull_request:
     paths:
       - '**/*.po'
       - 'check_inner_newlines.py'
-      - '.github/workflows/check-translations.yml'
+      - '.github/workflows/po-check.yml'
   workflow_dispatch:
 
 permissions:
@@ -47,4 +47,4 @@ jobs:
       - name: Check translated newlines
         run: |
           find . -type f -name 'bn.po' -print0 |
-            xargs -0 -r python check_inner_newlines.py
+            xargs -0 -r -n1 python check_inner_newlines.py
