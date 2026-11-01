@@ -1,27 +1,50 @@
-name: Validate PO files
+name: Translation Checks
 
 on:
   push:
     paths:
       - '**/*.po'
+      - 'check_inner_newlines.py'
+      - '.github/workflows/check-translations.yml'
   pull_request:
     paths:
       - '**/*.po'
+      - 'check_inner_newlines.py'
+      - '.github/workflows/check-translations.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
 
 jobs:
-  msgfmt-check:
+  validate:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v7.0.1
 
-      - name: Install gettext
-        run: sudo apt-get update && sudo apt-get install -y gettext
+      - name: Set up Python
+        uses: actions/setup-python@v7.1.0
+        with:
+          python-version: '3.x'
 
-      - name: Validate PO files
+      - name: Install dependencies
         run: |
-          fail=0
-          for f in $(find . -name '*.po'); do
-            echo "Checking $f"
-            msgfmt --check -o /dev/null "$f" || fail=1
-          done
-          exit $fail
+          sudo apt-get update
+          sudo apt-get install -y gettext
+          python -m pip install polib
+
+      - name: Compile Bengali PO files
+        run: |
+          find . -type f -name 'bn.po' -exec sh -c '
+            for f do
+              echo "Checking $f"
+              msgfmt --check --check-format -o /dev/null "$f"
+            done
+          ' sh {} +
+
+      - name: Check translated newlines
+        run: |
+          find . -type f -name 'bn.po' -print0 |
+            xargs -0 -r python check_inner_newlines.py

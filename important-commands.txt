@@ -1,0 +1,8 @@
+# Import translations from wesnoth PO folder
+./import_translations.sh /home/ssarkar-bkp/wesnoth-src/wmaster/po /mnt/home/ssarkar/translations
+
+# recursive sed find-replace
+find . -type f -name 'bn.po' -exec sed -i 's/suvrax@gmail.com/sbmskmm@protonmail.com/g' {} +
+
+# recursively stage all po files for git commit
+find . -type f -name '*.po' -print0 | xargs -0 git add --
