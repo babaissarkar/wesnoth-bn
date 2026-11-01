@@ -1,15 +1,15 @@
 # #-#-#-#-#  wesnoth-units  #-#-#-#-#
 # Bengali translation of Wesnoth.
 # Copyright (C) 2024 Wesnoth development team
-# Subhraman Sarkar <suvrax@gmail.com>, 2024-2026.
+# Subhraman Sarkar <sbmskmm@protonmail.com>, 2024-2026.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: bn\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2026-06-23 03:16 UTC\n"
+"POT-Creation-Date: 2026-09-21 00:25 UTC\n"
 "PO-Revision-Date: 2026-07-03 10:18+0530\n"
-"Last-Translator: Subhraman Sarkar <suvrax@gmail.com>\n"
+"Last-Translator: Subhraman Sarkar <sbmskmm@protonmail.com>\n"
 "Language-Team: Bengali < >\n"
 "Language: bn\n"
 "MIME-Version: 1.0\n"
@@ -49,6 +49,8 @@ msgstr "গদা"
 #: data/core/units/dunefolk/Sky_Hunter.cfg:136
 #: data/core/units/humans/Loyalist_Bowman.cfg:23
 #: data/core/units/orcs/Crossbowman.cfg:32 data/core/units/orcs/Slurbow.cfg:32
+#: data/internal/Rogue_Mage/units/Bandit_Rogue_Mage.cfg:26
+#: data/internal/Rogue_Mage/units/Bandit_Shadow_Mage.cfg:45
 msgid "short sword"
 msgstr "খর্ব তলোয়ার"
 
@@ -80,6 +82,10 @@ msgstr "শৈত্য প্রবাহ"
 #: data/core/units/undead/Necro_Dark_Sorcerer.cfg:67
 #: data/core/units/undead/Necro_Lich.cfg:49
 #: data/core/units/undead/Necromancer.cfg:49
+#: data/internal/Rogue_Mage/units/Bandit_Arcane_Enforcer.cfg:59
+#: data/internal/Rogue_Mage/units/Bandit_Rogue_Mage.cfg:35
+#: data/internal/Rogue_Mage/units/Bandit_Shadow_Lord.cfg:66
+#: data/internal/Rogue_Mage/units/Bandit_Shadow_Mage.cfg:63
 msgid "shadow wave"
 msgstr "ছায়া প্রবাহ"
 
@@ -149,7 +155,7 @@ msgstr "গুলতি"
 #: data/campaigns/Under_the_Burning_Suns/units/monsters/Alien_Minion.cfg:31
 #: data/core/units/bats/Bat_Blood.cfg:117 data/core/units/bats/Bat_Dread.cfg:32
 #: data/core/units/bats/Bat_Vampire.cfg:116
-#: data/core/units/goblins/Direwolf_Rider.cfg:32
+#: data/core/units/goblins/Direwolf_Rider.cfg:39
 #: data/core/units/goblins/Knight.cfg:34
 #: data/core/units/goblins/Pillager.cfg:59
 #: data/core/units/goblins/Wolf_Rider.cfg:46
@@ -168,7 +174,7 @@ msgstr "গুলতি"
 #: data/core/units/monsters/Shadow_Jumping_Spider.cfg:85
 #: data/core/units/monsters/Water_Serpent.cfg:42
 #: data/core/units/monsters/Wolf.cfg:48
-#: data/core/units/monsters/Wolf_Dire.cfg:33
+#: data/core/units/monsters/Wolf_Dire.cfg:40
 #: data/core/units/monsters/Wolf_Great.cfg:33
 msgid "fangs"
 msgstr "শ্বদন্ত"
@@ -242,15 +248,14 @@ msgstr "স্পর্শ"
 
 #. [attack]: type=impact
 #: data/campaigns/Eastern_Invasion/units/Human_Dacyn_Twilight_Mage.cfg:73
-#: data/campaigns/Heir_To_The_Throne/units/Dwarvish_Witness.cfg:28
 #: data/campaigns/Heir_To_The_Throne_Classic/units/Tutorial_Quintain.cfg:25
-#: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Annalist.cfg:33
-#: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Loremaster.cfg:34
-#: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Witness.cfg:29
 #: data/campaigns/The_South_Guard/units/MECH_Quintain.cfg:25
 #: data/core/units/humans/Loyalist_Iron_Mauler.cfg:26
 #: data/core/units/humans/Loyalist_Shock_Trooper.cfg:23
 #: data/core/units/humans/Mage_of_Light.cfg:46
+#: data/internal/Dwarvish_Witness/units/Dwarvish_Annalist.cfg:33
+#: data/internal/Dwarvish_Witness/units/Dwarvish_Loremaster.cfg:34
+#: data/internal/Dwarvish_Witness/units/Dwarvish_Witness.cfg:29
 msgid "flail"
 msgstr "ফ্লেইল"
 
@@ -353,6 +358,7 @@ msgstr "তলোয়ার"
 #: data/core/units/orcs/Ruler.cfg:34 data/core/units/orcs/Slurbow.cfg:41
 #: data/core/units/orcs/Slurbow.cfg:50 data/core/units/orcs/Sovereign.cfg:35
 #: data/core/units/undead/Skele_Death_Knight.cfg:39
+#: data/internal/Rogue_Mage/units/Bandit_Arcane_Enforcer.cfg:50
 msgid "crossbow"
 msgstr "ক্রসবো"
 
@@ -499,7 +505,7 @@ msgstr "ধনুক"
 #: data/campaigns/The_Hammer_of_Thursagan/units/Sleeping_Gryphon.cfg:30
 #: data/campaigns/Under_the_Burning_Suns/units/monsters/Crab_Man.cfg:23
 #: data/core/units/drakes/Burner.cfg:29
-#: data/core/units/goblins/Direwolf_Rider.cfg:41
+#: data/core/units/goblins/Direwolf_Rider.cfg:48
 #: data/core/units/gryphons/Gryphon.cfg:28
 #: data/core/units/gryphons/Gryphon_Master.cfg:28
 #: data/core/units/gryphons/Gryphon_Rider.cfg:27
@@ -513,7 +519,7 @@ msgstr "ধনুক"
 #: data/core/units/monsters/Jinn.cfg:91
 #: data/core/units/monsters/Raven_Harbinger.cfg:83
 #: data/core/units/monsters/Roc.cfg:55
-#: data/core/units/monsters/Skeletal_Dragon.cfg:40
+#: data/core/units/monsters/Skeletal_Dragon.cfg:44
 #: data/core/units/undead/Corpse_Ghoul.cfg:37
 #: data/core/units/undead/Corpse_Necrophage.cfg:29
 #: data/core/units/undead/Corpse_Soulless.cfg:182
@@ -571,7 +577,7 @@ msgstr ""
 #: data/core/units/boats/Orc_Warship.cfg:24
 #: data/core/units/boats/Raider_Coastal.cfg:31
 #: data/core/units/boats/Raider_Iron.cfg:32 data/core/units/boats/Skiff.cfg:26
-#: data/core/units/drakes/Enforcer.cfg:44
+#: data/core/units/drakes/Enforcer.cfg:53
 #: data/core/units/drakes/Thrasher.cfg:41
 msgid "ram"
 msgstr "ধাক্কা"
@@ -801,7 +807,7 @@ msgstr "প্লেগের দন্ড"
 #: data/core/units/monsters/Dragonfly.cfg:31
 #: data/core/units/monsters/Dragonfly_Grand.cfg:32
 #: data/core/units/monsters/Dragonfly_Naiad.cfg:62
-#: data/core/units/monsters/Fire_Dragon.cfg:53
+#: data/core/units/monsters/Fire_Dragon.cfg:62
 #: data/core/units/monsters/Frost_Stoat.cfg:92
 #: data/core/units/monsters/Giant_Rat.cfg:30
 #: data/core/units/monsters/Horned_Scarab.cfg:39
@@ -893,7 +899,7 @@ msgstr ""
 
 #. [unit_type]: id=Dwarvish Masked Berserker, race=dwarf
 #. [unit_type]: id=Dwarvish Berserker, race=dwarf
-#: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Berserker.cfg:18
+#: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Berserker.cfg:19
 #: data/core/units/dwarves/Berserker.cfg:18
 msgid ""
 "Berserkers are a rare caste of Dwarves, who work themselves into a towering "
@@ -905,8 +911,8 @@ msgstr ""
 "নিরলস আক্রমণের কথাই ভাবে, যে আক্রমণের জন্য তারা কিংবদন্তিতে পরিণত হয়েছে।"
 
 #. [attack]: type=blade
-#: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Berserker.cfg:36
-#: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Ulfserker.cfg:29
+#: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Berserker.cfg:37
+#: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Ulfserker.cfg:30
 #: data/core/units/dwarves/Berserker.cfg:43
 #: data/core/units/dwarves/Ulfserker.cfg:29
 msgid "berserker frenzy"
@@ -964,7 +970,7 @@ msgstr "ড্রাগনদন্ড"
 
 #. [unit_type]: id=Dwarvish Masked Fighter, race=dwarf
 #. [unit_type]: id=Dwarvish Fighter, race=dwarf
-#: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Fighter.cfg:17
+#: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Fighter.cfg:18
 #: data/core/units/dwarves/Fighter.cfg:17
 msgid ""
 "Dwarvish Fighters wield mighty battle axes and hammers, which make them "
@@ -977,7 +983,7 @@ msgstr ""
 "সহনশীলতা তাদের তুলনামূলকভাবে কম গতিশীলতার ঘাটতিকে পুরোপুরি পুষিয়ে দেয়।"
 
 #. [attack]: type=blade
-#: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Fighter.cfg:32
+#: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Fighter.cfg:33
 #: data/core/units/dunefolk/Explorer.cfg:36
 #: data/core/units/dunefolk/Rover.cfg:88
 #: data/core/units/dunefolk/Wayfarer.cfg:44
@@ -997,9 +1003,9 @@ msgid "axe"
 msgstr "কুঠার"
 
 #. [attack]: type=impact
-#: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Fighter.cfg:40
-#: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Lord.cfg:37
-#: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Steelclad.cfg:36
+#: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Fighter.cfg:41
+#: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Lord.cfg:38
+#: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Steelclad.cfg:37
 #: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Rune_Lord.cfg:42
 #: data/core/units/dwarves/Arcanister.cfg:28
 #: data/core/units/dwarves/Fighter.cfg:65 data/core/units/dwarves/Lord.cfg:57
@@ -1088,8 +1094,8 @@ msgid "javelin"
 msgstr "জ্যাভেলিন"
 
 #. [attack]: type=blade
-#: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Lord.cfg:28
-#: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Steelclad.cfg:27
+#: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Lord.cfg:29
+#: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Steelclad.cfg:28
 #: data/core/units/dwarves/Explorer.cfg:28 data/core/units/dwarves/Lord.cfg:48
 #: data/core/units/dwarves/Steelclad.cfg:47
 #: data/core/units/undead/Skele_Death_Knight.cfg:30
@@ -1097,7 +1103,7 @@ msgid "battle axe"
 msgstr "যুদ্ধ কুঠার"
 
 #. [attack]: type=blade
-#: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Lord.cfg:46
+#: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Lord.cfg:47
 #: data/core/units/dwarves/Lord.cfg:66
 msgid "hatchet"
 msgstr "ছোটো কুঠার"
@@ -1182,7 +1188,7 @@ msgstr ""
 
 #. [unit_type]: id=Dwarvish Masked Ulfserker, race=dwarf
 #. [unit_type]: id=Dwarvish Ulfserker, race=dwarf
-#: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Ulfserker.cfg:17
+#: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Ulfserker.cfg:18
 #: data/core/units/dwarves/Ulfserker.cfg:17
 msgid ""
 "Dwarves are an ancient race of powerful fighters. Ulfserkers are the most "
@@ -1297,7 +1303,7 @@ msgstr "আলোকরশ্মি"
 #: data/campaigns/Under_the_Burning_Suns/units/quenoth/Druid.cfg:53
 #: data/campaigns/Under_the_Burning_Suns/units/quenoth/Shaman.cfg:53
 #: data/campaigns/Under_the_Burning_Suns/units/quenoth/Shyde.cfg:56
-#: data/core/units/elves/Druid.cfg:43 data/core/units/elves/Shyde.cfg:47
+#: data/core/units/elves/Druid.cfg:43 data/core/units/elves/Shyde.cfg:46
 msgid "thorns"
 msgstr "কণ্টক"
 
@@ -1870,7 +1876,7 @@ msgstr "যুদ্ধের নখর"
 #: data/core/units/drakes/Hurricane.cfg:61
 #: data/core/units/drakes/Inferno.cfg:40 data/core/units/drakes/Sky.cfg:60
 #: data/core/units/drakes/Warrior.cfg:35
-#: data/core/units/monsters/Fire_Dragon.cfg:71
+#: data/core/units/monsters/Fire_Dragon.cfg:80
 #: data/core/units/monsters/Fire_Guardian.cfg:32
 #: data/core/units/monsters/Fire_Wisp.cfg:53
 #: data/core/units/monsters/Fire_Wraith.cfg:60
@@ -1997,7 +2003,7 @@ msgstr ""
 
 #. [attack]: type=pierce
 #. [attack]: type=blade
-#: data/core/units/drakes/Enforcer.cfg:53
+#: data/core/units/drakes/Enforcer.cfg:44
 #: data/core/units/merfolk/Fighter.cfg:22 data/core/units/merfolk/Triton.cfg:23
 #: data/core/units/merfolk/Triton.cfg:32 data/core/units/merfolk/Warrior.cfg:22
 msgid "trident"
@@ -3621,7 +3627,7 @@ msgstr ""
 "কার্যকর যোদ্ধা, বিশেষ করে যখন তারা নিজেদের বনাঞ্চলের নিরাপত্তা থেকে লড়াই করে।"
 
 #. [female]: gender=female
-#: data/core/units/elves/Archer.cfg:80
+#: data/core/units/elves/Archer.cfg:144
 msgid "female^Elvish Archer"
 msgstr "এল্ফ ধনুর্ধর"
 
@@ -3748,7 +3754,7 @@ msgstr ""
 
 #. [attack]: type=impact
 #: data/core/units/elves/Druid.cfg:33 data/core/units/elves/Lady.cfg:25
-#: data/core/units/elves/Shyde.cfg:37
+#: data/core/units/elves/Shyde.cfg:36
 msgid "ensnare"
 msgstr "ফাঁদ"
 
@@ -4328,7 +4334,7 @@ msgid "Direwolf Rider"
 msgstr "বিরাট নেকড়ে আরোহী"
 
 #. [unit_type]: id=Direwolf Rider, race=wolf
-#: data/core/units/goblins/Direwolf_Rider.cfg:19
+#: data/core/units/goblins/Direwolf_Rider.cfg:24
 msgid ""
 "While the ferocity and danger of direwolves makes them somewhat of an omen "
 "to most, the diminutive goblins have an unusual bond with these savage "
@@ -5895,7 +5901,7 @@ msgstr ""
 #: data/core/units/merfolk/Brawler.cfg:30
 #: data/core/units/monsters/Cat_Jump.cfg:111
 #: data/core/units/monsters/Cat_Redtail.cfg:101
-#: data/core/units/monsters/Fire_Dragon.cfg:62
+#: data/core/units/monsters/Fire_Dragon.cfg:71
 #: data/core/units/monsters/Icemonax_Greater.cfg:72
 msgid "tail"
 msgstr "লেজ"
@@ -6748,7 +6754,7 @@ msgid "Fire Dragon"
 msgstr "অগ্নি ড্রাগন"
 
 #. [unit_type]: id=Fire Dragon, race=monster
-#: data/core/units/monsters/Fire_Dragon.cfg:44
+#: data/core/units/monsters/Fire_Dragon.cfg:53
 msgid ""
 "A dragon is a legendary creature, normally seen only in fantastic tales. "
 "They are very rare, and were it not for the historical events, the "
@@ -7479,7 +7485,7 @@ msgid "Skeletal Dragon"
 msgstr "কঙ্কাল ড্রাগন"
 
 #. [unit_type]: id=Skeletal Dragon, race=undead
-#: data/core/units/monsters/Skeletal_Dragon.cfg:26
+#: data/core/units/monsters/Skeletal_Dragon.cfg:30
 msgid ""
 "Long ago one of the mightiest living creatures, the feared Dragon has become "
 "only bones and dark sinew. Long after its death, it was raised through the "
@@ -7494,7 +7500,7 @@ msgstr ""
 "বোঝার জন্য বেঁচে থেকেছে।"
 
 #. [attack]: type=blade
-#: data/core/units/monsters/Skeletal_Dragon.cfg:30
+#: data/core/units/monsters/Skeletal_Dragon.cfg:34
 msgid "jaw"
 msgstr "চোয়াল"
 
@@ -7584,7 +7590,7 @@ msgid "Direwolf"
 msgstr "বিরাট নেকড়ে"
 
 #. [unit_type]: id=Direwolf, race=wolf
-#: data/core/units/monsters/Wolf_Dire.cfg:19
+#: data/core/units/monsters/Wolf_Dire.cfg:24
 msgid ""
 "‘Direwolves’ differ from the common variety only in size and color. They "
 "typically stand taller than a horse at the shoulder, and have an appetite to "
@@ -8262,6 +8268,7 @@ msgstr ""
 #. [attack]: type=blade
 #: data/core/units/orcs/Ruler.cfg:25 data/core/units/orcs/Sovereign.cfg:26
 #: data/core/units/orcs/Warlord.cfg:30 data/core/units/orcs/Warrior.cfg:38
+#: data/internal/Rogue_Mage/units/Bandit_Arcane_Enforcer.cfg:41
 msgid "greatsword"
 msgstr "বিরাট তলোয়ার"
 
@@ -9580,6 +9587,148 @@ msgstr ""
 "জলমানবদের জাদু থেকে ভিন্ন। এই কারিগরির খুঁটিনাটি অন্য জাতির লোকেদের পক্ষে কেবল "
 "অনুমানই করা সম্ভব।"
 
+#. [unit_type]: id=Arcane Enforcer, race=human, gender=male,female
+#. "enforcer" as in "gang enforcer"
+#: data/internal/Rogue_Mage/units/Bandit_Arcane_Enforcer.cfg:6
+#, fuzzy
+#| msgid "Drake Enforcer"
+msgid "Arcane Enforcer"
+msgstr "ড্রেক নিয়মরক্ষক"
+
+#. [unit_type]: id=Arcane Enforcer, race=human, gender=male,female
+#: data/internal/Rogue_Mage/units/Bandit_Arcane_Enforcer.cfg:21
+msgid ""
+"The harsh, violent life of an outlaw does not readily lend itself to magical "
+"study. Rogue mages who survive their first few years often do so with the "
+"aid of organized bandit gangs, who are more than happy to provide protection "
+"in return for muscle and loyalty. Outfitted with stolen crossbows and "
+"augmenting their piecemeal armor with scraps of half-remembered magic, these "
+"ex-magi brawl with surprising competence, especially under the cover of "
+"darkness."
+msgstr ""
+
+#. [female]: gender=female
+#: data/internal/Rogue_Mage/units/Bandit_Arcane_Enforcer.cfg:122
+#, fuzzy
+#| msgid "female^Drake Enforcer"
+msgid "female^Arcane Enforcer"
+msgstr "ড্রেক সম্মুখযোদ্ধা"
+
+#. [unit_type]: id=Rogue Mage, race=human, gender=male,female
+#: data/internal/Rogue_Mage/units/Bandit_Rogue_Mage.cfg:5
+#, fuzzy
+#| msgid "Red Mage"
+msgid "Rogue Mage"
+msgstr "লোহিত জাদুবিদ"
+
+#. [unit_type]: id=Rogue Mage, race=human, gender=male,female
+#: data/internal/Rogue_Mage/units/Bandit_Rogue_Mage.cfg:19
+msgid ""
+"Not every student has the skill and temperament to become a mage. Novices "
+"often find themselves abandoned by their masters, sometimes for attempting "
+"to practice forbidden arts, but more often for mundane transgressions such "
+"as theft or embezzlement, or even a simple lack of funds.\n"
+"\n"
+"While most of these failed wizards switch to other paths, a driven few turn "
+"to banditry as a way of continuing to fund their independent studies. Now "
+"completely outside the law, Rogue Mages do whatever is necessary to support "
+"themselves, and will often dabble in the use of black magic as a result. "
+"Although they are rarely as skilled as wizards with more formal training, "
+"their spells can still be quite dangerous, and their banditry has resulted "
+"in moderate skill with the short sword."
+msgstr ""
+
+#. [female]: gender=female
+#: data/internal/Rogue_Mage/units/Bandit_Rogue_Mage.cfg:80
+#, fuzzy
+#| msgid "female^Red Mage"
+msgid "female^Rogue Mage"
+msgstr "লোহিত জাদুবিদ"
+
+#. [unit_type]: id=Shadow Lord, race=human, gender=male,female
+#: data/internal/Rogue_Mage/units/Bandit_Shadow_Lord.cfg:5
+#, fuzzy
+#| msgid "Shadow"
+msgid "Shadow Lord"
+msgstr "ছায়া"
+
+#. [unit_type]: id=Shadow Lord, race=human, gender=male,female
+#. I think of regular mages as modern-day professors, or perhaps ancient greek philosophers. In comparison, a Shadow Lord is more like an unemployed, obsessive savant who hasn't showered in three months but somehow discovered the secret to cold fusion while working alone in his dingy apartment.
+#: data/internal/Rogue_Mage/units/Bandit_Shadow_Lord.cfg:20
+msgid ""
+"The fruits of the paths of either light or darkness are well known to magi: "
+"the brilliance of a white mage or the deep gloom of a necromancer. Much less "
+"well known is the art of the Shadow Lord, those few who master a union of "
+"both white and black magic. Though decades of zealous study and self-neglect "
+"have left them drained of strength, these savants have transcended the need "
+"for crude physical weapons, instead channeling their energies into "
+"devastatingly accurate magical attacks that undercut their enemies’ defenses."
+msgstr ""
+
+#. [attack]: type=blade
+#: data/internal/Rogue_Mage/units/Bandit_Shadow_Lord.cfg:48
+#, fuzzy
+#| msgid "war blade"
+msgid "astral blade"
+msgstr "যুদ্ধের ফলক"
+
+#. [damage_type]: id=cold_damage
+#: data/internal/Rogue_Mage/units/Bandit_Shadow_Lord.cfg:54
+#: data/internal/Rogue_Mage/units/Bandit_Shadow_Mage.cfg:52
+#, fuzzy
+#| msgid "chill wave"
+msgid "chill"
+msgstr "শৈত্য প্রবাহ"
+
+#. [damage_type]: id=cold_damage
+#: data/internal/Rogue_Mage/units/Bandit_Shadow_Lord.cfg:55
+#: data/internal/Rogue_Mage/units/Bandit_Shadow_Mage.cfg:53
+msgid ""
+"This attack can deal either blade or cold damage, depending on which would "
+"be more effective."
+msgstr ""
+
+#. [damage_type]: id=cold_damage
+#: data/internal/Rogue_Mage/units/Bandit_Shadow_Lord.cfg:56
+#: data/internal/Rogue_Mage/units/Bandit_Shadow_Mage.cfg:54
+msgid ""
+"This unit’s melee attack can deal either blade or cold damage, depending on "
+"which would be more effective."
+msgstr ""
+
+#. [female]: gender=female
+#: data/internal/Rogue_Mage/units/Bandit_Shadow_Lord.cfg:104
+#, fuzzy
+#| msgid "female^Dark Horse"
+msgid "female^Shadow Lord"
+msgstr "কালো ঘোড়া"
+
+#. [unit_type]: id=Shadow Mage, race=human, gender=male,female
+#: data/internal/Rogue_Mage/units/Bandit_Shadow_Mage.cfg:5
+#, fuzzy
+#| msgid "shadow wave"
+msgid "Shadow Mage"
+msgstr "ছায়া প্রবাহ"
+
+#. [unit_type]: id=Shadow Mage, race=human, gender=male,female
+#: data/internal/Rogue_Mage/units/Bandit_Shadow_Mage.cfg:18
+msgid ""
+"Dabbling in many schools of magic yet not fully embracing any, the "
+"impoverished, obsessive study of an independent mage can sometimes yield "
+"impressive results. Unrestrained by the structure of formal apprenticeship, "
+"Shadow Magi have learned to weave together spell and sword, seizing the "
+"secrets of both light and darkness with equal fervor. One of the many fruits "
+"of their labor is the unnerving power to vanish and evade seemingly-lethal "
+"blows, only to reappear moments later and strike in sudden retaliation."
+msgstr ""
+
+#. [female]: gender=female
+#: data/internal/Rogue_Mage/units/Bandit_Shadow_Mage.cfg:101
+#, fuzzy
+#| msgid "female^Red Mage"
+msgid "female^Shadow Mage"
+msgstr "লোহিত জাদুবিদ"
+
 #~ msgid ""
 #~ "Small but deadly in large numbers, fire ants possess fierce fangs and an "
 #~ "unusual ability to generate fire. Though these creatures typically "
@@ -9621,26 +9770,6 @@ msgstr ""
 
 #~ msgid "Piercing Shot"
 #~ msgstr "ভেদ্য আঘাত"
-
-#, fuzzy
-#~| msgid "Shadow"
-#~ msgid "Shadow Lord"
-#~ msgstr "ছায়া"
-
-#, fuzzy
-#~| msgid "war blade"
-#~ msgid "astral blade"
-#~ msgstr "যুদ্ধের ফলক"
-
-#, fuzzy
-#~| msgid "chill wave"
-#~ msgid "chill"
-#~ msgstr "শৈত্য প্রবাহ"
-
-#, fuzzy
-#~| msgid "female^Dark Horse"
-#~ msgid "female^Shadow Lord"
-#~ msgstr "কালো ঘোড়া"
 
 #, fuzzy
 #~| msgid "fire"

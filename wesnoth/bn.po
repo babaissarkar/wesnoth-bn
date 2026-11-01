@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: bn\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2026-02-25 19:03-0600\n"
+"POT-Creation-Date: 2026-10-20 21:43-0500\n"
 "PO-Revision-Date: 2026-03-23 16:53+0530\n"
 "Last-Translator: Subhraman Sarkar <sbmskmm@protonmail.com>\n"
 "Language-Team: Bengali < >\n"
@@ -176,38 +176,29 @@ msgstr "রঙিন মাউস কারসার ব্যবহার ক�
 
 #. [advanced_preference]: type=custom
 #: data/advanced_preferences.cfg:136
-msgid "Customize orb colors"
-msgstr "গোলকের রঙ পছন্দ করুন"
-
-#. [advanced_preference]: type=custom
-#: data/advanced_preferences.cfg:142
-msgid "Customize Reach Map (Unit Movement UI)"
-msgstr "রিচম্যাপ (ইউনিট সরানোর ইউআই) সাজান"
-
-#. [advanced_preference]: type=custom
-#: data/advanced_preferences.cfg:148
 msgid "Logging"
 msgstr "লগ"
 
 #. [advanced_preference]: type=boolean
-#: data/advanced_preferences.cfg:154
+#: data/advanced_preferences.cfg:142
 msgid "Allow damage calculation with Monte Carlo simulation"
 msgstr "মন্টে-কার্লো সিমুলেশন ব্যবহার করে ক্ষতি গণনা করা হবে?"
 
 #. [advanced_preference]: type=boolean
-#: data/advanced_preferences.cfg:155
+#: data/advanced_preferences.cfg:143
 msgid ""
 "Allow the damage calculation window to simulate fights instead of using "
 "exact probability calculations"
 msgstr "সম্ভাবনা গণনার পরিবর্তে ক্ষতি গণনার উইন্ডো ব্যবহার করে ক্ষতি গণনা করুন"
 
+#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [advanced_preference]: type=boolean
-#: data/advanced_preferences.cfg:162
+#: data/advanced_preferences.cfg:150 src/units/abilities.cpp:200
 msgid "Show deprecation messages in-game"
 msgstr "খেলায় ডেপ্রিকেশন সংক্রান্ত বার্তা দেখান"
 
 #. [advanced_preference]: type=boolean
-#: data/advanced_preferences.cfg:163
+#: data/advanced_preferences.cfg:151
 msgid ""
 "Show warnings about deprecated API in the in-game chat area. These messages "
 "will still be shown in the log, even if this is disabled. In addition, the "
@@ -218,12 +209,12 @@ msgstr ""
 "অনেক বার্তা কীভাবে দেখানো হবে তা নিয়ন্ত্রণ করে ।"
 
 #. [advanced_preference]: type=int
-#: data/advanced_preferences.cfg:170
+#: data/advanced_preferences.cfg:158
 msgid "Font size scale (experimental)"
 msgstr "হরফ আকার স্কেল করুন (গবেষণামূলক)"
 
 #. [advanced_preference]: type=int
-#: data/advanced_preferences.cfg:171
+#: data/advanced_preferences.cfg:159
 msgid ""
 "Scales all text up or down from the standard size for your resolution. "
 "Warning: Scaling text up may cause issues in the in-game sidebar."
@@ -232,12 +223,12 @@ msgstr ""
 "করার কারণে খেলার মধ্যে থাকা সাইডবারে সমস্যা তৈরী হতে পারে ।"
 
 #. [advanced_preference]: type=int
-#: data/advanced_preferences.cfg:181
+#: data/advanced_preferences.cfg:169
 msgid "Server disconnect timeout"
 msgstr "সার্ভার বিচ্ছিন্ন হওয়ার সময়সীমা"
 
 #. [advanced_preference]: type=int
-#: data/advanced_preferences.cfg:182
+#: data/advanced_preferences.cfg:170
 msgid ""
 "The amount of time in seconds before a disconnect is detected. If currently "
 "logged into the multiplayer server, you must log out and then log back in "
@@ -248,22 +239,22 @@ msgstr ""
 "করে পুনরায় লগ-ইন করতে হবে ।"
 
 #. [advanced_preference]: type=boolean
-#: data/advanced_preferences.cfg:192
+#: data/advanced_preferences.cfg:180
 msgid "Show missed attack indicator"
 msgstr "আক্রমণ "
 
 #. [advanced_preference]: type=boolean
-#: data/advanced_preferences.cfg:193
+#: data/advanced_preferences.cfg:181
 msgid "Display a visual indicator above a defender when an attack misses."
 msgstr "আক্রমণ না লাগলে রক্ষণকারী ইউনিটের ওপরে একটি নির্দেশক দেখান"
 
 #. [advanced_preference]: type=boolean
-#: data/advanced_preferences.cfg:200
+#: data/advanced_preferences.cfg:188
 msgid "SIMD acceleration"
 msgstr "SIMD ত্বরণ"
 
 #. [advanced_preference]: type=boolean
-#: data/advanced_preferences.cfg:201
+#: data/advanced_preferences.cfg:189
 msgid ""
 "Use hardware acceleration (SSE2/NEON) for faster image processing on the "
 "CPU. Try disabling this if you experience graphical glitches or crashes."
@@ -275,12 +266,12 @@ msgstr ""
 #. [unstore_unit]
 #. [lua]: set_status
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/07_The_Desert_of_Death.cfg:369
-#: data/lua/wml/harm_unit.lua:124 src/actions/attack.cpp:948
+#: data/lua/wml/harm_unit.lua:124 src/actions/attack.cpp:973
 msgid "poisoned"
 msgstr "বিষাক্ত"
 
 #. [effect]: type=fire
-#: data/campaigns/The_Rise_Of_Wesnoth/scenarios/12_A_Final_Spring.cfg:492
+#: data/campaigns/The_Rise_Of_Wesnoth/scenarios/12_A_Final_Spring.cfg:491
 #: data/core/macros/items.cfg:559
 msgid "storm trident"
 msgstr "ঝঞ্ঝার ত্রিশূল"
@@ -306,44 +297,44 @@ msgid "Close"
 msgstr "বন্ধ"
 
 #. [language]
-#: data/campaigns/World_Conquest/resources/strings/mainline.cfg:76
-#: data/english.cfg:26
+#: data/campaigns/World_Conquest/resources/strings/mainline.cfg:75
+#: data/english.cfg:31
 msgid "blade"
 msgstr "ধারালো অস্ত্র"
 
 #. [language]
-#: data/campaigns/World_Conquest/resources/strings/mainline.cfg:79
-#: data/english.cfg:29
+#: data/campaigns/World_Conquest/resources/strings/mainline.cfg:78
+#: data/english.cfg:34
 msgid "fire"
 msgstr "অগ্নি"
 
 #. [language]
-#: data/campaigns/World_Conquest/resources/strings/mainline.cfg:82
-#: data/english.cfg:30
+#: data/campaigns/World_Conquest/resources/strings/mainline.cfg:81
+#: data/english.cfg:35
 msgid "cold"
 msgstr "শীতল"
 
 #. [language]
-#: data/campaigns/World_Conquest/resources/strings/mainline.cfg:85
-#: data/english.cfg:27
+#: data/campaigns/World_Conquest/resources/strings/mainline.cfg:84
+#: data/english.cfg:32
 msgid "pierce"
 msgstr "ভেদ্য"
 
 #. [language]
-#: data/campaigns/World_Conquest/resources/strings/mainline.cfg:88
-#: data/english.cfg:28
+#: data/campaigns/World_Conquest/resources/strings/mainline.cfg:87
+#: data/english.cfg:33
 msgid "impact"
 msgstr "ভোঁতা অস্ত্র"
 
 #. [language]
-#: data/campaigns/World_Conquest/resources/strings/mainline.cfg:91
-#: data/english.cfg:22
+#: data/campaigns/World_Conquest/resources/strings/mainline.cfg:90
+#: data/english.cfg:27
 msgid "melee"
 msgstr "নিকট"
 
 #. [language]
-#: data/campaigns/World_Conquest/resources/strings/mainline.cfg:94
-#: data/english.cfg:23
+#: data/campaigns/World_Conquest/resources/strings/mainline.cfg:93
+#: data/english.cfg:28
 msgid "ranged"
 msgstr "দূর"
 
@@ -403,7 +394,7 @@ msgid "Miscellaneous Contributors"
 msgstr "বিভিন্ন সাহায্য"
 
 #. [about]
-#: data/core/about.cfg:1890
+#: data/core/about.cfg:1897
 msgid "Bots"
 msgstr "বট-সমূহ"
 
@@ -513,183 +504,183 @@ msgid "French Translation"
 msgstr "ফরাসী অনুবাদ"
 
 #. [about]
-#: data/core/about_i18n.cfg:787
+#: data/core/about_i18n.cfg:790
 msgid "Friulian Translation"
 msgstr "ফ্রিউলিয় অনুবাদ"
 
 #. [about]
-#: data/core/about_i18n.cfg:791
+#: data/core/about_i18n.cfg:794
 msgid "Galician Translation"
 msgstr "গ্যালিশিয় অনুবাদ"
 
 #. [about]
-#: data/core/about_i18n.cfg:827
+#: data/core/about_i18n.cfg:830
 msgid "German Translation"
 msgstr "জার্মান অনুবাদ"
 
 #. [about]
-#: data/core/about_i18n.cfg:956
+#: data/core/about_i18n.cfg:959
 msgid "Greek Translation"
 msgstr "গ্রিক অনুবাদ"
 
 #. [about]
-#: data/core/about_i18n.cfg:999
+#: data/core/about_i18n.cfg:1002
 msgid "Hebrew Translation"
 msgstr "হিব্রু অনুবাদ"
 
 #. [about]
-#: data/core/about_i18n.cfg:1012
+#: data/core/about_i18n.cfg:1018
 msgid "Hungarian Translation"
 msgstr "হাঙ্গেরীয় অনুবাদ"
 
 #. [about]
-#: data/core/about_i18n.cfg:1073
+#: data/core/about_i18n.cfg:1079
 msgid "Icelandic Translation"
 msgstr "আইসল্যান্ডীয় অনুবাদ"
 
 #. [about]
-#: data/core/about_i18n.cfg:1083
+#: data/core/about_i18n.cfg:1089
 msgid "Indonesian Translation"
 msgstr "ইন্দোনেশীয় অনুবাদ"
 
 #. [about]
-#: data/core/about_i18n.cfg:1111
+#: data/core/about_i18n.cfg:1117
 msgid "Irish Translation"
 msgstr "আইরিশ অনুবাদ"
 
 #. [about]
-#: data/core/about_i18n.cfg:1118
+#: data/core/about_i18n.cfg:1124
 msgid "Italian Translation"
 msgstr "ইতালীয় অনুবাদ"
 
 #. [about]
-#: data/core/about_i18n.cfg:1165
+#: data/core/about_i18n.cfg:1171
 msgid "Japanese Translation"
 msgstr "জাপানী অনুবাদ"
 
 #. [about]
-#: data/core/about_i18n.cfg:1258
+#: data/core/about_i18n.cfg:1264
 msgid "Korean Translation"
 msgstr "কোরিয়ান অনুবাদ"
 
 #. [about]
-#: data/core/about_i18n.cfg:1266
+#: data/core/about_i18n.cfg:1272
 msgid "Latin Translation"
 msgstr "লাতিন অনুবাদ"
 
 #. [about]
-#: data/core/about_i18n.cfg:1292
+#: data/core/about_i18n.cfg:1298
 msgid "Latvian Translation"
 msgstr "লাটভিয় অনুবাদ"
 
 #. [about]
-#: data/core/about_i18n.cfg:1307
+#: data/core/about_i18n.cfg:1313
 msgid "Lithuanian Translation"
 msgstr "লিথুয়ানীয় অনুবাদ"
 
 #. [about]
-#: data/core/about_i18n.cfg:1332
+#: data/core/about_i18n.cfg:1338
 msgid "Macedonian Translation"
 msgstr "ম্যাসেডোনীয় অনুবাদ"
 
 #. [about]
-#: data/core/about_i18n.cfg:1339
+#: data/core/about_i18n.cfg:1345
 msgid "Marathi Translation"
 msgstr "মারাঠী অনুবাদ"
 
 #. [about]
-#: data/core/about_i18n.cfg:1348
+#: data/core/about_i18n.cfg:1354
 msgid "Norwegian Translation"
 msgstr "নরওয়েজিয়ান অনুবাদ"
 
 #. [about]
-#: data/core/about_i18n.cfg:1377
+#: data/core/about_i18n.cfg:1383
 msgid "Old English Translation"
 msgstr "প্রাচীন ইংরেজী অনুবাদ"
 
 #. [about]
-#: data/core/about_i18n.cfg:1395
+#: data/core/about_i18n.cfg:1401
 msgid "Polish Translation"
 msgstr "পোলিশ অনুবাদ"
 
 #. [about]
-#: data/core/about_i18n.cfg:1470
+#: data/core/about_i18n.cfg:1476
 msgid "Portuguese Translation"
 msgstr "পর্তুগিজ অনুবাদ"
 
 #. [about]
-#: data/core/about_i18n.cfg:1484
+#: data/core/about_i18n.cfg:1490
 msgid "Portuguese (Brazil) Translation"
 msgstr "পর্তুগিজ (ব্রাজিল) অনুবাদ"
 
 #. [about]
-#: data/core/about_i18n.cfg:1542
+#: data/core/about_i18n.cfg:1551
 msgid "Romanian Translation"
 msgstr "রোমানীয় অনুবাদ"
 
 #. [about]
-#: data/core/about_i18n.cfg:1550
+#: data/core/about_i18n.cfg:1564
 msgid "Russian Translation"
 msgstr "রুশ অনুবাদ"
 
 #. [about]
-#: data/core/about_i18n.cfg:1657
+#: data/core/about_i18n.cfg:1671
 msgid "Scottish Gaelic Translation"
 msgstr "স্কটিশ গ্যালিক অনুবাদ"
 
 #. [about]
-#: data/core/about_i18n.cfg:1666
+#: data/core/about_i18n.cfg:1680
 msgid "Serbian Translation"
 msgstr "সার্বিয় অনুবাদ"
 
 #. [about]
-#: data/core/about_i18n.cfg:1685
+#: data/core/about_i18n.cfg:1704
 msgid "Slovak Translation"
 msgstr "স্লোভাক অনুবাদ"
 
 #. [about]
-#: data/core/about_i18n.cfg:1720
+#: data/core/about_i18n.cfg:1739
 msgid "Slovenian Translation"
 msgstr "স্লোভেনীয় অনুবাদ"
 
 #. [about]
-#: data/core/about_i18n.cfg:1736
+#: data/core/about_i18n.cfg:1755
 msgid "Spanish Translation"
 msgstr "স্পানিশ অনুবাদ"
 
 #. [about]
-#: data/core/about_i18n.cfg:1830
+#: data/core/about_i18n.cfg:1849
 msgid "Swedish Translation"
 msgstr "সুইডিশ অনুবাদ"
 
 #. [about]
-#: data/core/about_i18n.cfg:1875
+#: data/core/about_i18n.cfg:1894
 msgid "Turkish Translation"
 msgstr "তুর্কি অনুবাদ"
 
 #. [about]
-#: data/core/about_i18n.cfg:1900
+#: data/core/about_i18n.cfg:1919
 msgid "Ukrainian Translation"
 msgstr "ইউক্রেনীয় অনুবাদ"
 
 #. [about]
-#: data/core/about_i18n.cfg:1934
+#: data/core/about_i18n.cfg:1953
 msgid "Valencian (southern Catalan) Translation"
 msgstr "ভ্যালেন্সিয় (দক্ষিণ কাতালান) অনুবাদ"
 
 #. [about]
-#: data/core/about_i18n.cfg:1947
+#: data/core/about_i18n.cfg:1966
 msgid "Vietnamese Translation"
 msgstr "ভিয়েতনামীয় অনুবাদ"
 
 #. [about]
-#: data/core/about_i18n.cfg:1966
+#: data/core/about_i18n.cfg:1985
 msgid "Welsh Translation"
 msgstr "ওয়েল্শ অনুবাদ"
 
 #. [about]
 #. Real Acadèmia de Cultura Valenciana
-#: data/core/about_i18n.cfg:1975
+#: data/core/about_i18n.cfg:1994
 msgid "RACV’s Translation"
 msgstr "RACV-র অনুবাদ"
 
@@ -1538,11 +1529,12 @@ msgstr "পরাজিত করার ওপর মনোনিবেশ ক�
 #. [focus_on_enemy]
 #: data/core/macros/ai_controller.cfg:180
 msgid ""
-"focusing on defeating $ai_controller.side_$ally_side|_current_settings."
-"focus_on_enemy.side_description|."
+"focusing on defeating $ai_controller.side_$ally_side|"
+"_current_settings.focus_on_enemy.side_description|."
 msgstr ""
-"$ai_controller.side_$ally_side|_current_settings.focus_on_enemy."
-"side_description|-কে পরাজিত করার ওপর মনোনিবেশ করো ।"
+"$ai_controller.side_$ally_side|"
+"_current_settings.focus_on_enemy.side_description|-কে পরাজিত করার ওপর "
+"মনোনিবেশ করো ।"
 
 #. [then]
 #. [else]
@@ -1581,8 +1573,8 @@ msgstr "রক্ষা করার ওপর মনোযোগ দাও..."
 #. [protect]
 #: data/core/macros/ai_controller.cfg:316
 msgid ""
-"focusing on protecting $ai_controller.side_$ally_side|_current_settings."
-"protect.side_description|."
+"focusing on protecting $ai_controller.side_$ally_side|"
+"_current_settings.protect.side_description|."
 msgstr ""
 "$ai_controller.side_$ally_side|_current_settings.protect.side_description|-"
 "কে রক্ষা করো"
@@ -1640,15 +1632,15 @@ msgstr "সকল নির্দেশ বাতিল করুন"
 #. [do]
 #: data/core/macros/ai_controller.cfg:765
 msgid ""
-"Objective: $ai_controller.side_$ally_side|_current_settings."
-"currently_doing_objective_description\n"
-"Behavior: $ai_controller.side_$ally_side|_current_settings."
-"currently_doing_behavior_description"
+"Objective: $ai_controller.side_$ally_side|"
+"_current_settings.currently_doing_objective_description\n"
+"Behavior: $ai_controller.side_$ally_side|"
+"_current_settings.currently_doing_behavior_description"
 msgstr ""
-"উদ্দেশ্য: $ai_controller.side_$ally_side|_current_settings."
-"currently_doing_objective_description\n"
-"আচরণ: $ai_controller.side_$ally_side|_current_settings."
-"currently_doing_behavior_description"
+"উদ্দেশ্য: $ai_controller.side_$ally_side|"
+"_current_settings.currently_doing_objective_description\n"
+"আচরণ: $ai_controller.side_$ally_side|"
+"_current_settings.currently_doing_behavior_description"
 
 #. [literal]
 #: data/core/macros/ai_controller.cfg:781
@@ -1691,31 +1683,31 @@ msgstr "বিশেষ নির্দেশ বাতিল করুন"
 
 #: data/core/macros/ai_controller.cfg:1120
 msgid ""
-"Special: $ai_controller.side_$ally_side|_current_settings."
-"currently_doing_special_description"
+"Special: $ai_controller.side_$ally_side|"
+"_current_settings.currently_doing_special_description"
 msgstr "বিশেষ নির্দেশ মুছুন ।"
 
 #. [else]
-#: data/core/macros/deprecated-utils.cfg:35
+#: data/core/macros/deprecated-utils.cfg:34
 msgid "This unit has been renamed to: "
 msgstr "এই ইউনিটির নাম পাল্টে হয়েছে:"
 
 #. [lua]: generate_objectives
-#: data/core/macros/deprecated-utils.cfg:52 data/lua/wml/objectives.lua:106
+#: data/core/macros/deprecated-utils.cfg:51 data/lua/wml/objectives.lua:106
 msgid "Early finish bonus."
 msgstr "দ্রুত শেষ করার অতিরিক্ত পুরষ্কার আছে ।"
 
 #. [lua]: generate_objectives
-#: data/core/macros/deprecated-utils.cfg:56 data/lua/wml/objectives.lua:109
+#: data/core/macros/deprecated-utils.cfg:55 data/lua/wml/objectives.lua:109
 msgid "No early finish bonus."
 msgstr "দ্রুত শেষ করার অতিরিক্ত পুরষ্কার নেই।"
 
 #. [lua]: generate_objectives
-#: data/core/macros/deprecated-utils.cfg:60 data/lua/wml/objectives.lua:117
+#: data/core/macros/deprecated-utils.cfg:59 data/lua/wml/objectives.lua:117
 msgid "No gold carried over to the next scenario."
 msgstr "স্বর্ণ পরবর্তী ঘটনাক্রমে যাবে না ।"
 
-#: data/core/macros/deprecated-utils.cfg:64
+#: data/core/macros/deprecated-utils.cfg:63
 msgid ""
 "\n"
 "100% of finishing gold carried over to the next scenario."
@@ -1723,7 +1715,7 @@ msgstr ""
 "\n"
 "শেষের সময় থাকা স্বর্ণের 100% পরবর্তী ঘটনাক্রমে যাবে ।"
 
-#: data/core/macros/deprecated-utils.cfg:69
+#: data/core/macros/deprecated-utils.cfg:68
 msgid ""
 "\n"
 "40% of finishing gold carried over to the next scenario."
@@ -1731,7 +1723,7 @@ msgstr ""
 "\n"
 "শেষের সময় থাকা স্বর্ণের 40% পরবর্তী ঘটনাক্রমে যাবে ।"
 
-#: data/core/macros/deprecated-utils.cfg:74
+#: data/core/macros/deprecated-utils.cfg:73
 msgid ""
 "\n"
 "20% of finishing gold carried over to the next scenario."
@@ -1740,12 +1732,12 @@ msgstr ""
 "শেষের সময় থাকা স্বর্ণের 20% পরবর্তী ঘটনাক্রমে যাবে ।"
 
 #. [chance_to_hit]: id=deflect
-#: data/core/macros/deprecated-utils.cfg:400
+#: data/core/macros/deprecated-utils.cfg:284
 msgid "deflect"
 msgstr "বিক্ষেপ"
 
 #. [chance_to_hit]: id=deflect
-#: data/core/macros/deprecated-utils.cfg:401
+#: data/core/macros/deprecated-utils.cfg:285
 msgid ""
 "When used defensively, this attack reduces the opponent’s chance to hit by "
 "10%."
@@ -1754,7 +1746,7 @@ msgstr ""
 "করে।"
 
 #. [chance_to_hit]: id=deflect
-#: data/core/macros/deprecated-utils.cfg:402
+#: data/core/macros/deprecated-utils.cfg:286
 msgid ""
 "This unit’s defensive techniques reduce the chance of a successful enemy "
 "attack."
@@ -1762,12 +1754,12 @@ msgstr ""
 "এই ইউনিটটির রক্ষণাত্মক কৌশল প্রতিপক্ষের দ্বারা সফল আক্রমণের সম্ভাবনা কমিয়ে দেয় ।"
 
 #. [damage]: id=absorb
-#: data/core/macros/deprecated-utils.cfg:415
+#: data/core/macros/deprecated-utils.cfg:299
 msgid "absorb"
 msgstr "শোষণ"
 
 #. [damage]: id=absorb
-#: data/core/macros/deprecated-utils.cfg:416
+#: data/core/macros/deprecated-utils.cfg:300
 msgid ""
 "This attack puts the unit in good defensive position, and it absorbs some of "
 "the damage dealt by an enemy strike."
@@ -1776,7 +1768,7 @@ msgstr ""
 "দ্বারা হওয়া ক্ষতির কিছুটা শোষণ করে নেয় ।"
 
 #. [damage]: id=absorb
-#: data/core/macros/deprecated-utils.cfg:417
+#: data/core/macros/deprecated-utils.cfg:301
 msgid ""
 "This unit can block enemy strikes, so that it takes reduced damage when hit."
 msgstr ""
@@ -1962,34 +1954,39 @@ msgstr "অগ্নি রাজদন্ড"
 
 #: data/core/macros/names.cfg:19
 msgid ""
-"Egar,Elch,Ga’ash,Gadé Ihn,Gakré Ohm,Galeck,Galsh,Garadin,Garchin,Gark,Garlan,"
-"Garlin Ohn,Garrutin,Gart’lo,Garushi,Gashinar,Gashol,Gaushii,Gaustun,Gegchi,"
-"Gelka Kon,Gelknick,Gillan,Gisharri,Gost,Grada,Græt Ihn,Grashen,Gravlan,Grag,"
-"Grelnit,Grenn Ohn,Greth,Gribbel,Gridda,Grish,Gron Ihn,Ka,Kahn Ih,Karigan,"
-"Karri Kon,Karron,Kask,Kegrid,Kerath Ihn,Kerath Kor,Klash,Kon Garashé,Kraag,"
-"Krall Ohn,Kran Kor,Krash,Kraslar,Krenli,Kruggen,Kun,Mah Toa,Margian,"
-"Mar’Ildian,Markan,Markinos,Mar Ohn,Marra Di’lek,Marrito,Marritos,Merkush,"
-"Merritos Gark,Morusté,Murr,Omataké,Reshan,Vashitt,Velnick,Veralon,Veramo,"
-"Verath,Verditt,Verkon,Verlinn,Vermad,Vertick,Vladnir"
+"Egar,Elch,Ga’ash,Gadé Ihn,Gakré "
+"Ohm,Galeck,Galsh,Garadin,Garchin,Gark,Garlan,Garlin "
+"Ohn,Garrutin,Gart’lo,Garushi,Gashinar,Gashol,Gaushii,Gaustun,Gegchi,Gelka "
+"Kon,Gelknick,Gillan,Gisharri,Gost,Grada,Græt "
+"Ihn,Grashen,Gravlan,Grag,Grelnit,Grenn Ohn,Greth,Gribbel,Gridda,Grish,Gron "
+"Ihn,Ka,Kahn Ih,Karigan,Karri Kon,Karron,Kask,Kegrid,Kerath Ihn,Kerath "
+"Kor,Klash,Kon Garashé,Kraag,Krall Ohn,Kran "
+"Kor,Krash,Kraslar,Krenli,Kruggen,Kun,Mah "
+"Toa,Margian,Mar’Ildian,Markan,Markinos,Mar Ohn,Marra "
+"Di’lek,Marrito,Marritos,Merkush,Merritos "
+"Gark,Morusté,Murr,Omataké,Reshan,Vashitt,Velnick,Veralon,Veramo,Verath,Verditt,Verkon,Verlinn,Vermad,Vertick,Vladnir"
 msgstr ""
-"এগার,এল্চ,গা'শ,গাডে ইহ্‌ন,গাক্রে ওহম,গালেক,গালশ,গারাডিন,গার্চিন,গার্ক,গার্লান,"
-"গার্লিন ওহ্‌ন,গারুটিন,গার্ট'লো,গারুশি,গাশিনার,গাশোল,গাউশি,গাউস্টুন,গেগচি,গেলকা কোন,"
-"গেল্কনিক,গিলান,গিশারি,গোস্ট,গ্রাডা,গ্র্যাট ইহ্‌ন,গ্রাশেন,গ্রাভলান,গ্রাগ,গ্রেল্‌নিট,গ্রেন "
-"ওহ্‌ন,গ্রেথ,গ্রিবেল,গ্রিডা,গ্রিশ,গ্রোন ইহ্‌ন,কা,কাহ্‌ন ইহ্,কারিগান,কারি কোন,কারোন,কাস্ক,"
-"কেগ্রিড,কেরাথ ইহ্‌ন,কেরাথ কোর,ক্লাশ,কোন গারাশে,ক্রাগ্,ক্রাল ওহ্‌ন,ক্রান কোর,ক্রাশ,"
-"ক্রাসলার,ক্রেনলি,ক্রুগ্গেন,কুন,মাহ্ টোয়া,মার্গিয়ান,মার'লডিয়ান,মার্কান,মার্কিনোস,মার "
-"ওহ্‌ন,মারা ডি'লেক,মারিটো,মারিটোস,মেরকুশ,মেররিটোস গার্ক,মোরুস্টে,মুর,ওমাটাকে,রেশান,"
-"ভাশিট,ভেলনিক,ভেরালোন,ভেরামো,ভেরাথ,ভেরডিট,ভেরকোন,ভেরলিন,ভেরটিক,ভ্লাডনির"
+"এগার,এল্চ,গা'শ,গাডে ইহ্‌ন,গাক্রে "
+"ওহম,গালেক,গালশ,গারাডিন,গার্চিন,গার্ক,গার্লান,গার্লিন "
+"ওহ্‌ন,গারুটিন,গার্ট'লো,গারুশি,গাশিনার,গাশোল,গাউশি,গাউস্টুন,গেগচি,গেলকা "
+"কোন,গেল্কনিক,গিলান,গিশারি,গোস্ট,গ্রাডা,গ্র্যাট "
+"ইহ্‌ন,গ্রাশেন,গ্রাভলান,গ্রাগ,গ্রেল্‌নিট,গ্রেন ওহ্‌ন,গ্রেথ,গ্রিবেল,গ্রিডা,গ্রিশ,গ্রোন "
+"ইহ্‌ন,কা,কাহ্‌ন ইহ্,কারিগান,কারি কোন,কারোন,কাস্ক,কেগ্রিড,কেরাথ ইহ্‌ন,কেরাথ "
+"কোর,ক্লাশ,কোন গারাশে,ক্রাগ্,ক্রাল ওহ্‌ন,ক্রান কোর,ক্রাশ,ক্রাসলার,ক্রেনলি,ক্রুগ্গেন,কুন,মাহ্ "
+"টোয়া,মার্গিয়ান,মার'লডিয়ান,মার্কান,মার্কিনোস,মার ওহ্‌ন,মারা "
+"ডি'লেক,মারিটো,মারিটোস,মেরকুশ,মেররিটোস "
+"গার্ক,মোরুস্টে,মুর,ওমাটাকে,রেশান,ভাশিট,ভেলনিক,ভেরালোন,ভেরামো,ভেরাথ,ভেরডিট,ভেরকোন,ভেরলিন,ভেরটিক,ভ্লাডনির"
 
 #: data/core/macros/names.cfg:20
 msgid ""
-"Alen Ka,Alinash Mal,Ashirt,Auginet Ka,Auuglann,Damell,Dell,Demla,Dinsill,"
-"Eshi,Olath,Omage,Omagrra,Orra Ka,Orridan,Orrida,Oshibi,Vallin,Valnirra,"
-"Valnitt,Velisk,Verra,Vellin Ka,Veshtar,Vushtin"
+"Alen Ka,Alinash Mal,Ashirt,Auginet "
+"Ka,Auuglann,Damell,Dell,Demla,Dinsill,Eshi,Olath,Omage,Omagrra,Orra "
+"Ka,Orridan,Orrida,Oshibi,Vallin,Valnirra,Valnitt,Velisk,Verra,Vellin "
+"Ka,Veshtar,Vushtin"
 msgstr ""
-"আলেন কা,আলিনাশ মাল,আশির্ট,আউগিনেট কা,আউগ্লান,ডামেল,ডেল,ডেমলা,ডিনসিলি,এশি,ওলাথ,"
-"ওমাজে,ওমাগারা,ওরা কা,ওরিডান,ওরিডা,ওশিবি,ভালিন,ভালনিরা,ভালনিট,ভেলিস্ক,ভেরা,"
-"ভেলিন কা,ভেশটার,ভুশটিন"
+"আলেন কা,আলিনাশ মাল,আশির্ট,আউগিনেট "
+"কা,আউগ্লান,ডামেল,ডেল,ডেমলা,ডিনসিলি,এশি,ওলাথ,ওমাজে,ওমাগারা,ওরা "
+"কা,ওরিডান,ওরিডা,ওশিবি,ভালিন,ভালনিরা,ভালনিট,ভেলিস্ক,ভেরা,ভেলিন কা,ভেশটার,ভুশটিন"
 
 #. Generator for male drake names; see <https://wiki.wesnoth.org/Context-free_grammar> for syntax
 #: data/core/macros/names.cfg:22
@@ -2026,55 +2023,8 @@ msgstr ""
 "short_name=মাল|কা|এমথ|ডার|এশি\n"
 
 #: data/core/macros/names.cfg:38
-msgid ""
-"Aigaithas,Aigaithil,Aigaithing,Aigaithol,Aigalas,Aigaling,Aigalis,Aigalol,"
-"Aigalsil,Aigatas,Aigatis,Aigatlos,Aigatsil,Aigatsol,Aigatus,Aigcatas,"
-"Aigcatil,Aigcating,Aigcatis,Aigcatsil,Aigcatsol,Aigcatus,Aigdring,Aigdris,"
-"Aigdrlos,Aigdrsil,Aigdrsol,Aigduras,Aigdurlos,Aigdursol,Aigthaing,Aigthais,"
-"Aigthasil,Aigthaus,Alaithas,Alaithis,Alaithlos,Alaithol,Alaithsol,Alaithus,"
-"Alalas,Alalil,Alalol,Alalsol,Alalus,Alatas,Alatil,Alating,Alatlos,Alatsil,"
-"Alcatil,Alcatis,Alcatlos,Alcatsil,Aldras,Aldril,Aldring,Aldris,Aldrlos,"
-"Aldrol,Aldrsol,Alduras,Aldurlos,Aldurol,Althaas,Althail,Althalos,Althaol,"
-"Althasil,Althasol,Althaus,Anaithas,Anaithil,Anaithing,Anaithis,Anaithsil,"
-"Anaithus,Analil,Anallos,Analol,Analsil,Analus,Anatas,Anating,Anatis,Anatol,"
-"Anatsol,Ancatas,Ancatil,Ancatol,Ancatus,Andril,Andris,Andrlos,Andrus,Anduril,"
-"Andurol,Andursol,Andurus,Anthaas,Anthaing,Anthais,Anthaol,Anthasil,Anthasol,"
-"Anthaus,Augaithas,Augaithing,Augaithsil,Augaithus,Augalas,Augaling,Augalol,"
-"Augating,Augatlos,Augatol,Augatsil,Augatsol,Augcatas,Augcatil,Augcatis,"
-"Augcatol,Augcatsil,Augcatus,Augdras,Augdris,Augdrsil,Augdrus,Augduras,"
-"Augduril,Augduring,Augdurol,Augdursol,Augdurus,Augthail,Augthais,Augthalos,"
-"Augthaol,Dulaithil,Dulaithing,Dulaithlos,Dulaithsil,Dulaithsol,Dulalas,"
-"Dulaling,Dulalis,Dulalsil,Dulatil,Dulating,Dulatol,Dulatsol,Dulatus,Dulcatil,"
-"Dulcating,Dulcatlos,Dulcatol,Dulcatsil,Dulcatsol,Duldril,Duldris,Duldrlos,"
-"Duldrol,Duldrsil,Duldrus,Dulduras,Dulduring,Duldursil,Duldurus,Dulthalos,"
-"Dulthasil,Dulthasol,Dulthaus,Glamaithil,Glamaithis,Glamaithol,Glamaithsol,"
-"Glamalil,Glamaling,Glamalis,Glamallos,Glamalsil,Glamalus,Glamatil,Glamatus,"
-"Glamcatas,Glamcatil,Glamcating,Glamcatsil,Glamcatus,Glamdras,Glamdril,"
-"Glamdrlos,Glamdrsol,Glamduras,Glamduril,Glamduring,Glamduris,Glamdursol,"
-"Glamthaas,Glamthaol,Glamthasil,Glamthasol,Glamthaus,Glomin,Gomaithas,"
-"Gomaithil,Gomaithol,Gomaithsol,Gomalil,Gomalis,Gomalus,Gomatas,Gomatil,"
-"Gomating,Gomatis,Gomatlos,Gomatol,Gomcatil,Gomcatis,Gomcatlos,Gomdras,"
-"Gomdril,Gomdring,Gomdris,Gomdrol,Gomdrsil,Gomduris,Gomdurlos,Gomdursil,"
-"Gomdursol,Gomdurus,Gomthaas,Gomthalos,Gomthasol,Naraithil,Naraithing,"
-"Naraithol,Naraithsil,Naraithsol,Naraithus,Naralas,Naralil,Naralsil,Naralus,"
-"Naratlos,Naratol,Naratsil,Narcating,Narcatis,Narcatol,Narcatsil,Narcatsol,"
-"Nardras,Nardril,Nardring,Nardris,Nardrol,Nardrsil,Nardrsol,Nardrus,Narduras,"
-"Narduril,Nardurol,Narthalos,Narthaol,Pelaithas,Pelaithil,Pelaithing,"
-"Pelaithis,Pelaithlos,Pelaithol,Pelaithsil,Pelaithsol,Pelalil,Pelaling,"
-"Pelalis,Pelalsil,Pelalsol,Pelalus,Pelatil,Pelating,Pelatis,Pelatol,Pelatsil,"
-"Pelatus,Pelcating,Pelcatlos,Pelcatol,Pelcatsil,Peldras,Peldril,Peldrsol,"
-"Peldrus,Pelduril,Pelduring,Pelduris,Peldurol,Peldursol,Peldurus,Pelthaas,"
-"Pelthail,Pelthasil,Trithaithas,Trithaithil,Trithaithis,Trithaithlos,"
-"Trithaithol,Trithaithsil,Trithaithsol,Trithaithus,Trithalis,Trithalol,"
-"Trithatas,Trithatil,Trithatlos,Trithatsol,Trithcatlos,Trithcatsol,Trithcatus,"
-"Trithdril,Trithdring,Trithdris,Trithdrlos,Trithdrol,Trithdrsol,Trithdrus,"
-"Trithduril,Trithduring,Trithdurlos,Trithdurol,Trithdursil,Trithdurus,"
-"Triththaas,Triththail,Triththaing,Triththasol,Triththaus"
-msgstr ""
-"আইগাইথাস,আইগাইথিল,আইগাইথিঙ,আইগাইথোল,আইগালাস,আইগালিঙ,আইগালিস,আইগালোল,আইগালসিল,"
-"আইগাটাস,আইগাটিস,আইগাটলোস,আইগাটসিল,আইগাটুস,আইকাটাস,আইগকাটিঙ,আইগকাটিস,আইগকাটসিল,"
-"আইগকাটসোল,আইগকাটাস,আইগড্রিঙ,আইগড্রিস,আইগড্রিলোস,আইগড্রসিল,আইগড্রসোল,আইগডুরাস,"
-"আইগডুরলোস,আইগডুরসোল"
+msgid "Aigaithas,Aigaithil,Aigaithing,Aigaithol,Aigalas,Aigaling,Aigalis,Aigalol,Aigalsil,Aigatas,Aigatis,Aigatlos,Aigatsil,Aigatsol,Aigatus,Aigcatas,Aigcatil,Aigcating,Aigcatis,Aigcatsil,Aigcatsol,Aigcatus,Aigdring,Aigdris,Aigdrlos,Aigdrsil,Aigdrsol,Aigduras,Aigdurlos,Aigdursol,Aigthaing,Aigthais,Aigthasil,Aigthaus,Alaithas,Alaithis,Alaithlos,Alaithol,Alaithsol,Alaithus,Alalas,Alalil,Alalol,Alalsol,Alalus,Alatas,Alatil,Alating,Alatlos,Alatsil,Alcatil,Alcatis,Alcatlos,Alcatsil,Aldras,Aldril,Aldring,Aldris,Aldrlos,Aldrol,Aldrsol,Alduras,Aldurlos,Aldurol,Althaas,Althail,Althalos,Althaol,Althasil,Althasol,Althaus,Anaithas,Anaithil,Anaithing,Anaithis,Anaithsil,Anaithus,Analil,Anallos,Analol,Analsil,Analus,Anatas,Anating,Anatis,Anatol,Anatsol,Ancatas,Ancatil,Ancatol,Ancatus,Andril,Andris,Andrlos,Andrus,Anduril,Andurol,Andursol,Andurus,Anthaas,Anthaing,Anthais,Anthaol,Anthasil,Anthasol,Anthaus,Augaithas,Augaithing,Augaithsil,Augaithus,Augalas,Augaling,Augalol,Augating,Augatlos,Augatol,Augatsil,Augatsol,Augcatas,Augcatil,Augcatis,Augcatol,Augcatsil,Augcatus,Augdras,Augdris,Augdrsil,Augdrus,Augduras,Augduril,Augduring,Augdurol,Augdursol,Augdurus,Augthail,Augthais,Augthalos,Augthaol,Dulaithil,Dulaithing,Dulaithlos,Dulaithsil,Dulaithsol,Dulalas,Dulaling,Dulalis,Dulalsil,Dulatil,Dulating,Dulatol,Dulatsol,Dulatus,Dulcatil,Dulcating,Dulcatlos,Dulcatol,Dulcatsil,Dulcatsol,Duldril,Duldris,Duldrlos,Duldrol,Duldrsil,Duldrus,Dulduras,Dulduring,Duldursil,Duldurus,Dulthalos,Dulthasil,Dulthasol,Dulthaus,Glamaithil,Glamaithis,Glamaithol,Glamaithsol,Glamalil,Glamaling,Glamalis,Glamallos,Glamalsil,Glamalus,Glamatil,Glamatus,Glamcatas,Glamcatil,Glamcating,Glamcatsil,Glamcatus,Glamdras,Glamdril,Glamdrlos,Glamdrsol,Glamduras,Glamduril,Glamduring,Glamduris,Glamdursol,Glamthaas,Glamthaol,Glamthasil,Glamthasol,Glamthaus,Glomin,Gomaithas,Gomaithil,Gomaithol,Gomaithsol,Gomalil,Gomalis,Gomalus,Gomatas,Gomatil,Gomating,Gomatis,Gomatlos,Gomatol,Gomcatil,Gomcatis,Gomcatlos,Gomdras,Gomdril,Gomdring,Gomdris,Gomdrol,Gomdrsil,Gomduris,Gomdurlos,Gomdursil,Gomdursol,Gomdurus,Gomthaas,Gomthalos,Gomthasol,Naraithil,Naraithing,Naraithol,Naraithsil,Naraithsol,Naraithus,Naralas,Naralil,Naralsil,Naralus,Naratlos,Naratol,Naratsil,Narcating,Narcatis,Narcatol,Narcatsil,Narcatsol,Nardras,Nardril,Nardring,Nardris,Nardrol,Nardrsil,Nardrsol,Nardrus,Narduras,Narduril,Nardurol,Narthalos,Narthaol,Pelaithas,Pelaithil,Pelaithing,Pelaithis,Pelaithlos,Pelaithol,Pelaithsil,Pelaithsol,Pelalil,Pelaling,Pelalis,Pelalsil,Pelalsol,Pelalus,Pelatil,Pelating,Pelatis,Pelatol,Pelatsil,Pelatus,Pelcating,Pelcatlos,Pelcatol,Pelcatsil,Peldras,Peldril,Peldrsol,Peldrus,Pelduril,Pelduring,Pelduris,Peldurol,Peldursol,Peldurus,Pelthaas,Pelthail,Pelthasil,Trithaithas,Trithaithil,Trithaithis,Trithaithlos,Trithaithol,Trithaithsil,Trithaithsol,Trithaithus,Trithalis,Trithalol,Trithatas,Trithatil,Trithatlos,Trithatsol,Trithcatlos,Trithcatsol,Trithcatus,Trithdril,Trithdring,Trithdris,Trithdrlos,Trithdrol,Trithdrsol,Trithdrus,Trithduril,Trithduring,Trithdurlos,Trithdurol,Trithdursil,Trithdurus,Triththaas,Triththail,Triththaing,Triththasol,Triththaus"
+msgstr "আইগাইথাস,আইগাইথিল,আইগাইথিঙ,আইগাইথোল,আইগালাস,আইগালিঙ,আইগালিস,আইগালোল,আইগালসিল,আইগাটাস,আইগাটিস,আইগাটলোস,আইগাটসিল,আইগাটুস,আইকাটাস,আইগকাটিঙ,আইগকাটিস,আইগকাটসিল,আইগকাটসোল,আইগকাটাস,আইগড্রিঙ,আইগড্রিস,আইগড্রিলোস,আইগড্রসিল,আইগড্রসোল,আইগডুরাস,আইগডুরলোস,আইগডুরসোল"
 
 #. Generator for male dwarf names; see <https://wiki.wesnoth.org/Context-free_grammar> for syntax
 #: data/core/macros/names.cfg:40
@@ -2101,131 +2051,57 @@ msgstr ""
 
 #: data/core/macros/names.cfg:51
 msgid ""
-"Amadrieriand,Amáril,Amelad,Ameldor,Amendel,Ameng,Amilmaldur,Amilmalith,"
-"Amilmandir,Amind,Amiol,Amiorion,Amithrarion,Amóldor,Amorfimir,Amorfir,Amowyn,"
-"Amulas,Amundil,Anán,Anebrin,Anebrir,Anémbor,Anénduil,Anerion,Anilad,Anil-"
-"Gawyn,Anilmambor,Anilmariand,Anior,Anithranduil,Anol,Anon,Anorfing,Anundil,"
-"Belán,Belandil,Belarandel,Belel,Belén,Belil-Gandil,Belilmand,Belilmang,"
-"Beliondil,Beliril,Belithraldor,Belithrawyn,Belólad,Belómir,Belondel,Belyrion,"
-"Cadriembor,Cadrieriand,Cálad,Caladrielas,Calándel,Caldur,Cáldur,Calebrindel,"
-"Calebrindir,Calénduil,Calil-Gandir,Calil-Gawyn,Calioriand,Caliril,Calónduil,"
-"Caloril,Cándir,Canduil,Caraldur,Carang,Célad,Celadrieriand,Celang,Celaral,"
-"Celarandil,Celáriand,Celebririon,Celelas,Celendel,Celér,Celilmalas,Celiondir,"
-"Celior,Celiorion,Celong,Celór,Celóril,Celorion,Celundir,Celuwyn,Celyndel,"
-"Cénduil,Cindil,Ciong,Cithralad,Cithraldur,Cithrand,Cithrandel,Cithraril,Col,"
-"Corfil,Corfildur,Cówyn,Cun,Cundir,Cylas,Delán,Delánd,Delandel,Delaraldur,"
-"Deláril,Delawyn,Deléng,Delilmaldor,Deliol,Delithrar,Deliwyn,Delóldor,"
-"Delorfilad,Delorfilith,Delorion,Delundil,Eäradriendel,Eäradrier,Eäránduil,"
-"Eäraralad,Eärebrindel,Eäréldor,Eäreng,Eärérion,Eärithrandil,Eäromir,"
-"Eärorfiriand,Eäryldur,Eäryriand,Eladrieng,Elálith,Elánd,Elándil,Elebrildor,"
-"Elebrindel,Elebriril,Elélas,Elémbor,Elemir,Elen,Elil-Garil,Elilmaldur,"
-"Eliomir,Eliondil,Elolas,Elólas,Elor,Elorfilad,Elradrien,Elralith,Elran,"
-"Elreldur,Elrilmand,Elrioldor,Elriolith,Elrithralith,Elrithranduil,Elrorfir,"
-"Elval,Elvandir,Elvaramir,Elváwyn,Elvebrind,Elvebrindel,Elvélith,Elvémir,"
-"Elverion,Elvil-Garion,Elvilmaldur,Elvilmaril,Elvioldur,Elvombor,Elvónduil,"
-"Elvorfimir,Elvorfiriand,Elvorfiril,Elvóriand,Elvund,Elyldor,Elyrion,Eowambor,"
-"Eowanduil,Eowar,Eowaraldor,Eowaran,Eowarar,Eowariand,Eowarion,Eowebrind,"
-"Eowémir,Eowil-Garion,Eowimbor,Eowiomir,Eowithrawyn,Eowóldur,Eoworfildor,"
-"Eowówyn,Eowylas,Fadriendel,Fandel,Farandir,Fáwyn,Fendel,Fer,Filman,Fioril,"
-"Fithraril,Forfilas,Fyrion,Gadriendil,Gadrieng,Galadrieldor,Galálad,Galálas,"
-"Galalith,Galar,Galelas,Galeldur,Galelith,Galémbor,Galithrariand,Galoldur,"
-"Galuldur,Galur,Galurion,Gambor,Gán,Ganduil,Garaldor,Gararil,Gelad,Géril,Gil-"
-"Gandel,Gil-Gang,Giombor,Githral,Githralad,Gladriendil,Glal,Glámbor,Glandil,"
-"Glarang,Glararil,Glilmal,Glimir,Glior,Glólas,Gloldor,Glómir,Glon,Glul,Golad,"
-"Gor,Gumbor,Gyl,Gymbor,Gyn,Harariand,Háriand,Hebril,Hemir,Hénduil,Hilas,Hil-"
-"Garion,Hilmariand,Hiong,Hirion,Hithrandel,Horfilad,Horfindel,Hundel,Hymir,"
-"Hyrion,Hywyn,Isadrieng,Isándir,Isarandel,Isarar,Iselas,Isér,Isilmandel,"
-"Isirion,Isithral,Isól,Isóndel,Isóng,Isorfilad,Isorfindir,Isuwyn,Isyndel,"
-"Legal,Legaran,Legémir,Legéril,Legilad,Legil-Gal,Legiondel,Legithralith,"
-"Legorfindil,Legorfirion,Legówyn,Legyl,Legyn,Linduilas,Lómadrieril,Lómarand,"
-"Lómariand,Lómebrilad,Lómebrind,Lómémbor,Lómilmaril,Lómiriand,Lómorfindil,"
-"Lómowyn,Madrieril,Maldur,Mánduil,Maraldur,Mebrin,Méng,Mérion,Miolith,Miomir,"
-"Mithrand,Mondir,Móndir,Morfilas,Morfin,Morfiriand,Mylith,Nadrieldor,Nalith,"
-"Nán,Nél,Nil-Galas,Nil-Galith,Nil-Gar,Nilmar,Nóndel,Norfildor,Norfilith,"
-"Norfindil,Norfindir,Numbor,Nyldur,Padrieriand,Padrieril,Pamir,Paraldor,"
-"Parariand,Pilmalad,Pindir,Pór,Porfildur,Pumbor,Pyldur,Rebrir,Réndir,"
-"Rilmandil,Rithrandil,Ról,Róldor,Roldur,Róldur,Rorfilad,Rorfindil,Rówyn,Ryn,"
-"Sadrielas,Sebrin,Sebriril,Sénd,Sil-Gal,Sólad,Sorfind,Sóriand,Tadriendir,"
-"Taral,Taraldur,Táriand,Tendel,Téwyn,Thradrieriand,Thrambor,Thraral,Threbring,"
-"Thrélad,Thréldur,Thril-Gamir,Thril-Gandir,Thril-Gar,Thrilmandel,Thrimir,"
-"Thrion,Thrithran,Throlas,Thrón,Thróng,Thrund,Thryriand,Til-Gan,Tilmalad,"
-"Tilmalas,Tinandir,Tinarambor,Tinarariand,Tinén,Tinil-Ganduil,Tinilmand,"
-"Tinilmawyn,Tinimir,Tinindil,Tinithrar,Tinoldor,Tinond,Tinorfind,Tinorfiriand,"
-"Tinóriand,Tinowyn,Tinun,Tinyl,Tion,Tolas,Torfildur,Tówyn,Tylad,Unadrieldor,"
-"Unadrier,Unál,Unalas,Unálas,Unaraldur,Unaril,Unárion,Unebrin,Unebrind,"
-"Uneldor,Unil,Unil-Gan,Uniolith,Unioril,Unólith,Unombor,Unóndel,Unondir,"
-"Unorfildor,Unorfiril,Unorfiwyn,Unulad,Uradrielas,Uradrierion,Urálas,Urálith,"
-"Urambor,Urér,Uril-Gambor,Urilmalith,Uróldor,Urorfildor,Urul,Urymir,Válad,Ván,"
-"Vándel,Vandir,Varalas,Vararion,Vebril,Vebrilas,Vebrinduil,Vel,Vilith,Vol,"
-"Vólas,Vóldur,Vondel,Vorfin,Vorfindil,Vulas,Vuldur,Vunduil,Vylas,Vyldor"
+"Amadrieriand,Amáril,Amelad,Ameldor,Amendel,Ameng,Amilmaldur,Amilmalith,Amilmandir,Amind,Amiol,Amiorion,Amithrarion,Amóldor,Amorfimir,Amorfir,Amowyn,Amulas,Amundil,Anán,Anebrin,Anebrir,Anémbor,Anénduil,Anerion,Anilad,Anil-"
+"Gawyn,Anilmambor,Anilmariand,Anior,Anithranduil,Anol,Anon,Anorfing,Anundil,Belán,Belandil,Belarandel,Belel,Belén,Belil-"
+"Gandil,Belilmand,Belilmang,Beliondil,Beliril,Belithraldor,Belithrawyn,Belólad,Belómir,Belondel,Belyrion,Cadriembor,Cadrieriand,Cálad,Caladrielas,Calándel,Caldur,Cáldur,Calebrindel,Calebrindir,Calénduil,Calil-"
+"Gandir,Calil-"
+"Gawyn,Calioriand,Caliril,Calónduil,Caloril,Cándir,Canduil,Caraldur,Carang,Célad,Celadrieriand,Celang,Celaral,Celarandil,Celáriand,Celebririon,Celelas,Celendel,Celér,Celilmalas,Celiondir,Celior,Celiorion,Celong,Celór,Celóril,Celorion,Celundir,Celuwyn,Celyndel,Cénduil,Cindil,Ciong,Cithralad,Cithraldur,Cithrand,Cithrandel,Cithraril,Col,Corfil,Corfildur,Cówyn,Cun,Cundir,Cylas,Delán,Delánd,Delandel,Delaraldur,Deláril,Delawyn,Deléng,Delilmaldor,Deliol,Delithrar,Deliwyn,Delóldor,Delorfilad,Delorfilith,Delorion,Delundil,Eäradriendel,Eäradrier,Eäránduil,Eäraralad,Eärebrindel,Eäréldor,Eäreng,Eärérion,Eärithrandil,Eäromir,Eärorfiriand,Eäryldur,Eäryriand,Eladrieng,Elálith,Elánd,Elándil,Elebrildor,Elebrindel,Elebriril,Elélas,Elémbor,Elemir,Elen,Elil-"
+"Garil,Elilmaldur,Eliomir,Eliondil,Elolas,Elólas,Elor,Elorfilad,Elradrien,Elralith,Elran,Elreldur,Elrilmand,Elrioldor,Elriolith,Elrithralith,Elrithranduil,Elrorfir,Elval,Elvandir,Elvaramir,Elváwyn,Elvebrind,Elvebrindel,Elvélith,Elvémir,Elverion,Elvil-"
+"Garion,Elvilmaldur,Elvilmaril,Elvioldur,Elvombor,Elvónduil,Elvorfimir,Elvorfiriand,Elvorfiril,Elvóriand,Elvund,Elyldor,Elyrion,Eowambor,Eowanduil,Eowar,Eowaraldor,Eowaran,Eowarar,Eowariand,Eowarion,Eowebrind,Eowémir,Eowil-"
+"Garion,Eowimbor,Eowiomir,Eowithrawyn,Eowóldur,Eoworfildor,Eowówyn,Eowylas,Fadriendel,Fandel,Farandir,Fáwyn,Fendel,Fer,Filman,Fioril,Fithraril,Forfilas,Fyrion,Gadriendil,Gadrieng,Galadrieldor,Galálad,Galálas,Galalith,Galar,Galelas,Galeldur,Galelith,Galémbor,Galithrariand,Galoldur,Galuldur,Galur,Galurion,Gambor,Gán,Ganduil,Garaldor,Gararil,Gelad,Géril,Gil-"
+"Gandel,Gil-"
+"Gang,Giombor,Githral,Githralad,Gladriendil,Glal,Glámbor,Glandil,Glarang,Glararil,Glilmal,Glimir,Glior,Glólas,Gloldor,Glómir,Glon,Glul,Golad,Gor,Gumbor,Gyl,Gymbor,Gyn,Harariand,Háriand,Hebril,Hemir,Hénduil,Hilas,Hil-"
+"Garion,Hilmariand,Hiong,Hirion,Hithrandel,Horfilad,Horfindel,Hundel,Hymir,Hyrion,Hywyn,Isadrieng,Isándir,Isarandel,Isarar,Iselas,Isér,Isilmandel,Isirion,Isithral,Isól,Isóndel,Isóng,Isorfilad,Isorfindir,Isuwyn,Isyndel,Legal,Legaran,Legémir,Legéril,Legilad,Legil-"
+"Gal,Legiondel,Legithralith,Legorfindil,Legorfirion,Legówyn,Legyl,Legyn,Linduilas,Lómadrieril,Lómarand,Lómariand,Lómebrilad,Lómebrind,Lómémbor,Lómilmaril,Lómiriand,Lómorfindil,Lómowyn,Madrieril,Maldur,Mánduil,Maraldur,Mebrin,Méng,Mérion,Miolith,Miomir,Mithrand,Mondir,Móndir,Morfilas,Morfin,Morfiriand,Mylith,Nadrieldor,Nalith,Nán,Nél,Nil-"
+"Galas,Nil-Galith,Nil-"
+"Gar,Nilmar,Nóndel,Norfildor,Norfilith,Norfindil,Norfindir,Numbor,Nyldur,Padrieriand,Padrieril,Pamir,Paraldor,Parariand,Pilmalad,Pindir,Pór,Porfildur,Pumbor,Pyldur,Rebrir,Réndir,Rilmandil,Rithrandil,Ról,Róldor,Roldur,Róldur,Rorfilad,Rorfindil,Rówyn,Ryn,Sadrielas,Sebrin,Sebriril,Sénd,Sil-"
+"Gal,Sólad,Sorfind,Sóriand,Tadriendir,Taral,Taraldur,Táriand,Tendel,Téwyn,Thradrieriand,Thrambor,Thraral,Threbring,Thrélad,Thréldur,Thril-"
+"Gamir,Thril-Gandir,Thril-"
+"Gar,Thrilmandel,Thrimir,Thrion,Thrithran,Throlas,Thrón,Thróng,Thrund,Thryriand,Til-"
+"Gan,Tilmalad,Tilmalas,Tinandir,Tinarambor,Tinarariand,Tinén,Tinil-"
+"Ganduil,Tinilmand,Tinilmawyn,Tinimir,Tinindil,Tinithrar,Tinoldor,Tinond,Tinorfind,Tinorfiriand,Tinóriand,Tinowyn,Tinun,Tinyl,Tion,Tolas,Torfildur,Tówyn,Tylad,Unadrieldor,Unadrier,Unál,Unalas,Unálas,Unaraldur,Unaril,Unárion,Unebrin,Unebrind,Uneldor,Unil,Unil-"
+"Gan,Uniolith,Unioril,Unólith,Unombor,Unóndel,Unondir,Unorfildor,Unorfiril,Unorfiwyn,Unulad,Uradrielas,Uradrierion,Urálas,Urálith,Urambor,Urér,Uril-"
+"Gambor,Urilmalith,Uróldor,Urorfildor,Urul,Urymir,Válad,Ván,Vándel,Vandir,Varalas,Vararion,Vebril,Vebrilas,Vebrinduil,Vel,Vilith,Vol,Vólas,Vóldur,Vondel,Vorfin,Vorfindil,Vulas,Vuldur,Vunduil,Vylas,Vyldor"
 msgstr ""
 
 #: data/core/macros/names.cfg:52
 msgid ""
-"Amadrielia,Amadrielindë,Amadriendra,Amadriewen,Amarang,Amebrilindë,Amedë,"
-"Améthien,Amewien,Amil-Gadith,Amil-Garith,Amilmadia,Amiolith,Amionia,"
-"Amithraniel,Amithrawien,Amiwen,Amodë,Amorfilith,Amorith,Amulia,Amuviel,"
-"Amuwen,Analia,Anang,Anaraclya,Anáthien,Anebriniel,Anilmarith,Aning,Aniorith,"
-"Anówien,Anundra,Anuthiel,Anuthien,Anylindë,Anythien,Anywien,Belaclya,"
-"Beladrielith,Beladriewen,Beladriewien,Belarania,Belaraviel,Belebrindra,"
-"Belendra,Beliolia,Belithraniel,Belithrawiel,Belithrawien,Belowen,Belulindë,"
-"Cádë,Cadriewen,Caladrieng,Calándra,Calang,Calánia,Calebriwien,Calewen,"
-"Calewiel,Calil-Galith,Calilmalith,Calithraclya,Calóniel,Calorfiniel,Calówien,"
-"Caluclya,Ceclya,Celadë,Celália,Celálindë,Celarandra,Celararith,Celárith,"
-"Celebriniel,Celebriviel,Celelith,Celéng,Celérith,Celidien,Celilith,Celindë,"
-"Celiodë,Celioniel,Celith,Celithradith,Celódith,Celorfilindë,Celorfing,"
-"Celorfiwien,Celówien,Celylia,Cethien,Cing,Cithralith,Cithrania,Cithrawen,"
-"Cólindë,Corfiviel,Cydia,Delararith,Delebrinia,Deléthien,Delil-Ganiel,"
-"Deliowen,Delithrathiel,Delóndra,Delorfilindë,Delorfithien,Deloviel,Delydien,"
-"Eäradriedien,Eärániel,Eärarawien,Eärélia,Eärenia,Eärewen,Eäréwiel,Eärilmadë,"
-"Eärilmathien,Eäriolith,Eärithrang,Eärorfiwien,Eärudë,Eladriedë,Eladrielia,"
-"Elarawiel,Elebrindra,Eledë,Elelith,Elil-Gang,Elilmalia,Elilmawien,"
-"Elithraclya,Elithradien,Elóndra,Elorfing,Elorfithien,Elradrierith,Elránia,"
-"Elrebridith,Elréthiel,Elrilindë,Elrilmandra,Elrilmathien,Elrithiel,"
-"Elrithradith,Elriwen,Elródith,Elrorfidia,Eluviel,Elvádia,Elvánia,Elvil-"
-"Gawien,Elvilmathiel,Elviniel,Elviondra,Elvithrang,Elvithrathien,Elvowien,"
-"Elvyniel,Elvyviel,Elynia,Elywen,Eowalia,Eowarawien,Eowathiel,Eowebridith,"
-"Eowedith,Eowidien,Eowil-Galindë,Eowilindë,Eowiowien,Eowylia,Eowyniel,"
-"Fadriedith,Fadrielia,Fadriendra,Fadrienia,Falindë,Fáthiel,Fathien,Fáwien,"
-"Feclya,Féthiel,Fil-Galia,Fil-Gathiel,Fil-Gawien,Filmaclya,Fioniel,Fódë,"
-"Fólindë,Fulindë,Gadrieclya,Gadrieviel,Galadriethien,Galándra,Galaraniel,"
-"Galebrilia,Galebrindra,Galédë,Galedien,Galéwiel,Galil-Gania,Galilmadia,"
-"Galiothiel,Galithrathien,Galólia,Galolindë,Galorfiwiel,Galothiel,Galowen,"
-"Galundra,Galyniel,Gathien,Gáviel,Gebririth,Gewen,Gil-Gawien,Gilia,Gioniel,"
-"Gioviel,Giowen,Githrania,Githrawiel,Glália,Glebrithien,Gléndra,Glilmadien,"
-"Glilmawiel,Glithiel,Gloclya,Glodith,Glorfilith,Gloviel,Glowiel,Goclya,Godien,"
-"Gólia,Golindë,Guviel,Harawiel,Haviel,Háwien,Héclya,Hedia,Helith,Hewen,Hil-"
-"Gania,Hiodë,Hiwien,Hodia,Hódia,Horfinia,Horfiwien,Hóthiel,Huclya,Hunia,"
-"Huthien,Hyclya,Hythiel,Hythien,Isadrieng,Isáwen,Isebridien,Isebrinia,Isendra,"
-"Iséng,Iseviel,Isil-Garith,Isilindë,Isithradë,Isithradien,Isithrarith,"
-"Isithrawiel,Isóthien,Legádë,Legadien,Legadrieclya,Legadriedë,Legadrieniel,"
-"Legaraclya,Legebrilia,Legelith,Legeng,Legéniel,Legethiel,Legidia,Legil-"
-"Galindë,Legilmadith,Legilmawiel,Legithralindë,Legithrandra,Legithrania,"
-"Legolith,Legondra,Legorfidë,Lómániel,Lómebriclya,Lómebriniel,Lómedia,"
-"Lómeniel,Lómiclya,Lómilindë,Lómilmathiel,Lómilmawiel,Lómithradë,Lómithrarith,"
-"Lómódë,Lómolith,Lómóndra,Lómorfing,Lómorith,Lómudia,Lómulindë,Lómuniel,"
-"Lómuthiel,Lómynia,Lómythien,Mádia,Madrieclya,Maraclya,Mebriwiel,Meclya,"
-"Medien,Mil-Gathiel,Mil-Gathien,Milindë,Milith,Miowen,Miowiel,Mithradë,"
-"Mithralindë,Módë,Módia,Moniel,Morfilindë,Munia,Myndra,Mywiel,Narania,"
-"Naraniel,Náviel,Nawen,Newen,Nil-Gang,Nilmadia,Niodien,Niolia,Niothien,"
-"Nithraniel,Nithrarith,Nowen,Nydith,Pádia,Padriedith,Paralindë,Parandra,Pawen,"
-"Pebridien,Pil-Gadia,Pil-Gadien,Pilindë,Pindra,Pong,Porfindra,Porfiwien,"
-"Póviel,Pulia,Puthien,Reniel,Réviel,Ril-Gawien,Rindra,Riothien,Róng,Rorfiviel,"
-"Sadrienia,Sadrierith,Sálindë,Sáng,Saradith,Sarandra,Sédith,Sendra,Sethien,"
-"Silmaclya,Silmathiel,Sioclya,Siorith,Sithrang,Sithrawen,Soniel,Sothiel,"
-"Sothien,Syniel,Tadrierith,Tang,Taradien,Tarathiel,Tathiel,Terith,Thradia,"
-"Thrália,Thraraviel,Threbriniel,Thredien,Thrérith,Thridith,Thrinia,"
-"Thrithradia,Thrithrandra,Thrithraniel,Throlith,Throng,Throthiel,Thrulith,"
-"Thruthien,Thryng,Til-Gandra,Tilmaclya,Tilmaviel,Tináclya,Tinadriethien,"
-"Tinálindë,Tinaraniel,Tinarathien,Tinawiel,Tinebrithiel,Tinerith,Tinil-Gania,"
-"Tinil-Gawiel,Tiniolith,Tinithrathiel,Tinóng,Tinorfilith,Tinorfithien,Tinudia,"
-"Tiorith,Tithrathien,Tówiel,Tuniel,Unadrieng,Unáthien,Unebridë,Unénia,Unil-"
-"Gadia,Unilmadia,Unindra,Uniodë,Uniolia,Uniong,Unionia,Unóndra,Unorfiwen,"
-"Unulindë,Unuviel,Unynia,Uraclya,Uradriedia,Uránia,Urárith,Urebriclya,Ureclya,"
-"Urilmadia,Urilmawiel,Uriolia,Urithralindë,Uruthien,Uryrith,Vadrierith,"
-"Vadrieviel,Vadriewen,Varawiel,Vebrithien,Vil-Gandra,Violindë,Viowiel,"
-"Vithrang,Vithraniel,Viwiel,Vódia,Vóng,Vorficlya,Vorfing,Vorfirith,Vorfiwiel,"
-"Vówien"
+"Amadrielia,Amadrielindë,Amadriendra,Amadriewen,Amarang,Amebrilindë,Amedë,Améthien,Amewien,Amil-"
+"Gadith,Amil-"
+"Garith,Amilmadia,Amiolith,Amionia,Amithraniel,Amithrawien,Amiwen,Amodë,Amorfilith,Amorith,Amulia,Amuviel,Amuwen,Analia,Anang,Anaraclya,Anáthien,Anebriniel,Anilmarith,Aning,Aniorith,Anówien,Anundra,Anuthiel,Anuthien,Anylindë,Anythien,Anywien,Belaclya,Beladrielith,Beladriewen,Beladriewien,Belarania,Belaraviel,Belebrindra,Belendra,Beliolia,Belithraniel,Belithrawiel,Belithrawien,Belowen,Belulindë,Cádë,Cadriewen,Caladrieng,Calándra,Calang,Calánia,Calebriwien,Calewen,Calewiel,Calil-"
+"Galith,Calilmalith,Calithraclya,Calóniel,Calorfiniel,Calówien,Caluclya,Ceclya,Celadë,Celália,Celálindë,Celarandra,Celararith,Celárith,Celebriniel,Celebriviel,Celelith,Celéng,Celérith,Celidien,Celilith,Celindë,Celiodë,Celioniel,Celith,Celithradith,Celódith,Celorfilindë,Celorfing,Celorfiwien,Celówien,Celylia,Cethien,Cing,Cithralith,Cithrania,Cithrawen,Cólindë,Corfiviel,Cydia,Delararith,Delebrinia,Deléthien,Delil-"
+"Ganiel,Deliowen,Delithrathiel,Delóndra,Delorfilindë,Delorfithien,Deloviel,Delydien,Eäradriedien,Eärániel,Eärarawien,Eärélia,Eärenia,Eärewen,Eäréwiel,Eärilmadë,Eärilmathien,Eäriolith,Eärithrang,Eärorfiwien,Eärudë,Eladriedë,Eladrielia,Elarawiel,Elebrindra,Eledë,Elelith,Elil-"
+"Gang,Elilmalia,Elilmawien,Elithraclya,Elithradien,Elóndra,Elorfing,Elorfithien,Elradrierith,Elránia,Elrebridith,Elréthiel,Elrilindë,Elrilmandra,Elrilmathien,Elrithiel,Elrithradith,Elriwen,Elródith,Elrorfidia,Eluviel,Elvádia,Elvánia,Elvil-"
+"Gawien,Elvilmathiel,Elviniel,Elviondra,Elvithrang,Elvithrathien,Elvowien,Elvyniel,Elvyviel,Elynia,Elywen,Eowalia,Eowarawien,Eowathiel,Eowebridith,Eowedith,Eowidien,Eowil-"
+"Galindë,Eowilindë,Eowiowien,Eowylia,Eowyniel,Fadriedith,Fadrielia,Fadriendra,Fadrienia,Falindë,Fáthiel,Fathien,Fáwien,Feclya,Féthiel,Fil-"
+"Galia,Fil-Gathiel,Fil-"
+"Gawien,Filmaclya,Fioniel,Fódë,Fólindë,Fulindë,Gadrieclya,Gadrieviel,Galadriethien,Galándra,Galaraniel,Galebrilia,Galebrindra,Galédë,Galedien,Galéwiel,Galil-"
+"Gania,Galilmadia,Galiothiel,Galithrathien,Galólia,Galolindë,Galorfiwiel,Galothiel,Galowen,Galundra,Galyniel,Gathien,Gáviel,Gebririth,Gewen,Gil-"
+"Gawien,Gilia,Gioniel,Gioviel,Giowen,Githrania,Githrawiel,Glália,Glebrithien,Gléndra,Glilmadien,Glilmawiel,Glithiel,Gloclya,Glodith,Glorfilith,Gloviel,Glowiel,Goclya,Godien,Gólia,Golindë,Guviel,Harawiel,Haviel,Háwien,Héclya,Hedia,Helith,Hewen,Hil-"
+"Gania,Hiodë,Hiwien,Hodia,Hódia,Horfinia,Horfiwien,Hóthiel,Huclya,Hunia,Huthien,Hyclya,Hythiel,Hythien,Isadrieng,Isáwen,Isebridien,Isebrinia,Isendra,Iséng,Iseviel,Isil-"
+"Garith,Isilindë,Isithradë,Isithradien,Isithrarith,Isithrawiel,Isóthien,Legádë,Legadien,Legadrieclya,Legadriedë,Legadrieniel,Legaraclya,Legebrilia,Legelith,Legeng,Legéniel,Legethiel,Legidia,Legil-"
+"Galindë,Legilmadith,Legilmawiel,Legithralindë,Legithrandra,Legithrania,Legolith,Legondra,Legorfidë,Lómániel,Lómebriclya,Lómebriniel,Lómedia,Lómeniel,Lómiclya,Lómilindë,Lómilmathiel,Lómilmawiel,Lómithradë,Lómithrarith,Lómódë,Lómolith,Lómóndra,Lómorfing,Lómorith,Lómudia,Lómulindë,Lómuniel,Lómuthiel,Lómynia,Lómythien,Mádia,Madrieclya,Maraclya,Mebriwiel,Meclya,Medien,Mil-"
+"Gathiel,Mil-"
+"Gathien,Milindë,Milith,Miowen,Miowiel,Mithradë,Mithralindë,Módë,Módia,Moniel,Morfilindë,Munia,Myndra,Mywiel,Narania,Naraniel,Náviel,Nawen,Newen,Nil-"
+"Gang,Nilmadia,Niodien,Niolia,Niothien,Nithraniel,Nithrarith,Nowen,Nydith,Pádia,Padriedith,Paralindë,Parandra,Pawen,Pebridien,Pil-"
+"Gadia,Pil-"
+"Gadien,Pilindë,Pindra,Pong,Porfindra,Porfiwien,Póviel,Pulia,Puthien,Reniel,Réviel,Ril-"
+"Gawien,Rindra,Riothien,Róng,Rorfiviel,Sadrienia,Sadrierith,Sálindë,Sáng,Saradith,Sarandra,Sédith,Sendra,Sethien,Silmaclya,Silmathiel,Sioclya,Siorith,Sithrang,Sithrawen,Soniel,Sothiel,Sothien,Syniel,Tadrierith,Tang,Taradien,Tarathiel,Tathiel,Terith,Thradia,Thrália,Thraraviel,Threbriniel,Thredien,Thrérith,Thridith,Thrinia,Thrithradia,Thrithrandra,Thrithraniel,Throlith,Throng,Throthiel,Thrulith,Thruthien,Thryng,Til-"
+"Gandra,Tilmaclya,Tilmaviel,Tináclya,Tinadriethien,Tinálindë,Tinaraniel,Tinarathien,Tinawiel,Tinebrithiel,Tinerith,Tinil-"
+"Gania,Tinil-"
+"Gawiel,Tiniolith,Tinithrathiel,Tinóng,Tinorfilith,Tinorfithien,Tinudia,Tiorith,Tithrathien,Tówiel,Tuniel,Unadrieng,Unáthien,Unebridë,Unénia,Unil-"
+"Gadia,Unilmadia,Unindra,Uniodë,Uniolia,Uniong,Unionia,Unóndra,Unorfiwen,Unulindë,Unuviel,Unynia,Uraclya,Uradriedia,Uránia,Urárith,Urebriclya,Ureclya,Urilmadia,Urilmawiel,Uriolia,Urithralindë,Uruthien,Uryrith,Vadrierith,Vadrieviel,Vadriewen,Varawiel,Vebrithien,Vil-"
+"Gandra,Violindë,Viowiel,Vithrang,Vithraniel,Viwiel,Vódia,Vóng,Vorficlya,Vorfing,Vorfirith,Vorfiwiel,Vówien"
 msgstr ""
 
 #. Generator for male elf names; see <https://wiki.wesnoth.org/Context-free_grammar> for syntax
@@ -2325,103 +2201,11 @@ msgstr ""
 "centre=এর|আশ|ঈজ়|আজ়\n"
 
 #: data/core/macros/names.cfg:107
-msgid ""
-"Addraecyn,Addraenvan,Addraer,Addraercyn,Addraryn,Addreddry,Addredry,"
-"Addregwyn,Addrenyc,Addreoddry,Addreoddyn,Addreonyc,Addreorcyn,Addreran,"
-"Addribryn,Addriddyn,Addrocyn,Addroryn,Addrunvan,Addrurcyn,Addryllyn,"
-"Addrynvan,Aethacyn,Aethadry,Aethaec,Aethaeran,Aethaeryn,Aethagwyn,Aethanry,"
-"Aetharcyn,Aethec,Aethellyn,Aethenvan,Aetheoc,Aetheollyn,Aetheonyc,Aetheorcyn,"
-"Aethercyn,Aetherraent,Aethibryn,Aethiddry,Aethircyn,Aethobryn,Aethoddyn,"
-"Aethonnyn,Aethuc,Aethudry,Aethugwyn,Aethun,Aethunry,Aethydry,Aethynyc,Blac,"
-"Bladoc,Blaec,Blaedry,Blanry,Blebryn,Bledoc,Blemyr,Blennyn,Blenvan,Bleollyn,"
-"Blercyn,Blidd,Bliddry,Blillyn,Blinvan,Blollyn,Blubryn,Blucyn,Bludry,Blullyn,"
-"Bluran,Blybryn,Blydd,Blygwyn,Blymyr,Blyr,Bucyn,Cac,Cadry,Caebryn,Caedry,"
-"Caeran,Caercyn,Car,Carac,Caraddry,Caradoc,Caraedry,Caraennyn,Cararyn,Caredd,"
-"Careddry,Caregwyn,Caren,Careobryn,Careogwyn,Careonvan,Careorraent,Careoryn,"
-"Carercyn,Caric,Cariddry,Carocyn,Caroddyn,Caror,Caroran,Carraent,Carudoc,"
-"Carullyn,Carygwyn,Caryn,Cebryn,Cemyr,Cennyn,Ceoc,Ceoddry,Ceoddyn,Ceomyr,"
-"Ceonnyn,Ceonry,Ceoryn,Cicyn,Cin,Cinry,Coc,Convan,Corcyn,Cubryn,Cunry,Curyn,"
-"Cynyc,Cyryn,Dac,Dadd,Dadoc,Daeddry,Daedoc,Daellyn,Demyr,Denvan,Deodd,Deollyn,"
-"Deonyc,Derraent,Dibryn,Dinnyn,Dircyn,Dycyn,Dyddyn,Gaddry,Gaebryn,Gaedry,"
-"Gaercyn,Gagwyn,Gan,Gannyn,Gar,Gecyn,Geddyn,Gegwyn,Geodry,Ginvan,Glacyn,"
-"Gladoc,Glaercyn,Glarraent,Gleddry,Gleoddyn,Gleran,Gliddyn,Glillyn,Glinry,"
-"Glircyn,Gloddry,Gloddyn,Glonry,Glonvan,Glumyr,Glun,Glunry,Glunvan,Glyc,Glydd,"
-"Glydoc,Glynry,Glynvan,Glyran,Goc,Gor,Gubryn,Gudd,Gullyn,Gumyr,Gur,Gwadoc,"
-"Gwaec,Gwaeddyn,Gwan,Gweddyn,Gwegwyn,Gwellyn,Gwennyn,Gwenyc,Gweocyn,Gweodd,"
-"Gweodoc,Gweodry,Gweogwyn,Gweoran,Gwidoc,Gwilam,Gwodd,Gwoddyn,Gwollyn,Gwor,"
-"Gwucyn,Gwudoc,Gwumyr,Gwuran,Gwybryn,Gwycyn,Gwyddry,Gwydoc,Gwymyr,Gwynnyn,"
-"Gydoc,Gyllyn,Gymyr,Haldar,Labryn,Ladoc,Laellyn,Lan,Lannyn,Laran,Lec,Lemyr,"
-"Lenvan,Leogwyn,Lercyn,Ligwyn,Lin,Liryn,Lonnyn,Lorraent,Luddry,Ludoc,Lunnyn,"
-"Lunvan,Lurraent,Mac,Maddyn,Maennyn,Manry,Manyc,Marcyn,Mec,Menvan,Meollyn,"
-"Meon,Meonnyn,Meorraent,Middry,Midry,Mimyr,Modd,Moddry,Monry,Moran,Morcyn,"
-"Mubryn,Mudoc,Mugwyn,Murcyn,Mydoc,Mygwyn,Myn,Myrraent,Owac,Owadd,Owaddyn,"
-"Owaecyn,Owaedry,Owain,Owarcyn,Owaryn,Owecyn,Owedry,Oweomyr,Oweor,Oweorcyn,"
-"Oweran,Owercyn,Owidry,Owinvan,Owinyc,Owodd,Owoddry,Owogwyn,Owollyn,Oworan,"
-"Oworcyn,Oworraent,Owuddry,Owuddyn,Owugwyn,Owur,Owyran,Rabryn,Radd,Ranvan,Rar,"
-"Reoddyn,Reodry,Rhaecyn,Rhaedoc,Rhaemyr,Rhaerraent,Rhanry,Rharcyn,Rhenry,"
-"Rhenvan,Rhenyc,Rheodd,Rheoddyn,Rheollyn,Rheor,Rheoran,Rheorraent,Rheran,"
-"Rherraent,Rhobryn,Rhodry,Rhollyn,Rhonvan,Rhubryn,Rhugwyn,Rhunyc,Rhur,Rhygwyn,"
-"Rhyllyn,Rhynyc,Rhyrcyn,Rhyrraent,Rocyn,Roddyn,Romyr,Ron,Ronry,Rubryn,Ruddry,"
-"Rumyr,Run,Rurcyn,Rybryn,Rycyn,Ryddry,Rygwyn,Rynnyn,Rynry,Saec,Saellyn,Saemyr,"
-"Saenvan,Saercyn,Sanyc,Saran,Sarraent,Secyn,Seddyn,Sedry,Sellyn,Sennyn,"
-"Seoddry,Seorcyn,Sercyn,Siddry,Simyr,Siryn,Sodd,Sodry,Soran,Suc,Sudd,Surcyn,"
-"Sydd,Syran,Syryn,Tabryn,Taec,Taedd,Taedoc,Taemyr,Taenvan,Taercyn,Tanry,"
-"Tarcyn,Teddyn,Tegwyn,Ten,Tennyn,Tenvan,Teobryn,Teoddyn,Teor,Teorcyn,Terraent,"
-"Tinry,Tinvan,Tiryn,Todd,Tudd,Tuddry,Tudoc,Tunvan,Turraent,Tyddyn,Vaddyn,"
-"Vaeddyn,Vaedry,Vaennyn,Varcyn,Ven,Vennyn,Veocyn,Veoddyn,Veodry,Veogwyn,"
-"Veomyr,Vinvan,Vinyc,Virraent,Vobryn,Vogwyn,Vonry,Vuddyn,Vugwyn,Vyc,Vygwyn,"
-"Vyrcyn,Yracyn,Yraec,Yran,Yrannyn,Yranvan,Yraryn,Yredd,Yreddyn,Yregwyn,Yreryn,"
-"Yrinvan,Yrirraent,Yroddry,Yrullyn,Yrumyr,Yrunnyn,Yrunvan,Yryllyn,Yrymyr,"
-"Yrynyc,Yryrcyn"
+msgid "Addraecyn,Addraenvan,Addraer,Addraercyn,Addraryn,Addreddry,Addredry,Addregwyn,Addrenyc,Addreoddry,Addreoddyn,Addreonyc,Addreorcyn,Addreran,Addribryn,Addriddyn,Addrocyn,Addroryn,Addrunvan,Addrurcyn,Addryllyn,Addrynvan,Aethacyn,Aethadry,Aethaec,Aethaeran,Aethaeryn,Aethagwyn,Aethanry,Aetharcyn,Aethec,Aethellyn,Aethenvan,Aetheoc,Aetheollyn,Aetheonyc,Aetheorcyn,Aethercyn,Aetherraent,Aethibryn,Aethiddry,Aethircyn,Aethobryn,Aethoddyn,Aethonnyn,Aethuc,Aethudry,Aethugwyn,Aethun,Aethunry,Aethydry,Aethynyc,Blac,Bladoc,Blaec,Blaedry,Blanry,Blebryn,Bledoc,Blemyr,Blennyn,Blenvan,Bleollyn,Blercyn,Blidd,Bliddry,Blillyn,Blinvan,Blollyn,Blubryn,Blucyn,Bludry,Blullyn,Bluran,Blybryn,Blydd,Blygwyn,Blymyr,Blyr,Bucyn,Cac,Cadry,Caebryn,Caedry,Caeran,Caercyn,Car,Carac,Caraddry,Caradoc,Caraedry,Caraennyn,Cararyn,Caredd,Careddry,Caregwyn,Caren,Careobryn,Careogwyn,Careonvan,Careorraent,Careoryn,Carercyn,Caric,Cariddry,Carocyn,Caroddyn,Caror,Caroran,Carraent,Carudoc,Carullyn,Carygwyn,Caryn,Cebryn,Cemyr,Cennyn,Ceoc,Ceoddry,Ceoddyn,Ceomyr,Ceonnyn,Ceonry,Ceoryn,Cicyn,Cin,Cinry,Coc,Convan,Corcyn,Cubryn,Cunry,Curyn,Cynyc,Cyryn,Dac,Dadd,Dadoc,Daeddry,Daedoc,Daellyn,Demyr,Denvan,Deodd,Deollyn,Deonyc,Derraent,Dibryn,Dinnyn,Dircyn,Dycyn,Dyddyn,Gaddry,Gaebryn,Gaedry,Gaercyn,Gagwyn,Gan,Gannyn,Gar,Gecyn,Geddyn,Gegwyn,Geodry,Ginvan,Glacyn,Gladoc,Glaercyn,Glarraent,Gleddry,Gleoddyn,Gleran,Gliddyn,Glillyn,Glinry,Glircyn,Gloddry,Gloddyn,Glonry,Glonvan,Glumyr,Glun,Glunry,Glunvan,Glyc,Glydd,Glydoc,Glynry,Glynvan,Glyran,Goc,Gor,Gubryn,Gudd,Gullyn,Gumyr,Gur,Gwadoc,Gwaec,Gwaeddyn,Gwan,Gweddyn,Gwegwyn,Gwellyn,Gwennyn,Gwenyc,Gweocyn,Gweodd,Gweodoc,Gweodry,Gweogwyn,Gweoran,Gwidoc,Gwilam,Gwodd,Gwoddyn,Gwollyn,Gwor,Gwucyn,Gwudoc,Gwumyr,Gwuran,Gwybryn,Gwycyn,Gwyddry,Gwydoc,Gwymyr,Gwynnyn,Gydoc,Gyllyn,Gymyr,Haldar,Labryn,Ladoc,Laellyn,Lan,Lannyn,Laran,Lec,Lemyr,Lenvan,Leogwyn,Lercyn,Ligwyn,Lin,Liryn,Lonnyn,Lorraent,Luddry,Ludoc,Lunnyn,Lunvan,Lurraent,Mac,Maddyn,Maennyn,Manry,Manyc,Marcyn,Mec,Menvan,Meollyn,Meon,Meonnyn,Meorraent,Middry,Midry,Mimyr,Modd,Moddry,Monry,Moran,Morcyn,Mubryn,Mudoc,Mugwyn,Murcyn,Mydoc,Mygwyn,Myn,Myrraent,Owac,Owadd,Owaddyn,Owaecyn,Owaedry,Owain,Owarcyn,Owaryn,Owecyn,Owedry,Oweomyr,Oweor,Oweorcyn,Oweran,Owercyn,Owidry,Owinvan,Owinyc,Owodd,Owoddry,Owogwyn,Owollyn,Oworan,Oworcyn,Oworraent,Owuddry,Owuddyn,Owugwyn,Owur,Owyran,Rabryn,Radd,Ranvan,Rar,Reoddyn,Reodry,Rhaecyn,Rhaedoc,Rhaemyr,Rhaerraent,Rhanry,Rharcyn,Rhenry,Rhenvan,Rhenyc,Rheodd,Rheoddyn,Rheollyn,Rheor,Rheoran,Rheorraent,Rheran,Rherraent,Rhobryn,Rhodry,Rhollyn,Rhonvan,Rhubryn,Rhugwyn,Rhunyc,Rhur,Rhygwyn,Rhyllyn,Rhynyc,Rhyrcyn,Rhyrraent,Rocyn,Roddyn,Romyr,Ron,Ronry,Rubryn,Ruddry,Rumyr,Run,Rurcyn,Rybryn,Rycyn,Ryddry,Rygwyn,Rynnyn,Rynry,Saec,Saellyn,Saemyr,Saenvan,Saercyn,Sanyc,Saran,Sarraent,Secyn,Seddyn,Sedry,Sellyn,Sennyn,Seoddry,Seorcyn,Sercyn,Siddry,Simyr,Siryn,Sodd,Sodry,Soran,Suc,Sudd,Surcyn,Sydd,Syran,Syryn,Tabryn,Taec,Taedd,Taedoc,Taemyr,Taenvan,Taercyn,Tanry,Tarcyn,Teddyn,Tegwyn,Ten,Tennyn,Tenvan,Teobryn,Teoddyn,Teor,Teorcyn,Terraent,Tinry,Tinvan,Tiryn,Todd,Tudd,Tuddry,Tudoc,Tunvan,Turraent,Tyddyn,Vaddyn,Vaeddyn,Vaedry,Vaennyn,Varcyn,Ven,Vennyn,Veocyn,Veoddyn,Veodry,Veogwyn,Veomyr,Vinvan,Vinyc,Virraent,Vobryn,Vogwyn,Vonry,Vuddyn,Vugwyn,Vyc,Vygwyn,Vyrcyn,Yracyn,Yraec,Yran,Yrannyn,Yranvan,Yraryn,Yredd,Yreddyn,Yregwyn,Yreryn,Yrinvan,Yrirraent,Yroddry,Yrullyn,Yrumyr,Yrunnyn,Yrunvan,Yryllyn,Yrymyr,Yrynyc,Yryrcyn"
 msgstr ""
 
 #: data/core/macros/names.cfg:108
-msgid ""
-"Alabrylla,Alaebrylla,Alaeniver,Alalla,Alalonna,Alaryan,Aleacla,Aleaniver,"
-"Aleara,Alearka,Alena,Alengwen,Alilonna,Alingwen,Alolla,Alolonna,Alora,"
-"Alubrylla,Aluniver,Aluryan,Alussa,Alwcla,Alwllyra,Alwlyan,Alwna,Alybrylla,"
-"Alynoic,Alyra,Alyryan,Braedda,Brassa,Bravyan,Breabrylla,Breall,Brealla,"
-"Brealonna,Breana,Brell,Brellyra,Brera,Brerka,Breryan,Bricla,Brirka,Brobrylla,"
-"Brollyra,Brona,Bronoic,Brora,Brorka,Brungwen,Bruryan,Brwra,Brycla,Brynoic,"
-"Caella,Caena,Caengwen,Caevyan,Call,Calla,Cassa,Cealonna,Cera,Ceryan,Cibrylla,"
-"Cicla,Cinoic,Cira,Cissa,Clacla,Claella,Claelyan,Claenoic,Clalla,Clallyra,"
-"Clara,Clarka,Clavyan,Cleacla,Cleall,Clealyan,Cleana,Cleanoic,Clenoic,"
-"Clibrylla,Clill,Clillyra,Clilyan,Clinoic,Clissa,Clobrylla,Clollyra,Clona,"
-"Clongwen,Clungwen,Clurka,Cluvyan,Clwdda,Clwlla,Clwvyan,Clydda,Clylla,Cora,"
-"Coryan,Cucla,Cudda,Curyan,Cwdda,Cwlonna,Cwngwen,Cwvyan,Cydda,Cylla,Cyllyra,"
-"Cylyan,Cyniver,Cyvyan,Daedda,Daelyan,Daengwen,Daenoic,Dalla,Dallyra,Dangwen,"
-"Dara,Dassa,Deanoic,Deassa,Della,Devyan,Dicla,Diniver,Dissa,Dollyra,Dullyra,"
-"Dulonna,Dwbrylla,Dwdda,Dwna,Dwnoic,Dwra,Dybrylla,Dydda,Dyssa,Elacla,Elaedda,"
-"Elaell,Elaelonna,Elaessa,Elaevyan,Elallyra,Elalonna,Elara,Elavyan,Elealla,"
-"Eleanoic,Elearka,Elenoic,Elerka,Elivyan,Elulonna,Elurka,Elwllyra,Elwlonna,"
-"Elwngwen,Elwra,Elycla,Elyllyra,Elyngwen,Elyniver,Elyrka,Gwaera,Gwaessa,"
-"Gwangwen,Gweacla,Gwedda,Gwerka,Gwicla,Gwirka,Gwobrylla,Gwoll,Gwona,Gwongwen,"
-"Gwonoic,Gworyan,Gwullyra,Gwussa,Gwwcla,Gwwna,Gwwvyan,Gwycla,Gwydda,Heldra,"
-"Jacla,Jaena,Jaerka,Jaevyan,Jalyan,Jana,Jarka,Jassa,Jeabrylla,Jealla,Jeanoic,"
-"Jeniver,Jiryan,Jissa,Joll,Jolla,Jona,Jongwen,Jonoic,Jora,Jorka,Jovyan,Judda,"
-"Jull,Julonna,Jura,Jwll,Jwlyan,Jycla,Jyniver,Jynoic,Jyrka,Jyvyan,Laeniver,"
-"Laenoic,Laeryan,Langwen,Larka,Lassa,Lealonna,Lealyan,Ledda,Lelonna,Lelyan,"
-"Lengwen,Lerka,Lessa,Lidda,Lill,Lina,Lirka,Liryan,Livyan,Locla,Lodda,Lollyra,"
-"Lolonna,Lulla,Lulyan,Lungwen,Lunoic,Luryan,Lwcla,Lwlla,Lwnoic,Lwryan,Lycla,"
-"Lylla,Lylyan,Lyna,Lynoic,Maecla,Maeniver,Mavyan,Meacla,Mealyan,Meana,"
-"Meangwen,Meanoic,Medda,Melonna,Mengwen,Meniver,Meradda,Meraecla,Meraelyan,"
-"Merall,Merallyra,Meralonna,Merana,Meranoic,Merealonna,Mereangwen,Mereaniver,"
-"Merebrylla,Merella,Merengwen,Meressa,Merilyan,Merina,Merinoic,Merissa,"
-"Merivyan,Merolla,Merolyan,Merona,Meroniver,Merubrylla,Merudda,Merurka,"
-"Merwlla,Merwnoic,Merwryan,Merydda,Merylyan,Messa,Milonna,Molyan,Moniver,"
-"Mossa,Mudda,Mullyra,Mulyan,Muryan,Mwbrylla,Mwlyan,Mwngwen,Mwnoic,Mycla,Myll,"
-"Mylla,Myra,Myvyan,Nabrylla,Naebrylla,Naecla,Naell,Nalyan,Nangwen,Nealla,"
-"Neallyra,Nealonna,Neavyan,Nera,Nessa,Ninoic,Niryan,Nivyan,Nobrylla,Nolla,"
-"Nonoic,Norka,Noryan,Nucla,Nulla,Nulyan,Nungwen,Nuvyan,Nwllyra,Nwryan,Nwvyan,"
-"Nybrylla,Nyll,Nylyan,Nyryan,Nyssa,Nyvyan,Raebrylla,Raera,Raerka,Ralonna,Rara,"
-"Rarka,Rassa,Reacla,Realla,Reana,Reangwen,Rella,Relyan,Rengwen,Rerka,Revyan,"
-"Rilonna,Rilyan,Rirka,Rora,Rucla,Ruryan,Rwdda,Rwlla,Rwllyra,Rwlonna,Rwngwen,"
-"Rybrylla,Ryna,Ryngwen,Saell,Saellyra,Saeniver,Saerka,Saessa,Sallyra,Sanoic,"
-"Sara,Sassa,Searka,Sena,Senoic,Sera,Silonna,Sira,Siryan,Sona,Sorka,Subrylla,"
-"Sull,Sulonna,Sulyan,Sura,Sussa,Swlla,Swlyan,Swngwen,Swnoic,Swvyan,Syllyra,"
-"Sylyan,Syssa,Ysacla,Ysaenoic,Ysaerka,Ysanoic,Yseacla,Ysealonna,Ysealyan,"
-"Ysedda,Ysell,Yselonna,Ysilyan,Ysinoic,Ysodda,Ysongwen,Ysonoic,Ysura,Yswniver,"
-"Ysycla,Ysylla,Ysylyan,Ysyrka,Ysyssa"
+msgid "Alabrylla,Alaebrylla,Alaeniver,Alalla,Alalonna,Alaryan,Aleacla,Aleaniver,Aleara,Alearka,Alena,Alengwen,Alilonna,Alingwen,Alolla,Alolonna,Alora,Alubrylla,Aluniver,Aluryan,Alussa,Alwcla,Alwllyra,Alwlyan,Alwna,Alybrylla,Alynoic,Alyra,Alyryan,Braedda,Brassa,Bravyan,Breabrylla,Breall,Brealla,Brealonna,Breana,Brell,Brellyra,Brera,Brerka,Breryan,Bricla,Brirka,Brobrylla,Brollyra,Brona,Bronoic,Brora,Brorka,Brungwen,Bruryan,Brwra,Brycla,Brynoic,Caella,Caena,Caengwen,Caevyan,Call,Calla,Cassa,Cealonna,Cera,Ceryan,Cibrylla,Cicla,Cinoic,Cira,Cissa,Clacla,Claella,Claelyan,Claenoic,Clalla,Clallyra,Clara,Clarka,Clavyan,Cleacla,Cleall,Clealyan,Cleana,Cleanoic,Clenoic,Clibrylla,Clill,Clillyra,Clilyan,Clinoic,Clissa,Clobrylla,Clollyra,Clona,Clongwen,Clungwen,Clurka,Cluvyan,Clwdda,Clwlla,Clwvyan,Clydda,Clylla,Cora,Coryan,Cucla,Cudda,Curyan,Cwdda,Cwlonna,Cwngwen,Cwvyan,Cydda,Cylla,Cyllyra,Cylyan,Cyniver,Cyvyan,Daedda,Daelyan,Daengwen,Daenoic,Dalla,Dallyra,Dangwen,Dara,Dassa,Deanoic,Deassa,Della,Devyan,Dicla,Diniver,Dissa,Dollyra,Dullyra,Dulonna,Dwbrylla,Dwdda,Dwna,Dwnoic,Dwra,Dybrylla,Dydda,Dyssa,Elacla,Elaedda,Elaell,Elaelonna,Elaessa,Elaevyan,Elallyra,Elalonna,Elara,Elavyan,Elealla,Eleanoic,Elearka,Elenoic,Elerka,Elivyan,Elulonna,Elurka,Elwllyra,Elwlonna,Elwngwen,Elwra,Elycla,Elyllyra,Elyngwen,Elyniver,Elyrka,Gwaera,Gwaessa,Gwangwen,Gweacla,Gwedda,Gwerka,Gwicla,Gwirka,Gwobrylla,Gwoll,Gwona,Gwongwen,Gwonoic,Gworyan,Gwullyra,Gwussa,Gwwcla,Gwwna,Gwwvyan,Gwycla,Gwydda,Heldra,Jacla,Jaena,Jaerka,Jaevyan,Jalyan,Jana,Jarka,Jassa,Jeabrylla,Jealla,Jeanoic,Jeniver,Jiryan,Jissa,Joll,Jolla,Jona,Jongwen,Jonoic,Jora,Jorka,Jovyan,Judda,Jull,Julonna,Jura,Jwll,Jwlyan,Jycla,Jyniver,Jynoic,Jyrka,Jyvyan,Laeniver,Laenoic,Laeryan,Langwen,Larka,Lassa,Lealonna,Lealyan,Ledda,Lelonna,Lelyan,Lengwen,Lerka,Lessa,Lidda,Lill,Lina,Lirka,Liryan,Livyan,Locla,Lodda,Lollyra,Lolonna,Lulla,Lulyan,Lungwen,Lunoic,Luryan,Lwcla,Lwlla,Lwnoic,Lwryan,Lycla,Lylla,Lylyan,Lyna,Lynoic,Maecla,Maeniver,Mavyan,Meacla,Mealyan,Meana,Meangwen,Meanoic,Medda,Melonna,Mengwen,Meniver,Meradda,Meraecla,Meraelyan,Merall,Merallyra,Meralonna,Merana,Meranoic,Merealonna,Mereangwen,Mereaniver,Merebrylla,Merella,Merengwen,Meressa,Merilyan,Merina,Merinoic,Merissa,Merivyan,Merolla,Merolyan,Merona,Meroniver,Merubrylla,Merudda,Merurka,Merwlla,Merwnoic,Merwryan,Merydda,Merylyan,Messa,Milonna,Molyan,Moniver,Mossa,Mudda,Mullyra,Mulyan,Muryan,Mwbrylla,Mwlyan,Mwngwen,Mwnoic,Mycla,Myll,Mylla,Myra,Myvyan,Nabrylla,Naebrylla,Naecla,Naell,Nalyan,Nangwen,Nealla,Neallyra,Nealonna,Neavyan,Nera,Nessa,Ninoic,Niryan,Nivyan,Nobrylla,Nolla,Nonoic,Norka,Noryan,Nucla,Nulla,Nulyan,Nungwen,Nuvyan,Nwllyra,Nwryan,Nwvyan,Nybrylla,Nyll,Nylyan,Nyryan,Nyssa,Nyvyan,Raebrylla,Raera,Raerka,Ralonna,Rara,Rarka,Rassa,Reacla,Realla,Reana,Reangwen,Rella,Relyan,Rengwen,Rerka,Revyan,Rilonna,Rilyan,Rirka,Rora,Rucla,Ruryan,Rwdda,Rwlla,Rwllyra,Rwlonna,Rwngwen,Rybrylla,Ryna,Ryngwen,Saell,Saellyra,Saeniver,Saerka,Saessa,Sallyra,Sanoic,Sara,Sassa,Searka,Sena,Senoic,Sera,Silonna,Sira,Siryan,Sona,Sorka,Subrylla,Sull,Sulonna,Sulyan,Sura,Sussa,Swlla,Swlyan,Swngwen,Swnoic,Swvyan,Syllyra,Sylyan,Syssa,Ysacla,Ysaenoic,Ysaerka,Ysanoic,Yseacla,Ysealonna,Ysealyan,Ysedda,Ysell,Yselonna,Ysilyan,Ysinoic,Ysodda,Ysongwen,Ysonoic,Ysura,Yswniver,Ysycla,Ysylla,Ysylyan,Ysyrka,Ysyssa"
 msgstr ""
 
 #. Generator for male Wesnothian human names; see <https://wiki.wesnoth.org/Context-free_grammar> for syntax
@@ -2487,92 +2271,63 @@ msgstr ""
 
 #: data/core/macros/names.cfg:144
 msgid ""
-"Aban,Abbas,Abbud,Abdul-ʿAdl,Abdul-Ahad,Abdul-Alim,Abdul-Aliyy,Abdul-Azim,"
-"Abdul-Aziz,Abdul-Badi,Abdul-Baʿith,Abdul-Baqi,Abdul-Bari,Abdul-Barr,Abdul-"
-"Basir,Abdul-Basit,Abdul-Fattah,Abdul-Ghaffar,Abdul-Ghafur,Abdul-Ghani,Abdul-"
-"Hadi,Abdul-Hafiz,Abdul-Hakam,Abdul-Hakim,Abdul-Halim,Abdul-Hamid,Abdul-Haqq,"
-"Abdul-Hasib,Abdul-Hayy,Abdul-Jabbar,Abdul-Jalil,Abdul-Karim,Abdul-Khabir,"
-"Abdul-Khaliq,Abdul-Latif,Abdul-Malik,Abdul-Majid,Abdul-Matin,Abdul-Mubdiʾ,"
-"Abdul-Mughni,Abdul-Muhaimin,Abdul-Muhsi,Abdul-Muhyi,Abdul-Muʿid,Abdul-Muʿizz,"
-"Abdul-Mujib,Abdul-Mumin,Abdul-Muqaddim,Abdul-Muqtadir,Abdul-Musawwir,Abdul-"
-"Mutaʿal,Abdul-Nafi,Abdul-Nasser,Abdul-Nasir,Abdul-Nur,Abdul-Qadir,Abdul-"
-"Qahhar,Abdul-Qawi,Abdul-Qayyum,Abdul-Quddus,Abdul-Rafi,Abdul-Rahim,Abdul-"
-"Rahman,Abdul-Rashid,Abdul-Raʿuf,Abdul-Razzaq,Abdul-Shakur,Abdul-Tawwab,Abdul-"
-"Wadud,Abdul-Wahhab,Abdul-Wahid,Abdul-Wajid,Abdul-Wakil,Abdul-Wali,Abdul-"
-"Waliy,Abdul-Warith,Abdul-Zahir,Abdullah,ʿAbid,ʿAbidin,Abu Bakr,Aby al-Khayr,"
-"Adil,Adham,Adib,ʿAdli,ʿAdnan,ʿAfif,Ahmad,ʿAjib,ʿAkif,Akil,Akram,Alaʾ,Alaʾ al-"
-"Din,Alʿ Abbas,Aladdin,al-Bara,al-Hakam,al-Harith,Alhasan,Alhusain,Ali,Alim,"
-"Almahdi,al-Safi,Altaf,Altair,al-Tayyib,al-Tijani,al-Tufail,Amid,ʿAmid,Amin,"
-"Amir,ʿAmir,Amjad,ʿAmmar,ʿAmro,Anas,Anis,ʿAntarah,Anwar,ʿAqil,Arfan,Arif,"
-"ʿArif,Asad,Asʿad,Asadel,Ashraf,Asif,ʿAsim,Aswad,Ataʿ,Ataʿ Allah,Ataʿ al-"
-"Rahman,Athil,Athir,ʿAtif,ʿAwad,ʿAwf,Aws,Awwab,Ayham,Ayman,Ayser,Ayyub,Aza,"
-"ʿAzab,Azhar,Azim,ʿAziz,ʿAzzam,Badi,Badi al-Zaman,Badr,Badr al-Din,Badri,"
-"Bahaʿ,Bahiyy al-Din,Bahij,Bahir,Bakr,Baligh,Bandar,Barakah,Barir,Bashshar,"
-"Basil,Basim,Bassam,Bayezid,Bayhas,Bilal,Bishr,Boulos,Budail,Burhan,Bushr,"
-"Butrus,Dabir,Dani,Darwish,Daʿud,Dhakir,Dhakiy,Dhakwan,Dhul Fiqar,Dirar,Diya,"
-"Diya al-Din,Duqaq,Fadi,Fadil,Fadl,Fadl Allah,Fahd,Fahad,Fahmi,Faisal,Faʿiz,"
-"Fakhir,Fakhr al-Din,Fakhri,Fakih,Falah,Falih,Faraj,Farhan,Farid,Fariq,Fariq,"
-"Faris,Faruq,Fath,Fathi,Fatih,Fatin,Fawwaz,Fawzan,Fawzi,Fayyad,Ferran,Fida,"
-"Fikri,Firas,Fuʿad,Fudail,Gamal,Ghayth,Ghali,Ghalib,Ghanim,Ghassan,Ghawth,"
-"Ghazwan,Ghiyath,Habbab,Habib,Haddad,Hadi,Hafiz,Hakem,Hakim,Halim,Hamal,Hamas,"
-"Hamdan,Hamdi,Hamid,Hamim,Hamzah,Hana,Hanaʾi,Hanbal,Hani,Hanif,Hannad,Haris,"
-"Harith,Harun,Hashim,Hassan,Hatim,Haydar,Haytham,Hayyan,Hazim,Hilal,Hilmi,"
-"Hisham,Hud,Hudad,Hudhafah,Hudhayfah,Humam,Hussein,Husam,Husam al-Din,Ibrahim,"
-"ʿId,Idris,Ihsan,Ihtisham,ʿIkrimah,Ilias,ʿImad,Imad al-Din,Imran,Imtiyaz,"
-"Inʿam,Iqbal,ʿIrfan,ʿIsa,ʿIsam,Ishaq,Ismaʿil,Iyad,Iyas,Izz al-Din,Jabbar,Jabr,"
-"Jabir,Jad Allah,Jaʿfar,Jal,Jalal,Jalal al-Din,Jalil,Jamal,Jamal al-Din,Jamil,"
-"Jarir,Jasim,Jaul,Jaun,Jawad,Jawdah,Jawhar,Jibran,Jibril,Jubair,Jul,Jumah,"
-"Junayd,Juwain,Kadar,Kadin,Kadir,Kahil,Kaliq,Kamal,Kamil,Karam,Kardal,Karif,"
-"Karim,Kasib,Kasim,Katib,Kazim,Khalaf,Khaldun,Khalid,Khalil,Khalil al-Allah,"
-"Khalis,Khatib,Khair al-Din,Khairi,Khoury,Khulus,Khuzaymah,Kutaiba,Labib,"
-"Lablab,Latif,Layth,LuʿayLubayd,Luqman,Lut,Lutfi,Maʿd,Madani,Mahbub,Mahdi,"
-"Mahfuz,Mahir,Mahjub,Mahmud,Mahrus,Maimun,Majd,Majdy,Majd al-Din,Majid,Makin,"
-"Malik,Mamduh,Maʿmun,Maʿin,Mandhur,Mansur,Marghub,Marid,Maʿruf,Marwan,Marzuq,"
-"Mashʿal,Mashhur,Masrur,Masʿud,Masun,Maysarah,Mazhar,Mazin,Mehmed,Mihran,"
-"Mihyar,Mikaʾil,Miqdad,Misbah,Mishʿal,Miyaz,Muʾadh,Muʾawiyah,Muʾayyad,Mubarak,"
-"Mubin,Mudar,Muddaththir,Mufid,Muflih,Muhab,Muhayr,Muhammad,Muhanna,Muhannad,"
-"Muhib,Muhibb,Muhsin,Muhtadi,Muhyi al-Din,Muʿin,Muʿizz,Mujab,Mujahid,Mukarram,"
-"Mukhlis,Mukhtar,Mulham,Mulhim,Muʿmmar,Muʿmin,Mumtaz,Munahid,Mundhir,Munib,"
-"Munif,Munir,Muʿnis,Munjid,Munsif,Muntasir,Murad,Murid,Murshid,Murtada,Musa,"
-"Musʿab,Musaʿid,Mushtaq,Muslih,Muslim,Mutafa,Mutaʾ,Muʿtasim,Mutawalli,Muʿtazz,"
-"Muthanna,Muti,Muwaffaq,Muyassar,Muzaffar,Mussammil,Nabhan,Nabighah,Nabih,"
-"Nabil,Nadhir,Nadim,Nadir,Nafiʾ,Nahid,Naʾil,Naʾim,Naji,Najib,Najid,Najjar,"
-"Najm al-Din,Naʿaman,Namir,Nashʿah,Nashʿat,Nashwan,Nasib,Nasih,Nasim,Nasir,"
-"Nasir al-Din,Nasr,Nasri,Nasuh,Nawaf,Nawfal,Nayif,Nazih,Nazim,Nazmi,Nibras,"
-"Nidal,Nijad,Nimr,Nizar,Nuʿaym,Nuh,Nuhayd,Numair,Nuʿman,Nur al-Din,Nuri,"
-"Nusrah,Nusrat,Omar,Orhan,Osman,Qasim,Qays,Qudamah,Qusay,Qatadah,Qutaybah,"
-"Qutb,Qutuz,Rabah,Rabi,Radi,Rafi,Rafid,Rafiq,Raghib,Rahman,Raʿid,Raʿif,Rais,"
-"Rajaa,Rajab,Raji,Rajih,Rakin,Rami,Ramih,Ramiz,Ramzi,Rani,Rashad,Rashid,Rasil,"
-"Rasin,Rasmi,Rasul,Ratib,Raʿuf,Rayhan,Rayyan,Razin,Ridha,Ridwan,Rihab,Riyad,"
-"Rizq,Ruhi,Rushd,Rushdi,Ruwayd,Saad,Saʿadah,Sab,Sabih,Sabir,Sabri,Saʿd,Saʿd "
-"al-Din,Sadad,Sadid,Sadiq,Saʿdun,Saʿid,Safi,Safiy,Safiy al-Din,Safuh,Safwah,"
-"Safwat,Safwan,Sahib,Sahir,Sahl,Saʾib,Saif,Saif al-Din,Sajid,Sajjad,Sakhr,"
-"Salah,Salah al-Din,Salamah,Salih,Salim,Salman,Sami,Samih,Samir,Samman,Saqr,"
-"Sariyah,Sati,Saud,Sayyid,Shaʿban,Shadi,Shadin,Shafi,Shafiq,Shahid,Shahin,"
-"Shahir,Shakib,Shakir,Shams al-Din,Shamal,Shamil,Shamim,Sharaf,Sharif,Shawqi,"
-"Shihab,Shihab al-Din,Shihad,Shuʿayb,Shukri,Shumayl,Siddiq,Sinan,Siraj,Siraj "
-"al-Din,Sofian,Subhi,Sufyan,Suhayb,Suhayl,Suhaym,Sulaiman,Sumrah,Suraqah,"
-"Suʿud,Tahir,Tahsin,Taym Allah,Taj,Taj al-Din,Talal,Talib,Tamim,Tamir,Tamam,"
-"Tammam,Taqiy,Tarif,Tariq,Taslim,Tawfiq,Tawhid,Taymullah,Taysir,Tayyib,Thabit,"
-"Thamir,Thaqib,Thawab,Thawban,ʿUbaidah,Ubaid,Ubayy,ʿUdayl,ʿUday,ʿUmar,Umarah,"
-"Umair,ʾaUrwah,Usaym,Usama,ʿUtbah,Uthal,Uthman,Waddah,Wadi,Wadid,Wafiq,Wahab,"
-"Wahhab,Wahid,Waʾil,Wajdi,Wajid,Wajih,Wakil,Walid,Walif,Waliy Allah,Waliy al-"
-"Din,Waqar,Waqqas,Ward,Wasif,Wasil,Wasim,Wazir,Yahya,Yaman,Yaʿqub,Yasar,Yasin,"
-"Yasir,Yazan,Yazid,Yunus,Yushua,Yusri,Yusuf,Zafar,Zafir,Zahid,Zahir,Zayd,Zaim,"
-"Zayn,Zarif,Zakarriya,Zaki,Zakwan,Ziyad,Zubayr,Zuhayr"
+"Aban,Abbas,Abbud,Abdul-ʿAdl,Abdul-Ahad,Abdul-Alim,Abdul-Aliyy,Abdul-"
+"Azim,Abdul-Aziz,Abdul-Badi,Abdul-Baʿith,Abdul-Baqi,Abdul-Bari,Abdul-"
+"Barr,Abdul-Basir,Abdul-Basit,Abdul-Fattah,Abdul-Ghaffar,Abdul-Ghafur,Abdul-"
+"Ghani,Abdul-Hadi,Abdul-Hafiz,Abdul-Hakam,Abdul-Hakim,Abdul-Halim,Abdul-"
+"Hamid,Abdul-Haqq,Abdul-Hasib,Abdul-Hayy,Abdul-Jabbar,Abdul-Jalil,Abdul-"
+"Karim,Abdul-Khabir,Abdul-Khaliq,Abdul-Latif,Abdul-Malik,Abdul-Majid,Abdul-"
+"Matin,Abdul-Mubdiʾ,Abdul-Mughni,Abdul-Muhaimin,Abdul-Muhsi,Abdul-Muhyi,Abdul-"
+"Muʿid,Abdul-Muʿizz,Abdul-Mujib,Abdul-Mumin,Abdul-Muqaddim,Abdul-"
+"Muqtadir,Abdul-Musawwir,Abdul-Mutaʿal,Abdul-Nafi,Abdul-Nasser,Abdul-"
+"Nasir,Abdul-Nur,Abdul-Qadir,Abdul-Qahhar,Abdul-Qawi,Abdul-Qayyum,Abdul-"
+"Quddus,Abdul-Rafi,Abdul-Rahim,Abdul-Rahman,Abdul-Rashid,Abdul-Raʿuf,Abdul-"
+"Razzaq,Abdul-Shakur,Abdul-Tawwab,Abdul-Wadud,Abdul-Wahhab,Abdul-Wahid,Abdul-"
+"Wajid,Abdul-Wakil,Abdul-Wali,Abdul-Waliy,Abdul-Warith,Abdul-"
+"Zahir,Abdullah,ʿAbid,ʿAbidin,Abu Bakr,Aby al-"
+"Khayr,Adil,Adham,Adib,ʿAdli,ʿAdnan,ʿAfif,Ahmad,ʿAjib,ʿAkif,Akil,Akram,Alaʾ,Alaʾ "
+"al-Din,Alʿ Abbas,Aladdin,al-Bara,al-Hakam,al-"
+"Harith,Alhasan,Alhusain,Ali,Alim,Almahdi,al-Safi,Altaf,Altair,al-Tayyib,al-"
+"Tijani,al-"
+"Tufail,Amid,ʿAmid,Amin,Amir,ʿAmir,Amjad,ʿAmmar,ʿAmro,Anas,Anis,ʿAntarah,Anwar,ʿAqil,Arfan,Arif,ʿArif,Asad,Asʿad,Asadel,Ashraf,Asif,ʿAsim,Aswad,Ataʿ,Ataʿ "
+"Allah,Ataʿ al-"
+"Rahman,Athil,Athir,ʿAtif,ʿAwad,ʿAwf,Aws,Awwab,Ayham,Ayman,Ayser,Ayyub,Aza,ʿAzab,Azhar,Azim,ʿAziz,ʿAzzam,Badi,Badi "
+"al-Zaman,Badr,Badr al-Din,Badri,Bahaʿ,Bahiyy al-"
+"Din,Bahij,Bahir,Bakr,Baligh,Bandar,Barakah,Barir,Bashshar,Basil,Basim,Bassam,Bayezid,Bayhas,Bilal,Bishr,Boulos,Budail,Burhan,Bushr,Butrus,Dabir,Dani,Darwish,Daʿud,Dhakir,Dhakiy,Dhakwan,Dhul "
+"Fiqar,Dirar,Diya,Diya al-Din,Duqaq,Fadi,Fadil,Fadl,Fadl "
+"Allah,Fahd,Fahad,Fahmi,Faisal,Faʿiz,Fakhir,Fakhr al-"
+"Din,Fakhri,Fakih,Falah,Falih,Faraj,Farhan,Farid,Fariq,Fariq,Faris,Faruq,Fath,Fathi,Fatih,Fatin,Fawwaz,Fawzan,Fawzi,Fayyad,Ferran,Fida,Fikri,Firas,Fuʿad,Fudail,Gamal,Ghayth,Ghali,Ghalib,Ghanim,Ghassan,Ghawth,Ghazwan,Ghiyath,Habbab,Habib,Haddad,Hadi,Hafiz,Hakem,Hakim,Halim,Hamal,Hamas,Hamdan,Hamdi,Hamid,Hamim,Hamzah,Hana,Hanaʾi,Hanbal,Hani,Hanif,Hannad,Haris,Harith,Harun,Hashim,Hassan,Hatim,Haydar,Haytham,Hayyan,Hazim,Hilal,Hilmi,Hisham,Hud,Hudad,Hudhafah,Hudhayfah,Humam,Hussein,Husam,Husam "
+"al-Din,Ibrahim,ʿId,Idris,Ihsan,Ihtisham,ʿIkrimah,Ilias,ʿImad,Imad al-"
+"Din,Imran,Imtiyaz,Inʿam,Iqbal,ʿIrfan,ʿIsa,ʿIsam,Ishaq,Ismaʿil,Iyad,Iyas,Izz "
+"al-Din,Jabbar,Jabr,Jabir,Jad Allah,Jaʿfar,Jal,Jalal,Jalal al-"
+"Din,Jalil,Jamal,Jamal al-"
+"Din,Jamil,Jarir,Jasim,Jaul,Jaun,Jawad,Jawdah,Jawhar,Jibran,Jibril,Jubair,Jul,Jumah,Junayd,Juwain,Kadar,Kadin,Kadir,Kahil,Kaliq,Kamal,Kamil,Karam,Kardal,Karif,Karim,Kasib,Kasim,Katib,Kazim,Khalaf,Khaldun,Khalid,Khalil,Khalil "
+"al-Allah,Khalis,Khatib,Khair al-"
+"Din,Khairi,Khoury,Khulus,Khuzaymah,Kutaiba,Labib,Lablab,Latif,Layth,LuʿayLubayd,Luqman,Lut,Lutfi,Maʿd,Madani,Mahbub,Mahdi,Mahfuz,Mahir,Mahjub,Mahmud,Mahrus,Maimun,Majd,Majdy,Majd "
+"al-"
+"Din,Majid,Makin,Malik,Mamduh,Maʿmun,Maʿin,Mandhur,Mansur,Marghub,Marid,Maʿruf,Marwan,Marzuq,Mashʿal,Mashhur,Masrur,Masʿud,Masun,Maysarah,Mazhar,Mazin,Mehmed,Mihran,Mihyar,Mikaʾil,Miqdad,Misbah,Mishʿal,Miyaz,Muʾadh,Muʾawiyah,Muʾayyad,Mubarak,Mubin,Mudar,Muddaththir,Mufid,Muflih,Muhab,Muhayr,Muhammad,Muhanna,Muhannad,Muhib,Muhibb,Muhsin,Muhtadi,Muhyi "
+"al-"
+"Din,Muʿin,Muʿizz,Mujab,Mujahid,Mukarram,Mukhlis,Mukhtar,Mulham,Mulhim,Muʿmmar,Muʿmin,Mumtaz,Munahid,Mundhir,Munib,Munif,Munir,Muʿnis,Munjid,Munsif,Muntasir,Murad,Murid,Murshid,Murtada,Musa,Musʿab,Musaʿid,Mushtaq,Muslih,Muslim,Mutafa,Mutaʾ,Muʿtasim,Mutawalli,Muʿtazz,Muthanna,Muti,Muwaffaq,Muyassar,Muzaffar,Mussammil,Nabhan,Nabighah,Nabih,Nabil,Nadhir,Nadim,Nadir,Nafiʾ,Nahid,Naʾil,Naʾim,Naji,Najib,Najid,Najjar,Najm "
+"al-Din,Naʿaman,Namir,Nashʿah,Nashʿat,Nashwan,Nasib,Nasih,Nasim,Nasir,Nasir "
+"al-"
+"Din,Nasr,Nasri,Nasuh,Nawaf,Nawfal,Nayif,Nazih,Nazim,Nazmi,Nibras,Nidal,Nijad,Nimr,Nizar,Nuʿaym,Nuh,Nuhayd,Numair,Nuʿman,Nur "
+"al-"
+"Din,Nuri,Nusrah,Nusrat,Omar,Orhan,Osman,Qasim,Qays,Qudamah,Qusay,Qatadah,Qutaybah,Qutb,Qutuz,Rabah,Rabi,Radi,Rafi,Rafid,Rafiq,Raghib,Rahman,Raʿid,Raʿif,Rais,Rajaa,Rajab,Raji,Rajih,Rakin,Rami,Ramih,Ramiz,Ramzi,Rani,Rashad,Rashid,Rasil,Rasin,Rasmi,Rasul,Ratib,Raʿuf,Rayhan,Rayyan,Razin,Ridha,Ridwan,Rihab,Riyad,Rizq,Ruhi,Rushd,Rushdi,Ruwayd,Saad,Saʿadah,Sab,Sabih,Sabir,Sabri,Saʿd,Saʿd "
+"al-Din,Sadad,Sadid,Sadiq,Saʿdun,Saʿid,Safi,Safiy,Safiy al-"
+"Din,Safuh,Safwah,Safwat,Safwan,Sahib,Sahir,Sahl,Saʾib,Saif,Saif al-"
+"Din,Sajid,Sajjad,Sakhr,Salah,Salah al-"
+"Din,Salamah,Salih,Salim,Salman,Sami,Samih,Samir,Samman,Saqr,Sariyah,Sati,Saud,Sayyid,Shaʿban,Shadi,Shadin,Shafi,Shafiq,Shahid,Shahin,Shahir,Shakib,Shakir,Shams "
+"al-Din,Shamal,Shamil,Shamim,Sharaf,Sharif,Shawqi,Shihab,Shihab al-"
+"Din,Shihad,Shuʿayb,Shukri,Shumayl,Siddiq,Sinan,Siraj,Siraj al-"
+"Din,Sofian,Subhi,Sufyan,Suhayb,Suhayl,Suhaym,Sulaiman,Sumrah,Suraqah,Suʿud,Tahir,Tahsin,Taym "
+"Allah,Taj,Taj al-"
+"Din,Talal,Talib,Tamim,Tamir,Tamam,Tammam,Taqiy,Tarif,Tariq,Taslim,Tawfiq,Tawhid,Taymullah,Taysir,Tayyib,Thabit,Thamir,Thaqib,Thawab,Thawban,ʿUbaidah,Ubaid,Ubayy,ʿUdayl,ʿUday,ʿUmar,Umarah,Umair,ʾaUrwah,Usaym,Usama,ʿUtbah,Uthal,Uthman,Waddah,Wadi,Wadid,Wafiq,Wahab,Wahhab,Wahid,Waʾil,Wajdi,Wajid,Wajih,Wakil,Walid,Walif,Waliy "
+"Allah,Waliy al-"
+"Din,Waqar,Waqqas,Ward,Wasif,Wasil,Wasim,Wazir,Yahya,Yaman,Yaʿqub,Yasar,Yasin,Yasir,Yazan,Yazid,Yunus,Yushua,Yusri,Yusuf,Zafar,Zafir,Zahid,Zahir,Zayd,Zaim,Zayn,Zarif,Zakarriya,Zaki,Zakwan,Ziyad,Zubayr,Zuhayr"
 msgstr ""
 
 #: data/core/macros/names.cfg:145
-msgid ""
-"Abiha,Afaf,A’isha,Ajda,Aliya,Amira,Ashraqat,Atikah,Azra,Boutheina,Bushra,"
-"Chaima,Dalia,Esma,Farida,Fatima,Feyrouz,Habiba,Hafsa,Hajra,Halima,Hamida,"
-"Hanifa,Havva,Hayat,Hessa,Ibtisam,Ibtissam,Inaam,Jamila,Jawahir,Jena,Jumana,"
-"Kareena,Karima,Katya,Khadija,Khairunnisa,Khawla,Khawlah,Lama,Latifa,Layal,"
-"Layan,Leila,Lina,Lulwa,Madiha,Maha,Mahmuna,Mai,Malika,Marwa,Maryam,Maya,"
-"Maysoon,Nadia,Nafisa,Nahla,Naila,Najat,Nasim,Nasrin,Nejla,Nezha,Niusha,"
-"Rahima,Rana,Rashida,Reem,Ruqayya,Saadia,Sabiha,Safiya,Sahar,Saida,Sajida,"
-"Sakhra,Salma,Samira,Sarah,Shahd,Shatha,Shumaila,Sumaya,Taslima,Umm,Yara,"
-"Yasmin,Zahra,Zakiya,Zaynab"
+msgid "Abiha,Afaf,A’isha,Ajda,Aliya,Amira,Ashraqat,Atikah,Azra,Boutheina,Bushra,Chaima,Dalia,Esma,Farida,Fatima,Feyrouz,Habiba,Hafsa,Hajra,Halima,Hamida,Hanifa,Havva,Hayat,Hessa,Ibtisam,Ibtissam,Inaam,Jamila,Jawahir,Jena,Jumana,Kareena,Karima,Katya,Khadija,Khairunnisa,Khawla,Khawlah,Lama,Latifa,Layal,Layan,Leila,Lina,Lulwa,Madiha,Maha,Mahmuna,Mai,Malika,Marwa,Maryam,Maya,Maysoon,Nadia,Nafisa,Nahla,Naila,Najat,Nasim,Nasrin,Nejla,Nezha,Niusha,Rahima,Rana,Rashida,Reem,Ruqayya,Saadia,Sabiha,Safiya,Sahar,Saida,Sajida,Sakhra,Salma,Samira,Sarah,Shahd,Shatha,Shumaila,Sumaya,Taslima,Umm,Yara,Yasmin,Zahra,Zakiya,Zaynab"
 msgstr ""
 
 #. Generator for male dunefolk human names; see <https://wiki.wesnoth.org/Context-free_grammar> for syntax
@@ -2625,17 +2380,7 @@ msgid ""
 msgstr ""
 
 #: data/core/macros/names.cfg:179
-msgid ""
-"Amprixta,Anexir,Anitraz,Arix,Axiz,Bzz’Kza,Chamil,Cleezi,Clezz,Fazzis,"
-"Fizztrax,Flixta,Flizzil,Frikes,Frizzle,Hasz,Heffez,Hertrazzir,Hesz,Hezzir,"
-"Hezzis,Hix,Inexis,Irix,Jezzix,Kaliez,Kepzs,Kernix,Kersezz,Kertrasz,Kerx,"
-"Kerxenix,Kezz,Klexaz,Klezyx,Krarax,Krenarex,Krex,Krinex,Krisess,Laizix,Lazki,"
-"Lixeez,Merax,Mexiss,Moxanzz,Naxisz,Nix,Pekzs,Plaxis,Plesix,Presch,Sailik,"
-"Salanix,Salik,Sandix,Saprazz,Satras,Skalix,Skandix,Skazix,Skeely,Skeezix,"
-"Sklizle,Skrez,Slizilx,Sprizz,Ssizer,Ssorix,Sszasz,Sterizz,Talerez,Tarex,"
-"Tarnix,Tezzaz,Tirasch,Tirax,Tirix,Trezz,Venezz,Vriss,Waks,Xaffrasz,Xartrez,"
-"Xasz,Xaztex,Xerxix,Xirasz,Xirr,Xirtras,Xirtrez,Xirz,Zandler,Zedrix,Zilrix,"
-"Zizzasz,Zslap,Zzalkz,Zzupde"
+msgid "Amprixta,Anexir,Anitraz,Arix,Axiz,Bzz’Kza,Chamil,Cleezi,Clezz,Fazzis,Fizztrax,Flixta,Flizzil,Frikes,Frizzle,Hasz,Heffez,Hertrazzir,Hesz,Hezzir,Hezzis,Hix,Inexis,Irix,Jezzix,Kaliez,Kepzs,Kernix,Kersezz,Kertrasz,Kerx,Kerxenix,Kezz,Klexaz,Klezyx,Krarax,Krenarex,Krex,Krinex,Krisess,Laizix,Lazki,Lixeez,Merax,Mexiss,Moxanzz,Naxisz,Nix,Pekzs,Plaxis,Plesix,Presch,Sailik,Salanix,Salik,Sandix,Saprazz,Satras,Skalix,Skandix,Skazix,Skeely,Skeezix,Sklizle,Skrez,Slizilx,Sprizz,Ssizer,Ssorix,Sszasz,Sterizz,Talerez,Tarex,Tarnix,Tezzaz,Tirasch,Tirax,Tirix,Trezz,Venezz,Vriss,Waks,Xaffrasz,Xartrez,Xasz,Xaztex,Xerxix,Xirasz,Xirr,Xirtras,Xirtrez,Xirz,Zandler,Zedrix,Zilrix,Zizzasz,Zslap,Zzalkz,Zzupde"
 msgstr ""
 
 #. Generator for saurian names; see <https://wiki.wesnoth.org/Context-free_grammar> for syntax
@@ -2651,20 +2396,13 @@ msgid ""
 msgstr ""
 
 #: data/core/macros/names.cfg:190
-msgid ""
-"Absu,Abzu,Aigaion,Alastyn,Apalala,Apam,Apsu,Aremata,Atlahua,Atlaua,Barinthus,"
-"Dhakhan,Dylan,Elcmar,Ember,Enki,Faro,Habaek,Ikatere,Jamm,Jin,Kinilau,Kulullu,"
-"Labuna,Laut,Lir,Llyr,Ludd,Makara,Maui,Melicertes,Mimir,Natat,Nechtan,Neptune,"
-"Nereus,Nethuns,Njord,Nuada,Nudd,Nudimmud,Nun,Oceanus,Okeanos,Phorcys,Pontus,"
-"Popoa,Poseidon,Proteus,Raja,Rau,Rorua,Ryujin,Scylla,Sinilau,Sisiutl,Tagaloa,"
-"Tanaoa,Tangaloa,Tangaroa,Thaumas,Tikitiki,Tini,Tinilau,Tinirau,Toniwha,"
-"Triton,Vizi,Vodnik,Vourukasa"
+msgid "Absu,Abzu,Aigaion,Alastyn,Apalala,Apam,Apsu,Aremata,Atlahua,Atlaua,Barinthus,Dhakhan,Dylan,Elcmar,Ember,Enki,Faro,Habaek,Ikatere,Jamm,Jin,Kinilau,Kulullu,Labuna,Laut,Lir,Llyr,Ludd,Makara,Maui,Melicertes,Mimir,Natat,Nechtan,Neptune,Nereus,Nethuns,Njord,Nuada,Nudd,Nudimmud,Nun,Oceanus,Okeanos,Phorcys,Pontus,Popoa,Poseidon,Proteus,Raja,Rau,Rorua,Ryujin,Scylla,Sinilau,Sisiutl,Tagaloa,Tanaoa,Tangaloa,Tangaroa,Thaumas,Tikitiki,Tini,Tinilau,Tinirau,Toniwha,Triton,Vizi,Vodnik,Vourukasa"
 msgstr ""
 
 #: data/core/macros/names.cfg:191
 msgid ""
-"Aglaopheme,Amphitrite,Aphrodite,Ariel,Atargatis,Calypso,Delphine,Derceto,"
-"Diktynna,Electra,Galatea,Himeropa,Jengu,Leucosia,Ligia,Lori Lamaris,Mama "
+"Aglaopheme,Amphitrite,Aphrodite,Ariel,Atargatis,Calypso,Delphine,Derceto,Diktynna,Electra,Galatea,Himeropa,Jengu,Leucosia,Ligia,Lori "
+"Lamaris,Mama "
 "Wata,Marina,Miranda,Miriam,Molpe,Parthenope,Pelagia,Pisinoe,Rân,Sedna,Stella "
 "Maris,Thelxiepia,Tirgata,Vatea,Ved-Ava,Veen emo,Vete-ema"
 msgstr ""
@@ -2693,24 +2431,11 @@ msgid ""
 msgstr ""
 
 #: data/core/macros/names.cfg:209
-msgid ""
-"Abraxas,Aleiss,Amail,Axmail,Blanal,Bleii,Blo,Bress,Briss,Gaxmol,Griam,Griss,"
-"Grissileii,Hailoss,Hainoss,Harxos,Huzel,Inaloss,Ineii,Issal,Klezel,Kras,"
-"Krezkps,Kzap,Lamaiss,Lameii,Lexpek,Liness,Lobor,Maissol,Malinos,Milbor,"
-"Mileii,Nildloss,Oxpeii,Poniaz,Psell,Pson,Pzakp,Reii,Sassal,Saxil,Saxrireii,"
-"Sekol,Silas,Skell,Skepz,Slell,Snol,Soill,Sorkol,Srell,Trixoz,Vilail,Vissal,"
-"Vlanis,Xabrak,Xamalel,Xinas,Xnamos,Xopkon,Zalsp,Zlek,Zpsek,Zsekp"
+msgid "Abraxas,Aleiss,Amail,Axmail,Blanal,Bleii,Blo,Bress,Briss,Gaxmol,Griam,Griss,Grissileii,Hailoss,Hainoss,Harxos,Huzel,Inaloss,Ineii,Issal,Klezel,Kras,Krezkps,Kzap,Lamaiss,Lameii,Lexpek,Liness,Lobor,Maissol,Malinos,Milbor,Mileii,Nildloss,Oxpeii,Poniaz,Psell,Pson,Pzakp,Reii,Sassal,Saxil,Saxrireii,Sekol,Silas,Skell,Skepz,Slell,Snol,Soill,Sorkol,Srell,Trixoz,Vilail,Vissal,Vlanis,Xabrak,Xamalel,Xinas,Xnamos,Xopkon,Zalsp,Zlek,Zpsek,Zsekp"
 msgstr ""
 
 #: data/core/macros/names.cfg:210
-msgid ""
-"Aliasse,Amailis,Axmailia,Blai,Blanalai,Bli,Bliana,Brassas,Brissal,Gaxmail,"
-"Griama,Grissa,Grissilai,Haila,Haina,Harxias,Huzi,Inai,Inalai,Issalai,Klez,"
-"Kras,Krezkps,Kzap,Lamai,Lamaissa,Lexpek,Liabra,Lilin,Linassa,Maissa,Malina,"
-"Mila,Milbra,Nildlasi,Oxpel,Poniazal,Psal,Psen,Pzakp,Riaa,Sall,Sassalia,"
-"Saxiala,Saxririaa,Sek,Skal,Skepz,Sla,Snelia,Srak,Sral,Szak,Trixzed,Vilaila,"
-"Vissalai,Vlanissa,Xabrak,Xamalia,Xina,Xinasia,Xnamas,Xopkne,Zalsp,Zlek,Zpsek,"
-"Zsekp"
+msgid "Aliasse,Amailis,Axmailia,Blai,Blanalai,Bli,Bliana,Brassas,Brissal,Gaxmail,Griama,Grissa,Grissilai,Haila,Haina,Harxias,Huzi,Inai,Inalai,Issalai,Klez,Kras,Krezkps,Kzap,Lamai,Lamaissa,Lexpek,Liabra,Lilin,Linassa,Maissa,Malina,Mila,Milbra,Nildlasi,Oxpel,Poniazal,Psal,Psen,Pzakp,Riaa,Sall,Sassalia,Saxiala,Saxririaa,Sek,Skal,Skepz,Sla,Snelia,Srak,Sral,Szak,Trixzed,Vilaila,Vissalai,Vlanissa,Xabrak,Xamalia,Xina,Xinasia,Xnamas,Xopkne,Zalsp,Zlek,Zpsek,Zsekp"
 msgstr ""
 
 #. Generator for male naga names; see <https://wiki.wesnoth.org/Context-free_grammar> for syntax
@@ -2745,13 +2470,7 @@ msgstr ""
 "ব্রা|আ|লিয়া|লাই|লাইলা|না|প্কনে|আলস্প|একপ\n"
 
 #: data/core/macros/names.cfg:226
-msgid ""
-"Akoark,Akort,Akzalk,Arkarm,Barkuk,Blokkar,Borkuk,Bukkak,Bulruk,Corkkar,"
-"Delkkak,Garkuk,Gnukk,Goruk,Grak,Gurk,Gurm,Kalknix,Karak,Karbuk,Kargnak,"
-"Karterak,Kayrak,Kelkrar,Kerta,Kilkrar,Kingrok,Kirk,Klud,Kokkan,Kolk,Komak,"
-"Korgnak,Kork,Koruck,Kramak,Krog,Krukrak,Krumuk,Kuknuk,Kurkur,Kurmak,Makron,"
-"Markaak,Markuk,Merknik,Nargak,Olk,Orkut,Reknak,Takolak,Trabuk,Trakkon,Urkar,"
-"Urkark"
+msgid "Akoark,Akort,Akzalk,Arkarm,Barkuk,Blokkar,Borkuk,Bukkak,Bulruk,Corkkar,Delkkak,Garkuk,Gnukk,Goruk,Grak,Gurk,Gurm,Kalknix,Karak,Karbuk,Kargnak,Karterak,Kayrak,Kelkrar,Kerta,Kilkrar,Kingrok,Kirk,Klud,Kokkan,Kolk,Komak,Korgnak,Kork,Koruck,Kramak,Krog,Krukrak,Krumuk,Kuknuk,Kurkur,Kurmak,Makron,Markaak,Markuk,Merknik,Nargak,Olk,Orkut,Reknak,Takolak,Trabuk,Trakkon,Urkar,Urkark"
 msgstr ""
 
 #. Generator for ogre names; see <https://wiki.wesnoth.org/Context-free_grammar> for syntax
@@ -2770,39 +2489,7 @@ msgstr ""
 "suffix=ark|ort|alk|arm|kuk|kak|ukk|nak|ta|k|rok|rar|kon|gak|nik\n"
 
 #: data/core/macros/names.cfg:236
-msgid ""
-"Badush,Bagar,Bagdish,Barag,Barbag,Bart,Bashnak,Bidish,Bidush,Bik,Bilg,Bilo,"
-"Binak,Bink,Biol,Birt,Bogar,Bogdish,Bogdush,Bogor,Bok,Bolg,Bong,Borg,Bork,"
-"Bort,Boshnak,Budush,Bugdish,Buk,Bunak,Bung,Bunk,Burag,Burg,Burk,Buurk,"
-"Eradash,Eradish,Eragdish,Eragdush,Eragor,Eranak,Erang,Erarag,Erarg,Erart,"
-"Erigdush,Erik,Erinak,Eriol,Erirag,Erirbag,Erirg,Erirt,Erishnak,Eriurk,"
-"Erogdish,Erogdush,Erok,Erong,Eronk,Erorbag,Erudish,Erudush,Erugar,Erugdush,"
-"Erulo,Erunk,Eruol,Erurag,Eruurk,Gadash,Gagar,Gagdush,Gagor,Galo,Ganak,Gank,"
-"Gaol,Garag,Gashnak,Gigor,Ginak,Ging,Gink,Girt,Gogdish,Gogdush,Gong,Gork,Gort,"
-"Goshnak,Gradash,Gragar,Gragor,Grak,Gralg,Gralo,Granak,Graol,Grarbag,Gridash,"
-"Gridish,Gridush,Grigar,Grigor,Grilg,Grilo,Grink,Grirag,Grirg,Grirk,Grishnak,"
-"Grodish,Grogar,Grogdish,Grok,Grolg,Grong,Gronk,Grorag,Grorg,Grork,Grort,"
-"Groshnak,Grudash,Grugar,Grugdish,Grugdush,Gruk,Grulo,Grunk,Gruol,Grurg,Grurk,"
-"Grurt,Gruurk,Gugdish,Gugdush,Gulg,Gulo,Gunak,Gurbag,Gurt,Gushnak,Hadash,"
-"Hadish,Hadush,Hagar,Hagdush,Hagor,Hak,Halg,Hank,Hashnak,Hidash,Hidish,Hidush,"
-"Higdush,Hilg,Hinak,Hing,Hink,Hiol,Hirag,Hirg,Hodush,Hogar,Hogor,Hong,Hool,"
-"Horbag,Hork,Hort,Hoshnak,Hudash,Hudish,Hugor,Huk,Hulg,Hulo,Hunk,Huol,Hurag,"
-"Hurbag,Hurk,Hushnak,Huurk,Pagdish,Pagor,Palg,Palo,Paol,Parag,Pashnak,Pidush,"
-"Pigdish,Pigdush,Pilg,Pinak,Pink,Pirbag,Podash,Podish,Podush,Pogdish,Polg,"
-"Porbag,Porg,Pork,Port,Poshnak,Pradish,Pragdush,Pragor,Pralg,Pralo,Prang,"
-"Praol,Prarag,Prarbag,Prarg,Prark,Prart,Prashnak,Praurk,Pridish,Prigar,"
-"Prigdish,Prigor,Prilg,Prilo,Prinak,Priol,Prirbag,Prirg,Prirt,Priurk,Prodash,"
-"Prodish,Prodush,Prolg,Prolo,Pronak,Prong,Pronk,Prool,Prourk,Prudish,Prugar,"
-"Prugdish,Pruk,Prunak,Prunk,Prurg,Prurk,Pruurk,Puk,Pulg,Pulo,Punak,Pung,Punk,"
-"Purag,Purbag,Purg,Puurk,Radash,Ragar,Ragdish,Rak,Rang,Rank,Raol,Rarag,Rarbag,"
-"Rark,Rashnak,Raurk,Rigor,Rik,Rilg,Rinak,Rink,Rirg,Rirk,Rodish,Rodush,Rogdish,"
-"Rok,Rolo,Ronak,Rudash,Rugar,Rugdish,Ruk,Rung,Ruol,Rurag,Rushnak,Vadash,"
-"Vadish,Vadush,Vak,Valo,Vank,Varag,Varbag,Vigar,Vigdish,Vigor,Vilg,Vilo,Vink,"
-"Virag,Virt,Vishnak,Vogdish,Vogor,Vonak,Vong,Vorg,Vork,Voshnak,Vourk,Vradash,"
-"Vragar,Vragdush,Vragor,Vralo,Vrang,Vrarbag,Vrarg,Vrart,Vraurk,Vridash,"
-"Vridish,Vrigor,Vrik,Vrinak,Vring,Vrirt,Vrishnak,Vriurk,Vrodash,Vrodish,"
-"Vrogar,Vrogor,Vrolo,Vrong,Vrorg,Vrork,Vrudish,Vrugdush,Vrulg,Vrung,Vruol,"
-"Vrurg,Vrurt,Vruurk,Vudish,Vuk,Vulg,Vulo,Vunak,Vurag,Vurbag,Vurg,Vushnak"
+msgid "Badush,Bagar,Bagdish,Barag,Barbag,Bart,Bashnak,Bidish,Bidush,Bik,Bilg,Bilo,Binak,Bink,Biol,Birt,Bogar,Bogdish,Bogdush,Bogor,Bok,Bolg,Bong,Borg,Bork,Bort,Boshnak,Budush,Bugdish,Buk,Bunak,Bung,Bunk,Burag,Burg,Burk,Buurk,Eradash,Eradish,Eragdish,Eragdush,Eragor,Eranak,Erang,Erarag,Erarg,Erart,Erigdush,Erik,Erinak,Eriol,Erirag,Erirbag,Erirg,Erirt,Erishnak,Eriurk,Erogdish,Erogdush,Erok,Erong,Eronk,Erorbag,Erudish,Erudush,Erugar,Erugdush,Erulo,Erunk,Eruol,Erurag,Eruurk,Gadash,Gagar,Gagdush,Gagor,Galo,Ganak,Gank,Gaol,Garag,Gashnak,Gigor,Ginak,Ging,Gink,Girt,Gogdish,Gogdush,Gong,Gork,Gort,Goshnak,Gradash,Gragar,Gragor,Grak,Gralg,Gralo,Granak,Graol,Grarbag,Gridash,Gridish,Gridush,Grigar,Grigor,Grilg,Grilo,Grink,Grirag,Grirg,Grirk,Grishnak,Grodish,Grogar,Grogdish,Grok,Grolg,Grong,Gronk,Grorag,Grorg,Grork,Grort,Groshnak,Grudash,Grugar,Grugdish,Grugdush,Gruk,Grulo,Grunk,Gruol,Grurg,Grurk,Grurt,Gruurk,Gugdish,Gugdush,Gulg,Gulo,Gunak,Gurbag,Gurt,Gushnak,Hadash,Hadish,Hadush,Hagar,Hagdush,Hagor,Hak,Halg,Hank,Hashnak,Hidash,Hidish,Hidush,Higdush,Hilg,Hinak,Hing,Hink,Hiol,Hirag,Hirg,Hodush,Hogar,Hogor,Hong,Hool,Horbag,Hork,Hort,Hoshnak,Hudash,Hudish,Hugor,Huk,Hulg,Hulo,Hunk,Huol,Hurag,Hurbag,Hurk,Hushnak,Huurk,Pagdish,Pagor,Palg,Palo,Paol,Parag,Pashnak,Pidush,Pigdish,Pigdush,Pilg,Pinak,Pink,Pirbag,Podash,Podish,Podush,Pogdish,Polg,Porbag,Porg,Pork,Port,Poshnak,Pradish,Pragdush,Pragor,Pralg,Pralo,Prang,Praol,Prarag,Prarbag,Prarg,Prark,Prart,Prashnak,Praurk,Pridish,Prigar,Prigdish,Prigor,Prilg,Prilo,Prinak,Priol,Prirbag,Prirg,Prirt,Priurk,Prodash,Prodish,Prodush,Prolg,Prolo,Pronak,Prong,Pronk,Prool,Prourk,Prudish,Prugar,Prugdish,Pruk,Prunak,Prunk,Prurg,Prurk,Pruurk,Puk,Pulg,Pulo,Punak,Pung,Punk,Purag,Purbag,Purg,Puurk,Radash,Ragar,Ragdish,Rak,Rang,Rank,Raol,Rarag,Rarbag,Rark,Rashnak,Raurk,Rigor,Rik,Rilg,Rinak,Rink,Rirg,Rirk,Rodish,Rodush,Rogdish,Rok,Rolo,Ronak,Rudash,Rugar,Rugdish,Ruk,Rung,Ruol,Rurag,Rushnak,Vadash,Vadish,Vadush,Vak,Valo,Vank,Varag,Varbag,Vigar,Vigdish,Vigor,Vilg,Vilo,Vink,Virag,Virt,Vishnak,Vogdish,Vogor,Vonak,Vong,Vorg,Vork,Voshnak,Vourk,Vradash,Vragar,Vragdush,Vragor,Vralo,Vrang,Vrarbag,Vrarg,Vrart,Vraurk,Vridash,Vridish,Vrigor,Vrik,Vrinak,Vring,Vrirt,Vrishnak,Vriurk,Vrodash,Vrodish,Vrogar,Vrogor,Vrolo,Vrong,Vrorg,Vrork,Vrudish,Vrugdush,Vrulg,Vrung,Vruol,Vrurg,Vrurt,Vruurk,Vudish,Vuk,Vulg,Vulo,Vunak,Vurag,Vurbag,Vurg,Vushnak"
 msgstr ""
 
 #. Generator for orc names
@@ -2842,10 +2529,11 @@ msgstr ""
 
 #: data/core/macros/names.cfg:264
 msgid ""
-"Äg,Agh,Bog Äh,Borb,Brag,Brag Goh,Brok,Dak,Drog,Frok,Ga,Gah,Gark,Gnarf,Grar,"
-"Grokk,Grumph,Gulk,Hak,Hask,Hoth,Hug Bah,Hu Kah,Kak,Krak,Krug,Kub,Kuh,Lok,Luk,"
-"Nak,Nuk Kar,Pag,Reck,Rok,Ruk,Sark,Shak,Shuf,Stuh,Targ,Thog,Thruf,Thur,Tohg,"
-"Torg,Trok,Tsok,Tuh,Tuk Ruh,Ugg,Üh,Urg,Urgh,Urk,Vak,Zog,Zuug"
+"Äg,Agh,Bog Äh,Borb,Brag,Brag "
+"Goh,Brok,Dak,Drog,Frok,Ga,Gah,Gark,Gnarf,Grar,Grokk,Grumph,Gulk,Hak,Hask,Hoth,Hug "
+"Bah,Hu Kah,Kak,Krak,Krug,Kub,Kuh,Lok,Luk,Nak,Nuk "
+"Kar,Pag,Reck,Rok,Ruk,Sark,Shak,Shuf,Stuh,Targ,Thog,Thruf,Thur,Tohg,Torg,Trok,Tsok,Tuh,Tuk "
+"Ruh,Ugg,Üh,Urg,Urgh,Urk,Vak,Zog,Zuug"
 msgstr "আগ"
 
 #. Generator for troll names; see <https://wiki.wesnoth.org/Context-free_grammar> for syntax
@@ -2862,19 +2550,7 @@ msgid ""
 msgstr ""
 
 #: data/core/macros/names.cfg:277
-msgid ""
-"Bludebalmen,Boladrumbadrum,Bolwuldelman,Bombempomgontor,Bomtanbomkenton,"
-"Bomtanbomtonum,Bregalad,Bremdebubde,Brenbasnudnem,Brendumadoak,"
-"Brommantendronnor,Brumbendublun,Brumennarunom,Brummdlebroak,Bumbadadabum,"
-"Buomdumdenlol,Carnimirië,Dabumdabumtam,Dammantongonnur,Danmonlulbam,"
-"Debundbemun,Delmduelmdelom,Diblembumnde,Dolmannumbil,Drongnoblemdu,"
-"Dulmandarook,Dulwulmendom,Dumdumdumatum,Elmaroomadrum,Grelmadrumbumadum,"
-"Gulladroamadoak,Gumabeladrelm,Laffalialomdium,Landunwonbam,Lassemista,"
-"Lefnublemdde,Libleddnumm,Lolmandindel,Monlamwimdan,Muldondindal,"
-"Mundionalafla,Mundumblemdum,Munnamdulbon,Nanmildaldum,Nunmaldildun,Orofarnië,"
-"Pambedrumne,Pomtamkomtrobum,Rithramcamhan,Tantondernintan,Temtundembenn,"
-"Temtunnongetem,Tondenkontenkon,Troombadoom,Tumtentantarun,Tumtonnongatum,"
-"Tumtumgamtomtom,Wonrunmaldin,Wudadoonopl"
+msgid "Bludebalmen,Boladrumbadrum,Bolwuldelman,Bombempomgontor,Bomtanbomkenton,Bomtanbomtonum,Bregalad,Bremdebubde,Brenbasnudnem,Brendumadoak,Brommantendronnor,Brumbendublun,Brumennarunom,Brummdlebroak,Bumbadadabum,Buomdumdenlol,Carnimirië,Dabumdabumtam,Dammantongonnur,Danmonlulbam,Debundbemun,Delmduelmdelom,Diblembumnde,Dolmannumbil,Drongnoblemdu,Dulmandarook,Dulwulmendom,Dumdumdumatum,Elmaroomadrum,Grelmadrumbumadum,Gulladroamadoak,Gumabeladrelm,Laffalialomdium,Landunwonbam,Lassemista,Lefnublemdde,Libleddnumm,Lolmandindel,Monlamwimdan,Muldondindal,Mundionalafla,Mundumblemdum,Munnamdulbon,Nanmildaldum,Nunmaldildun,Orofarnië,Pambedrumne,Pomtamkomtrobum,Rithramcamhan,Tantondernintan,Temtundembenn,Temtunnongetem,Tondenkontenkon,Troombadoom,Tumtentantarun,Tumtonnongatum,Tumtumgamtomtom,Wonrunmaldin,Wudadoonopl"
 msgstr ""
 
 #. Generator for wose names; see <https://wiki.wesnoth.org/Context-free_grammar> for syntax
@@ -2905,12 +2581,8 @@ msgstr ""
 "নুম্ম|দান|ডুম|তুম|দিন\n"
 
 #: data/core/macros/names.cfg:289
-msgid ""
-"Bal,Cam,Corn,Del,Earl,El,Fox,Fren,Gel,Hel,Hex,Hol,Hox,Il,Kin,Nam,Nes,New,Ol,"
-"Old,Olf,Oul,Ox,Rock,Rook,Sal,Sam,Sed,Sel,Sen,Sil,Tal,Water,Wet,York"
-msgstr ""
-"বাল,কাম,কর্ন,ডেল,আর্ল,এল,ফক্স,ফ্রেন,গেল,হেল,হেক্স,হোক্স,ইল,কিন,নাম,নেস,নেউ,ওল,ওল্ড,"
-"ওল্ফ,ওউল,ওক্স,রক,রুক,সাল,সাম,সেড,সেল,সেন,সিল,টাল,ওয়াটার,ওয়েট,ইয়র্ক"
+msgid "Bal,Cam,Corn,Del,Earl,El,Fox,Fren,Gel,Hel,Hex,Hol,Hox,Il,Kin,Nam,Nes,New,Ol,Old,Olf,Oul,Ox,Rock,Rook,Sal,Sam,Sed,Sel,Sen,Sil,Tal,Water,Wet,York"
+msgstr "বাল,কাম,কর্ন,ডেল,আর্ল,এল,ফক্স,ফ্রেন,গেল,হেল,হেক্স,হোক্স,ইল,কিন,নাম,নেস,নেউ,ওল,ওল্ড,ওল্ফ,ওউল,ওক্স,রক,রুক,সাল,সাম,সেড,সেল,সেন,সিল,টাল,ওয়াটার,ওয়েট,ইয়র্ক"
 
 #. Generator for the base names of features assigned by the random map generator; see <https://wiki.wesnoth.org/Context-free_grammar> for syntax
 #: data/core/macros/names.cfg:291
@@ -2978,381 +2650,381 @@ msgstr ""
 "একজন মানুষ খেলোয়ারের দল $side_number খেলার কথা ।"
 
 #. [music]
-#: data/core/macros/sound-utils.cfg:157
+#: data/core/macros/sound-utils.cfg:162
 msgid "Battle Epic"
 msgstr "বিরাট যুদ্ধ"
 
 #. [music]
-#: data/core/macros/sound-utils.cfg:163
+#: data/core/macros/sound-utils.cfg:168
 msgid "Battle Music"
 msgstr "যুদ্ধের সঙ্গীত"
 
 #. [music]
-#: data/core/macros/sound-utils.cfg:169
+#: data/core/macros/sound-utils.cfg:174
 msgid "Breaking the Chains"
 msgstr "শৃঙ্খল ভাঙা"
 
 #. [music]
-#: data/core/macros/sound-utils.cfg:175
+#: data/core/macros/sound-utils.cfg:180
 msgid "Casualties of War"
 msgstr "যুদ্ধের ক্ষয়ক্ষতি"
 
 #. [music]
-#: data/core/macros/sound-utils.cfg:181
+#: data/core/macros/sound-utils.cfg:186
 msgid "Elf Land"
 msgstr "এল্ফ রাজ্য"
 
 #. [music]
-#: data/core/macros/sound-utils.cfg:187
+#: data/core/macros/sound-utils.cfg:192
 msgid "Elvish theme"
 msgstr "এল্ফদের আবহসঙ্গীত"
 
 #. [music]
-#: data/core/macros/sound-utils.cfg:193
+#: data/core/macros/sound-utils.cfg:198
 msgid "Frantic"
 msgstr "উদ্বিগ্ন"
 
 #. [music]
-#: data/core/macros/sound-utils.cfg:199
+#: data/core/macros/sound-utils.cfg:204
 msgid "Heroes Rite"
 msgstr "হিরো'স রাইট"
 
 #. [music]
-#: data/core/macros/sound-utils.cfg:205
+#: data/core/macros/sound-utils.cfg:210
 msgid "Into the Shadows"
 msgstr "ছায়াতে"
 
 #. [music]
-#: data/core/macros/sound-utils.cfg:211
+#: data/core/macros/sound-utils.cfg:216
 msgid "Journey’s End"
 msgstr "যাত্রার শেষ"
 
 #. [music]
-#: data/core/macros/sound-utils.cfg:217
+#: data/core/macros/sound-utils.cfg:222
 msgid "Knalgan Theme"
 msgstr "নালগার আবহসঙ্গীত"
 
 #. [music]
-#: data/core/macros/sound-utils.cfg:223
+#: data/core/macros/sound-utils.cfg:228
 msgid "The Knolls of Doldesh"
 msgstr "নোলস্ অফ্ ডোলডেশ"
 
 #. [music]
-#: data/core/macros/sound-utils.cfg:229
+#: data/core/macros/sound-utils.cfg:234
 msgid "Legends of the North"
 msgstr "লেজেন্ডস্ অফ নর্থ"
 
 #. [music]
-#: data/core/macros/sound-utils.cfg:235
+#: data/core/macros/sound-utils.cfg:240
 msgid "Love Theme"
 msgstr "প্রেমের আবহসঙ্গীত"
 
 #. [music]
-#: data/core/macros/sound-utils.cfg:241
+#: data/core/macros/sound-utils.cfg:246
 msgid "Loyalists"
 msgstr "লয়ালিস্টস্"
 
 #. [music]
-#: data/core/macros/sound-utils.cfg:247
+#: data/core/macros/sound-utils.cfg:252
 msgid "Over the Northern Mountains"
 msgstr "উত্তরের পর্বত অতিক্রম করে"
 
 #. [music]
-#: data/core/macros/sound-utils.cfg:253
+#: data/core/macros/sound-utils.cfg:258
 msgid "Northerners"
 msgstr "উত্তর নিবাসীরা"
 
 #. [music]
-#: data/core/macros/sound-utils.cfg:259
+#: data/core/macros/sound-utils.cfg:264
 msgid "Nunc Dimittis"
 msgstr "নুন্ক ডিমিট্টিস"
 
 #. [music]
-#: data/core/macros/sound-utils.cfg:265
+#: data/core/macros/sound-utils.cfg:270
 msgid "Revelation"
 msgstr "রেভেলেশন"
 
 #. [music]
-#: data/core/macros/sound-utils.cfg:271
+#: data/core/macros/sound-utils.cfg:276
 msgid "Sad"
 msgstr "দুঃখ"
 
 #. [music]
-#: data/core/macros/sound-utils.cfg:277
+#: data/core/macros/sound-utils.cfg:282
 msgid "Siege of Laurelmor"
 msgstr "লরেলমোরের অবরোধ"
 
 #. [music]
-#: data/core/macros/sound-utils.cfg:283
+#: data/core/macros/sound-utils.cfg:288
 msgid "Silvan Sanctuary"
 msgstr "সিলভান স্যাঙ্কচুয়ারি"
 
 #. [music]
-#: data/core/macros/sound-utils.cfg:289
+#: data/core/macros/sound-utils.cfg:294
 msgid "Suspense"
 msgstr "উদ্বিগ্নতা"
 
 #. [music]
-#: data/core/macros/sound-utils.cfg:295
+#: data/core/macros/sound-utils.cfg:300
 msgid "The City Falls"
 msgstr "দা সিটি ফলস্"
 
 #. [music]
-#: data/core/macros/sound-utils.cfg:301
+#: data/core/macros/sound-utils.cfg:306
 msgid "The Dangerous Symphony"
 msgstr "বিপজ্জনক সিমফোনি"
 
 #. [music]
-#: data/core/macros/sound-utils.cfg:307
+#: data/core/macros/sound-utils.cfg:312
 msgid "The Deep Path"
 msgstr "গভীর পথ"
 
 #. [music]
-#: data/core/macros/sound-utils.cfg:313
+#: data/core/macros/sound-utils.cfg:318
 msgid "The King is Dead"
 msgstr "রাজা আজ মৃত"
 
 #. [music]
-#: data/core/macros/sound-utils.cfg:319
+#: data/core/macros/sound-utils.cfg:324
 msgid "Transience"
 msgstr "ক্ষণস্থায়ীত্ব"
 
 #. [music]
-#: data/core/macros/sound-utils.cfg:325
+#: data/core/macros/sound-utils.cfg:330
 msgid "Traveling Minstrels"
 msgstr "ট্রাভেলিং মিনস্ট্রেলস্"
 
 #. [music]
 #. [time]: id=underground_noweather
-#: data/core/macros/sound-utils.cfg:331 data/internal/Weather/_main.cfg:230
+#: data/core/macros/sound-utils.cfg:336 data/internal/Weather/_main.cfg:300
 msgid "Underground"
 msgstr "ভুগর্ভ"
 
 #. [music]
-#: data/core/macros/sound-utils.cfg:337
+#: data/core/macros/sound-utils.cfg:347
 msgid "Vengeful Pursuit"
 msgstr "ভেঞ্জফুল পারসুট"
 
 #. [music]
-#: data/core/macros/sound-utils.cfg:343
+#: data/core/macros/sound-utils.cfg:353
 msgid "Still Another Wanderer"
 msgstr "স্টিল অ্যানাদার ওয়ান্ডারার"
 
 #. [music]
-#: data/core/macros/sound-utils.cfg:349
+#: data/core/macros/sound-utils.cfg:359
 msgid "Weight of Revenge"
 msgstr "প্রতিশোধের ভার"
 
 #. [message]: speaker=narrator
-#: data/core/macros/utils.cfg:664
+#: data/core/macros/utils.cfg:662
 msgid "You retrieve $amount_gold pieces of gold."
 msgstr "আপনি $amount_gold পরিমাণ স্বর্ণ পেয়েছেন ।"
 
 #. [color_range]: id=red
 #. [color_range]: id=1
-#: data/core/team-colors.cfg:14 data/core/team-colors.cfg:265
+#: data/core/team-colors.cfg:14 data/core/team-colors.cfg:271
 msgid "Red"
 msgstr "লাল"
 
-#. [color_range]: id=lightred
-#: data/core/team-colors.cfg:21
-msgid "Light Red"
-msgstr "হালকা লাল"
-
-#. [color_range]: id=darkred
-#: data/core/team-colors.cfg:27
-msgid "Dark Red"
-msgstr "ঘন লাল"
-
 #. [color_range]: id=blue
 #. [color_range]: id=2
-#: data/core/team-colors.cfg:33 data/core/team-colors.cfg:271
+#: data/core/team-colors.cfg:21 data/core/team-colors.cfg:277
 msgid "Blue"
 msgstr "নীল"
 
-#. [color_range]: id=lightblue
-#: data/core/team-colors.cfg:40
-msgid "Light blue"
-msgstr "হালকা নীল"
-
 #. [color_range]: id=green
 #. [color_range]: id=3
-#: data/core/team-colors.cfg:46 data/core/team-colors.cfg:277
+#: data/core/team-colors.cfg:28 data/core/team-colors.cfg:283
 msgid "Green"
 msgstr "সবুজ"
 
-#. [color_range]: id=brightgreen
-#: data/core/team-colors.cfg:53
-msgid "Bright green"
-msgstr "উজ্জ্বল সবুজ"
-
 #. [color_range]: id=purple
 #. [color_range]: id=4
-#: data/core/team-colors.cfg:59 data/core/team-colors.cfg:283
+#: data/core/team-colors.cfg:35 data/core/team-colors.cfg:289
 msgid "Purple"
 msgstr "বেগুনী"
 
 #. [color_range]: id=black
 #. [color_range]: id=5
-#: data/core/team-colors.cfg:66 data/core/team-colors.cfg:295
+#: data/core/team-colors.cfg:42 data/core/team-colors.cfg:301
 msgid "Black"
 msgstr "কালো"
 
 #. [color_range]: id=brown
 #. [color_range]: id=6
-#: data/core/team-colors.cfg:73 data/core/team-colors.cfg:307
+#: data/core/team-colors.cfg:49 data/core/team-colors.cfg:313
 msgid "Brown"
 msgstr "বাদামী"
 
 #. [color_range]: id=orange
 #. [color_range]: id=7
-#: data/core/team-colors.cfg:80 data/core/team-colors.cfg:289
+#: data/core/team-colors.cfg:56 data/core/team-colors.cfg:295
 msgid "Orange"
 msgstr "কমলা"
 
-#. [color_range]: id=brightorange
-#: data/core/team-colors.cfg:87
-msgid "Bright orange"
-msgstr "উজ্জ্বল কমলা"
-
 #. [color_range]: id=white
 #. [color_range]: id=8
-#: data/core/team-colors.cfg:93 data/core/team-colors.cfg:301
+#: data/core/team-colors.cfg:63 data/core/team-colors.cfg:307
 msgid "White"
 msgstr "সাদা"
 
 #. [color_range]: id=teal
 #. [color_range]: id=9
-#: data/core/team-colors.cfg:100 data/core/team-colors.cfg:313
+#: data/core/team-colors.cfg:70 data/core/team-colors.cfg:319
 msgid "Teal"
 msgstr "টিল"
 
 #. [color_range]: id=gold
-#: data/core/team-colors.cfg:107
+#: data/core/team-colors.cfg:77
 msgid "color^Gold"
 msgstr "সোনালী"
 
+#. [color_range]: id=lightblue
+#: data/core/team-colors.cfg:84
+msgid "Light blue"
+msgstr "হালকা নীল"
+
+#. [color_range]: id=brightgreen
+#: data/core/team-colors.cfg:91
+msgid "Bright green"
+msgstr "উজ্জ্বল সবুজ"
+
+#. [color_range]: id=darkred
+#: data/core/team-colors.cfg:98
+msgid "Dark Red"
+msgstr "ঘন লাল"
+
+#. [color_range]: id=brightorange
+#: data/core/team-colors.cfg:105
+msgid "Bright orange"
+msgstr "উজ্জ্বল কমলা"
+
+#. [color_range]: id=lightred
+#: data/core/team-colors.cfg:112
+msgid "Light Red"
+msgstr "হালকা লাল"
+
 #. [color_range]: id=yellow
-#: data/core/team-colors.cfg:113
+#: data/core/team-colors.cfg:119
 msgid "Yellow"
 msgstr "হলুদ"
 
 #. [color_range]: id=pink
-#: data/core/team-colors.cfg:119
+#: data/core/team-colors.cfg:125
 msgid "Pink"
 msgstr "গোলাপী"
 
 #. [color_range]: id=darkblue
-#: data/core/team-colors.cfg:126
+#: data/core/team-colors.cfg:132
 msgid "Dark blue"
 msgstr "ঘন নীল"
 
 #. [color_range]: id=reef
-#: data/core/team-colors.cfg:135
+#: data/core/team-colors.cfg:141
 msgid "Reef"
 msgstr "প্রবাল প্রাচীর"
 
 #. [color_range]: id=shallow_water
-#: data/core/team-colors.cfg:141
+#: data/core/team-colors.cfg:147
 msgid "Shallow water"
 msgstr "অগভীর জল"
 
 #. [color_range]: id=deep_water
-#: data/core/team-colors.cfg:147
+#: data/core/team-colors.cfg:153
 msgid "Deep water"
 msgstr "গভীর জল"
 
 #. [color_range]: id=swamp_water
-#: data/core/team-colors.cfg:153
+#: data/core/team-colors.cfg:159
 msgid "Swamp water"
 msgstr "জলাভূমির জল"
 
 #. [color_range]: id=flat
-#: data/core/team-colors.cfg:159
+#: data/core/team-colors.cfg:165
 msgid "Flat"
 msgstr "সমতল"
 
 #. [color_range]: id=hills
-#: data/core/team-colors.cfg:165
+#: data/core/team-colors.cfg:171
 msgid "Hills"
 msgstr "পাহাড়"
 
 #. [color_range]: id=mountains
-#: data/core/team-colors.cfg:171
+#: data/core/team-colors.cfg:177
 msgid "Mountains"
 msgstr "পর্বত"
 
 #. [color_range]: id=forest
-#: data/core/team-colors.cfg:177
+#: data/core/team-colors.cfg:183
 msgid "Forest"
 msgstr "অরণ্য"
 
 #. [color_range]: id=sand
-#: data/core/team-colors.cfg:183
+#: data/core/team-colors.cfg:189
 msgid "Sand"
 msgstr "বালি"
 
 #. [color_range]: id=frozen
-#: data/core/team-colors.cfg:189
+#: data/core/team-colors.cfg:195
 msgid "Frozen"
 msgstr "বরফ"
 
 #. [color_range]: id=cave
-#: data/core/team-colors.cfg:195
+#: data/core/team-colors.cfg:201
 msgid "Cave"
 msgstr "গুহা"
 
 #. [color_range]: id=fungus
-#: data/core/team-colors.cfg:201
+#: data/core/team-colors.cfg:207
 msgid "Fungus"
 msgstr "ছত্রাক"
 
 #. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [color_range]: id=village
-#: data/core/team-colors.cfg:207 src/terrain/terrain.cpp:169
+#: data/core/team-colors.cfg:213 src/terrain/terrain.cpp:169
 msgid "Village"
 msgstr "গ্রাম"
 
 #. [color_range]: id=castle
-#: data/core/team-colors.cfg:213
+#: data/core/team-colors.cfg:219
 msgid "Castle"
 msgstr "প্রাসাদ"
 
 #. [color_range]: id=keep
-#: data/core/team-colors.cfg:219
+#: data/core/team-colors.cfg:225
 msgid "Keep"
 msgstr "দূর্গ"
 
 #. [color_range]: id=rails
-#: data/core/team-colors.cfg:225
+#: data/core/team-colors.cfg:231
 msgid "Rail"
 msgstr "রেললাইন"
 
 #. [color_range]: id=unwalkable
-#: data/core/team-colors.cfg:231
+#: data/core/team-colors.cfg:237
 msgid "Unwalkable"
 msgstr "হাঁটার অযোগ্য"
 
 #. [color_range]: id=impassable
-#: data/core/team-colors.cfg:237
+#: data/core/team-colors.cfg:243
 msgid "Impassable"
 msgstr "অনতিক্রম্য"
 
 #. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [color_range]: id=fog
-#: data/core/team-colors.cfg:243 src/game_initialization/lobby_data.cpp:376
+#: data/core/team-colors.cfg:249 src/game_initialization/lobby_data.cpp:376
 msgid "Fog"
 msgstr "কুয়াশা"
 
 #. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [color_range]: id=shroud
-#: data/core/team-colors.cfg:249 src/game_initialization/lobby_data.cpp:379
+#: data/core/team-colors.cfg:255 src/game_initialization/lobby_data.cpp:379
 #: src/game_initialization/lobby_data.cpp:382
 msgid "Shroud"
 msgstr "ছায়া"
 
 #. [color_range]: id=urbanjungle
-#: data/core/team-colors.cfg:256
+#: data/core/team-colors.cfg:262
 msgid "Urban"
 msgstr "শহর"
 
@@ -3367,27 +3039,27 @@ msgid "The standard Wesnoth core."
 msgstr "স্বাভাবিক ওয়েসনথ কোর ।"
 
 #. [language]
-#: data/english.cfg:3
+#: data/english.cfg:8
 msgid "Easy"
 msgstr "সহজ"
 
 #. [language]
-#: data/english.cfg:4
+#: data/english.cfg:9
 msgid "Medium"
 msgstr "স্বাভাবিক"
 
 #. [language]
-#: data/english.cfg:5
+#: data/english.cfg:10
 msgid "Hard"
 msgstr "কঠিন"
 
 #. [language]
-#: data/english.cfg:6
+#: data/english.cfg:11
 msgid "Nightmare"
 msgstr "দুঃস্বপ্ন"
 
 #. [language]
-#: data/english.cfg:8
+#: data/english.cfg:13
 msgid ""
 "Lawful units fight better during the day, and worse at night.\n"
 "\n"
@@ -3400,7 +3072,7 @@ msgstr ""
 "রাত্রি: -25% ক্ষতি"
 
 #. [language]
-#: data/english.cfg:12
+#: data/english.cfg:17
 msgid ""
 "Neutral units are unaffected by day and night, fighting equally well under "
 "both conditions."
@@ -3409,7 +3081,7 @@ msgstr ""
 "লড়াই করতে পারে ।"
 
 #. [language]
-#: data/english.cfg:13
+#: data/english.cfg:18
 msgid ""
 "Chaotic units fight better at night, and worse during the day.\n"
 "\n"
@@ -3422,7 +3094,7 @@ msgstr ""
 "রাত্রি: +25% ক্ষতি"
 
 #. [language]
-#: data/english.cfg:17
+#: data/english.cfg:22
 msgid ""
 "Liminal units fight best during the twilight times of day.\n"
 "\n"
@@ -3433,13 +3105,13 @@ msgstr ""
 "গোধুলি: +25% ক্ষতি"
 
 #. [language]
-#: data/english.cfg:31
+#: data/english.cfg:36
 msgid "arcane"
 msgstr "অলৌকিক"
 
 #. [naming]
 #. Generator for bridge labels in random maps; see <https://wiki.wesnoth.org/Context-free_grammar> for syntax and <https://wiki.wesnoth.org/MapGeneratorWML#The_Default_Generator> for variables summary
-#: data/english.cfg:41
+#: data/english.cfg:46
 msgid ""
 "\n"
 "\t\tbridge_type=Bridge|Crossing\n"
@@ -3453,7 +3125,7 @@ msgstr ""
 
 #. [naming]
 #. Generator for road labels in random maps; see <https://wiki.wesnoth.org/Context-free_grammar> for syntax and <https://wiki.wesnoth.org/MapGeneratorWML#The_Default_Generator> for variables summary
-#: data/english.cfg:46
+#: data/english.cfg:51
 msgid ""
 "\n"
 "\t\troad_type=Highway|Pass|Path|Road|Way|Trail\n"
@@ -3467,7 +3139,7 @@ msgstr ""
 
 #. [naming]
 #. Generator for river labels in random maps; see <https://wiki.wesnoth.org/Context-free_grammar> for syntax and <https://wiki.wesnoth.org/MapGeneratorWML#The_Default_Generator> for variables summary
-#: data/english.cfg:51
+#: data/english.cfg:56
 msgid ""
 "\n"
 "\t\triver_type=River|River|River|Creek|Creek|Stream|Canal\n"
@@ -3481,7 +3153,7 @@ msgstr ""
 
 #. [naming]
 #. Generator for forest labels in random maps; see <https://wiki.wesnoth.org/Context-free_grammar> for syntax and <https://wiki.wesnoth.org/MapGeneratorWML#The_Default_Generator> for variables summary
-#: data/english.cfg:56
+#: data/english.cfg:61
 msgid ""
 "\n"
 "\t\tforest_type=Forest|Forest|Wood\n"
@@ -3495,7 +3167,7 @@ msgstr ""
 
 #. [naming]
 #. Generator for lake labels in random maps; see <https://wiki.wesnoth.org/Context-free_grammar> for syntax and <https://wiki.wesnoth.org/MapGeneratorWML#The_Default_Generator> for variables summary
-#: data/english.cfg:61
+#: data/english.cfg:66
 msgid ""
 "\n"
 "\t\tlake_type=Lake|Lake|Lake|Loch|Sea\n"
@@ -3509,7 +3181,7 @@ msgstr ""
 
 #. [naming]
 #. Generator for mountain labels in random maps; see <https://wiki.wesnoth.org/Context-free_grammar> for syntax and <https://wiki.wesnoth.org/MapGeneratorWML#The_Default_Generator> for variables summary
-#: data/english.cfg:66
+#: data/english.cfg:71
 msgid ""
 "\n"
 "\t\tmain=$base{!}’s Peak|$base Peak|Mount $base|Mount $base\n"
@@ -3521,7 +3193,7 @@ msgstr ""
 
 #. [naming]
 #. Generator for swamp labels in random maps; see <https://wiki.wesnoth.org/Context-free_grammar> for syntax and <https://wiki.wesnoth.org/MapGeneratorWML#The_Default_Generator> for variables summary
-#: data/english.cfg:70
+#: data/english.cfg:75
 msgid ""
 "\n"
 "\t\tsuffix=’s Swamp|marsh|fen\n"
@@ -3535,7 +3207,7 @@ msgstr ""
 
 #. [village_naming]
 #. Generator for generic village labels in random maps; see <https://wiki.wesnoth.org/Context-free_grammar> for syntax and <https://wiki.wesnoth.org/MapGeneratorWML#The_Default_Generator> for variables summary
-#: data/english.cfg:78
+#: data/english.cfg:83
 msgid ""
 "\n"
 "\t\tsuffix=bury|bury|ham|ton|ville\n"
@@ -3549,7 +3221,7 @@ msgstr ""
 
 #. [village_naming]
 #. Generator for lakeside village labels in random maps; see <https://wiki.wesnoth.org/Context-free_grammar> for syntax and <https://wiki.wesnoth.org/MapGeneratorWML#The_Default_Generator> for variables summary
-#: data/english.cfg:83
+#: data/english.cfg:88
 msgid ""
 "\n"
 "\t\tprefix=$base{!}|$lake{!}\n"
@@ -3565,7 +3237,7 @@ msgstr ""
 
 #. [village_naming]
 #. Generator for riverside village labels in random maps; see <https://wiki.wesnoth.org/Context-free_grammar> for syntax and <https://wiki.wesnoth.org/MapGeneratorWML#The_Default_Generator> for variables summary
-#: data/english.cfg:89
+#: data/english.cfg:94
 msgid ""
 "\n"
 "\t\tprefix=$base{!}|$river{!}\n"
@@ -3583,7 +3255,7 @@ msgstr ""
 
 #. [village_naming]
 #. Generator for bridge village labels in random maps; see <https://wiki.wesnoth.org/Context-free_grammar> for syntax and <https://wiki.wesnoth.org/MapGeneratorWML#The_Default_Generator> for variables summary
-#: data/english.cfg:96
+#: data/english.cfg:101
 msgid ""
 "\n"
 "\t\tprefix=$base{!}|$river{!}|$bridge{!}\n"
@@ -3599,7 +3271,7 @@ msgstr ""
 
 #. [village_naming]
 #. Generator for grassland village labels in random maps; see <https://wiki.wesnoth.org/Context-free_grammar> for syntax and <https://wiki.wesnoth.org/MapGeneratorWML#The_Default_Generator> for variables summary
-#: data/english.cfg:102
+#: data/english.cfg:107
 msgid ""
 "\n"
 "\t\tsuffix=ham|ton|field\n"
@@ -3613,7 +3285,7 @@ msgstr ""
 
 #. [village_naming]
 #. Generator for forest village labels in random maps; see <https://wiki.wesnoth.org/Context-free_grammar> for syntax and <https://wiki.wesnoth.org/MapGeneratorWML#The_Default_Generator> for variables summary
-#: data/english.cfg:107
+#: data/english.cfg:112
 msgid ""
 "\n"
 "\t\tprefix=$base{!}|$forest{!}\n"
@@ -3629,7 +3301,7 @@ msgstr ""
 
 #. [village_naming]
 #. Generator for hill village labels in random maps; see <https://wiki.wesnoth.org/Context-free_grammar> for syntax and <https://wiki.wesnoth.org/MapGeneratorWML#The_Default_Generator> for variables summary
-#: data/english.cfg:113
+#: data/english.cfg:118
 msgid ""
 "\n"
 "\t\tsuffix=ham|bury|ton|hill|crest\n"
@@ -3643,7 +3315,7 @@ msgstr ""
 
 #. [village_naming]
 #. Generator for mountain village labels in random maps; see <https://wiki.wesnoth.org/Context-free_grammar> for syntax and <https://wiki.wesnoth.org/MapGeneratorWML#The_Default_Generator> for variables summary
-#: data/english.cfg:118
+#: data/english.cfg:123
 msgid ""
 "\n"
 "\t\tprefix=$base{!}|$mountain{!}\n"
@@ -3659,7 +3331,7 @@ msgstr ""
 
 #. [village_naming]
 #. Generator for mountain labels in random maps; see <https://wiki.wesnoth.org/Context-free_grammar> for syntax and <https://wiki.wesnoth.org/MapGeneratorWML#The_Default_Generator> for variables summary
-#: data/english.cfg:124
+#: data/english.cfg:129
 msgid ""
 "\n"
 "\t\tsuffix=ham|bury|ton|mont|mont|cliff|cliff\n"
@@ -3673,7 +3345,7 @@ msgstr ""
 
 #. [village_naming]
 #. Generator for roadside village labels in random maps; see <https://wiki.wesnoth.org/Context-free_grammar> for syntax and <https://wiki.wesnoth.org/MapGeneratorWML#The_Default_Generator> for variables summary
-#: data/english.cfg:129
+#: data/english.cfg:134
 msgid ""
 "\n"
 "\t\tprefix=$road{!}|$road{!}|$base{!}\n"
@@ -3689,7 +3361,7 @@ msgstr ""
 
 #. [village_naming]
 #. Generator for swamp village labels in random maps; see <https://wiki.wesnoth.org/Context-free_grammar> for syntax and <https://wiki.wesnoth.org/MapGeneratorWML#The_Default_Generator> for variables summary
-#: data/english.cfg:135
+#: data/english.cfg:140
 msgid ""
 "\n"
 "\t\tprefix=$base{!}|$swamp{!}\n"
@@ -3751,42 +3423,42 @@ msgid "WesScript"
 msgstr "Lohit Bengali"
 
 #. [time]: id=dawn_noweather
-#: data/internal/Weather/_main.cfg:151
+#: data/internal/Weather/_main.cfg:221
 msgid "Dawn"
 msgstr "ভোর"
 
 #. [time]: id=morning_noweather
-#: data/internal/Weather/_main.cfg:162
+#: data/internal/Weather/_main.cfg:232
 msgid "Morning"
 msgstr "সকাল"
 
 #. [time]: id=midday_noweather
-#: data/internal/Weather/_main.cfg:170
+#: data/internal/Weather/_main.cfg:240
 msgid "Midday"
 msgstr "মধ্যাহ্ন"
 
 #. [time]: id=afternoon_noweather
-#: data/internal/Weather/_main.cfg:178
+#: data/internal/Weather/_main.cfg:248
 msgid "Afternoon"
 msgstr "বিকেল"
 
 #. [time]: id=dusk_noweather
-#: data/internal/Weather/_main.cfg:186
+#: data/internal/Weather/_main.cfg:256
 msgid "Dusk"
 msgstr "সন্ধ্যা"
 
 #. [time]: id=first_watch_noweather
-#: data/internal/Weather/_main.cfg:197
+#: data/internal/Weather/_main.cfg:267
 msgid "First Watch"
 msgstr "রাত্রির প্রথমার্ধ"
 
 #. [time]: id=midnight_noweather
-#: data/internal/Weather/_main.cfg:208
+#: data/internal/Weather/_main.cfg:278
 msgid "Midnight"
 msgstr "মধ্যরাত্রি"
 
 #. [time]: id=second_watch_noweather
-#: data/internal/Weather/_main.cfg:219
+#: data/internal/Weather/_main.cfg:289
 msgid "Second Watch"
 msgstr "রাত্রির দ্বিতীয়ার্ধ"
 
@@ -3980,31 +3652,31 @@ msgstr "অবৈধ ডেপ্রিকেশন পর্যায় (1-4-এ�
 
 #. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: set_status
-#: data/lua/wml/harm_unit.lua:124 src/actions/attack.cpp:948
+#: data/lua/wml/harm_unit.lua:124 src/actions/attack.cpp:973
 msgid "female^poisoned"
 msgstr "বিষক্রিয়া"
 
 #. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: set_status
-#: data/lua/wml/harm_unit.lua:126 src/actions/attack.cpp:955
+#: data/lua/wml/harm_unit.lua:126 src/actions/attack.cpp:980
 msgid "female^slowed"
 msgstr "ধীরগতি"
 
 #. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: set_status
-#: data/lua/wml/harm_unit.lua:126 src/actions/attack.cpp:955
+#: data/lua/wml/harm_unit.lua:126 src/actions/attack.cpp:980
 msgid "slowed"
 msgstr "ধীরগতি"
 
 #. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: set_status
-#: data/lua/wml/harm_unit.lua:127 src/actions/attack.cpp:961
+#: data/lua/wml/harm_unit.lua:127 src/actions/attack.cpp:986
 msgid "female^petrified"
 msgstr "প্রস্তরীভূত"
 
 #. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: set_status
-#: data/lua/wml/harm_unit.lua:127 src/actions/attack.cpp:961
+#: data/lua/wml/harm_unit.lua:127 src/actions/attack.cpp:986
 msgid "petrified"
 msgstr "প্রস্তরীভূত"
 
@@ -4020,8 +3692,8 @@ msgstr "সুস্থ করার অযোগ্য"
 
 #. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: wesnoth.wml_actions.message
-#: data/lua/wml/message.lua:433 src/scripting/game_lua_kernel.cpp:3755
-#: src/scripting/game_lua_kernel.cpp:3790
+#: data/lua/wml/message.lua:442 src/scripting/game_lua_kernel.cpp:3771
+#: src/scripting/game_lua_kernel.cpp:3806
 msgid "input"
 msgstr "ইনপুট"
 
@@ -5176,11 +4848,11 @@ msgstr ""
 msgid "waiting for^an advancement choice"
 msgstr "উন্নয়ণ পছন্দের জন্য অপেক্ষা করা হচ্ছে"
 
-#: src/actions/attack.cpp:477 src/actions/attack.cpp:1273
+#: src/actions/attack.cpp:512 src/actions/attack.cpp:1298
 msgid "An invalid attacker weapon got selected."
 msgstr "অবৈধ আক্রমণকারী অস্ত্র নির্বাচিত করা হয়েছে ।"
 
-#: src/actions/attack.cpp:968
+#: src/actions/attack.cpp:993
 msgid "attack^miss"
 msgstr "মিস"
 
@@ -5233,19 +4905,19 @@ msgstr "সুস্থ"
 msgid "Ambushed!"
 msgstr "আক্রান্ত!"
 
-#: src/actions/move.cpp:1281
+#: src/actions/move.cpp:1285
 msgid "Failed teleport! Exit not empty"
 msgstr "টেলিপোর্ট করা যায়নি! বেরিয়ে আসার জায়গাটি ফাঁকা নয়"
 
 #. TRANSLATORS: This becomes the "friendphrase" in "Units sighted! ($friendphrase, $enemyphrase)"
-#: src/actions/move.cpp:1297
+#: src/actions/move.cpp:1301
 msgid "Part of 'Units sighted! (...)' sentence^1 friendly"
 msgid_plural "$friends friendly"
 msgstr[0] "একজন মিত্র"
 msgstr[1] "$friends জন মিত্র"
 
 #. TRANSLATORS: This becomes the "enemyphrase" in "Units sighted! ($friendphrase, $enemyphrase)"
-#: src/actions/move.cpp:1299
+#: src/actions/move.cpp:1303
 msgid "Part of 'Units sighted! (...)' sentence^1 enemy"
 msgid_plural "$enemies enemy"
 msgstr[0] "একজন শত্রু"
@@ -5253,13 +4925,13 @@ msgstr[1] "$enemies জন শত্রু"
 
 #. TRANSLATORS: Both friends and enemies sighted -- neutral message.
 #. This is shown when a move is interrupted because units were revealed from the fog of war.
-#: src/actions/move.cpp:1302
+#: src/actions/move.cpp:1306
 msgid "Units sighted! ($friendphrase, $enemyphrase)"
 msgstr "ইউনিট দেখা গিয়েছে! ($friendphrase, $enemyphrase)"
 
 #. TRANSLATORS: Only enemies sighted -- bad message.
 #. This is shown when a move is interrupted because units were revealed from the fog of war.
-#: src/actions/move.cpp:1307
+#: src/actions/move.cpp:1311
 msgid "Enemy unit sighted!"
 msgid_plural "$enemies enemy units sighted!"
 msgstr[0] "শত্রু ইউনিট দেখা গিয়েছে!"
@@ -5267,21 +4939,21 @@ msgstr[1] "$enemies সংখ্যক শত্রু ইউনিট দেখ
 
 #. TRANSLATORS: Only friends sighted -- good message.
 #. This is shown when a move is interrupted because units were revealed from the fog of war.
-#: src/actions/move.cpp:1312
+#: src/actions/move.cpp:1316
 msgid "Friendly unit sighted"
 msgid_plural "$friends friendly units sighted"
 msgstr[0] "মিত্র ইউনিট দেখা গিয়েছে!"
 msgstr[1] "$friends মিত্র ইউনিট দেখা গিয়েছে!"
 
-#: src/actions/move.cpp:1327
+#: src/actions/move.cpp:1331
 msgid "(press $hotkey to keep moving)"
 msgstr "(চলার জন্য $hotkey টিপুন)"
 
-#: src/actions/undo.cpp:330
+#: src/actions/undo.cpp:331
 msgid "Redo Error"
 msgstr "পুনরায় করতে গিয়ে ত্রুটি"
 
-#: src/actions/undo.cpp:331
+#: src/actions/undo.cpp:332
 msgid ""
 "The redo stack is out of sync. This is most commonly caused by a corrupt "
 "save file or by faulty WML code in the scenario or era. Details:"
@@ -5289,7 +4961,7 @@ msgstr ""
 "রিডো স্ট্যাক সিঙ্কের বাইরে চলে গিয়েছে । সাধারণত ত্রুটিপূর্ণ সঞ্চয় ফাইল বা ঘটনাক্রম বা "
 "যুগের ত্রুটিপূর্ণ ডব্লুএমএল কোড থেকে এটি হতে পারে । বিস্তারিত বিবরণ:"
 
-#: src/actions/undo.cpp:342
+#: src/actions/undo.cpp:343
 msgid "Unhandled choices while redoing"
 msgstr "রিডো করার সময় না-নেওয়া পছন্দগুলি"
 
@@ -5491,8 +5163,8 @@ msgstr "ভার্সন কন্ট্রোল সিস্টেমের 
 msgid "Do you really wish to continue?"
 msgstr "আপনি কী সত্যিই এগিয়ে যেতে চান?"
 
-#: src/addon/client.cpp:722 src/addon/manager_ui.cpp:171
-#: src/game_initialization/multiplayer.cpp:373
+#: src/addon/client.cpp:722 src/addon/manager_ui.cpp:187
+#: src/game_initialization/multiplayer.cpp:374
 msgid "Confirm"
 msgstr "নিশ্চিত করুন"
 
@@ -5552,15 +5224,21 @@ msgstr "(অজানা)"
 msgid "unit_byte^B"
 msgstr "B"
 
-#: src/addon/manager_ui.cpp:81 src/addon/manager_ui.cpp:320
-msgid "Network communication error."
-msgstr "নেটওয়ার্ক সংযোগ ত্রুটি"
-
-#: src/addon/manager_ui.cpp:84 src/addon/manager_ui.cpp:323
+#: src/addon/manager_ui.cpp:55
 msgid "Remote host disconnected."
 msgstr "দূরস্থ হোস্টের সঙ্গে সম্পর্ক বিচ্ছিন্ন হয়ে গেছে ।"
 
-#: src/addon/manager_ui.cpp:87 src/addon/manager_ui.cpp:326
+#: src/addon/manager_ui.cpp:63
+#, fuzzy
+#| msgid "Map generator error: "
+msgid "Raw network error:"
+msgstr "মানচিত্র সৃষ্টিকারকে ত্রুটি:"
+
+#: src/addon/manager_ui.cpp:97 src/addon/manager_ui.cpp:336
+msgid "Network communication error."
+msgstr "নেটওয়ার্ক সংযোগ ত্রুটি"
+
+#: src/addon/manager_ui.cpp:103 src/addon/manager_ui.cpp:342
 msgid ""
 "A problem occurred when trying to create the files necessary to install this "
 "add-on."
@@ -5568,7 +5246,7 @@ msgstr ""
 "এই অ্যাড-অনটিকে ইনস্টল করার জন্য যে ফাইলগুলি প্রয়োজনীয় সেগুলি তৈরী করার সময় সমস্যা "
 "হয়েছে ।"
 
-#: src/addon/manager_ui.cpp:96 src/addon/manager_ui.cpp:335
+#: src/addon/manager_ui.cpp:112 src/addon/manager_ui.cpp:351
 msgid ""
 "A local file with add-on publishing information could not be read.\n"
 "\n"
@@ -5580,21 +5258,21 @@ msgstr ""
 "ফাইং: $path\n"
 "ত্রুটিবার্তা: $msg"
 
-#: src/addon/manager_ui.cpp:104 src/addon/manager_ui.cpp:341
+#: src/addon/manager_ui.cpp:120 src/addon/manager_ui.cpp:357
 msgid "The add-ons server address specified is not valid."
 msgstr "অ্যাড-অন সার্ভারের ঠিকানা বৈধ নয় ।"
 
-#: src/addon/manager_ui.cpp:117
+#: src/addon/manager_ui.cpp:133
 msgid "You have no add-ons installed."
 msgstr "আপনার কোনো অ্যাড-অন ইনস্টল করা নেই ।"
 
-#: src/addon/manager_ui.cpp:166
+#: src/addon/manager_ui.cpp:182
 msgid "Are you sure you want to remove the following installed add-on?"
 msgid_plural "Are you sure you want to remove the following installed add-ons?"
 msgstr[0] "আপনি নিশ্চিতভাবে এই অ্যাড-অনটিকে মুছে ফেলতে চান?"
 msgstr[1] "আপনি নিশ্চিতভাবে এই অ্যাড-অনগুলিকে মুছে ফেলতে চান?"
 
-#: src/addon/manager_ui.cpp:192
+#: src/addon/manager_ui.cpp:208
 msgid ""
 "The following add-on appears to have publishing or version control "
 "information stored locally, and will not be removed:"
@@ -5606,29 +5284,29 @@ msgstr[0] ""
 msgstr[1] ""
 "পরবর্তী অ্যাড-অনগুলির প্রকাশনা বা ভার্সন কন্ট্রোল তথ্য রয়েছে, মুছে ফেলা হবে না ।"
 
-#: src/addon/manager_ui.cpp:202
+#: src/addon/manager_ui.cpp:218
 msgid "The following add-on could not be deleted properly:"
 msgid_plural "The following add-ons could not be deleted properly:"
 msgstr[0] "এই অ্যাড-অনটি ঠিকমতো মুছে ফেলা যাচ্ছে না:"
 msgstr[1] "এই অ্যাড-অনগুলি ঠিকমতো মুছে ফেলা যাচ্ছে না:"
 
-#: src/addon/manager_ui.cpp:209
+#: src/addon/manager_ui.cpp:225
 msgid "Add-on Deleted"
 msgid_plural "Add-ons Deleted"
 msgstr[0] "অ্যাড-অন মুছে ফেলা হয়েছে"
 msgstr[1] "অ্যাড-অনগুলি মুছে ফেলা হয়েছে"
 
-#: src/addon/manager_ui.cpp:211
+#: src/addon/manager_ui.cpp:227
 msgid "The following add-on was successfully deleted:"
 msgid_plural "The following add-ons were successfully deleted:"
 msgstr[0] "এই অ্যাড-অনটি সফলভাবে মুছে ফেলা গিয়েছে:"
 msgstr[1] "এই অ্যাড-অনগুলি সফলভাবে মুছে ফেলা গিয়েছে:"
 
-#: src/addon/manager_ui.cpp:268
+#: src/addon/manager_ui.cpp:284
 msgid "An error occurred while downloading the add-ons list from the server."
 msgstr "সার্ভার থেকে অ্যাড-অনের তালিকা ডাউনলোড করার সময় ত্রুটি ।"
 
-#: src/addon/manager_ui.cpp:313
+#: src/addon/manager_ui.cpp:329
 msgid ""
 "Could not find add-ons matching the ids $addon_ids on the add-on server."
 msgstr "$addon_ids মেলে এমন আইডি বিশিষ্ট কোনো অ্যাড-অন সার্ভারে নেই ।"
@@ -5839,7 +5517,7 @@ msgstr "ব্যবহারকারী $nick-এর সম্পর্কে 
 msgid "(A) — admin command"
 msgstr "(A) — অ্যাডমিন কমান্ড"
 
-#: src/chat_command_handler.hpp:58 src/menu_events.cpp:1213
+#: src/chat_command_handler.hpp:58 src/menu_events.cpp:1216
 msgid "(admin only)"
 msgstr "(শুধুমাত্র অ্যাডমিন)"
 
@@ -5959,7 +5637,7 @@ msgstr "সংস্করণের তথ্য দেখান ।"
 msgid "Request information about a nickname."
 msgstr "একটি ডাকনামের সম্পর্কে তথ্য জানার জন্য অনুরোধ করুন ।"
 
-#: src/chat_command_handler.hpp:121 src/menu_events.cpp:1263
+#: src/chat_command_handler.hpp:121 src/menu_events.cpp:1266
 msgid "Clear chat history."
 msgstr "চ্যাটের ইতিহাস মুছুন"
 
@@ -5979,11 +5657,11 @@ msgstr "অজানা ডিবাগ ডোমেইন: '$domain' ।"
 msgid "Switched domain: '$domain' to level: '$level'."
 msgstr "ডোমেইন '$domain'-কে পর্যায়: '$level'-এ সরানো হয়েছে ।"
 
-#: src/chat_events.cpp:144
+#: src/chat_events.cpp:149
 msgid "whisper to $receiver"
 msgstr "$receiver-এর প্রতি চাপা বার্তা"
 
-#: src/chat_events.cpp:151
+#: src/chat_events.cpp:156
 msgid "whisper: $sender"
 msgstr "হুইসপার: $sender"
 
@@ -6012,39 +5690,49 @@ msgstr "$elem ডেপ্রিকেট এবং সরানো হয়েছ
 msgid "Chat message"
 msgstr "চ্যাট বার্তা"
 
-#: src/desktop/windows_tray_notification.cpp:126 src/game_config.cpp:588
+#: src/desktop/windows_tray_notification.cpp:137 src/game_config.cpp:599
 msgid "The Battle for Wesnoth"
 msgstr "ব্যাটল ফর ওয়েসনথ"
 
 #. TRANSLATORS: 12-hour time, eg '1:59 PM'
-#: src/format_time_summary.cpp:42 src/format_time_summary.cpp:95
+#: src/format_time_summary.cpp:44 src/format_time_summary.cpp:100
+#, no-c-format
 msgid "%I:%M %p"
 msgstr "%I:%M %p"
 
 #. TRANSLATORS: 24-hour time, eg '13:59'
-#: src/format_time_summary.cpp:44 src/format_time_summary.cpp:91
+#: src/format_time_summary.cpp:47 src/format_time_summary.cpp:95
+#, no-c-format
 msgid "%H:%M"
 msgstr "%H:%M"
 
 #. TRANSLATORS: Day of week + 12-hour time, eg 'Sunday, 1:59 PM'
-#: src/format_time_summary.cpp:50 src/format_time_summary.cpp:105
+#: src/format_time_summary.cpp:54 src/format_time_summary.cpp:112
+#, no-c-format
 msgid "%A, %I:%M %p"
 msgstr "%A, %I:%M %p"
 
 #. TRANSLATORS: Day of week + 24-hour time, eg 'Sunday, 13:59'
-#: src/format_time_summary.cpp:52 src/format_time_summary.cpp:101
+#: src/format_time_summary.cpp:57 src/format_time_summary.cpp:107
+#, no-c-format
 msgid "%A, %H:%M"
 msgstr "%A, %H:%M"
 
 #. TRANSLATORS: Month + day of month, eg 'Nov 02'. Format for your locale.
-#: src/format_time_summary.cpp:57 src/format_time_summary.cpp:110
+#: src/format_time_summary.cpp:63 src/format_time_summary.cpp:118
+#, no-c-format
 msgid "%b %d"
 msgstr "%d %b"
 
 #. TRANSLATORS: Month + day of month + year, eg 'Nov 02 2021'. Format for your locale.
-#: src/format_time_summary.cpp:62 src/format_time_summary.cpp:115
+#: src/format_time_summary.cpp:69 src/format_time_summary.cpp:124
+#, no-c-format
 msgid "%b %d %Y"
 msgstr "%d %b %Y"
+
+#: src/formula/format_timespan.hpp:57 src/formula/format_timespan.hpp:90
+msgid "timespan^expired"
+msgstr "শেষ"
 
 #. TRANSLATORS: The "timespan^$num xxxxx" strings originating from the same file
 #. as the string with this comment MUST be translated following the usual rules
@@ -6054,53 +5742,49 @@ msgstr "%d %b %Y"
 #. is the time unit (year, month, etc.) For example, for French you would
 #. translate "timespan^$num years" as "$num ans", thus allowing the game UI to
 #. generate output such as "39 ans" after variable interpolation.
-#: src/formula/format_timespan.hpp:38
+#: src/formula/format_timespan.hpp:82
 msgid "timespan^$num year"
 msgid_plural "timespan^$num years"
 msgstr[0] "$num বছর"
 msgstr[1] "$num বছর"
 
-#: src/formula/format_timespan.hpp:39
+#: src/formula/format_timespan.hpp:83
 msgid "timespan^$num month"
 msgid_plural "timespan^$num months"
 msgstr[0] "$num মাস"
 msgstr[1] "$num মাস"
 
-#: src/formula/format_timespan.hpp:40
+#: src/formula/format_timespan.hpp:84
 msgid "timespan^$num week"
 msgid_plural "timespan^$num weeks"
 msgstr[0] "$num সপ্তাহ"
 msgstr[1] "$num সপ্তাহ"
 
-#: src/formula/format_timespan.hpp:41
+#: src/formula/format_timespan.hpp:85
 msgid "timespan^$num day"
 msgid_plural "timespan^$num days"
 msgstr[0] "$num দিন"
 msgstr[1] "$num দিন"
 
-#: src/formula/format_timespan.hpp:42
+#: src/formula/format_timespan.hpp:86
 msgid "timespan^$num hour"
 msgid_plural "timespan^$num hours"
 msgstr[0] "$num ঘন্টা"
 msgstr[1] "$num ঘন্টা"
 
-#: src/formula/format_timespan.hpp:43
+#: src/formula/format_timespan.hpp:87
 msgid "timespan^$num minute"
 msgid_plural "timespan^$num minutes"
 msgstr[0] "$num মিনিট"
 msgstr[1] "$num মিনিট"
 
-#: src/formula/format_timespan.hpp:44
+#: src/formula/format_timespan.hpp:88
 msgid "timespan^$num second"
 msgid_plural "timespan^$num seconds"
 msgstr[0] "$num সেকেন্ড"
 msgstr[1] "$num সেকেন্ড"
 
-#: src/formula/format_timespan.hpp:89 src/formula/format_timespan.hpp:112
-msgid "timespan^expired"
-msgstr "শেষ"
-
-#: src/game_config.cpp:536
+#: src/game_config.cpp:547
 msgid "Invalid color in range: "
 msgstr "সীমার মধ্যে অবৈধ রঙ:"
 
@@ -6206,7 +5890,7 @@ msgid_plural ""
 msgstr[0] "অনুগ্রহ করে এই অ্যাড-অনের লেখক বা মেইনটেনারকে জানান ।"
 msgstr[1] "অনুগ্রহ করে এই অ্যাড-অনের লেখকদের বা মেইনটেনারদের জানান ।"
 
-#: src/game_events/pump.cpp:389 src/game_launcher.cpp:950
+#: src/game_events/pump.cpp:389 src/game_launcher.cpp:948
 msgid "Error: "
 msgstr "ত্রুটি:"
 
@@ -6256,7 +5940,7 @@ msgid "Reserved"
 msgstr "সংরক্ষিত"
 
 #: src/game_initialization/create_engine.cpp:74
-#: src/game_initialization/create_engine.cpp:684
+#: src/game_initialization/create_engine.cpp:691
 msgid "Map could not be loaded: "
 msgstr "মানচিত্র খোলা যাচ্ছে না: "
 
@@ -6276,33 +5960,39 @@ msgstr "নিজস্ব মানচিত্র ।"
 msgid "multiplayer^MP"
 msgstr "এমপি"
 
-#: src/game_initialization/depcheck.cpp:504
+#: src/game_initialization/create_engine.cpp:661
+#, fuzzy
+#| msgid "Variable not found"
+msgid "Era not found: "
+msgstr "চলরাশি পাওয়া যায়নি"
+
+#: src/game_initialization/depcheck.cpp:495
 msgid "Failed to resolve dependencies"
 msgstr "নির্ভরশীল উপাদানগুলি খুঁজে পাওয়া যায়নি"
 
-#: src/game_initialization/depcheck.cpp:504
+#: src/game_initialization/depcheck.cpp:495
 msgid "OK"
 msgstr "ঠিক আছে"
 
-#: src/game_initialization/depcheck.cpp:529
+#: src/game_initialization/depcheck.cpp:520
 msgid "Scenario can’t be activated. Some dependencies are missing: "
 msgstr "ঘটনাক্রম সক্রিয় করা যাচ্ছে না । কিছু নির্ভরশীল উপাদান নেই:"
 
-#: src/game_initialization/depcheck.cpp:583
-#: src/game_initialization/depcheck.cpp:706
+#: src/game_initialization/depcheck.cpp:574
+#: src/game_initialization/depcheck.cpp:697
 msgid "No compatible eras found."
 msgstr "ব্যবহারযোগ্য যুগ নেই ।"
 
-#: src/game_initialization/depcheck.cpp:598
+#: src/game_initialization/depcheck.cpp:589
 msgid "Era can’t be activated. Some dependencies are missing: "
 msgstr "যুগ সক্রিয় করা যাচ্ছে না । কিছু নির্ভরশীল উপাদান নেই:"
 
-#: src/game_initialization/depcheck.cpp:651
-#: src/game_initialization/depcheck.cpp:743
+#: src/game_initialization/depcheck.cpp:642
+#: src/game_initialization/depcheck.cpp:734
 msgid "No compatible scenarios found."
 msgstr "ব্যবহারযোগ্য ঘটনাক্রম নেই ।"
 
-#: src/game_initialization/depcheck.cpp:680
+#: src/game_initialization/depcheck.cpp:671
 msgid ""
 "Not all of the chosen modifications are compatible. Some of them will be "
 "disabled."
@@ -6407,11 +6097,11 @@ msgstr "শত্রু দলনেতা(দের) হারান"
 msgid "Cannot find era ‘$era’"
 msgstr "যুগ ‘$era’ খুঁজে পাওয়া যাচ্ছে না"
 
-#: src/game_initialization/multiplayer.cpp:254
+#: src/game_initialization/multiplayer.cpp:255
 msgid "Invalid address specified for multiplayer server"
 msgstr "মাল্টিপ্লেয়ার সার্ভারের জন্য অবৈধ অ্যাড্রেস দেওয়া হয়েছে ।"
 
-#: src/game_initialization/multiplayer.cpp:289
+#: src/game_initialization/multiplayer.cpp:290
 msgid ""
 "The server accepts versions ‘$required_version’, but you are using version "
 "‘$your_version’"
@@ -6419,11 +6109,11 @@ msgstr ""
 "সার্ভার সংস্করণ ‘$required_version’ চায়, কিন্তু আপনি সংস্করণ ‘$your_version’ "
 "ব্যবহারক করছেন ।"
 
-#: src/game_initialization/multiplayer.cpp:302
+#: src/game_initialization/multiplayer.cpp:303
 msgid "Server-side redirect loop"
 msgstr "সার্ভার-সাইড রিডায়রেক্ট লুপ"
 
-#: src/game_initialization/multiplayer.cpp:346
+#: src/game_initialization/multiplayer.cpp:347
 msgid ""
 "The nickname ‘$nick’ is inactive. You cannot claim ownership of this "
 "nickname until you activate your account via email or ask an administrator "
@@ -6433,29 +6123,29 @@ msgstr ""
 "আপনি ইমেল মারফত আপনার অ্যাকউন্ট সক্রিয় করেন বা একজন অ্যাডমিনস্ট্রেটরকে আপনার জন্য "
 "তা করে দিতে বলেন ।"
 
-#: src/game_initialization/multiplayer.cpp:355
+#: src/game_initialization/multiplayer.cpp:356
 msgid "Do you want to continue?"
 msgstr "আপনি কী এগিয়ে যেতে চান?"
 
-#: src/game_initialization/multiplayer.cpp:357
+#: src/game_initialization/multiplayer.cpp:358
 msgid "Warning"
 msgstr "সতর্কবার্তা"
 
-#: src/game_initialization/multiplayer.cpp:419
+#: src/game_initialization/multiplayer.cpp:420
 msgid ""
 "The remote server requested a password while using an insecure connection."
 msgstr ""
 "দূরবর্তী সার্ভারটি একটি অনিরাপদ সংযোগ ব্যবহার করে একটি পাসওয়ার্ডের অনুরোধ করেছিল ।"
 
-#: src/game_initialization/multiplayer.cpp:421
+#: src/game_initialization/multiplayer.cpp:422
 msgid "You must login first."
 msgstr "আপনার লগ-ইন করা আবশ্যিক ।"
 
-#: src/game_initialization/multiplayer.cpp:423
+#: src/game_initialization/multiplayer.cpp:424
 msgid "The nickname ‘$nick’ is already taken."
 msgstr "ডাকনাম ‘$nick’ ইতিমধ্যেই নেওয়া হয়ে গিয়েছে ।"
 
-#: src/game_initialization/multiplayer.cpp:425
+#: src/game_initialization/multiplayer.cpp:426
 msgid ""
 "The nickname ‘$nick’ contains invalid characters. Only alpha-numeric "
 "characters (one at minimum), underscores and hyphens are allowed."
@@ -6463,65 +6153,65 @@ msgstr ""
 "ডাকনাম ‘$nick’-এ অবৈধ অক্ষর রয়েছে । শুধুমাত্র আলফা-সাংখ্যিক অক্ষর (ন্যূনতম একটি), "
 "আন্ডারস্কোর এবং হাইফেন অনুমোদিত ।"
 
-#: src/game_initialization/multiplayer.cpp:429
+#: src/game_initialization/multiplayer.cpp:430
 msgid "The nickname ‘$nick’ is too long. Nicks must be 20 characters or less."
 msgstr ""
 "ডাকনাম ‘$nick’ বেশী লম্বা । ডাকনাম 20টি অক্ষর বা তার কম দৈর্ঘ্যের হতে হবে ।"
 
-#: src/game_initialization/multiplayer.cpp:431
+#: src/game_initialization/multiplayer.cpp:432
 msgid "The nickname ‘$nick’ is reserved and cannot be used by players."
 msgstr "ডাকনাম ‘$nick’ সংরক্ষিত এবং খেলোয়াড়দের দ্বারা ব্যবহার করা যাবে না।"
 
-#: src/game_initialization/multiplayer.cpp:433
+#: src/game_initialization/multiplayer.cpp:434
 msgid "The nickname ‘$nick’ is not registered on this server."
 msgstr "ডাকনাম ‘$nick এই সার্ভারে নথিভুক্ত নয় ।"
 
-#: src/game_initialization/multiplayer.cpp:434
+#: src/game_initialization/multiplayer.cpp:435
 msgid " This server disallows unregistered nicknames."
 msgstr "এই সার্ভার অনথিভুক্ত ডাকনাম ব্যবহার করার অনুমোদন দেয় না ।"
 
-#: src/game_initialization/multiplayer.cpp:437
+#: src/game_initialization/multiplayer.cpp:438
 msgid "Your IP address is banned on this server for $duration|."
 msgstr "আপনার আইপি অ্যাড্রেস এই সার্ভারে $duration|-এর জন্য নিষিদ্ধ।"
 
-#: src/game_initialization/multiplayer.cpp:439
+#: src/game_initialization/multiplayer.cpp:440
 msgid "Your IP address is banned on this server."
 msgstr "আপনার আইপি অ্যাড্রেস এই সার্ভারে নিষিদ্ধ।"
 
-#: src/game_initialization/multiplayer.cpp:443
+#: src/game_initialization/multiplayer.cpp:444
 msgid "The nickname ‘$nick’ is banned on this server’s forums for $duration|."
 msgstr "ডাকনাম ‘$nick’ এই সার্ভারের ফোরামে $duration|-এর জন্য নিষিদ্ধ ।"
 
-#: src/game_initialization/multiplayer.cpp:445
+#: src/game_initialization/multiplayer.cpp:446
 msgid "The nickname ‘$nick’ is banned on this server’s forums."
 msgstr "ডাকনাম ‘$nick’ এই সার্ভারের ফোরামে নিষিদ্ধ ।"
 
-#: src/game_initialization/multiplayer.cpp:449
+#: src/game_initialization/multiplayer.cpp:450
 msgid "Your IP address is banned on this server’s forums for $duration|."
 msgstr "আপনার আইপি অ্যাড্রেস এই সার্ভারের ফোরামে $duration|-এর জন্য নিষিদ্ধ।"
 
-#: src/game_initialization/multiplayer.cpp:451
+#: src/game_initialization/multiplayer.cpp:452
 msgid "Your IP address is banned on this server’s forums."
 msgstr "আপনার আইপি অ্যাড্রেস এই সার্ভারের ফোরামে নিষিদ্ধ।"
 
-#: src/game_initialization/multiplayer.cpp:455
+#: src/game_initialization/multiplayer.cpp:456
 msgid ""
 "The email address for the nickname ‘$nick’ is banned on this server’s forums "
 "for $duration|."
 msgstr ""
 "ডাকনাম ‘$nick’-এর ইমেল অ্যাড্রেস এই সার্ভারের ফোরামে $duration|-এর জন্য নিষিদ্ধ ।"
 
-#: src/game_initialization/multiplayer.cpp:457
+#: src/game_initialization/multiplayer.cpp:458
 msgid ""
 "The email address for the nickname ‘$nick’ is banned on this server’s forums."
 msgstr "ডাকনাম ‘$nick’-এর ইমেল অ্যাড্রেস এই সার্ভারের ফোরামে $duration| নিষিদ্ধ ।"
 
-#: src/game_initialization/multiplayer.cpp:460
-#: src/game_initialization/multiplayer.cpp:462
+#: src/game_initialization/multiplayer.cpp:461
+#: src/game_initialization/multiplayer.cpp:463
 msgid "The nickname ‘$nick’ is registered on this server."
 msgstr "ডাকনাম ‘$nick’-এই সার্ভারে নথিভুক্ত ।"
 
-#: src/game_initialization/multiplayer.cpp:463
+#: src/game_initialization/multiplayer.cpp:464
 msgid ""
 "WARNING: There is already a client using this nickname, logging in will "
 "cause that client to be kicked!"
@@ -6529,32 +6219,32 @@ msgstr ""
 "সতর্কতা: ইতিমধ্যে একটি ক্লায়েন্ট এই ডাকনাম ব্যবহার করছে, লগ ইন করলে সেই ক্লায়েন্টকে "
 "বের করে দেওয়া হবে!"
 
-#: src/game_initialization/multiplayer.cpp:466
+#: src/game_initialization/multiplayer.cpp:467
 msgid "The password you provided was incorrect."
 msgstr "আপনার প্রদত্ত পাসওয়ার্ডটি ভুল ।"
 
-#: src/game_initialization/multiplayer.cpp:468
+#: src/game_initialization/multiplayer.cpp:469
 msgid "You have made too many login attempts."
 msgstr "আপনি অনেক বেশিবার লগইন করার প্রচেষ্টা করেছেন।"
 
-#: src/game_initialization/multiplayer.cpp:470
+#: src/game_initialization/multiplayer.cpp:471
 msgid "Password hashing failed."
 msgstr "পাসওয়ার্ড হ্যাশিং করা যায়নি ।"
 
-#: src/game_initialization/playcampaign.cpp:150 src/game_launcher.cpp:903
+#: src/game_initialization/playcampaign.cpp:150 src/game_launcher.cpp:901
 msgid "The game could not be loaded: "
 msgstr "খেলাটি খোলা যাচ্ছে না:"
 
-#: src/game_initialization/playcampaign.cpp:156 src/game_launcher.cpp:905
+#: src/game_initialization/playcampaign.cpp:156 src/game_launcher.cpp:903
 msgid "Error while playing the game: "
 msgstr "খেলা খেলতে গিয়ে ত্রুটি:"
 
-#: src/game_initialization/playcampaign.cpp:159 src/game_launcher.cpp:942
+#: src/game_initialization/playcampaign.cpp:159 src/game_launcher.cpp:940
 msgid "The game map could not be loaded: "
 msgstr "খেলার মানচিত্র খোলা যাচ্ছে না:"
 
-#: src/game_initialization/playcampaign.cpp:162 src/game_launcher.cpp:907
-#: src/game_launcher.cpp:1028
+#: src/game_initialization/playcampaign.cpp:162 src/game_launcher.cpp:905
+#: src/game_launcher.cpp:1026
 msgid "Map generator error: "
 msgstr "মানচিত্র সৃষ্টিকারকে ত্রুটি:"
 
@@ -6579,28 +6269,28 @@ msgstr "অজানা ঘটনাক্রম: ‘$scenario|’"
 msgid "No campaigns are available."
 msgstr "কোনো অভিযান নেই ।"
 
-#: src/game_launcher.cpp:689 src/game_launcher.cpp:708
-#: src/hotkey/hotkey_handler_sp.cpp:324 src/replay.cpp:662 src/savegame.cpp:167
+#: src/game_launcher.cpp:683 src/game_launcher.cpp:702
+#: src/hotkey/hotkey_handler_sp.cpp:324 src/replay.cpp:664 src/savegame.cpp:167
 msgid "The file you have tried to load is corrupt"
 msgstr "আপনি যে ফাইলটি খোলার চেষ্টা করেছেন তা ত্রুটিযুক্ত"
 
-#: src/game_launcher.cpp:691 src/game_launcher.cpp:710
+#: src/game_launcher.cpp:685 src/game_launcher.cpp:704
 msgid "The file you have tried to load is corrupt: '"
 msgstr "আপনি যে ফাইলটি খোলার চেষ্টা করেছেন তা ত্রুটিযুক্ত: '"
 
-#: src/game_launcher.cpp:700
+#: src/game_launcher.cpp:694
 msgid "File I/O Error while reading the game"
 msgstr "খেলাটি পড়ার সময় ফাইল আই/ও ত্রুটি"
 
-#: src/game_launcher.cpp:702
+#: src/game_launcher.cpp:696
 msgid "File I/O Error while reading the game: '"
 msgstr "খেলাটি পড়ার সময় ফাইল আই/ও ত্রুটি: '"
 
-#: src/game_launcher.cpp:901
+#: src/game_launcher.cpp:899
 msgid "Error while starting server: "
 msgstr "সার্ভার শুর করতে গিয়ে ত্রুটি:"
 
-#: src/game_launcher.cpp:923
+#: src/game_launcher.cpp:921
 msgid "Connection failed: "
 msgstr "সংযোগ করা যাচ্ছে না:"
 
@@ -6654,15 +6344,15 @@ msgstr "মূল মাল্টিপ্লেয়ার ঘটনাক্র�
 msgid "No visible sides found."
 msgstr "কোনো দৃশ্যমান দল খুঁজে পাওয়া যায়নি ।"
 
-#: src/gui/dialogs/multiplayer/lobby_player_list_helper.cpp:171
+#: src/gui/dialogs/multiplayer/lobby_player_list_helper.cpp:175
 msgid "Selected Game"
 msgstr "নির্বাচিত খেলা"
 
-#: src/gui/dialogs/multiplayer/lobby_player_list_helper.cpp:172
+#: src/gui/dialogs/multiplayer/lobby_player_list_helper.cpp:176
 msgid "Lobby"
 msgstr "লবি"
 
-#: src/gui/dialogs/multiplayer/lobby_player_list_helper.cpp:173
+#: src/gui/dialogs/multiplayer/lobby_player_list_helper.cpp:177
 msgid "Other Games"
 msgstr "অন্যান্য খেলা"
 
@@ -6747,98 +6437,98 @@ msgstr "না"
 msgid "yes"
 msgstr "হ্যাঁ"
 
-#: src/help/help_impl.cpp:319
+#: src/help/help_impl.cpp:297
 msgid "Only available during a scenario."
 msgstr "শুধুমাত্র ঘটনাক্রমের সময়েই পাওয়া যাবে ।"
 
-#: src/help/help_impl.cpp:320 src/help/help_impl.cpp:359
+#: src/help/help_impl.cpp:298 src/help/help_impl.cpp:337
 msgid "Time of Day Schedule"
 msgstr "দৈনিক সময়সূচী"
 
-#: src/help/help_impl.cpp:350
+#: src/help/help_impl.cpp:328
 msgid "Lawful Bonus:"
 msgstr "নৈতিক অতিরিক্ত:"
 
-#: src/help/help_impl.cpp:351
+#: src/help/help_impl.cpp:329
 msgid "Neutral Bonus:"
 msgstr "নিরপেক্ষ অতিরিক্ত:"
 
-#: src/help/help_impl.cpp:352
+#: src/help/help_impl.cpp:330
 msgid "Chaotic Bonus:"
 msgstr "অনৈতিক অতিরিক্ত:"
 
-#: src/help/help_impl.cpp:353
+#: src/help/help_impl.cpp:331
 msgid "Liminal Bonus:"
 msgstr "মধ্যবর্তী অতিরিক্ত:"
 
-#: src/help/help_impl.cpp:354
+#: src/help/help_impl.cpp:332
 msgid "Schedule"
 msgstr "সময়সূচী"
 
-#: src/help/help_impl.cpp:448
+#: src/help/help_impl.cpp:427
 msgid "Units with this special attack"
 msgstr "এই বিশেষ আক্রমণযুক্ত ইউনিটগুলি"
 
-#: src/help/help_impl.cpp:504
+#: src/help/help_impl.cpp:482
 msgid "Units with this ability"
 msgstr "এই দক্ষতাবিশিষ্ট ইউনিটগুলি"
 
-#: src/help/help_impl.cpp:540
+#: src/help/help_impl.cpp:518
 msgid "Factions"
 msgstr "বিভাগগুলি"
 
-#: src/help/help_impl.cpp:586
+#: src/help/help_impl.cpp:566
 msgid "Races: "
 msgstr "জাতিসমূহ:"
 
-#: src/help/help_impl.cpp:595 src/help/help_impl.cpp:1155
+#: src/help/help_impl.cpp:575 src/help/help_impl.cpp:1148
 msgid "Alignments: "
 msgstr "প্রবণতাগুলি:"
 
-#: src/help/help_impl.cpp:602
+#: src/help/help_impl.cpp:582
 msgid "Leaders"
 msgstr "দলনেতা"
 
-#: src/help/help_impl.cpp:611
+#: src/help/help_impl.cpp:591
 msgid "Recruits"
 msgstr "নিয়োগগুলি"
 
-#: src/help/help_impl.cpp:652
+#: src/help/help_impl.cpp:636
 msgid "Previous"
 msgstr "পূর্ববর্তী"
 
-#: src/help/help_impl.cpp:665 src/help/help_impl.cpp:787
-#: src/help/help_impl.cpp:805
+#: src/help/help_impl.cpp:649 src/help/help_impl.cpp:776
+#: src/help/help_impl.cpp:794
 msgid "Next"
 msgstr "পরবর্তী"
 
-#: src/help/help_impl.cpp:762 src/units/types.cpp:450
+#: src/help/help_impl.cpp:751 src/units/types.cpp:450
 msgid "No description available."
 msgstr "কোনো বর্ণনা নেই ।"
 
-#: src/help/help_impl.cpp:766
+#: src/help/help_impl.cpp:755
 msgid "This is a global trait."
 msgstr "এটি একটি গ্লোবাল দক্ষতা।"
 
-#: src/help/help_impl.cpp:774
+#: src/help/help_impl.cpp:763
 msgid "Races with this trait"
 msgstr "এই দক্ষতাবিশিষ্ট জাতিগুলি"
 
-#: src/help/help_impl.cpp:794
+#: src/help/help_impl.cpp:783
 msgid "Units with this trait"
 msgstr "এই দক্ষতাবিশিষ্ট ইউনিটগুলি"
 
-#: src/help/help_impl.cpp:917 src/help/help_impl.cpp:1132
+#: src/help/help_impl.cpp:907 src/help/help_impl.cpp:1125
 msgid "race^Miscellaneous"
 msgstr "বিভিন্ন"
 
-#: src/help/help_impl.cpp:1155
+#: src/help/help_impl.cpp:1148
 msgid "Alignment: "
 msgstr "স্বভাব: "
 
 #. TRANSLATORS: this is expected to say "[Dunefolk are] a group of units, all of whom are Humans",
 #. or "[Quenoth Elves are] a group of units, all of whom are Elves".
-#: src/help/help_impl.cpp:1174
+#: src/help/help_impl.cpp:1167
 msgid ""
 "This is a group of units, all of whom are <ref "
 "dst='$topic_id'>$help_taxonomy</ref>."
@@ -6846,19 +6536,19 @@ msgstr ""
 "এটি ইউনিটদের একটি গোষ্ঠী যাদের সকলে <ref dst='$topic_id'>$help_taxonomy</ref> "
 "।"
 
-#: src/help/help_impl.cpp:1179
+#: src/help/help_impl.cpp:1172
 msgid "Subgroups of units within this group"
 msgstr "এই গোষ্ঠীর মধ্যে থাকা ইউনিটদের উপগোষ্ঠীগুলি"
 
-#: src/help/help_impl.cpp:1181
+#: src/help/help_impl.cpp:1174
 msgid "Groups of units within this race"
 msgstr "এই জাতির মধ্যে থাকা ইউনিটদের গোষ্ঠীগুলি"
 
-#: src/help/help_impl.cpp:1190
+#: src/help/help_impl.cpp:1183
 msgid "Units of this group"
 msgstr "এই গোষ্ঠীর ইউনিটগুলি"
 
-#: src/help/help_impl.cpp:1192
+#: src/help/help_impl.cpp:1185
 msgid "Units of this race"
 msgstr "এই জাতির ইউনিটগুলি"
 
@@ -6906,11 +6596,11 @@ msgstr "শুরু থেকে পুনরায় খেলুন"
 msgid "(press $hotkey to deactivate)"
 msgstr "($hotkey টিপে নিস্ক্রিয় করুন)"
 
-#: src/hotkey/hotkey_handler_sp.cpp:156 src/menu_events.cpp:2102
+#: src/hotkey/hotkey_handler_sp.cpp:156 src/menu_events.cpp:2105
 msgid "Planning mode activated!"
 msgstr "পরিকল্পনা মোড সক্রিয়"
 
-#: src/hotkey/hotkey_handler_sp.cpp:158 src/menu_events.cpp:2105
+#: src/hotkey/hotkey_handler_sp.cpp:158 src/menu_events.cpp:2108
 msgid "Planning mode deactivated!"
 msgstr "পরিকল্পনা মোড নিস্ক্রিয়"
 
@@ -6922,7 +6612,7 @@ msgstr "আপনি যে ফাইলটি খোলার চেষ্ট�
 msgid "The file you have tried to load is not from the current session."
 msgstr "আপনি যে ফাইলটি খোলার চেষ্টা করছেন সেটি বর্তমান সেশনের নয়।"
 
-#: src/language.cpp:96
+#: src/language.cpp:115
 msgid "System default language"
 msgstr "সিস্টেমের স্বাভাবিক ভাষা"
 
@@ -7089,77 +6779,77 @@ msgstr ""
 msgid "You currently can’t recall at the highlighted location."
 msgstr "আপনি এইমুহূর্তে নির্বাচিত স্থানে পুনরায় ডাকতে পারবেন না ।"
 
-#: src/menu_events.cpp:444
+#: src/menu_events.cpp:447
 msgid "You must have at least 1 gold piece to recall a unit."
 msgid_plural "You must have at least $cost gold pieces to recall this unit."
 msgstr[0] "একটি ইউনিটকে পুনরায় ডাকার জন্য অন্ততপক্ষে 1টি স্বর্ণমুদ্রা থাকতে হবে ।"
 msgstr[1] "এই ইউনিটকে পুনরায় ডাকার জন্য অন্ততপক্ষে $cost স্বর্ণমুদ্রা থাকতে হবে ।"
 
-#: src/menu_events.cpp:589
+#: src/menu_events.cpp:592
 msgid "You cannot end your turn yet!"
 msgstr "আপনি এখন আপনার দান শেষ করতে পারবেন না!"
 
-#: src/menu_events.cpp:604
+#: src/menu_events.cpp:607
 msgid ""
 "You have not started your turn yet. Do you really want to end your turn?"
 msgstr "আপনি এখনও আপনার দান শুরু করেননি । এখনই আপনার দান শেষ করতে চান?"
 
-#: src/menu_events.cpp:613
+#: src/menu_events.cpp:616
 msgid "Some units have movement left. Do you really want to end your turn?"
 msgstr "কিছু ইউনিটেরা আরও চলতে পারবে । আপনি কী সত্যিই আপনার দান শেষ করতে চান?"
 
-#: src/menu_events.cpp:622
+#: src/menu_events.cpp:625
 msgid "Some units have not moved. Do you really want to end your turn?"
 msgstr "কিছু ইউনিটেরা চলেনি । আপনি কী সত্যিই আপনার দান শেষ করতে চান?"
 
-#: src/menu_events.cpp:678
+#: src/menu_events.cpp:681
 msgid "Rename Unit"
 msgstr "ইউনিটের নাম পরিবর্তন"
 
-#: src/menu_events.cpp:679 src/reports.cpp:176
+#: src/menu_events.cpp:682 src/reports.cpp:176
 msgid "Name:"
 msgstr "নাম:"
 
-#: src/menu_events.cpp:859
+#: src/menu_events.cpp:862
 msgid "Clear Labels"
 msgstr "লেবেলগুলি মুছুন"
 
-#: src/menu_events.cpp:860
+#: src/menu_events.cpp:863
 msgid "Are you sure you want to clear map labels?"
 msgstr "আপনি কী নিশ্চিতভাবে মানচিত্রের লেবেলগুলি মুছতে চান?"
 
-#: src/menu_events.cpp:1064
+#: src/menu_events.cpp:1067
 msgid "Search"
 msgstr "খোঁজ"
 
-#: src/menu_events.cpp:1204
+#: src/menu_events.cpp:1207
 msgid "(D) — debug only, (N) — network only, (A) — admin only"
 msgstr "(D) — শুধুমাত্র ডিবাগ, (N) — শুধুমাত্র নেটওয়ার্ক, (A) — শুধু অ্যাডমিন"
 
-#: src/menu_events.cpp:1211
+#: src/menu_events.cpp:1214
 msgid "(debug command)"
 msgstr "(ডিবাগ কমান্ড)"
 
-#: src/menu_events.cpp:1212
+#: src/menu_events.cpp:1215
 msgid "(network only)"
 msgstr "(শুধু নেটওয়ার্ক)"
 
-#: src/menu_events.cpp:1214
+#: src/menu_events.cpp:1217
 msgid "(not during other events)"
 msgstr "(অন্য ঘটনার সময় নয়)"
 
-#: src/menu_events.cpp:1244
+#: src/menu_events.cpp:1247
 msgid "Refresh gui."
 msgstr "জিইউআই রিফ্রেশ করুন ।"
 
-#: src/menu_events.cpp:1245
+#: src/menu_events.cpp:1248
 msgid "Switch a side to/from AI control."
 msgstr "একটি পক্ষকে এআই নিয়ন্ত্রণে/নিয়ন্ত্রণ থেকে সরান ।"
 
 #. TRANSLATORS: These are the arguments accepted by the "droid" command,
 #. which must be a side-number and then optionally one of "on", "off" or "full".
 #. As with the command's name, "on", "off" and "full" are hardcoded, and shouldn't change in the translation.
-#: src/menu_events.cpp:1249
+#: src/menu_events.cpp:1252
 msgid ""
 "[<side> [on/off/full]]\n"
 "“on” = enable but retain vision, “full” = as if it’s controlled by another "
@@ -7169,98 +6859,98 @@ msgstr ""
 "“on” = সক্রিয় করুন কিন্তু দৃষ্টি বজায় রাখুন, “full” = ঠিক যেন অন্য খেলোয়াড় দ্বারা "
 "নিয়ন্ত্রিত"
 
-#: src/menu_events.cpp:1250
+#: src/menu_events.cpp:1253
 msgid "Change terrain type of current hex"
 msgstr "বর্তমান ষড়ভুজের ভূমিরূপের প্রকৃতি পাল্টান"
 
 #. TRANSLATORS: [both|base|overlay] are hardcoded literal arguments and shouldn't be translated.
-#: src/menu_events.cpp:1252
+#: src/menu_events.cpp:1255
 msgid "<terrain type> [both|base|overlay]"
 msgstr "<terrain type> [both|base|overlay]"
 
-#: src/menu_events.cpp:1253
+#: src/menu_events.cpp:1256
 msgid "Switch a side to/from idle state."
 msgstr "একটি পক্ষকে অলস অবস্থা থেকে/অলস অবস্থায় পাল্টান ।"
 
 #. TRANSLATORS: These are the arguments accepted by the "idle" command,
 #. which must be a side-number and then optionally "on" or "off".
 #. As with the command's name, "on" and "off" are hardcoded, and shouldn't change in the translation.
-#: src/menu_events.cpp:1257
+#: src/menu_events.cpp:1260
 msgid "command_idle^[<side> [on/off]]"
 msgstr "[<side> [on/off]]"
 
-#: src/menu_events.cpp:1258
+#: src/menu_events.cpp:1261
 msgid "Change the in-game theme."
 msgstr "খেলার থিম পাল্টান ।"
 
-#: src/menu_events.cpp:1260
+#: src/menu_events.cpp:1263
 msgid "<side> <nickname>"
 msgstr "<side> <nickname>"
 
-#: src/menu_events.cpp:1260
+#: src/menu_events.cpp:1263
 msgid "Assign control of a side to a different player or observer."
 msgstr "অন্য একজন খেলোয়াড় বা দর্শককে পক্ষের নিয়ন্ত্রণ দিয়ে দিন ।"
 
-#: src/menu_events.cpp:1261
+#: src/menu_events.cpp:1264
 msgid "Query the controller status of a side."
 msgstr "দলটি কে নিয়ন্ত্রণ করছে তা জানুন ।"
 
-#: src/menu_events.cpp:1262
+#: src/menu_events.cpp:1265
 msgid "<side>"
 msgstr "<side>"
 
-#: src/menu_events.cpp:1264
+#: src/menu_events.cpp:1267
 msgid "Debug foreground terrain."
 msgstr "ফোরগ্রাউন্ড ভূমি ডিবাগ করুন ।"
 
-#: src/menu_events.cpp:1266
+#: src/menu_events.cpp:1269
 msgid "Debug layers from terrain under the mouse."
 msgstr "মাউসের নীচে থাকা স্তরগুলি ডিবাগ করুন ।"
 
-#: src/menu_events.cpp:1267
+#: src/menu_events.cpp:1270
 msgid "Display and log fps (Frames Per Second)."
 msgstr "fps (প্রতি সেকেন্ডে ফ্রেমের সংখ্যা) দেখান এবং লগে লিখুন ।"
 
-#: src/menu_events.cpp:1268
+#: src/menu_events.cpp:1271
 msgid ""
 "Similar to the ‘fps’ command, but also forces everything to redraw instead "
 "of only things that have changed."
 msgstr ""
 "'fps' কমান্ডের মতোই, কিন্তু শুধুমাত্র পরিবর্তিতস নয়, বরং সবকিছুই পুনরায় আঁকা হবে ।"
 
-#: src/menu_events.cpp:1269
+#: src/menu_events.cpp:1272
 msgid "Save game."
 msgstr "খেলা সঞ্চয় করুন ।"
 
-#: src/menu_events.cpp:1271
+#: src/menu_events.cpp:1274
 msgid "Quit game."
 msgstr "খেলা থেকে বেরিয়ে যান ।"
 
-#: src/menu_events.cpp:1274
+#: src/menu_events.cpp:1277
 msgid "Save and quit."
 msgstr "সঞ্চয় করে বেরিয়ে যান ।"
 
-#: src/menu_events.cpp:1276
+#: src/menu_events.cpp:1279
 msgid "Ignore replay errors."
 msgstr "রিপ্লে ত্রুটি এড়িয়ে যান ।"
 
-#: src/menu_events.cpp:1277
+#: src/menu_events.cpp:1280
 msgid "Disable autosaves."
 msgstr "স্বয়ংক্রিয় সঞ্চয় নিস্ক্রিয় করুন ।"
 
-#: src/menu_events.cpp:1279
+#: src/menu_events.cpp:1282
 msgid "<id>"
 msgstr "<id>"
 
-#: src/menu_events.cpp:1279
+#: src/menu_events.cpp:1282
 msgid "Advance to the next scenario, or scenario identified by ‘id’"
 msgstr "পরবর্তী ঘটনাক্রম, বা ‘id’ দ্বারা নির্দেশিত ঘটনাক্রমে এগিয়ে যান"
 
-#: src/menu_events.cpp:1281
+#: src/menu_events.cpp:1284
 msgid "Choose next scenario"
 msgstr "পরবর্তী ঘটনাক্রম পছন্দ করুন"
 
-#: src/menu_events.cpp:1284
+#: src/menu_events.cpp:1287
 msgid ""
 "Change turn number (and time of day), or increase by one if no number is "
 "specified."
@@ -7268,11 +6958,11 @@ msgstr ""
 "দান সংখ্যা (এবং দিনের সময় পাল্টান), বা কোনো সংখ্যা না দেওয়া থাকলে এক দান এগিয়ে "
 "যান ।"
 
-#: src/menu_events.cpp:1284
+#: src/menu_events.cpp:1287
 msgid "[turn]"
 msgstr "[turn]"
 
-#: src/menu_events.cpp:1287
+#: src/menu_events.cpp:1290
 msgid ""
 "Change turn limit, or turn the turn limit off if no number is specified or "
 "it’s −1."
@@ -7280,68 +6970,68 @@ msgstr ""
 "দানের সীমা পাল্টান, অথবা দানের সীমা নিস্ক্রিয় করুন যদি কোনো সংখ্যা না দেওয়া থাকে "
 "বা -1 হয় ।"
 
-#: src/menu_events.cpp:1287
+#: src/menu_events.cpp:1290
 msgid "[limit]"
 msgstr "[limit]"
 
-#: src/menu_events.cpp:1289
+#: src/menu_events.cpp:1292
 msgid "Turn debug mode on."
 msgstr "ডিবাগ মোড সক্রিয় করুন ।"
 
-#: src/menu_events.cpp:1290
+#: src/menu_events.cpp:1293
 msgid "Turn debug mode off."
 msgstr "ডিবাগ মোড নিস্ক্রিয় করুন ।"
 
-#: src/menu_events.cpp:1292 src/menu_events.cpp:1296
+#: src/menu_events.cpp:1295 src/menu_events.cpp:1299
 msgid "<command>[;<command>...]"
 msgstr "<command>[;<command>...]"
 
-#: src/menu_events.cpp:1292
+#: src/menu_events.cpp:1295
 msgid "Execute a Lua statement."
 msgstr "লুয়া স্টেটমেন্ট চালান ।"
 
-#: src/menu_events.cpp:1294
+#: src/menu_events.cpp:1297
 msgid "Grant higher privileges to Lua scripts."
 msgstr "লুয়া স্ক্রিপ্টগুলিকে উচ্চতর সুবিধা দিন ।"
 
-#: src/menu_events.cpp:1295
+#: src/menu_events.cpp:1298
 msgid "Set the command used by the custom command hotkey"
 msgstr "নিজস্ব কমান্ড হটকির মাধ্যমে ব্যবহৃত কমান্ড দেখান"
 
-#: src/menu_events.cpp:1298
+#: src/menu_events.cpp:1301
 msgid "Invoke a dialog allowing changing control of MP sides."
 msgstr "মাল্টিপ্লেয়ার দলগুলির নিয়ন্ত্রণ পাল্টানো যাবে এমন একটি ডায়ালগ খুলুন ।"
 
-#: src/menu_events.cpp:1299
+#: src/menu_events.cpp:1302
 msgid "Launch the gamestate inspector"
 msgstr "খেলার অবস্থা পরিদর্শক চালু করুন"
 
-#: src/menu_events.cpp:1301
+#: src/menu_events.cpp:1304
 msgid "<name>[=<command>]"
 msgstr "<name>[=<command>]"
 
-#: src/menu_events.cpp:1301
+#: src/menu_events.cpp:1304
 msgid "Set or show alias to a command"
 msgstr "একটি কমান্ডের অ্যালায়াস্ দেখান বা সেট করুন ।"
 
-#: src/menu_events.cpp:1303 src/menu_events.cpp:1308
+#: src/menu_events.cpp:1306 src/menu_events.cpp:1311
 msgid "<var>=<value>"
 msgstr "<var>=<value>"
 
-#: src/menu_events.cpp:1303
+#: src/menu_events.cpp:1306
 msgid "Set a scenario variable."
 msgstr "ঘটনাক্রমে একটি চলরাশি সেট করুন ।"
 
-#: src/menu_events.cpp:1304
+#: src/menu_events.cpp:1307
 msgid "<var>"
 msgstr "<var>"
 
-#: src/menu_events.cpp:1304
+#: src/menu_events.cpp:1307
 msgid "Show a scenario variable."
 msgstr "ঘটনাক্রমের একটি চলরাশি দেখান ।"
 
 #. TRANSLATORS: Do not translate the word "advances"; it is a hardcoded literal argument.
-#: src/menu_events.cpp:1307
+#: src/menu_events.cpp:1310
 msgid ""
 "Modify a unit variable. (Only top level keys are supported, and "
 "advances=<number>.)"
@@ -7349,173 +7039,173 @@ msgstr ""
 "একটি ইউনিট চলরাশি পাল্টান । (শুধুমাত্র সর্বোচ্চ পর্যায়ের কী-গুলি এবং "
 "advances=<number>-ই পাল্টানো যাবে ।)"
 
-#: src/menu_events.cpp:1314
+#: src/menu_events.cpp:1317
 msgid "Discover all units in help."
 msgstr "সাহায্যে সকল ইউনিট দেখান ।"
 
-#: src/menu_events.cpp:1315
+#: src/menu_events.cpp:1318
 msgid "‘Undiscover’ all units in help."
 msgstr "সাহায্যে সকল ইউনিট ‘না দেখা’ করুন"
 
-#: src/menu_events.cpp:1316
+#: src/menu_events.cpp:1319
 msgid "<unit type id>"
 msgstr "<unit type id>"
 
-#: src/menu_events.cpp:1316
+#: src/menu_events.cpp:1319
 msgid "Create a unit."
 msgstr "ইউনিট সৃষ্টি করুন ।"
 
-#: src/menu_events.cpp:1317
+#: src/menu_events.cpp:1320
 msgid "Toggle fog for the current player."
 msgstr "বর্তমান খেলোয়াড়ের জন্য কুয়াশা সক্রিয়/নিস্ক্রিয় করুন ।"
 
-#: src/menu_events.cpp:1318
+#: src/menu_events.cpp:1321
 msgid "Toggle shroud for the current player."
 msgstr "বর্তমান খেলোয়াড়ের জন্য আচ্ছাদন সক্রিয়/নিস্ক্রিয় করুন ।"
 
-#: src/menu_events.cpp:1319
+#: src/menu_events.cpp:1322
 msgid "<amount>"
 msgstr "<amount>"
 
-#: src/menu_events.cpp:1319
+#: src/menu_events.cpp:1322
 msgid "Give gold to the current player."
 msgstr "বর্তমান খেলোয়াড়কে স্বর্ণ দিন ।"
 
-#: src/menu_events.cpp:1320
+#: src/menu_events.cpp:1323
 msgid "<event name>"
 msgstr "<event name>"
 
-#: src/menu_events.cpp:1320
+#: src/menu_events.cpp:1323
 msgid "Fire a game event."
 msgstr "খেলার কোনো একটি ঘটনা সক্রিয় করুন ।"
 
-#: src/menu_events.cpp:1323
+#: src/menu_events.cpp:1326
 msgid "Toggle overlaying of x,y coordinates on hexes."
 msgstr "ষড়ভুজের ওপরে x,y স্থানাঙ্ক দেখান/লুকোন ।"
 
-#: src/menu_events.cpp:1326
+#: src/menu_events.cpp:1329
 msgid "Toggle overlaying of terrain codes on hexes."
 msgstr "ষড়ভুজের ওপরে ভুমির কোড দেখান/লুকোন ।"
 
-#: src/menu_events.cpp:1329
+#: src/menu_events.cpp:1332
 msgid "Toggle overlaying of number of bitmaps on hexes."
 msgstr "ষড়ভুজের ওপরে অভিলিপ্ত বিটম্যাপের সংখ্যা লুকোন/মুছুন ।"
 
-#: src/menu_events.cpp:1331
+#: src/menu_events.cpp:1334
 msgid "Toggle planning mode."
 msgstr "পরিকল্পনা মোড সক্রিয়/নিস্ক্রিয় করুন ।"
 
-#: src/menu_events.cpp:1334
+#: src/menu_events.cpp:1337
 msgid "Access whiteboard options dialog."
 msgstr "হোয়াইটবোর্ড অপশন ডায়ালগ দেখান ।"
 
-#: src/menu_events.cpp:1447
+#: src/menu_events.cpp:1450
 msgid "Could not find label or unit containing the string ‘$search’."
 msgstr "‘$search’ আছে এমন কোনো ইউনিট বা লেবেল খুঁজে পাওয়া যায়নি ।"
 
-#: src/menu_events.cpp:1495
+#: src/menu_events.cpp:1498
 msgid "Can’t droid invalid side: ‘$side’."
 msgstr "অজানা পক্ষ ‘$side’ ড্রইড করা যাবে না ।"
 
-#: src/menu_events.cpp:1498
+#: src/menu_events.cpp:1501
 msgid "Can’t droid networked side: ‘$side’."
 msgstr "নেটওয়ার্ক নিয়ন্ত্রিত পক্ষ ‘$side’ ড্রইড করা যাবে না ।"
 
-#: src/menu_events.cpp:1510 src/menu_events.cpp:1526 src/menu_events.cpp:1558
+#: src/menu_events.cpp:1513 src/menu_events.cpp:1529 src/menu_events.cpp:1561
 msgid ""
 "It is not allowed to change a side from AI to human control when it’s not "
 "your turn."
 msgstr ""
 "আপনার দান না হলে আপনি কোনো দলকে এআই থেকে মানব নিয়ন্ত্রণে পাল্টাতে পারবেন না ।"
 
-#: src/menu_events.cpp:1520 src/menu_events.cpp:1576
+#: src/menu_events.cpp:1523 src/menu_events.cpp:1579
 msgid "Side ‘$side’ controller is now controlled by: AI."
 msgstr "পক্ষ ‘$side’ এখন নিয়ন্ত্রিত: এআই দ্বারা"
 
-#: src/menu_events.cpp:1522
+#: src/menu_events.cpp:1525
 msgid "Side ‘$side’ is already droided."
 msgstr "‘$side’ ইতিমধ্যেই ড্রইড-নিয়ন্ত্রিত ।"
 
-#: src/menu_events.cpp:1536 src/menu_events.cpp:1568
+#: src/menu_events.cpp:1539 src/menu_events.cpp:1571
 msgid "Side ‘$side’ controller is now controlled by: human."
 msgstr "পক্ষ ‘$side’ এখন নিয়ন্ত্রিত: মানুষ দ্বারা"
 
-#: src/menu_events.cpp:1538
+#: src/menu_events.cpp:1541
 msgid "Side ‘$side’ is already not droided."
 msgstr "‘$side’ ইতিমধ্যেই ড্রইড-নিয়ন্ত্রিত নয় ।"
 
-#: src/menu_events.cpp:1542
+#: src/menu_events.cpp:1545
 msgid ""
 "It is not allowed to change a side from human to AI control when it’s not "
 "your turn."
 msgstr "আপনার দানের বাইরে দলকে মানব থেকে এআই নিয়ন্ত্রণে পাঠানো যাবে না ।"
 
-#: src/menu_events.cpp:1552
+#: src/menu_events.cpp:1555
 msgid "Side ‘$side’ controller is now fully controlled by: AI."
 msgstr "পক্ষ ‘$side’ এখন সম্পূর্ণরূপে এআই দ্বারা নিয়ন্ত্রিত ।"
 
-#: src/menu_events.cpp:1554
+#: src/menu_events.cpp:1557
 msgid "Side ‘$side’ is already fully AI controlled."
 msgstr "পক্ষ ‘$side’ ইতিমধ্যেই সম্পূর্ণরূপে এআই দ্বারা নিয়ন্ত্রিত ।"
 
-#: src/menu_events.cpp:1579
+#: src/menu_events.cpp:1582
 msgid ""
 "Invalid action provided for side ‘$side’. Valid actions are: on, off, full."
 msgstr "পক্ষ ‘$side’-এর জন্য অবৈধ অ্যাকশন । বৈধ অ্যাকশনগুলি হল: on, off, full ।"
 
-#: src/menu_events.cpp:1588
+#: src/menu_events.cpp:1591
 msgid "Side ‘$side’ is not a human or AI player."
 msgstr "পক্ষ ‘$side’ মানব বা এআই খেলোয়াড় নয় ।"
 
-#: src/menu_events.cpp:1625
+#: src/menu_events.cpp:1628
 msgid "Can’t idle invalid side: ‘$side’."
 msgstr "অজানা পক্ষ ‘$side’-কে অলস করা যাবে না ।"
 
-#: src/menu_events.cpp:1630
+#: src/menu_events.cpp:1633
 msgid "Can’t idle networked side: ‘$side’."
 msgstr "নেটওয়ার্ক নিয়ন্ত্রিত পক্ষ ‘$side’ ড্রইড করা যাবে না ।"
 
-#: src/menu_events.cpp:1635
+#: src/menu_events.cpp:1638
 msgid "Can’t idle local ai side: ‘$side’."
 msgstr "অজানা পক্ষ ‘$side’-কে অলস করা যাবে না ।"
 
-#: src/menu_events.cpp:1681
+#: src/menu_events.cpp:1684
 msgid "Can’t change control of invalid side: ‘$side’."
 msgstr "অজানা পক্ষ ‘$side’ ড্রইড করা যাবে না ।"
 
-#: src/menu_events.cpp:1691
+#: src/menu_events.cpp:1694
 msgid "Can’t change control of out-of-bounds side: ‘$side’."
 msgstr "সীমা বহির্ভূত সাইড ‘$side’-এর নিয়ন্ত্রণ পাল্টানো যাবে না ।"
 
-#: src/menu_events.cpp:1708
+#: src/menu_events.cpp:1711
 msgid "Can’t query control of invalid side: ‘$side’."
 msgstr "অজানা পক্ষ ‘$side’-এর নিয়ন্ত্রণ অবস্থা জানা যাবে না ।"
 
-#: src/menu_events.cpp:1715
+#: src/menu_events.cpp:1718
 msgid "Can’t query control of out-of-bounds side: ‘$side’."
 msgstr "সীমা বহির্ভূত পক্ষ ‘$side’-এর নিয়ন্ত্রণ অবস্থা জানা যাবে না ।"
 
-#: src/menu_events.cpp:1837
+#: src/menu_events.cpp:1840
 msgid "Choose Scenario (Debug!)"
 msgstr "ঘটনাক্রম নির্বাচন (ডিবাগ!)"
 
-#: src/menu_events.cpp:1873
+#: src/menu_events.cpp:1876
 msgid "Debug mode activated!"
 msgstr "ডিবাগ মোড সক্রিয়!"
 
-#: src/menu_events.cpp:1876
+#: src/menu_events.cpp:1879
 msgid "Debug mode not available in network games"
 msgstr "নেটওয়ার্ক খেলাগুলিতে ডিবাগ মোড উপলভ্য নয়"
 
-#: src/menu_events.cpp:1883
+#: src/menu_events.cpp:1886
 msgid "Debug mode deactivated!"
 msgstr "ডিবাগ মোড নিস্ক্রিয়!"
 
-#: src/menu_events.cpp:1903
+#: src/menu_events.cpp:1906
 msgid "WARNING! Unsafe Lua Mode"
 msgstr "সতর্কতা! অসুরক্ষিত লুয়া মোড"
 
-#: src/menu_events.cpp:1904
+#: src/menu_events.cpp:1907
 msgid ""
 "Executing Lua code in in this manner opens your computer to potential "
 "security breaches from any malicious add-ons or other programs you may have "
@@ -7528,21 +7218,21 @@ msgstr ""
 "\n"
 "নিশ্চিতভাবে না জানালে আর না এগিয়ে যাওয়াই শ্রেয় ।"
 
-#: src/menu_events.cpp:1909
+#: src/menu_events.cpp:1912
 msgid "Unsafe mode enabled!"
 msgstr "অসুরক্ষিত মোড সক্রিয়!"
 
-#: src/menu_events.cpp:1958
+#: src/menu_events.cpp:1961
 msgid "Variable not found"
 msgstr "চলরাশি পাওয়া যায়নি"
 
-#: src/menu_events.cpp:1991
+#: src/menu_events.cpp:1994
 msgid "Debug command ‘unit: $unit’ failed: no unit selected or hovered over."
 msgstr ""
 "ডিবাগ কমান্ড ‘unit: $unit’ করা যায়নি: কোনো ইউনিট নির্বাচিত বা হোভার করা অবস্থায় "
 "নেই ।"
 
-#: src/menu_events.cpp:2009
+#: src/menu_events.cpp:2012
 msgid ""
 "Invalid alignment: ‘$alignment’, needs to be one of lawful, neutral, "
 "chaotic, or liminal."
@@ -7550,27 +7240,27 @@ msgstr ""
 "অজানা স্বভাব: ‘$alignment’, নৈতিক, নিরপেক্ষ, বিশৃঙ্খল, বা মধ্যবর্তীর মধ্যে একটি হতে "
 "হবে ।"
 
-#: src/menu_events.cpp:2035
+#: src/menu_events.cpp:2038
 msgid "Do you wish to clear all of your discovered units from help?"
 msgstr "আপনি কী সাহায্য থেকে আপনার খুঁজে পাওয়া ইউনিটদের তালিকা মুছে ফেলতে চান?"
 
-#: src/menu_events.cpp:2049
+#: src/menu_events.cpp:2052
 msgid "Invalid unit type"
 msgstr "অবৈধ ইউনিট প্রকার"
 
-#: src/menu_events.cpp:2056
+#: src/menu_events.cpp:2059
 msgid "Invalid location"
 msgstr "অবৈধ অবস্থান"
 
-#: src/menu_events.cpp:2131
+#: src/menu_events.cpp:2134
 msgid "prompt^Command:"
 msgstr "কমান্ড"
 
-#: src/menu_events.cpp:2157
+#: src/menu_events.cpp:2160
 msgid "prompt^Formula:"
 msgstr "ফর্মুলা"
 
-#: src/mouse_events.cpp:1307
+#: src/mouse_events.cpp:1342
 msgid ""
 "You cannot move your leader away from the keep with some planned recruits or "
 "recalls left."
@@ -7578,35 +7268,35 @@ msgstr ""
 "পরিকল্পিত নিয়োগ বা পুনরায় ডাকা বাকি থাকার কারণে আপনি আপনার দলনেতাকে দূর্গ থেকে "
 "সরাতে পারবেন না ।"
 
-#: src/mouse_events.cpp:1410
+#: src/mouse_events.cpp:1448
 msgid "No Attacks"
 msgstr "কোনো আক্রমণ নেই"
 
-#: src/mouse_events.cpp:1410
+#: src/mouse_events.cpp:1448
 msgid "This unit has no usable weapons."
 msgstr "এই ইউনিটটির কাছে কোনো ব্যবহারযোগ্য অস্ত্র নেই ।"
 
-#: src/mouse_events.cpp:1486 src/mouse_events.cpp:1502
+#: src/mouse_events.cpp:1524 src/mouse_events.cpp:1540
 msgid "Other aspects: "
 msgstr "অন্যান্য বৈশিষ্ট্য: "
 
-#: src/mouse_events.cpp:1515 src/mouse_events.cpp:1529
+#: src/mouse_events.cpp:1553 src/mouse_events.cpp:1567
 msgid "Weapon: "
 msgstr "অস্ত্র: "
 
-#: src/mouse_events.cpp:1516 src/mouse_events.cpp:1530
+#: src/mouse_events.cpp:1554 src/mouse_events.cpp:1568
 msgid "Type: "
 msgstr "প্রকৃতি: "
 
-#: src/mouse_events.cpp:1517 src/mouse_events.cpp:1531
+#: src/mouse_events.cpp:1555 src/mouse_events.cpp:1569
 msgid "Damage: "
 msgstr "ক্ষতি: "
 
-#: src/mouse_events.cpp:1518 src/mouse_events.cpp:1532
+#: src/mouse_events.cpp:1556 src/mouse_events.cpp:1570
 msgid "Attacks: "
 msgstr "আঘাতসংখ্যা: "
 
-#: src/mouse_events.cpp:1519 src/mouse_events.cpp:1533
+#: src/mouse_events.cpp:1557 src/mouse_events.cpp:1571
 msgid "Chance to hit: "
 msgstr "আঘাতের সম্ভাবনা: "
 
@@ -7643,23 +7333,33 @@ msgstr "$name নিয়ন্ত্রণ নিয়ে নিয়েছে"
 msgid "Turn changed"
 msgstr "দান পাল্টেছে"
 
-#: src/network_download_file.cpp:44
+#: src/network_download_file.cpp:50
+#, fuzzy
+#| msgid "not available."
+msgid "Download unavailable"
+msgstr "উপলব্ধ নয় ।"
+
+#: src/network_download_file.cpp:50
+msgid "Standalone file downloads are not currently supported on iOS."
+msgstr ""
+
+#: src/network_download_file.cpp:55
 msgid "Confirm overwrite"
 msgstr "পুনর্লিখন নিশ্চিত করুন"
 
-#: src/network_download_file.cpp:44
+#: src/network_download_file.cpp:55
 msgid "Overwrite existing file?"
 msgstr "আগে থেকে থাকা ফাইল পাল্টাবেন?"
 
-#: src/network_download_file.cpp:50
+#: src/network_download_file.cpp:61
 msgid "Download complete"
 msgstr "ডাউনলোড সম্পূর্ণ"
 
-#: src/network_download_file.cpp:50
+#: src/network_download_file.cpp:61
 msgid "The file has been downloaded."
 msgstr "ফাইলটি ডাউনলোড করা হয়ে গিয়েছে ।"
 
-#: src/network_download_file.cpp:52
+#: src/network_download_file.cpp:63
 msgid ""
 "An error occurred when downloading the file. Check the game logs for more "
 "information."
@@ -7667,7 +7367,7 @@ msgstr ""
 "ফাইলটি ডাউনলোড করার সময় কোনো ত্রুটি হয়েছে । অতিরিক্ত তথ্যের জন্য খেলার লগগুলি দেখুন "
 "।"
 
-#: src/network_download_file.cpp:52
+#: src/network_download_file.cpp:63
 msgid "Download error"
 msgstr "ডাউনলোডে ত্রুটি"
 
@@ -7690,12 +7390,12 @@ msgstr "বর্তমান দানের জন্য সময় বাক�
 msgid "current local time"
 msgstr "বর্তমান স্থানীয় সময়"
 
-#: src/play_controller.cpp:603
+#: src/play_controller.cpp:608
 msgid "Trying to create a corrupt file, please report this bug"
 msgstr ""
 "কারাপ্ট ফাইল তৈরী করার চেষ্টা করা হচ্ছে, অনুগ্রহ করে এই ত্রুটিটির সম্পর্কে জানান ।"
 
-#: src/play_controller.cpp:1061
+#: src/play_controller.cpp:1066
 msgid ""
 "The game is out of sync. It might not make much sense to continue. Do you "
 "want to save your game?"
@@ -7703,17 +7403,17 @@ msgstr ""
 "গেমটি সিঙ্কের বাইরে। এটা চালিয়ে যাওয়া অর্থহীন হতে পারে। আপনি আপনার খেলাটি সঞ্চয় "
 "করতে চান?"
 
-#: src/play_controller.cpp:1062
+#: src/play_controller.cpp:1067
 msgid "Error details:"
 msgstr "ত্রুটির বিস্তারিত বিবরণ:"
 
-#: src/play_controller.cpp:1242
+#: src/play_controller.cpp:1247
 msgid "Warning: broken campaign branches"
 msgstr "সতর্কবার্তা: ঘটনাক্রমের শাখাগুলি ত্রুটিপূর্ণ"
 
 #. TRANSLATORS: This is an error that will hopefully only be seen by UMC authors and by players who have already
 #. said "okay" to a "loading saves from an old version might not work" dialog.
-#: src/play_controller.cpp:1248
+#: src/play_controller.cpp:1253
 msgid ""
 "The next scenario is missing, you will not be able to finish this campaign."
 msgid_plural ""
@@ -7722,7 +7422,7 @@ msgid_plural ""
 msgstr[0] "পরবর্তী ঘটনাক্রমটি নেই, আপনি এই অভিযানটি শেষ করতে পারবেন না ।"
 msgstr[1] "পরবর্তী ঘটনাক্রমগুলি নেই, আপনি এই অভিযানটি শেষ করতে পারবেন না ।"
 
-#: src/play_controller.cpp:1255
+#: src/play_controller.cpp:1260
 msgid ""
 "Please report the following missing scenario to the campaign’s author:\n"
 "$unknown_list|"
@@ -7736,11 +7436,11 @@ msgstr[1] ""
 "অনুগ্রহ করে এই অভিযানের লেখককে পরবর্তী অজানা ঘটনাক্রমগুলির সম্পর্কে জানান:\n"
 "$unknown_list|"
 
-#: src/play_controller.cpp:1259
+#: src/play_controller.cpp:1264
 msgid "Once this is fixed, you will need to restart this scenario."
 msgstr "এটি ঠিক হয়ে গেলে, আপনাকে ঘটনাক্রমটি পুনরায় শুরু করতে হবে ।"
 
-#: src/play_controller.cpp:1338
+#: src/play_controller.cpp:1343
 msgid "No objectives available"
 msgstr "কোনো উদ্দেশ্য নেই"
 
@@ -7816,8 +7516,8 @@ msgid ""
 "what this message means, then most likely someone is cheating or someone "
 "reloaded a corrupt game."
 msgstr ""
-"এই মাল্টিপ্লেয়ার খেলাটি একটি অন্য ইতস্তত সংখ্যায়ণ ব্যবহার করছে, যদি আপনি না জানেন এই "
-"বার্তার অর্থ কী, তাহলে কেউ অসৎ উপায় অবলম্বন করছে বা কারাপ্ট খেলা খুলেছে ।"
+"এই মাল্টিপ্লেয়ার খেলাটি একটি অন্য ইতস্তত সংখ্যায়ণ ব্যবহার করছে, যদি আপনি না জানেন "
+"এই বার্তার অর্থ কী, তাহলে কেউ অসৎ উপায় অবলম্বন করছে বা কারাপ্ট খেলা খুলেছে ।"
 
 #: src/playsingle_controller.cpp:384
 msgid "The game is over."
@@ -8074,7 +7774,7 @@ msgid "Damage versus:"
 msgstr "বনাম ক্ষতি:"
 
 #: src/reports.cpp:1002
-#| msgid_plural "$number attacks used"
+#, fuzzy
 msgid "uses $num attack"
 msgid_plural "uses $num attacks"
 msgstr[0] "$number-টি আক্রমণ ব্যবহৃত"
@@ -8499,15 +8199,15 @@ msgstr "Y"
 msgid "infix_binary^i"
 msgstr "i"
 
-#: src/synced_commands.cpp:382
+#: src/synced_commands.cpp:390
 msgid "(unknown player)"
 msgstr "(অজানা খেলোয়াড়)"
 
-#: src/synced_commands.cpp:387
+#: src/synced_commands.cpp:395
 msgid "The :$command debug command was used during $player’s turn"
 msgstr ":$command-টি $player-এর দানে ব্যবহার করা হয়েছে"
 
-#: src/synced_commands.cpp:395
+#: src/synced_commands.cpp:403
 msgid ""
 "A player used a debug command during the game. If this is unexpected, it is "
 "possible the player in question is cheating."
@@ -8515,19 +8215,19 @@ msgstr ""
 "একজন খেলোয়াড় খেলার মধ্যে ডিবাগ কমান্ড ব্যবহার করেছে । এটা যদি অপ্রত্যাশিত হয়, "
 "তাহলেএটা সম্ভব যে সেই খেলোয়াড় প্রতারণা করছে ।"
 
-#: src/synced_commands.cpp:397
+#: src/synced_commands.cpp:405
 msgid "Details:"
 msgstr "বিস্তারিত তথ্য:"
 
-#: src/synced_commands.cpp:400
+#: src/synced_commands.cpp:408
 msgid "Do you wish to save the game before continuing?"
 msgstr "আপনি কি এগিয়ে যাওয়ার আগে খেলাটি সঞ্চিত করতে চান?"
 
-#: src/synced_commands.cpp:402
+#: src/synced_commands.cpp:410
 msgid "Debug Command Used"
 msgstr "ডিবাগ কমান্ড ব্যবহার করা হয়েছে"
 
-#: src/synced_commands.cpp:508
+#: src/synced_commands.cpp:516
 msgid "A unit was created using debug mode during $player’s turn"
 msgstr "$player-এর দানে ডিবাগ মোড ব্যবহার করে একটি ইউনিট সৃষ্টি করা হয়েছে"
 
@@ -8546,7 +8246,7 @@ msgstr "ইনপুট"
 
 #. TRANSLATORS: $color_id is the internal identifier of a side color, for example, 'lightred'.
 #. Translate the quotation marks only; leave "color_id" untranslated, as it's a variable name.
-#: src/team.cpp:989
+#: src/team.cpp:994
 msgid "“$color_id”"
 msgstr "“$color_id”"
 
@@ -8578,21 +8278,21 @@ msgstr "ফাঁকা দিনের সময়"
 msgid "This Time of Day is only a Stub!"
 msgstr "দিনের এই সময়টি ফাঁকা"
 
-#: src/units/abilities.cpp:1140
+#: src/units/abilities.cpp:1227
 msgid "Owned: "
 msgstr "নিয়ন্ত্রিত: "
 
 #. TRANSLATORS: Past-participle of "teach", used for an ability similar to leadership
-#: src/units/abilities.cpp:1142
+#: src/units/abilities.cpp:1229
 msgid "Taught: "
 msgstr "জানা: "
 
 #. TRANSLATORS: Past-participle of "teach", used for an ability similar to leadership
-#: src/units/abilities.cpp:1144
+#: src/units/abilities.cpp:1231
 msgid "Taught: (by an enemy): "
 msgstr "জানা: (শত্রুর দ্বারা): "
 
-#: src/units/abilities.cpp:1145
+#: src/units/abilities.cpp:1232
 msgid "Used by opponent: "
 msgstr "প্রতিপক্ষের দ্বারা ব্যবহৃত: "
 
@@ -8763,48 +8463,48 @@ msgstr "মধ্যবর্তী"
 msgid "This unit cannot be dismissed."
 msgstr "এই ইউনিটটি বরখাস্ত করা যাবে না ।"
 
-#: src/units/unit.cpp:752
+#: src/units/unit.cpp:762
 msgid "This unit is a leader and cannot be dismissed."
 msgstr "এই ইউনিটটি একটি দলের নেতা এবং একে বরখাস্ত করা যাবে না ।"
 
-#: src/units/unit.cpp:2008
+#: src/units/unit.cpp:2018
 msgid "$attack_list|: $effect_description"
 msgstr "$attack_list|: $effect_description"
 
-#: src/units/unit.cpp:2014
+#: src/units/unit.cpp:2024
 msgid "<span color=\"$color\">$number_or_percent</span> HP"
 msgstr "<span color=\"$color\">$number_or_percent</span> জীবন"
 
-#: src/units/unit.cpp:2024
+#: src/units/unit.cpp:2034
 msgid "<span color=\"$color\">$number_or_percent</span> move"
 msgid_plural "<span color=\"$color\">$number_or_percent</span> moves"
 msgstr[0] "<span color=\"$color\">$number_or_percent</span> দান"
 msgstr[1] "<span color=\"$color\">$number_or_percent</span> দান"
 
-#: src/units/unit.cpp:2030
+#: src/units/unit.cpp:2040
 msgid "<span color=\"$color\">$number_or_percent</span> vision"
 msgstr "<span color=\"$color\">$number_or_percent</span> দৃষ্টি"
 
-#: src/units/unit.cpp:2034
+#: src/units/unit.cpp:2044
 msgid "<span color=\"$color\">$number_or_percent</span> jamming"
 msgstr "<span color=\"$color\">$number_or_percent</span> জ্যামিং"
 
-#: src/units/unit.cpp:2039
+#: src/units/unit.cpp:2049
 msgid "<span color=\"$color\">$number_or_percent</span> XP to advance"
 msgstr "উন্নয়ণের জন্য অভিজ্ঞতা <span color=\"$color\">$number_or_percent</span>"
 
-#: src/units/unit.cpp:2043
+#: src/units/unit.cpp:2053
 msgid "<span color=\"$color\">$number_or_percent</span> attack per turn"
 msgid_plural ""
 "<span color=\"$color\">$number_or_percent</span> attacks per turn"
 msgstr[0] "দান প্রতি <span color=\"$color\">$number_or_percent</span> আক্রমণ"
 msgstr[1] "দান প্রতি <span color=\"$color\">$number_or_percent</span>-টি আক্রমণ"
 
-#: src/units/unit.cpp:2050
+#: src/units/unit.cpp:2060
 msgid "<span color=\"$color\">$number_or_percent</span> cost to recall"
 msgstr "পুনরায় ডাকার মূল্য <span color=\"$color\">$number_or_percent</span>"
 
-#: src/units/unit.cpp:2556
+#: src/units/unit.cpp:2566
 msgid "$effect_description per level"
 msgstr "পর্যায় প্রতি $effect_description"
 
@@ -8828,7 +8528,7 @@ msgstr "$year ধ.পূ."
 msgid "$year AF"
 msgstr "$year ধ.অব্দ"
 
-#: src/wesnoth.cpp:811
+#: src/wesnoth.cpp:808
 msgid ""
 "Unable to create log files in directory $logdir. This is often caused by "
 "incorrect folder permissions, anti-virus software restricting folder access, "
@@ -8838,7 +8538,7 @@ msgstr ""
 "করা,অ্যান্টি-ভাইরাস ফোল্ডার ব্যবহারে বাধা দেওয়া, বা ওয়ানড্রাইভের মাধ্যমে মাই "
 "ডকুমেন্টস ফোল্ডার ব্যবস্থপনাকরার জন্য এটি হয়ে থাকে ।"
 
-#: src/wesnoth.cpp:812
+#: src/wesnoth.cpp:809
 msgid "Logging Failure"
 msgstr "লগকালীন ত্রুটি"
 
@@ -8865,6 +8565,12 @@ msgstr "$player-এর জন্য পরিকল্পনা লুকোন"
 #: src/whiteboard/manager.cpp:1140
 msgid "Whiteboard Options"
 msgstr "হোয়াইটবোর্ড অপশনগুলি"
+
+#~ msgid "Customize orb colors"
+#~ msgstr "গোলকের রঙ পছন্দ করুন"
+
+#~ msgid "Customize Reach Map (Unit Movement UI)"
+#~ msgstr "রিচম্যাপ (ইউনিট সরানোর ইউআই) সাজান"
 
 #, fuzzy
 #~| msgid "Bare Branch"
