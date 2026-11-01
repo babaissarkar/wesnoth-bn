@@ -37,12 +37,16 @@ jobs:
 
       - name: Compile Bengali PO files
         run: |
-          find . -type f -name 'bn.po' -exec sh -c '
-            for f do
-              echo "Checking $f"
-              msgfmt --check --check-format -o /dev/null "$f"
-            done
-          ' sh {} +
+          status=0
+          while IFS= read -r -d '' f; do
+            echo "Checking $f"
+            out=$(msgfmt --check --check-format -o /dev/null "$f" 2>&1) || status=1
+            if [ -n "$out" ]; then
+              echo "$out"
+              status=1
+            fi
+          done < <(find . -type f -name 'bn.po' -print0)
+          exit $status
 
       - name: Check translated newlines
         run: |
